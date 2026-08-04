@@ -1,0 +1,2368 @@
+[
+  {
+    "name": "Mousse al Cioccolato HIGH PROTEIN",
+    "brand": "MD",
+    "kcal100": 74,
+    "fat100": 1.5,
+    "carbs100": 4.5,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/mousse-al-cioccolato-high-protein",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto Alta Qualità",
+    "brand": "MD",
+    "kcal100": 156,
+    "fat100": 8,
+    "carbs100": 1,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/prosciutto-cotto-alta-qualità",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente Extra 90%",
+    "brand": "MD",
+    "kcal100": 607,
+    "fat100": 53,
+    "carbs100": 13,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cioccolato-fondente-extra-90",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco",
+    "brand": "MD",
+    "kcal100": 58,
+    "fat100": 0,
+    "carbs100": 4.5,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/yogurt-greco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Basmati Cotto al Vapore",
+    "brand": "MD",
+    "kcal100": 149,
+    "fat100": 2.3,
+    "carbs100": 29,
+    "protein100": 2.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-basmati-cotto-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta",
+    "brand": "MD",
+    "kcal100": 97,
+    "fat100": 6,
+    "carbs100": 3.7,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/ricotta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Brioche",
+    "brand": "MD",
+    "kcal100": 330,
+    "fat100": 10,
+    "carbs100": 51,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pan-brioche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Baguette",
+    "brand": "MD",
+    "kcal100": 248,
+    "fat100": 1,
+    "carbs100": 50,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/baguette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci Surgelati a Cubetti",
+    "brand": "MD",
+    "kcal100": 25,
+    "fat100": 0.5,
+    "carbs100": 0.5,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/spinaci-surgelati-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Integrali Bio",
+    "brand": "MD",
+    "kcal100": 398,
+    "fat100": 5.8,
+    "carbs100": 69,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fette-biscottate-integrali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Nero Cotto Al Vapore",
+    "brand": "MD",
+    "kcal100": 157,
+    "fat100": 3.4,
+    "carbs100": 26,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-nero-cotto-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciokonut",
+    "brand": "MD",
+    "kcal100": 525,
+    "fat100": 28.4,
+    "carbs100": 60.7,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/ciokonut",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Avena",
+    "brand": "MD",
+    "kcal100": 360,
+    "fat100": 7,
+    "carbs100": 57,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fiocchi-di-avena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Integrale",
+    "brand": "MD",
+    "kcal100": 382,
+    "fat100": 1.7,
+    "carbs100": 75,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pasta-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Alette di Pollo",
+    "brand": "MD",
+    "kcal100": 179,
+    "fat100": 10,
+    "carbs100": 2,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/alette-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack con Legumi",
+    "brand": "MD",
+    "kcal100": 422,
+    "fat100": 10.5,
+    "carbs100": 64.8,
+    "protein100": 13.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/snack-con-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack di Riso Bio con Farcitura di Cioccolato alla Nocciola",
+    "brand": "MD",
+    "kcal100": 453,
+    "fat100": 15.2,
+    "carbs100": 72.2,
+    "protein100": 6.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/snack-di-riso-bio-con-farcitura-di-cioccolato-alla-nocciola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli Integrali Bio",
+    "brand": "MD",
+    "kcal100": 382,
+    "fat100": 1.7,
+    "carbs100": 75,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fusilli-integrali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio a Pasta Filata",
+    "brand": "MD",
+    "kcal100": 325,
+    "fat100": 25,
+    "carbs100": 0.7,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/formaggio-a-pasta-filata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta Proteica Arachidi e Caramello Salato",
+    "brand": "MD",
+    "kcal100": 509.1,
+    "fat100": 30,
+    "carbs100": 26.06,
+    "protein100": 27.88,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/barretta-proteica-arachidi-e-caramello-salato/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Selvaggio",
+    "brand": "MD",
+    "kcal100": 94,
+    "fat100": 1.4,
+    "carbs100": 0.8,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/salmone-selvaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Edamer",
+    "brand": "MD",
+    "kcal100": 314,
+    "fat100": 23,
+    "carbs100": 0.5,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/formaggio-edamer",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Pollo e Tacchino",
+    "brand": "MD",
+    "kcal100": 109,
+    "fat100": 3.7,
+    "carbs100": 0.8,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/hamburger-pollo-e-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Focacciotto",
+    "brand": "MD",
+    "kcal100": 244,
+    "fat100": 1.6,
+    "carbs100": 47,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/focacciotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Latte",
+    "brand": "MD",
+    "kcal100": 91,
+    "fat100": 4.5,
+    "carbs100": 2.8,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fiocchi-di-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Corn Flakes Bio",
+    "brand": "MD",
+    "kcal100": 371,
+    "fat100": 1,
+    "carbs100": 81,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/corn-flakes-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Riso",
+    "brand": "MD",
+    "kcal100": 171,
+    "fat100": 8.5,
+    "carbs100": 19.2,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insalata-di-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bacon",
+    "brand": "MD",
+    "kcal100": 308,
+    "fat100": 28,
+    "carbs100": 0,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/bacon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno al Naturale",
+    "brand": "MD",
+    "kcal100": 122,
+    "fat100": 2,
+    "carbs100": 0,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/tonno-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Bovino Adulto",
+    "brand": "MD",
+    "kcal100": 189,
+    "fat100": 13,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/hamburger-di-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais e Riso con Chia, Semi di Lino e Quinoa",
+    "brand": "MD",
+    "kcal100": 386,
+    "fat100": 2.3,
+    "carbs100": 81.8,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/gallette-di-mais-e-riso-con-chia-semi-di-lino-e-quinoa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noce di Bovino Adulto",
+    "brand": "MD",
+    "kcal100": 106,
+    "fat100": 2.3,
+    "carbs100": 0,
+    "protein100": 21.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/noce-di-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane di Grano Duro",
+    "brand": "MD",
+    "kcal100": 252,
+    "fat100": 4,
+    "carbs100": 44,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pane-di-grano-duro/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fesa di Tacchino",
+    "brand": "MD",
+    "kcal100": 102,
+    "fat100": 1.8,
+    "carbs100": 2.2,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fesa-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane tipo Integrale",
+    "brand": "MD",
+    "kcal100": 260,
+    "fat100": 1.9,
+    "carbs100": 48,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pane-tipo-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Soffiato",
+    "brand": "MD",
+    "kcal100": 381,
+    "fat100": 1.1,
+    "carbs100": 85,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-soffiato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella Reggia",
+    "brand": "MD",
+    "kcal100": 245,
+    "fat100": 18.5,
+    "carbs100": 1.5,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/mozzarella-reggia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Sgusciate",
+    "brand": "MD",
+    "kcal100": 610,
+    "fat100": 52.7,
+    "carbs100": 2.2,
+    "protein100": 25.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/mandorle-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Soffiato Biologico",
+    "brand": "MD",
+    "kcal100": 379,
+    "fat100": 1.1,
+    "carbs100": 85,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-soffiato-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais e Grano Saraceno",
+    "brand": "MD",
+    "kcal100": 382,
+    "fat100": 3.4,
+    "carbs100": 73,
+    "protein100": 11.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/gallette-di-mais-e-grano-saraceno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Pasta",
+    "brand": "MD",
+    "kcal100": 169,
+    "fat100": 7.7,
+    "carbs100": 19,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insalata-di-pasta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Valeriana",
+    "brand": "MD",
+    "kcal100": 38,
+    "fat100": 0.7,
+    "carbs100": 2.7,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/valeriana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Jamon Serrano",
+    "brand": "MD",
+    "kcal100": 248,
+    "fat100": 12.2,
+    "carbs100": 1,
+    "protein100": 33.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/jamon-serrano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Anacardi Salati",
+    "brand": "MD",
+    "kcal100": 606,
+    "fat100": 49.1,
+    "carbs100": 17.5,
+    "protein100": 20.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/anacardi-salati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancakes",
+    "brand": "MD",
+    "kcal100": 284,
+    "fat100": 8.7,
+    "carbs100": 45,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pancakes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polmone Di Vitello",
+    "brand": "MD",
+    "kcal100": 75,
+    "fat100": 2.1,
+    "carbs100": 0,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/polmone-di-vitello",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Alici Panate",
+    "brand": "MD",
+    "kcal100": 252,
+    "fat100": 12,
+    "carbs100": 24,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/alici-panate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Tacchino",
+    "brand": "MD",
+    "kcal100": 89,
+    "fat100": 1.8,
+    "carbs100": 3.3,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/arrosto-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Peperoni al Gratin",
+    "brand": "MD",
+    "kcal100": 186,
+    "fat100": 17.08,
+    "carbs100": 7.52,
+    "protein100": 1.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/peperoni-al-gratin",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zucchero Semolato",
+    "brand": "MD",
+    "kcal100": 400,
+    "fat100": 0,
+    "carbs100": 100,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/zucchero-semolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais Bio",
+    "brand": "MD",
+    "kcal100": 393,
+    "fat100": 1.2,
+    "carbs100": 86.6,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/gallette-di-mais-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Pronto ai Frutti di Mare",
+    "brand": "MD",
+    "kcal100": 122,
+    "fat100": 9.2,
+    "carbs100": 2.7,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/sugo-pronto-ai-frutti-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella senza Lattosio",
+    "brand": "MD",
+    "kcal100": 274,
+    "fat100": 22,
+    "carbs100": 1,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/mozzarella-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Filetto di Merluzzo",
+    "brand": "MD",
+    "kcal100": 75,
+    "fat100": 1.3,
+    "carbs100": 0.8,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cuori-di-filetto-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uovo di Cioccolato al Latte",
+    "brand": "MD",
+    "kcal100": 540,
+    "fat100": 31.2,
+    "carbs100": 56.9,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/uovo-di-cioccolato-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trancio di Pesce Spada Decongelato",
+    "brand": "MD",
+    "kcal100": 72,
+    "fat100": 0.9,
+    "carbs100": 1,
+    "protein100": 15.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/trancio-di-pesce-spada-decongelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Romagnola Igp alla Riminese",
+    "brand": "MD",
+    "kcal100": 276,
+    "fat100": 3.9,
+    "carbs100": 52,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/piadina-romagnola-igp-alla-riminese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto alla Genovese",
+    "brand": "MD",
+    "kcal100": 375,
+    "fat100": 37.4,
+    "carbs100": 2.5,
+    "protein100": 6.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pesto-alla-genovese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Norvegese Affumicato",
+    "brand": "MD",
+    "kcal100": 171,
+    "fat100": 9.5,
+    "carbs100": 0.3,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/salmone-norvegese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente 85%",
+    "brand": "MD",
+    "kcal100": 599,
+    "fat100": 50,
+    "carbs100": 18,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cioccolato-fondente-85",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Fontal",
+    "brand": "MD",
+    "kcal100": 334,
+    "fat100": 26,
+    "carbs100": 0,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/formaggio-fontal",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola la Fattoria",
+    "brand": "MD",
+    "kcal100": 162,
+    "fat100": 4,
+    "carbs100": 0.5,
+    "protein100": 31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/bresaola-la-fattoria",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Gouda",
+    "brand": "MD",
+    "kcal100": 366,
+    "fat100": 30,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/formaggio-gouda",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti",
+    "brand": "MD",
+    "kcal100": 360,
+    "fat100": 1,
+    "carbs100": 75,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/spaghetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grissino Rustico Bio",
+    "brand": "MD",
+    "kcal100": 455,
+    "fat100": 16.4,
+    "carbs100": 60.5,
+    "protein100": 14.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/grissino-rustico-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Venere con Verdure",
+    "brand": "MD",
+    "kcal100": 152,
+    "fat100": 10.4,
+    "carbs100": 12.8,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-venere-con-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lonza Panata",
+    "brand": "MD",
+    "kcal100": 157,
+    "fat100": 5.9,
+    "carbs100": 7.9,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/lonza-panata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata di Arancia Amara Bio",
+    "brand": "MD",
+    "kcal100": 59,
+    "fat100": 0.11,
+    "carbs100": 18,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/marmellata-di-arancia-amara-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta Proteica",
+    "brand": "MD",
+    "kcal100": 420,
+    "fat100": 16,
+    "carbs100": 34,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/barretta-proteica/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers",
+    "brand": "MD",
+    "kcal100": 435,
+    "fat100": 12,
+    "carbs100": 69,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/crackers",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carpaccio di Bresaola",
+    "brand": "MD",
+    "kcal100": 130,
+    "fat100": 2.2,
+    "carbs100": 0.5,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/carpaccio-di-bresaola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti Integrali Bio",
+    "brand": "MD",
+    "kcal100": 382,
+    "fat100": 1.7,
+    "carbs100": 75,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/spaghetti-integrali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Boost Energy Drink",
+    "brand": "MD",
+    "kcal100": 45,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/boost-energy-drink",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti ai Cereali con Frutta",
+    "brand": "MD",
+    "kcal100": 462,
+    "fat100": 17,
+    "carbs100": 66,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/biscotti-ai-cereali-con-frutta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Pollo",
+    "brand": "MD",
+    "kcal100": 91,
+    "fat100": 1.9,
+    "carbs100": 2.5,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/arrosto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais e Riso",
+    "brand": "MD",
+    "kcal100": 387,
+    "fat100": 2.4,
+    "carbs100": 80.4,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/gallette-di-mais-e-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata Bio Albicocca",
+    "brand": "MD",
+    "kcal100": 156,
+    "fat100": 0,
+    "carbs100": 40,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/marmellata-bio-albicocca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Super Basmati",
+    "brand": "MD",
+    "kcal100": 353,
+    "fat100": 0.8,
+    "carbs100": 78,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-super-basmati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Rigate Integrali Bio",
+    "brand": "MD",
+    "kcal100": 383,
+    "fat100": 1.7,
+    "carbs100": 75,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/penne-rigate-integrali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Duro Italiano",
+    "brand": "MD",
+    "kcal100": 390,
+    "fat100": 30,
+    "carbs100": 0,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/formaggio-duro-italiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Merluzzo Sudafricano senza Pelle",
+    "brand": "MD",
+    "kcal100": 82,
+    "fat100": 1.1,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/filetti-di-merluzzo-sudafricano-senza-pelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Burger Vegetali con Carote e Ceci",
+    "brand": "MD",
+    "kcal100": 255,
+    "fat100": 11,
+    "carbs100": 22,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/mini-burger-vegetali-con-carote-e-ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nuggets di Pollo",
+    "brand": "MD",
+    "kcal100": 215,
+    "fat100": 11,
+    "carbs100": 14,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/nuggets-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone 16 Verdure Surgelato",
+    "brand": "MD",
+    "kcal100": 56,
+    "fat100": 0.3,
+    "carbs100": 9.6,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/minestrone-16-verdure-surgelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Margherita",
+    "brand": "MD",
+    "kcal100": 257,
+    "fat100": 6.4,
+    "carbs100": 37,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pizza-margherita",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Farro Bio",
+    "brand": "MD",
+    "kcal100": 381,
+    "fat100": 2.2,
+    "carbs100": 75,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/gallette-di-farro-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pomodorini Marzanini",
+    "brand": "MD",
+    "kcal100": 24,
+    "fat100": 0.1,
+    "carbs100": 4.4,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pomodorini-marzanini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli",
+    "brand": "MD",
+    "kcal100": 332,
+    "fat100": 2.8,
+    "carbs100": 64,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/muesli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Croccanti Segale e Sesamo",
+    "brand": "MD",
+    "kcal100": 372,
+    "fat100": 6.2,
+    "carbs100": 61.1,
+    "protein100": 10.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fette-croccanti-segale-e-sesamo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ritagli di Salmone Scozzese Affumicato",
+    "brand": "MD",
+    "kcal100": 161,
+    "fat100": 8.4,
+    "carbs100": 0,
+    "protein100": 21.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/ritagli-di-salmone-scozzese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cous Cous",
+    "brand": "MD",
+    "kcal100": 240,
+    "fat100": 15,
+    "carbs100": 23,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cous-cous",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croccantoso all'amarena",
+    "brand": "MD",
+    "kcal100": 296.7,
+    "fat100": 16.67,
+    "carbs100": 33,
+    "protein100": 3.17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/croccantoso-allamarena/1-gelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti Bio",
+    "brand": "MD",
+    "kcal100": 84,
+    "fat100": 0.9,
+    "carbs100": 9.8,
+    "protein100": 5.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fagioli-borlotti-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti ai Cereali con Cioccolato Extra Dark",
+    "brand": "MD",
+    "kcal100": 467,
+    "fat100": 19,
+    "carbs100": 62,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/biscotti-ai-cereali-con-cioccolato-extra-dark",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Senza Lattosio",
+    "brand": "MD",
+    "kcal100": 134,
+    "fat100": 9,
+    "carbs100": 3.2,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/ricotta-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini di Mozzarella",
+    "brand": "MD",
+    "kcal100": 208,
+    "fat100": 14,
+    "carbs100": 2.5,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/bocconcini-di-mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortiglioni",
+    "brand": "MD",
+    "kcal100": 359,
+    "fat100": 2,
+    "carbs100": 71.2,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/tortiglioni",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "la Pinsa",
+    "brand": "MD",
+    "kcal100": 269,
+    "fat100": 5.3,
+    "carbs100": 46,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/la-pinsa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta",
+    "brand": "MD",
+    "kcal100": 362,
+    "fat100": 1.5,
+    "carbs100": 73,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pasta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Mista",
+    "brand": "MD",
+    "kcal100": 19,
+    "fat100": 0.5,
+    "carbs100": 1.8,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insalata-mista",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix di Cavoli Gustosi",
+    "brand": "MD",
+    "kcal100": 31,
+    "fat100": 0.4,
+    "carbs100": 2.2,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/mix-di-cavoli-gustosi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente",
+    "brand": "MD",
+    "kcal100": 510,
+    "fat100": 29.4,
+    "carbs100": 50.7,
+    "protein100": 6.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cioccolato-fondente",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Merluzzo",
+    "brand": "MD",
+    "kcal100": 181,
+    "fat100": 7.8,
+    "carbs100": 14.8,
+    "protein100": 12.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/bastoncini-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Rosso Cotto al Vapore",
+    "brand": "MD",
+    "kcal100": 152,
+    "fat100": 2.1,
+    "carbs100": 29,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-rosso-cotto-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotto Frollino Integrale Bio",
+    "brand": "MD",
+    "kcal100": 453,
+    "fat100": 16,
+    "carbs100": 66,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/biscotto-frollino-integrale-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli",
+    "brand": "MD",
+    "kcal100": 360,
+    "fat100": 1,
+    "carbs100": 75,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fusilli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Bio",
+    "brand": "MD",
+    "kcal100": 83,
+    "fat100": 0.4,
+    "carbs100": 8.5,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/piselli-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bio Fette Croccanti con Segale e Sesamo",
+    "brand": "MD",
+    "kcal100": 372,
+    "fat100": 6.3,
+    "carbs100": 60.8,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/bio-fette-croccanti-con-segale-e-sesamo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crocchiarelle Gusto Bacon",
+    "brand": "MD",
+    "kcal100": 422.9,
+    "fat100": 12,
+    "carbs100": 65.71,
+    "protein100": 11.14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/crocchiarelle-gusto-bacon/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lonzino",
+    "brand": "MD",
+    "kcal100": 231,
+    "fat100": 7,
+    "carbs100": 0.1,
+    "protein100": 37,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/lonzino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini",
+    "brand": "MD",
+    "kcal100": 100,
+    "fat100": 0.7,
+    "carbs100": 13.8,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fagioli-cannellini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato al Latte Proteico",
+    "brand": "MD",
+    "kcal100": 594,
+    "fat100": 34,
+    "carbs100": 30,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cioccolato-al-latte-proteico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insaccato Cotto di Pollo e Tacchino",
+    "brand": "MD",
+    "kcal100": 190,
+    "fat100": 14,
+    "carbs100": 4,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insaccato-cotto-di-pollo-e-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bon Bon Vaniglia",
+    "brand": "MD",
+    "kcal100": 297,
+    "fat100": 20,
+    "carbs100": 26,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/bon-bon-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nuggets di Filetto di Merluzzo D’Alaska",
+    "brand": "MD",
+    "kcal100": 213,
+    "fat100": 9.6,
+    "carbs100": 20,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/nuggets-di-filetto-di-merluzzo-d’alaska",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Cremoso Biologico Intero Naturale",
+    "brand": "MD",
+    "kcal100": 71,
+    "fat100": 4,
+    "carbs100": 4.6,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/yogurt-cremoso-biologico-intero-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Finissimi Surgelati",
+    "brand": "MD",
+    "kcal100": 66,
+    "fat100": 0.6,
+    "carbs100": 6.5,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/piselli-finissimi-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cous Cous di Grano",
+    "brand": "MD",
+    "kcal100": 352,
+    "fat100": 1.5,
+    "carbs100": 72,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cous-cous-di-grano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema Cacao e Nocciole Bio",
+    "brand": "MD",
+    "kcal100": 523,
+    "fat100": 28,
+    "carbs100": 58,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/crema-cacao-e-nocciole-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette Mais e Riso Bio",
+    "brand": "MD",
+    "kcal100": 390,
+    "fat100": 2.4,
+    "carbs100": 83.5,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/gallette-mais-e-riso-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Scottona",
+    "brand": "MD",
+    "kcal100": 155,
+    "fat100": 8.2,
+    "carbs100": 2.6,
+    "protein100": 17.72,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/hamburger-di-scottona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollino al Farro Integrale",
+    "brand": "MD",
+    "kcal100": 438,
+    "fat100": 14,
+    "carbs100": 67,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/frollino-al-farro-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalatina",
+    "brand": "MD",
+    "kcal100": 17,
+    "fat100": 0.1,
+    "carbs100": 2.2,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insalatina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gran Stecco Mandorlato",
+    "brand": "MD",
+    "kcal100": 310,
+    "fat100": 18,
+    "carbs100": 32,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/gran-stecco-mandorlato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciole Sgusciate",
+    "brand": "MD",
+    "kcal100": 635,
+    "fat100": 57.5,
+    "carbs100": 8.7,
+    "protein100": 15.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/nocciole-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Speck",
+    "brand": "MD",
+    "kcal100": 314,
+    "fat100": 24,
+    "carbs100": 0.3,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/speck",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciabatte senza Glutine",
+    "brand": "MD",
+    "kcal100": 322,
+    "fat100": 7,
+    "carbs100": 61.5,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/ciabatte-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotoletta Soia Frumento",
+    "brand": "MD",
+    "kcal100": 177,
+    "fat100": 4.1,
+    "carbs100": 16.6,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cotoletta-soia-frumento",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortellini alla Carne",
+    "brand": "MD",
+    "kcal100": 322,
+    "fat100": 7.1,
+    "carbs100": 52,
+    "protein100": 11.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/tortellini-alla-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Integrale e Selvaggio",
+    "brand": "MD",
+    "kcal100": 159,
+    "fat100": 2.9,
+    "carbs100": 29.4,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-integrale-e-selvaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Mare",
+    "brand": "MD",
+    "kcal100": 244,
+    "fat100": 10.53,
+    "carbs100": 29.33,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cotolette-di-mare/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Orzo",
+    "brand": "MD",
+    "kcal100": 184,
+    "fat100": 9.8,
+    "carbs100": 21.7,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insalata-di-orzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Anelli di Totano",
+    "brand": "MD",
+    "kcal100": 54,
+    "fat100": 0.5,
+    "carbs100": 0.1,
+    "protein100": 12.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/anelli-di-totano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Di Chianina",
+    "brand": "MD",
+    "kcal100": 143,
+    "fat100": 7.9,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/hamburger-di-chianina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orecchiette Pugliesi",
+    "brand": "MD",
+    "kcal100": 266,
+    "fat100": 0.5,
+    "carbs100": 55,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/orecchiette-pugliesi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortilla Spagnola con Cipolla",
+    "brand": "MD",
+    "kcal100": 158,
+    "fat100": 9.2,
+    "carbs100": 13,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/tortilla-spagnola-con-cipolla",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccione Milano",
+    "brand": "MD",
+    "kcal100": 329,
+    "fat100": 25.5,
+    "carbs100": 0.3,
+    "protein100": 24.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/salsiccione-milano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mortadella Diavola",
+    "brand": "MD",
+    "kcal100": 254,
+    "fat100": 21,
+    "carbs100": 0.5,
+    "protein100": 15.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/mortadella-diavola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Norvegese Affumicato Busta Nera",
+    "brand": "MD",
+    "kcal100": 171,
+    "fat100": 9.5,
+    "carbs100": 0.3,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/salmone-norvegese-affumicato-busta-nera",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Granita al Limone",
+    "brand": "MD",
+    "kcal100": 67,
+    "fat100": 0,
+    "carbs100": 16.5,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/granita-al-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Bovino Adulto Piemontese",
+    "brand": "MD",
+    "kcal100": 123,
+    "fat100": 5,
+    "carbs100": 0.9,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/hamburger-di-bovino-adulto-piemontese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata d'orzo",
+    "brand": "MD",
+    "kcal100": 184,
+    "fat100": 9.8,
+    "carbs100": 21.7,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insalata-dorzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Cubettato",
+    "brand": "MD",
+    "kcal100": 280,
+    "fat100": 21,
+    "carbs100": 1,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/misto-cubettato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "American Sandwich Classic",
+    "brand": "MD",
+    "kcal100": 245,
+    "fat100": 3,
+    "carbs100": 48,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/american-sandwich-classic",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Surgelati",
+    "brand": "MD",
+    "kcal100": 235,
+    "fat100": 17,
+    "carbs100": 7,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/hamburger-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Originario Integrale Bio",
+    "brand": "MD",
+    "kcal100": 359,
+    "fat100": 1.9,
+    "carbs100": 77,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/riso-originario-integrale-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci Filanti Surgelati",
+    "brand": "MD",
+    "kcal100": 67,
+    "fat100": 3.4,
+    "carbs100": 4.1,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/spinaci-filanti-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioko Nut Crema Bianca",
+    "brand": "MD",
+    "kcal100": 533,
+    "fat100": 33.4,
+    "carbs100": 55.7,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cioko-nut-crema-bianca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioko Nut Bigusto",
+    "brand": "MD",
+    "kcal100": 532,
+    "fat100": 27.5,
+    "carbs100": 67,
+    "protein100": 3.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/cioko-nut-bigusto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Scozzese Affumicato",
+    "brand": "MD",
+    "kcal100": 156,
+    "fat100": 8,
+    "carbs100": 0,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/salmone-scozzese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crocchiarelle Gusto Prosciutto",
+    "brand": "MD",
+    "kcal100": 445.7,
+    "fat100": 15.14,
+    "carbs100": 65.71,
+    "protein100": 9.71,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/crocchiarelle-gusto-prosciutto/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette al Latte",
+    "brand": "MD",
+    "kcal100": 530.8,
+    "fat100": 32.31,
+    "carbs100": 50.77,
+    "protein100": 7.69,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/barrette-al-latte/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nuggets Vegetali",
+    "brand": "MD",
+    "kcal100": 241,
+    "fat100": 12,
+    "carbs100": 19,
+    "protein100": 11.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/nuggets-vegetali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pinoli",
+    "brand": "MD",
+    "kcal100": 579,
+    "fat100": 45.1,
+    "carbs100": 4.4,
+    "protein100": 36.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pinoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Imperiale",
+    "brand": "MD",
+    "kcal100": 76,
+    "fat100": 1.6,
+    "carbs100": 5.8,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insalata-imperiale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack di Riso",
+    "brand": "MD",
+    "kcal100": 453,
+    "fat100": 15.2,
+    "carbs100": 72.2,
+    "protein100": 6.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/snack-di-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccione Napoli",
+    "brand": "MD",
+    "kcal100": 396,
+    "fat100": 28.3,
+    "carbs100": 0.5,
+    "protein100": 25.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/salsiccione-napoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno All’Olio D’Oliva",
+    "brand": "MD",
+    "kcal100": 189,
+    "fat100": 8.9,
+    "carbs100": 0,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/tonno-all’olio-d’oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trancio Spalla Cotta",
+    "brand": "MD",
+    "kcal100": 109,
+    "fat100": 5.4,
+    "carbs100": 2.8,
+    "protein100": 12.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/trancio-spalla-cotta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Pronto Allo Scoglio con Pomodoro",
+    "brand": "MD",
+    "kcal100": 104,
+    "fat100": 8,
+    "carbs100": 1.9,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/sugo-pronto-allo-scoglio-con-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Mare",
+    "brand": "MD",
+    "kcal100": 65,
+    "fat100": 0,
+    "carbs100": 0.5,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/insalata-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ravioli alla Carne",
+    "brand": "MD",
+    "kcal100": 323,
+    "fat100": 9.5,
+    "carbs100": 46,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/ravioli-alla-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo ai Formaggi",
+    "brand": "MD",
+    "kcal100": 358,
+    "fat100": 32.3,
+    "carbs100": 11.2,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/sugo-ai-formaggi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sorbetto al Limone",
+    "brand": "MD",
+    "kcal100": 147,
+    "fat100": 5,
+    "carbs100": 24,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/sorbetto-al-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Colomba senza Canditi",
+    "brand": "MD",
+    "kcal100": 398,
+    "fat100": 17,
+    "carbs100": 54,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/colomba-senza-canditi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tocchetti di Asparagi",
+    "brand": "MD",
+    "kcal100": 19,
+    "fat100": 0,
+    "carbs100": 2,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/tocchetti-di-asparagi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Soft Baguette",
+    "brand": "MD",
+    "kcal100": 314,
+    "fat100": 6.8,
+    "carbs100": 53.3,
+    "protein100": 9.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/soft-baguette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tronchetto Glassato",
+    "brand": "MD",
+    "kcal100": 521,
+    "fat100": 31,
+    "carbs100": 54,
+    "protein100": 4.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/tronchetto-glassato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Bianca Salata",
+    "brand": "MD",
+    "kcal100": 266,
+    "fat100": 21.5,
+    "carbs100": 3.9,
+    "protein100": 14.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/ricotta-bianca-salata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Melanzane Alla Parmigiana",
+    "brand": "MD",
+    "kcal100": 150,
+    "fat100": 7,
+    "carbs100": 16.4,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/melanzane-alla-parmigiana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Multicereali",
+    "brand": "MD",
+    "kcal100": 352,
+    "fat100": 1.6,
+    "carbs100": 75,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pasta-multicereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Affettato di Farro Biologico",
+    "brand": "MD",
+    "kcal100": 291,
+    "fat100": 8.3,
+    "carbs100": 46,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/pane-affettato-di-farro-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Pronto alle Cozze",
+    "brand": "MD",
+    "kcal100": 102,
+    "fat100": 7.9,
+    "carbs100": 2.9,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/sugo-pronto-alle-cozze",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette Kamut Bio",
+    "brand": "MD",
+    "kcal100": 417,
+    "fat100": 11.4,
+    "carbs100": 64.8,
+    "protein100": 12.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/gallette-kamut-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema di Riso",
+    "brand": "MD",
+    "kcal100": 381,
+    "fat100": 1.1,
+    "carbs100": 84.5,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/crema-di-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliata di Petto di Pollo",
+    "brand": "MD",
+    "kcal100": 152,
+    "fat100": 3.83,
+    "carbs100": 0.1,
+    "protein100": 29.26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/tagliata-di-petto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salame Milano e Formaggio Emmental",
+    "brand": "MD",
+    "kcal100": 357,
+    "fat100": 28,
+    "carbs100": 0.5,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/salame-milano-e-formaggio-emmental",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti Multicereali Bio",
+    "brand": "MD",
+    "kcal100": 351,
+    "fat100": 1.6,
+    "carbs100": 75,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/spaghetti-multicereali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Crudo Stagionato",
+    "brand": "MD",
+    "kcal100": 253,
+    "fat100": 16,
+    "carbs100": 0,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/prosciutto-crudo-stagionato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Alpiland",
+    "brand": "MD",
+    "kcal100": 88,
+    "fat100": 31,
+    "carbs100": 12,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/alpiland",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Stregoni Delle Valli Cuneesi",
+    "brand": "MD",
+    "kcal100": 318,
+    "fat100": 1.6,
+    "carbs100": 47,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/fagioli-stregoni-delle-valli-cuneesi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Provolone Piccante",
+    "brand": "MD",
+    "kcal100": 374,
+    "fat100": 30,
+    "carbs100": 0,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/md/formaggio-provolone-piccante",
+      "license": "proprietary"
+    }
+  }
+]

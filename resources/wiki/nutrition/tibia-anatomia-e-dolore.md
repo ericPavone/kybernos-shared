@@ -1,0 +1,35 @@
+# Tibia anatomia e dolore
+
+La tibia è una delle ossa della gamba che contribuisce a comporre la struttura anatomica dell’arto inferiore. È un osso lungo che si estende tra il femore e le ossa del piede. Vista la sua localizzazione fornisce con le sue due estremità le superfici di contatto per due articolazioni distinte: il ginocchio e la caviglia.
+
+La tibia ospita l’inserzione di numerosi e importanti muscoli che determinano i movimenti del ginocchio, della caviglia e del piede. Analizziamo la morfologia della tibia nello specifico, premessa fondamentale per comprenderne l’importanza per la funzionalità di tutto dell’arto inferiore.
+
+## Tibia e perone: anatomia
+
+Prima di descriverne l’anatomia cerchiamo di capire dove si trova la tibia. La tibia è un osso che insieme al perone e al femore forma l’arto inferiore e ne fornisce il supporto al movimento. In particolare tibia e perone sono spesso citate insieme costituendo in coppia le ossa della gamba propriamente detta. La tibia è mediale e il perone è laterale. La tibia ha la principale funzione di trasferire la maggior parte del carico dal ginocchio al piede. Inoltre, fornisce le superfici articolari di due articolazioni fondamentali dell’arto inferiore come il ginocchio e la caviglia, e si presta come punto di inserzione ossea di numerosi muscoli che muovono sia il ginocchio, sia la caviglia. La tibia è quindi fondamentale durante la vita di tutti i giorni per esempio durante la camminata, la corsa, la salita di un gradino e un salto.
+
+La tibia è un osso della gamba che si compone di due estremità. L’estremità prossimale (o epifisi prossimale) è formata da una faccia articolare superiore, detta anche piatto tibiale, composta da un condilo mediale e da un condilo laterale. I due condili sono separati da una protuberanza ossea denominata eminenza intercondiloidea sede di inserzione dei menischi, del legamento crociato posteriore e del legamento crociato anteriore.
+
+Il piatto tibiale ospita i due condili femorali andando a formare l’articolazione femoro-tibiale del ginocchio, suddivisa in un compartimento mediale e in un compartimento laterale. Il condilo mediale della tibia è più largo ed è caratterizzato da una superficie articolare leggermente concava. Viceversa, il condilo laterale della tibia è caratterizzato da una superficie articolare piatta o leggermente convessa. Sulla parte inferiore del condilo laterale della tibia si trova una superficie articolare concava che ospita la testa del perone andando a formare l’articolazione tibio-peroneale prossimale.
+
+L’estremità prossimale della tibia fornisce sede di inserzione a numerosi muscoli che muovono il ginocchio. Tra questi abbiamo muscoli della coscia e muscoli della gamba tra cui i muscoli ischiocrurali, il semitendinoso, il semimembranoso, il gracile, tensore fascia lata, il muscolo sartorio e il tibiale anteriore.
+
+Il corpo della tibia (o dialisi) presenta una faccia anteriore con un margine acuto rivolto in avanti. Superiormente a questo livello abbiamo la cosiddetta tuberosità tibiale, una protuberanza ossea sede di inserzione del muscolo quadricipite attraverso il tendine rotuleo. Il margine anteriore della tibia divide il suo corpo in una faccia mediale e in una faccia laterale. Sulla faccia posteriore della tibia troviamo una rugosità ossea in diagonale, la linea del muscolo soleo, sede di inserzione appunto del muscolo soleo, uno dei ventri muscolari del gastrocnemio (polpaccio).
+
+Infine, l’estremità distale della tibia (o epifisi distale) è formata da una faccia articolare inferiore concava che fornisce la superficie di contatto con l’astragalo a formare l’articolazione tibio-astragalica, detta anche tibio-tarsica o più comunemente caviglia. L’estremità distale si prolunga medialmente nel malleolo mediale, anch’esso caratterizzato da una superficie articolare laterale per l’astragalo. Sul versante laterale abbiamo invece l’insicura fibulare, una superficie concava che accoglie l’estremità distale del perone formando l’articolazione tibio-peroneale distale.
+
+## Frattura tibia e perone
+
+La tibia è un osso che può andare incontro a fratture ad alto impatto. Le fratture possono essere di tre tipi e possono coinvolgere diverse zone di quest’osso. Le fratture dell’estremità prossimale della tibia, dette anche fratture del piatto tibiale, sono frequenti tra gli sportivi e negli incidenti stradali. Spesso una frattura a questo livello è accompagnata da una lesione del legamento crociato anteriore che si ancorano sul piatto tibiale. Possiamo poi avere delle fratture del corpo della tibia che spesso sono accompagnate anche da una frattura del perone.
+
+La frattura di tibia e perone, che nei casi più gravi diventa una frattura scomposta tibia e perone, è conseguente a forti traumi come per esempio accade cadendo con la moto, negli incidenti stradali e negli sport da contatto. È una condizione che richiede un lungo periodo di immobilizzazione e, nei casi più gravi, di un intervento chirurgico per ridurre la frattura e favorire la guarigione dell’osso. In ultimo abbiamo le fratture dell’estremità distale della tibia, chiamate fratture del malleolo mediale, che coinvolgono appunto il malleolo in traumi alla caviglia. Spesso durante questi traumi distorsivi abbiamo anche la frattura del malleolo laterale in una doppia frattura detta bimalleolare.
+
+## Dolore alla tibia
+
+In talune condizioni possiamo riscontrare un dolore alle tibie. Sicuramente se questo insorge in conseguenza di un forte trauma, può essere necessario assicurarsi che non vi siano fratture attraverso l’esecuzione di una lastra per tibia e perone (immagini diagnostiche tibia e perone). Nei traumi più lievi potremmo banalmente essere in presenza di una contusione che produrrà un ematoma benigno nei giorni successivi. In altri casi possiamo avere un dolore alla tibia nei giorni successivi a una lunga e intensa camminata (spesso le prime volte che si utilizza il tapis roulant).
+
+Specialmente se non siamo abituati a camminare molto, un’attività straordinaria di questo tipo (ancor di più se nella sabbia) può sovraccaricare in maniera importante il muscolo tibiale anteriore, situato anteriormente sulla tibia. In questi casi niente paura, il dolore è semplicemente dovuto all’affaticamento e ai dolori muscolari post attività intensa che sono tipici in questi casi (DOMS). Per questo basteranno pochi giorni di riposo e un’attività fisica blanda per far scomparire il dolore.
+
+In ultimo, la tibia può fare male o riportare sintomi in alcuni casi particolari. Per esempio può evocare dolore o formicolii in risposta a un quadro di ernia discale lombare. Se la radice colpita è quella che innerva il territorio della tibia potremmo avere alcuni sintomi come bruciore e formicolio in quest’area.
+
+Inoltre, negli adolescenti che riportano una crescita molto rapida la tensione generata dal tendine del quadricipite può portare a infiammazione e ipertrofia della tuberosità tibiale poco oltre la rotula. Questo dolore alla tibia è dovuto a questa condizione chiamata morbo di Osgood Schlatter.

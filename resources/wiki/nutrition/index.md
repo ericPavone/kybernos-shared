@@ -1,0 +1,1283 @@
+# Indice della wiki di nutrizione e allenamento
+
+Ogni voce è un articolo. Il testo dopo il trattino dice *quando* serve
+quell'articolo e quali concetti contiene: usalo per decidere cosa aprire.
+Carica solo i file necessari a rispondere; se nessuna voce combacia,
+rispondi senza wiki invece di aprire articoli a caso.
+
+Le sezioni su esercizi e alimenti sono divise in sottogruppi
+(distretto muscolare, famiglia alimentare) per renderle scorribili.
+
+Fonte: Project Invictus. Uso personale.
+
+
+## Macronutrienti e nutrienti
+
+- [[acidi-grassi-essenziali]] — Acido linoleico e alfa-linolenico, capostipiti di omega 6 e omega 3: funzioni, fonti alimentari, fabbisogno giornaliero, rapporto tra le due serie.
+- [[acidi-grassi-saturi-fanno-bene-o-male]] — Soglia del 10% delle calorie giornaliere, meccanismo aterosclerotico e placche, confronto con mono e polinsaturi, alimenti che li contengono di più.
+- [[acidi-grassi-trans]] — Grassi idrogenati industriali contro trans naturali del rumine: margarina e prodotti da forno, rischio cardiovascolare anche a basse dosi, come sostituirli.
+- [[alimenti-a-basso-indice-glicemico-quali-sono]] — Tabella di cibi sotto IG 50, limiti dell'indice glicemico rispetto al carico, amilosio e amilopectina, applicazioni per diabete, celiachia e dimagrimento.
+- [[alimenti-indice-glicemico-alto]] — Tabella dei cibi sopra IG 69 e perché non vanno esclusi: carote e zucca cotte, patate, differenza con il carico glicemico.
+- [[alimenti-ricchi-di-calcio]] — Tabella delle fonti di calcio: formaggi oltre 1000 mg, sardine e alici, vegetali poco biodisponibili come spinaci, acque calciche, fabbisogno giornaliero.
+- [[alimenti-ricchi-di-ferro]] — Differenza tra ferro eme e non-eme e relativo assorbimento, tabella di fonti animali, fabbisogno in gravidanza e mestruo, rapporto con l'anemia.
+- [[alimenti-ricchi-di-fibre]] — Classifica per grammi su 100: crusca, carrube, legumi secchi, pop corn; distinzione tra fibra solubile e insolubile, microbiota, quantità giornaliera consigliata.
+- [[alimenti-ricchi-di-magnesio]] — Quindici fonti in tabella, dalla crusca di frumento a legumi e frutta secca; fabbisogno LARN per età, gravidanza e bambini.
+- [[alimenti-ricchi-di-proteine]] — Tabella CREA dei venti cibi più proteici per 100 g, dal pesce molo a carne e latticini; valore biologico, verdure e frutta più proteiche.
+- [[amido-cose-caratteristiche-e-proprieta]] — Polisaccaride di riserva dei vegetali: amilosio e amilopectina, 4,2 kcal/g contro le 3,74 del glucosio, alimenti che lo contengono, digestione e formula chimica.
+- [[amido-resistente]] — Frazione dell'amido non digerita e fermentata dal microbiota: quattro sottotipi, effetto su indice glicemico di pasta e banana, cibi, benefici, versione in polvere.
+- [[aminoacidi-essenziali]] — I nove EAA uno per uno (istidina, leucina, lisina, triptofano), funzioni su immunità e sintesi proteica, alimenti che li contengono e utilità dell'integrazione.
+- [[betaglucani]] — Fibra solubile che gelifica nell'intestino: riduzione del colesterolo LDL e della glicemia, claim FDA, alimenti che li contengono, quando integrarli.
+- [[calorie-alimenti]] — Tabelle di calorie per 100 g divise per categoria (frutta, verdura, carne, pesce, cereali, alcolici), calorie metaboliche e limiti delle tabelle.
+- [[calorie-macronutrienti]] — Quante kcal per grammo danno carboidrati (3,75), proteine e grassi, come ripartire i macronutrienti e scegliere le fonti in massa o definizione.
+- [[calorie-vuote]] — Alimenti ad alta densità calorica e nullo valore nutritivo: zuccheri aggiunti, bibite, snack; perché portano a carenze e surplus senza sazietà.
+- [[carboidrati-complessi]] — Polisaccaridi come amido, glicogeno e cellulosa: funzioni, indice glicemico più basso, elenco di cibi e alternative senza glutine, uso per la massa muscolare.
+- [[carboidrati-giorno-sera]] — Smonta il mito dei carboidrati vietati dopo le 18: effetti su sonno e sonnolenza post-prandiale, timing intorno all'allenamento, esempi di cena.
+- [[carboidrati-guida-completa]] — Biochimica e fisiologia dei glucidi: classificazione, metabolismo, riserve di glicogeno, fabbisogno giornaliero, indice glicemico, tempi di assorbimento, diete low-carb, insulina e diabete.
+- [[carboidrati-post-workout-palestra]] — Quanto conta il timing glucidico dopo i pesi: il glicogeno cala solo del 24-40%, quali e quanti carboidrati assumere per la massa.
+- [[carboidrati-raffinati]] — Cosa cambia con la raffinazione: perdita di fibra, vitamine e minerali, elenco completo degli alimenti raffinati e come sostituirli con gli integrali.
+- [[carboidrati-semplici]] — Monosaccaridi e disaccaridi (glucosio, fruttosio, saccarosio, lattosio): dove si trovano, quanti assumerne al giorno, se fanno ingrassare, uso pre e post allenamento.
+- [[carico-glicemico-tabella-alimenti]] — Tabelle complete del carico glicemico degli alimenti, calcolo a partire dall'indice glicemico, i dieci cibi più alti e più bassi, e perché conta poco.
+- [[cereali-raffinati]] — Differenze nutrizionali tra cereali raffinati e integrali: fibra, vitamine, antinutrienti, conservazione; liste di alimenti di entrambi i gruppi e prodotti falsamente integrali.
+- [[cibi-integrali]] — Quali cereali e pseudocereali contano come integrali, come riconoscere in etichetta il vero integrale dalla crusca riaggiunta, benefici su fibre e sazietà, controindicazioni.
+- [[colesterolo]] — Funzioni nelle membrane cellulari e come precursore di ormoni steroidei e vitamina D, sintesi epatica de novo e regolazione SREBP, valori di riferimento, quota alimentare.
+- [[cosa-sono-gli-aminoacidi]] — Struttura chimica e funzioni dei venti aminoacidi, classificazione in essenziali e non essenziali, alimenti che li contengono, legame con BCAA ed EAA.
+- [[digestione-carboidrati]] — Fasi buccale e intestinale della digestione dell'amido: amilasi salivare, blocco nello stomaco acido, oligosaccaridasi e maltasi, assorbimento di glucosio, galattosio e fruttosio, tempi di digestione.
+- [[fabbisogno-glucidico-carboidrati]] — Quanti carboidrati al giorno secondo i LARN, tessuti glucosio-dipendenti e preferenziali, consumo del sistema nervoso, calcolo pratico e quote per palestra e bodybuilding.
+- [[fabbisogno-proteico]] — Dallo 0,8 g/kg dell'OMS ai valori per chi si allena: limiti del bilancio azotato, come contare le proteine vegetali, calcolo per stile di vita.
+- [[ferritina-alimenti-livelli-consigli]] — Riserva di ferro e suoi valori di riferimento (18-250 ng/ml), cause di ferritina alta o bassa, effetto dello sport, alimenti ricchi di ferro.
+- [[fibre-alimentari]] — Solubili contro insolubili, effetti su colesterolemia, glicemia e transito, fabbisogno giornaliero, cibi che ne contengono di più, controindicazioni e integratori.
+- [[fibre-insolubili]] — Cellulosa, emicellulose e lignina: azione sul transito intestinale, ruolo nel dimagrimento e nella sazietà, alimenti che le contengono, controindicazioni pratiche.
+- [[fibre-solubili-quali-sono-e-dove-si-trovano]] — Pectine, gomme, mucillagini, inulina, FOS e GOS: effetto gel su glicemia e colesterolo, ruolo nel dimagrimento, tabella di alimenti, controindicazioni.
+- [[fruttosio-calorie-proprieta-e-benefici]] — Monosaccaride chetonico da 3.75 kcal/g con indice glicemico 20 e potere dolcificante superiore al saccarosio: metabolismo epatico, controindicazioni, uso in palestra.
+- [[fruttosio-fa-male]] — Rischi del solo eccesso, soprattutto da fruttosio aggiunto industriale: steatosi epatica NAFLD, insulino-resistenza, LDL e HDL, sindrome metabolica.
+- [[fruttosio-glucosio-differenze]] — Due isomeri a confronto: assenza di captazione GLUT4 per il fruttosio, metabolismo epatico, risposta insulinica e leptinica, potere dolcificante, rapporto con galattosio e saccarosio.
+- [[fruttosio-o-zucchero-qual-e-il-migliore]] — Confronto pratico tra fruttosio, saccarosio e zucchero di canna: differenza calorica trascurabile, indice glicemico, limite OMS del 10% delle calorie giornaliere.
+- [[glucosio]] — Principale fonte energetica: valori di glicemia di riferimento 60-100 mg/dl, consumo cerebrale di 120 g al giorno, alimenti che lo contengono, uso in palestra.
+- [[glutine]] — Proteina che si forma solo impastando farina e acqua, non presente in natura: gliadine e glutenine, alimenti che la contengono, a chi fa male davvero.
+- [[grassi]] — Cosa sono lipidi e acidi grassi, differenza tra i due termini, classificazione in saturi e insaturi, isomeri cis e trans, catene pari e dispari, funzioni.
+- [[grassi-animali]] — Burro, strutto, lardo e componente lipidica di carne, latticini e uova: acidi grassi saturi, effetti sulla salute, quanti assumerne nella dieta.
+- [[grassi-buoni]] — MUFA e PUFA, acido oleico, linoleico e linolenico: benefici su colesterolo e cervello, fonti alimentari, fabbisogno giornaliero e ruolo nel bodybuilding.
+- [[grassi-buoni-e-cattivi]] — Perché la distinzione buoni/cattivi è semplicistica: saturi, insaturi, trans, idrogenati e colesterolo LDL, fonti alimentari e quali grassi prediligere per costruire una dieta equilibrata.
+- [[grassi-idrogenati]] — Come l'idrogenazione industriale genera acidi grassi trans, in quali cibi lavorati si trovano, come riconoscerli in etichetta, danni alla salute e sostituti.
+- [[grassi-monoinsaturi]] — MUFA e acido oleico: struttura chimica con un solo doppio legame, benefici, alimenti che li contengono (olio d'oliva, avocado, frutta secca), quantità giornaliera.
+- [[grassi-polinsaturi]] — PUFA con due o più insaturazioni: classificazione per lunghezza di catena, omega-3 e omega-6, effetti sulla salute, fonti alimentari e dose giornaliera.
+- [[grassi-vegetali]] — Oli e margarine a confronto con i grassi animali: olio d'oliva contro olio di palma, versioni idrogenate e raffinate, quali preferire.
+- [[indice-glicemico]] — Cosa misura davvero l'IG (50 g di soli zuccheri in laboratorio), differenza con il carico glicemico e perché non determina se ingrassi.
+- [[indice-glicemico-alimenti]] — Tabelle di indice e carico glicemico per frutta e verdura, con soglie di classificazione basso/medio/alto e avvertenza sull'uso pratico limitato di questi valori.
+- [[indice-glicemico-frutta]] — Tabella IG dei singoli frutti, effetto di maturazione e amido resistente, rapporto glucosio-fruttosio, frutta estiva e secca, se conviene sceglierla a basso indice.
+- [[le-proteine-fanno-ingrassare]] — Perché gli studi epidemiologici di Berrino correlano proteine e grasso senza dimostrare causalità, cosa succede eccedendo con le proteine, principali fonti alimentari.
+- [[nutrienti]] — Definizione e classificazione: macronutrienti energetici e micronutrienti, funzioni energetica, plastica e regolatrice, nutrienti essenziali, alimenti che li contengono e quantità giornaliere.
+- [[omega-3]] — ALA, EPA e DHA: bassa conversione enzimatica, effetti su infiammazione e apparato cardiovascolare, alimenti che li contengono, grammi al giorno e quando integrare.
+- [[ormoni-macronutrienti-e-calorie]] — Carboidrati, grassi e proteine con kcal per grammo, più acqua e alcol; come ripartirli per dimagrire, in massa e in definizione, con tabella.
+- [[post-workout-palestra-cosa-mangiare]] — Cosa mangiare dopo l'allenamento secondo il grado di deplezione delle scorte: carboidrati, proteine e aminoacidi, differenze tra massa e definizione, peso reale del timing.
+- [[pre-workout-palestra-bodybuilding]] — Cosa mangiare prima dell'allenamento coi pesi: carboidrati digeribili, maltodestrine, quanto tempo prima, quando lo spuntino serve davvero e quando no.
+- [[proteine-animali]] — Proteine nobili di carne, pesce, uova e latticini: presunti danni a reni, cancro e infiammazione, quante volte a settimana, alternative vegetali.
+- [[proteine-animali-e-vegetali-a-confronto]] — Differenze di profilo amminoacidico, quantità e completezza tra le due fonti, quale scegliere per massa muscolare, dimagrimento o dieta vegetariana.
+- [[proteine-cosa-sono-quali-sono]] — Macronutriente dalla struttura agli aminoacidi essenziali: funzioni, digestione e assorbimento, fonti alimentari, fabbisogno per sportivi, anziani, dimagrimento e massa, segni di carenza.
+- [[proteine-del-latte]] — Caseine 80% e sieroproteine 20% nel latte vaccino: valore biologico, differenze col latte materno, alimenti che le contengono, uso in polvere.
+- [[proteine-magre]] — Lista di cibi ad alte proteine e pochi grassi, animali e vegetali, per diete ipocaloriche con fabbisogno proteico alto, idee per la colazione.
+- [[proteine-nobili]] — Cosa significa contenere tutti gli aminoacidi essenziali e perché il concetto è in parte un mito: aminoacido limitante, esempi animali, cereali, pseudocereali e legumi.
+- [[proteine-palestra]] — Quante proteine al giorno per chi si allena, quali fonti scegliere, timing prima o dopo l'allenamento, specificità femminili e controindicazioni.
+- [[proteine-per-massa-muscolare]] — Grammi per chilo in base a peso e allenamento, perché da sole non bastano senza stimolo allenante e surplus, rischi dell'eccesso proteico.
+- [[proteine-prima-di-dormire]] — Il catabolismo notturno è un mito: in quali pochi casi lo spuntino proteico serale serve, quanti grammi, quali proteine e con che timing.
+- [[proteine-prima-o-dopo-allenamento]] — Il timing proteico conta poco rispetto al totale giornaliero: cosa fa davvero la differenza pre e post workout e quali fonti scegliere.
+- [[proteine-vegetali]] — Legumi, cereali e frutta secca a confronto con le fonti animali: valore biologico, come coprire il fabbisogno da vegetariano o vegano in palestra.
+- [[quali-sono-i-carboidrati]] — Semplici (mono e disaccaridi) contro complessi (amidi): differenze biochimiche, indice glicemico, effetto su peso e dimagrimento, quanti assumerne in palestra e bodybuilding.
+- [[quanta-acqua-bere-al-giorno]] — Fabbisogno idrico secondo i LARN (2-2,5 L), calcolo per peso corporeo, età, sesso e kcal assunte, funzioni dell'idratazione, sportivi.
+- [[quante-proteine-assumere]] — Fabbisogno proteico da 0,8 a 3 g/kg secondo sesso, età, composizione corporea e obiettivo, più timing, distribuzione per pasto e fonti.
+- [[quanti-carboidrati-al-giorno]] — Calcolo dei grammi giornalieri per sportivi, fase di massa e definizione, quota minima per sistema nervoso e globuli rossi, range 180-240 g.
+- [[quanti-grassi-al-giorno]] — 20-35% delle calorie secondo i LARN, saturi entro il 10%, quantità minima per gli ormoni steroidei, conseguenze dell'eccesso, gestione nel bodybuilding.
+- [[quanti-zuccheri-al-giorno]] — Limite LARN del 15% delle calorie, aggiunti al 5-10%, circa 70 g su 2000 kcal, zuccheri aggiunti contro naturali, dosi per dimagrimento e sportivi.
+- [[quanto-sale-al-giorno]] — Fabbisogno reale di sodio contro i 10 g di sale consumati in media, soglia OMS, danni dell'eccesso, strategie per ridurlo senza perdere sapidità.
+- [[sostanze-nutritive]] — Definizione e classificazione di macronutrienti e micronutrienti, distinzione dalle sostanze non nutritive (fibre, antinutrienti, alcol), assorbimento intestinale e fabbisogni giornalieri.
+- [[valore-biologico-proteine]] — Formula VB come azoto trattenuto su assorbito, classifica di alimenti ad alto, medio e basso valore, complementarità di legumi e cereali nel pasto.
+- [[vitamina-c-alimenti-quali-piu-ricchi]] — Classifica dei 10 cibi più ricchi di vitamina C con tabella mg/100 g: le arance non sono in cima. Perdite da cottura e conservazione, porzioni per coprire il fabbisogno.
+- [[vitamina-d]] — Sintesi cutanea da colesterolo, attivazione epatorenale a 1,25-OH2, alimenti che la contengono, carenza diffusa, fabbisogno giornaliero, effetti su forza e prestazione, tossicità.
+
+## Fisiologia, ormoni e metabolismo energetico
+
+- [[acetil-coenzima-a-coa]] — Formazione dal piruvato tramite piruvato deidrogenasi nel mitocondrio, trasporto dei gruppi acilici, ruolo in beta-ossidazione, ciclo di Krebs e sintesi degli acidi grassi.
+- [[acido-lattico]] — Differenza tra lattato e acido lattico, glicolisi anaerobica negli sforzi di 20-180 secondi, e perché non causa DOMS né fatica muscolare.
+- [[adenosina-trifosfato-atp]] — Struttura adenina-ribosio-fosfati, ruolo di moneta energetica cellulare, sedi di produzione tra citosol e mitocondri, vie di risintesi durante la contrazione muscolare.
+- [[adrenalina]] — Catecolamina della midollare surrenale nella risposta attacco-fuga: sintesi da tirosina, effetti su muscolo, fegato e cuore, uso come farmaco salvavita.
+- [[allenamento-al-freddo-benefici]] — Termogenesi da brivido e non, grasso bruno, termocettori TRP e ipotalamo: quante calorie brucia davvero l'esposizione al freddo e come adattarsi allenandosi.
+- [[anabolismo]] — Reazioni endoergoniche che costruiscono molecole complesse: glicogenosintesi, gluconeogenesi, fosforilazione ossidativa, rapporto con il catabolismo e come aumentare davvero l'anabolismo muscolare.
+- [[appetito]] — Differenza tra appetito e fame fisiologica: cibi palatabili ricchi di zuccheri, grassi e sale, circolo vizioso della fame nervosa, come aumentarlo o ridurlo.
+- [[beta-ossidazione]] — Come i mitocondri degradano gli acidi grassi per produrre ATP: fasi e reazioni, ruolo di glucagone e adrenalina, rapporto con lipogenesi.
+- [[bilancio-energetico]] — Entrate meno uscite come unico determinante del peso: processi anabolici e catabolici, formule di stima del fabbisogno (Harris-Benedict, metabolismo ideale).
+- [[caloria]] — Definizione fisica e alimentare, differenza tra caloria e chilocaloria, conversione in kilojoule, kcal per grammo di carboidrati, grassi e proteine.
+- [[calorie-palestra-bodybuilding]] — Quante kcal consumi davvero con i pesi: media 300 all'ora, range 150-500, variabili che lo rendono impossibile da stimare con precisione.
+- [[calorie-perche-contano]] — Perché stimare le calorie resta utile anche se le formule sono imprecise: metabolismo basale, TEF, NEAT e attività sportiva nel calcolo del fabbisogno.
+- [[catabolismo]] — Reazioni esoergoniche che degradano carboidrati, grassi e proteine: glicolisi, via del pentoso fosfato, glicogenolisi, rapporto con l'anabolismo e catabolismo muscolare.
+- [[catecolamine]] — Adrenalina, noradrenalina e dopamina: sintesi dalla tirosina nella midollare del surrene, risposta attacco-fuga, sinergia col cortisolo, come misurarle e abbassarle.
+- [[catena-di-trasporto-degli-elettroni]] — Complessi respiratori della membrana mitocondriale interna: trasferimento di elettroni da NADH e FADH2, pompaggio di protoni, resa in ATP, citocromo c.
+- [[chetosi]] — Shift dal metabolismo glucidico a quello lipidico: soglia di 0,2 mmol, acetoacetato e beta-idrossibutirrato, sintomi dell'adattamento, pericoli reali e se fa dimagrire.
+- [[ciclo-di-krebs]] — Le otto reazioni del ciclo dell'acido citrico nei mitocondri: ossidazione dell'acetil-CoA, resa in GTP, NADH e FADH2, enzimi chiave e regolazione del metabolismo terminale.
+- [[come-accelerare-il-metabolismo]] — Perché non esistono metabolismi lenti o veloci: peso del movimento quotidiano, proteine disaccoppianti UCP, ruolo dei carboidrati, integratori inutili e situazione dopo i 40 anni.
+- [[come-aumentare-il-testosterone]] — Dieci leve pratiche: percentuale di grasso e aromatasi, pesi, sonno, alcol, apporto di grassi, vitamina D. Sintomi di testosterone basso, utilità reale di integratori e farmaci.
+- [[cortisolo-ormone-dello-stress]] — Asse ipotalamo-ipofisi-surrene e ritmo circadiano del cortisolo, effetti su muscolo, tessuto adiposo, immunità e bilancio idroelettrolitico, valori degli esami, come abbassarlo.
+- [[dispendio-energetico]] — Come si calcola il dispendio giornaliero: metabolismo a riposo REE, termogenesi indotta dagli alimenti, NEAT e attività sportiva, formule Harris-Benedict e MET.
+- [[dopamina]] — Neurotrasmettitore del circuito della ricompensa: biosintesi da tirosina e L-DOPA, aree cerebrali coinvolte, funzioni ed effetti, segni di dopamina bassa e come stimolarla.
+- [[dormire-fa-dimagrire]] — Quanto il sonno incide sul peso: grelina, leptina e cortisolo dopo privazione, melatonina, sonnellino pomeridiano, dormire al freddo e termogenesi.
+- [[effetti-testosterone]] — Oltre libido e anabolismo: valori di riferimento nell'uomo, effetti su cuore, metabolismo glucidico, massa grassa, ossa e cervello, rapporto con cortisolo.
+- [[epoc-calorie-metabolismo-studi]] — Consumo extra di ossigeno post-allenamento: da cosa dipende, rapporto inverso tra intensità e durata, quanto pesa davvero sul dimagrimento, come aumentarlo, studi.
+- [[fibre-rosse-bianche]] — Fibre di tipo I e II a confronto: forza, resistenza alla fatica, contenuto di glicogeno e come cambia il reclutamento secondo carico e ripetizioni.
+- [[fibrocellula-muscolare]] — Come stimoli energetici (alattacido, lattacido, aerobico) e meccanici modificano struttura, corredo enzimatico e sintesi proteica della fibra, con supercompensazione dei substrati.
+- [[flessibilita-metabolica-perche-e-fondamentale-per-essere-magri]] — Capacità di alternare i substrati energetici tra fegato, muscolo e tessuto adiposo: in-flessibilità metabolica, switch e shift metabolico, come recuperarla con dieta ed esercizio.
+- [[fosfocreatina]] — Sistema anaerobico alattacido: creatina chinasi, risintesi dell'ATP nei primi secondi di sforzo intenso, riserve muscolari e durata reale del sistema.
+- [[fosforilazione-ossidativa]] — Tappa finale della respirazione cellulare nei mitocondri: catena di trasporto degli elettroni, gradiente protonico, ATP sintasi e resa netta in ATP.
+- [[gh-composizione-corporea]] — Ormone della crescita e IGF-1: effetti reali su massa e grasso, sindrome di Laron, valori ematici, come stimolarlo con nutrizione e sonno, uso dopante.
+- [[glicogeno]] — Polisaccaride di riserva: 250-400 g nel muscolo e 80-120 g nel fegato, differenza con il glucosio, sintesi e degradazione, ruolo omeostatico ed energetico.
+- [[glicogeno-muscolare]] — Scorte intramuscolari come substrato dell'alta intensità: perché non regolano la glicemia a differenza di quelle epatiche, e come aumentarle con dieta e allenamento.
+- [[glicogenolisi]] — Degradazione del glicogeno a glucosio: glicogeno fosforilasi, enzima deramificante e glucosio 6-fosfatasi, differenza funzionale tra versione epatica e muscolare, quando si attiva.
+- [[glicogenosintesi]] — Sintesi del glicogeno da glucosio 6-fosfato: UDP-glucosio, glicogeno sintasi, enzima ramificante e glicogenina, quando la via si attiva e a cosa serve.
+- [[glicolisi]] — Via di Embden-Meyerhof-Parnas nel citosol: fase preparatoria e di recupero, tappe, bilancio in ATP e NADH, enzimi che la regolano.
+- [[gluconeogenesi]] — Produzione di glucosio da lattato, glicerolo, piruvato e amminoacidi: le tre tappe irreversibili che aggirano la glicolisi, dove e quando avviene durante digiuno ed esercizio.
+- [[il-fabbisogno-calorico-giornaliero]] — Le tre componenti del dispendio energetico (metabolismo basale, TID, attività fisica), formule di calcolo e quante calorie assumere per dimagrire o mettere massa.
+- [[insulina]] — Ormone pancreatico: secrezione basale e postprandiale, recettori, azione su fegato, muscolo e tessuto adiposo, insulino-resistenza, diabete 1 e 2, valori ematici, glucagone.
+- [[insulina-e-glucagone]] — Coppia pancreatica che regola la glicemia: non sempre antagonisti, secrezione simultanea dopo pasti proteici, valori basali, effetto di dieta e attività fisica.
+- [[la-sensibilita-insulinica-parte-1]] — Trattazione tecnica di Antonio Rubbino su carboidrati, insulina, trasportatori del glucosio e AMPK: prima parte, base biochimica della sensibilità insulinica.
+- [[leptina]] — Adipochina prodotta dal tessuto adiposo: valori di riferimento, picco notturno, rapporto con grelina, leptino-resistenza nell'obesità e strategie per non deprimerla in dieta.
+- [[lipogenesi]] — Sintesi di acidi grassi da acetil-CoA, navetta del citrato, de novo lipogenesi: quanto pesa davvero nell'ingrassare rispetto al bilancio energetico.
+- [[lorgano-adiposo]] — Perché il grasso è un organo e non un tessuto: adipociti bianchi e bruni, adipochine, funzioni endocrine e immunitarie, effetti su estrogeni.
+- [[metabolismo]] — Anabolismo e catabolismo, vie metaboliche e produzione di ATP spiegati in termini semplici; cosa si può davvero fare per aumentare il metabolismo.
+- [[metabolismo-aminoacidi]] — Digestione proteica da pepsina ed enzimi pancreatici, turnover proteico, catabolismo con ciclo dell'urea, sintesi aminoacidica e come si ricava energia dagli aminoacidi.
+- [[metabolismo-basale]] — Definizione e condizioni di misura, formula di Harris-Benedict con esempio di calcolo, peso del BMR (60-70%) sul fabbisogno insieme a NEAT e TID.
+- [[metabolismo-glucidico]] — Digestione degli amidi da amilasi, ossidazione del glucosio e sintesi di glicogeno, regolazione ormonale, valori glicemici e alterazioni che portano al diabete.
+- [[metabolismo-lipidi]] — Digestione dei grassi, trasporto tramite lipoproteine, beta-ossidazione e lipogenesi: come favorire l'uso dei grassi a scopo energetico e cosa cambia in palestra.
+- [[miochine]] — Proteine rilasciate dal muscolo che si contrae: irisina, IL-6 e le altre, con effetti su crescita muscolare, tessuto adiposo, cervello, ossa e controllo glicemico.
+- [[miostatina-ipertrofia]] — L'unica miochina che frena la crescita muscolare: ruolo nell'ipertrofia, mutazioni e doping, presunti inibitori in integratori e alimenti, legame con vitamina D e sarcopenia.
+- [[mitocondri]] — Struttura a doppia membrana e creste, sintesi di ATP, ciclo di Krebs e beta-ossidazione degli acidi grassi; biogenesi mitocondriale in risposta all'allenamento.
+- [[motoneurone]] — Dall'impulso nervoso alla contrazione: motoneuroni alfa e gamma, unità motoria, tipi di fibre, cellule di Renshaw, riflesso miotatico, patologie e invecchiamento.
+- [[neat]] — Termogenesi da attività non sportiva: quota del dispendio giornaliero, calo in deficit calorico prolungato, strategie con passi, scale e tempo in piedi.
+- [[noradrenalina]] — Catecolamina ormone e neurotrasmettitore del Locus Coeruleus: risposta attacco-fuga, effetti cardiovascolari e sulla forza, uso come farmaco, differenza con l'adrenalina.
+- [[omeostasi]] — Autoregolazione dell'ambiente interno tramite sistemi a feedback: glicemia, temperatura corporea e pressione arteriosa; concetto base per capire adattamenti metabolici e ormonali.
+- [[ormoni-femminili-cosa-conoscere-sugli-estrogeni]] — Estradiolo, estriolo ed estrone lungo le fasi del ciclo mestruale, effetti su umore e peso, menopausa, amenorrea e contraccettivi ormonali.
+- [[ormoni-maschili]] — Asse ipotalamo-ipofisi-testicolo, LH e FSH, testosterone come pro-ormone di DHT ed estradiolo, interpretazione degli esami ormonali e variabilità dei valori.
+- [[ormoni-tiroidei]] — T4, T3 e calcitonina: asse TRH-TSH, deiodinasi e rT3, effetti su termogenesi e metabolismo dei macronutrienti, esami del sangue, uso medico e dopante.
+- [[piruvato]] — Prodotto finale della glicolisi e suoi destini metabolici: fermentazione lattica, acetil-CoA e ciclo di Krebs, gluconeogenesi, enzimi coinvolti e reazioni derivate.
+- [[quante-calorie-si-bruciano-dormendo]] — Calcolo del dispendio notturno con metabolismo basale, MET e ore di sonno, fattori che lo modificano e ruolo del sonno nel dimagrimento.
+- [[quante-calorie-si-bruciano-studiando]] — Consumo di glucosio del cervello durante lo studio, tabella per peso e durata: incremento minimo sul metabolismo basale, non serve a dimagrire.
+- [[quoziente-respiratorio]] — Rapporto CO2/O2 per capire se il corpo ossida carboidrati (QR 1) o grassi (0,7), come dieta e allenamento lo modificano, perché migliorarlo non equivale a dimagrire.
+- [[radicali-liberi-ruolo-biologico]] — Elettrone spaiato e reazioni redox, danni a lipidi, proteine e DNA, stress ossidativo nel bodybuilding, antiossidanti e strategie dietetiche per ridurli.
+- [[respirazione-cellulare]] — Glicolisi nel citoplasma, ciclo di Krebs e fosforilazione ossidativa nei mitocondri: bilancio di ATP per molecola di glucosio e formula stechiometrica.
+- [[senso-di-sazieta]] — Controllo neuro-ormonale della sazietà: distensione gastrica, leptina e grelina, alterazioni nell'obesità e quali alimenti scegliere per restare sazi in deficit.
+- [[sistemi-energetici]] — Anaerobico alattacido, lattacido e aerobico come continuum: ATP e fosfocreatina, durate e intensità di intervento, substrati, applicazione ai diversi sport e all'allenamento.
+- [[stress-fa-ingrassare-o-dimagrire]] — Cortisolo cronico tra aumento e perdita di peso: leptino-resistenza, insulino-resistenza, redistribuzione del grasso viscerale, pancia gonfia, dimagrimento da ansia e rimedi.
+- [[stress-ossidativo-e-attivita-fisica]] — Radicali liberi ROS e RNS, difese antiossidanti, cause e sintomi dello squilibrio, e perché l'esercizio fisico produce ossidanti senza per questo fare male.
+- [[termogenesi]] — La quota di dispendio dispersa in calore: TID fissa e facoltativa per ciascun macronutriente e alcol, termogenesi adattativa nell'obeso, alimenti e integratori termogenici.
+- [[termogenesi-indotta-dalla-dieta]] — La TID vale il 10-15% del dispendio: costo termico di proteine 10-35%, carboidrati 5-10%, grassi 3-5%, con esempio di calcolo sul totale giornaliero.
+- [[termoregolazione-corporea-dimagrire]] — Come l'ipotalamo tiene i 37 °C, meccanismi di produzione e dispersione del calore, cause di alterazione e quanto la termoregolazione incide sul dimagrimento.
+- [[tessuto-adiposo]] — Organo adiposo come fabbrica di ormoni: grasso sottocutaneo, viscerale e intramuscolare a confronto, rischi metabolici, effetto whooshing e come ridurre quello addominale.
+- [[testosterone-la-guida-ormone]] — Meccanismi, range fisiologici e sintomi da carenza; effetti su massa muscolare, umore, ossa e cuore; strategie con dieta, integrazione e allenamento; tabella.
+- [[testosterone-muscoli]] — Come il testosterone aumenta la massa magra via cellule satellite e mionuclei; vantaggio permanente degli ex dopati rispetto ai natural, connessione mente-muscolo.
+- [[testosterone-nelle-donne]] — Funzioni androgene nella donna: libido, cognizione, salute ossea; sintomi da valori bassi, segnali di eccesso, conversione in estrogeni via aromatasi, come alzarlo.
+- [[via-dei-pentoso-fosfati]] — Destino alternativo del glucosio 6-fosfato: fasi ossidativa e non ossidativa, produzione di NADPH e ribosio 5-fosfato, regolazione e legami con glicolisi.
+
+## Composizione corporea e misurazione
+
+- [[bioimpedenziometria-cose-e-cosa-calcola]] — Come funziona la misura dell'impedenza, stima di massa magra, massa grassa, acqua totale e BCMI, margine d'errore, valori di riferimento e costi.
+- [[bmi-indice-di-massa-corporea]] — Calcolo peso diviso altezza al quadrato, tabella delle fasce, perché non distingue muscolo da grasso e va affiancato a plicometria o BIA.
+- [[circonferenza-vita]] — Valori soglia di rischio (94 cm uomo, 80 cm donna), rapporto vita/fianchi, perché il grasso viscerale è più pro-infiammatorio e insulino-resistente, tecnica di misurazione.
+- [[circonferenze-corporee-come-misurarle]] — Protocollo per misurare braccio, torace, vita, fianchi, coscia e polpaccio: punti di repere anatomici, errori da evitare e uso nel monitoraggio della composizione corporea.
+- [[impedenziometria]] — Come la BIA stima massa magra e grassa misurando l'impedenza dei tessuti, cosa valuta davvero, perché le bilance domestiche sono inaffidabili, costi dell'esame.
+- [[massa-magra]] — Differenza tra massa magra (FFM) e massa muscolare, formule di calcolo, valori ideali per età e attività, rapporto con BMI e metabolismo basale.
+- [[misure-antropometriche]] — Quali misure prendere per monitorare dimagrimento e ricomposizione: BMI, plicometria, circonferenze, bioimpedenziometria con modello tricompartimentale e DEXA, con limiti e interpretazione di ciascuna.
+- [[peso-ideale-come-si-calcola]] — Formule di peso ideale e peso forma per uomo e donna, limiti del BMI nei soggetti muscolosi, circonferenza vita, plicometria e BIA come alternative.
+- [[plicometria]] — Misurazione delle pliche cutanee: plicometro, protocollo a 7 punti, siti diversi per uomo e donna, attendibilità reale e confronto con l'impedenziometria.
+- [[skinny-fat]] — Falso magro: grasso viscerale con massa magra bassa, resistenza anabolica e insulinica, indizi nelle analisi (glicemia, emoglobina glicata), percorso in tre fasi e allenamento.
+- [[somatotipo]] — Ectomorfo, mesomorfo ed endomorfo: scala da 1 a 7 e forme intermedie, quanto reggono scientificamente, indicazioni di dieta e allenamento per ciascuno.
+- [[valutazione-composizione-corporea]] — Confronto tra BMI, DEXA, BIA, plicometria e circonferenze, quando ripetere le misurazioni, tabella con percentuali di massa magra e grassa di riferimento.
+
+## Dimagrimento e deficit calorico
+
+- [[abbuffate-dolci-natalizie-sopravvivere]] — Cosa succede davvero dopo un'abbuffata di dolci, acuto e cronico: inutilità di digiuno e cardio compensatorio, fame nervosa, abbuffate notturne, strategie preventive.
+- [[addominali-per-dimagrire]] — Il dimagrimento localizzato non esiste: gli esercizi tonificano ma non bruciano il grasso addominale; ruolo di deficit calorico e dieta per la pancia piatta.
+- [[addominali-scolpiti]] — Six pack come questione di percentuale di grasso: genetica e recettori ormonali del grasso addominale, deficit calorico, 70% dieta, esercizi base e ab wheel.
+- [[allenamento-per-dimagrire]] — Cardio o pesi per perdere grasso: calorie consumate a confronto, ruolo della massa muscolare e della sensibilità insulinica, frequenza e durata delle sedute.
+- [[attivita-aerobica-o-anaerobica-per-dimagrire]] — Aerobico o anaerobico per perdere peso: dispendio calorico a confronto, mantenimento della massa muscolare, sensibilità insulinica, HIIT e perché la dieta resta decisiva.
+- [[bere-acqua-fa-dimagrire]] — L'acqua non fa dimagrire di per sé: effetto sazietà, sostituzione di bibite caloriche, idratazione in dieta ipocalorica e quando berla.
+- [[bruciare-calorie]] — Dieci leve pratiche sul dispendio: attività fisica, aumento della massa muscolare, NEAT, sonno, HIIT, idratazione; quanto serve per bruciarne 500.
+- [[bruciare-grassi]] — I grassi non si "bruciano" ma diventano acetil-CoA: deficit calorico, 0,5-1% di peso a settimana, quota proteica, cibi e integratori termogenici inefficaci.
+- [[camminare]] — Quanti passi servono davvero: 7.000 come obiettivo realistico invece di 10.000, calorie consumate, adattamenti oltre i 12.000 passi, riduzione del NEAT in deficit.
+- [[catabolismo-muscolare]] — Come limitare la perdita di massa magra in deficit calorico: turnover proteico, quante proteine e quale allenamento mantenere durante il dimagrimento.
+- [[cena-per-dimagrire]] — Come impostare la cena in una dieta ipocalorica: nessun alimento o orario vietato, esempi di cena leggera, perché saltarla non serve.
+- [[centrifugati-dimagranti]] — Estratti di frutta e verdura non sono dimagranti né detox e arrivano a 150-200 kcal a porzione; ricette e uso come spuntino saziante.
+- [[cibi-che-fanno-ingrassare]] — Perché la dicotomia cibi buoni e cattivi non regge: densità energetica e potere saziante come veri criteri, elenco di alimenti ipercalorici poco sazianti e alternative.
+- [[cibi-ipercalorici]] — Classifica dei 20 alimenti con più calorie per 100 g (olio, lardo, burro, frutta secca), concetto di densità energetica e come inserirli senza sforare la dieta.
+- [[cibi-per-dimagrire]] — Lista dei 10 alimenti meno calorici e più sazianti (melone, asparagi, albume, merluzzo), perché i cibi bruciagrassi sono un mito e quali limitare.
+- [[cibo-drenante]] — Meccanismi diuretici e linfatici dei 10 cibi più drenanti (ananas con bromelina, cetriolo, asparagi, pompelmo) e consigli pratici contro ritenzione idrica e gambe gonfie.
+- [[colazione-dietetica]] — Costruire il primo pasto in deficit calorico: versione dolce e salata, porzioni ridotte ma sazianti e personalizzate, esempi pratici e peso del contesto settimanale.
+- [[colazione-per-dimagrire]] — Sostituzioni pratiche per abbassare le calorie del mattino (fette integrali, marmellata senza zuccheri, latte scremato, yogurt greco), quante kcal destinarci ed esempi sazianti.
+- [[come-dimagrire-i-polpacci]] — Gastrocnemio e soleo: quanto pesano genetica, ipertrofia da corsa, grasso e ritenzione idrica; perché il dimagrimento localizzato non esiste, allenamento e alimentazione.
+- [[come-dimagrire-le-gambe]] — Deficit calorico contro il mito del dimagrimento localizzato su cosce e glutei: dieta, lavoro muscolare e metabolico sulle gambe, programma di esercizi e tempi realistici.
+- [[come-dimagrisco]] — Dieci consigli operativi per perdere peso: calcolo del fabbisogno, impostazione del deficit, sostenibilità, numero di pasti, e quanti chili si possono davvero perdere in una settimana.
+- [[come-iniziare-una-dieta]] — Dieci strategie per partire: obiettivi realistici, pianificazione di pasti e spesa, non fissarsi sulla bilancia, mangiare consapevole, gestione dello stress, quando rivolgersi a un professionista.
+- [[come-sbloccare-il-metabolismo]] — Il presunto blocco metabolico è adattamento ormonale, non metabolismo lento: caduta della leptina, refeed di almeno 72 ore, sei correttivi pratici.
+- [[conta-calorie-le-migliori-app]] — Confronto tra FatSecret, MyFitnessPal, Lifesum e Yazio: cosa basta nella versione gratuita, sottostima del 50% delle calorie assunte, rischio dipendenza e DCA.
+- [[correre-a-digiuno]] — A digiuno si ossidano più grassi ma non si dimagrisce di più: glicogeno epatico, quoziente respiratorio, rischio catabolico per chi fa pesi.
+- [[correre-e-cellulite]] — Corsa contro cellulite: impatto ripetuto e limiti rispetto alla camminata, ruolo di estrogeni, genetica e tessuto connettivo, eliminazione definitiva impossibile.
+- [[correre-per-dimagrire]] — Quanti chilometri servono davvero: formula di Arcelli (1 kcal/km/kg), irrilevanza della velocità sul dispendio, corsa contro camminata, programma di allenamento.
+- [[corsa-brucia-grassi]] — Substrato bruciato durante la corsa contro bilancio energetico settimanale: quanti grassi si ossidano realmente e perché non bastano, programma di esempio.
+- [[cosa-mangiare-per-dimagrire]] — Dieci idee di pasti ipocalorici da adattare al proprio fabbisogno, perché non esistono cibi dimagranti, gestione delle porzioni e del deficit calorico.
+- [[criolisi-criolipolisi]] — Trattamento estetico che congela gli adipociti: risultati di 3-15 mm, numero di sedute, costi, rischi, e perché non è dimagrimento.
+- [[crossfit-fa-dimagrire]] — Perdita di peso con il CrossFit: frequenza settimanale dai neofiti agli esperti, substrati bruciati nei WOD, alimentazione di supporto.
+- [[da-grasso-obeso-a-magro-palestrato]] — Se un ex obeso può diventare magro e muscoloso: trascinamento metabolico, imprinting nutrizionale fetale e infantile, peso di genetica e ambiente, tempi reali della trasformazione.
+- [[deficit-calorico-calcolo]] — Come calcolare il deficit calorico partendo da energia in entrata e in uscita, i tre modi per crearlo e quanto tempo serve per dimagrire.
+- [[dieta-asciugare-fisico]] — Perdere grasso mantenendo il muscolo: deficit di 350-500 kcal o 15% del fabbisogno, ritmo di 0,3-1 kg a settimana, cibi, allenamento e tempi.
+- [[dieta-dimagrante]] — Sette regole per perdere peso davvero: ritmo di 0,5-1% del peso a settimana, regola 80-20, calorie nascoste, abitudini, menù settimanale, pancia e fianchi.
+- [[dieta-pancia-piatta]] — Alimentazione per sgonfiare l'addome e attaccare il grasso ostinato: fonti di carboidrati e proteine da preferire, ultraprocessati da limitare, menù esempio. Nessuna dieta specifica esiste.
+- [[dieta-per-addominali]] — Perché gli addominali si vedono solo abbassando la massa grassa totale: dieta ipocalorica, cibi da preferire ed evitare, menù esempio e ruolo dell'allenamento in palestra.
+- [[dieta-per-dimagrire-10-kg]] — Tempi realistici e menù settimanale per perdere 10 kg con un deficit sostenibile, senza eliminare pizza o dolci occasionali, evitando l'abbandono della dieta dopo poche settimane.
+- [[dieta-per-perdere-3-kg]] — Bilancio energetico negativo per perdere 3 kg: tempi diversi in base al peso di partenza, regola 80/20 sui cibi, attività fisica e menù esempio.
+- [[dieta-senza-dieta]] — Dodici abitudini per perdere peso senza piano alimentare rigido: verdura per prima, masticare lentamente, cibi ricchi di acqua e fibra, calorie nascoste, distinguere fame e appetito.
+- [[diete-drastiche]] — Rischi di pasti saltati, sostituti del pasto e pacchetti detox: perdita di massa magra e liquidi, peggioramento metabolico ed effetto yo-yo delle diete velocissime.
+- [[dimagrimento-donna]] — Differenze femminili nel perdere grasso: assetto ormonale, ciclo mestruale, menopausa, gravidanza, risposta ridotta allo stress, dieta e allenamento con i pesi per pancia e fianchi.
+- [[dimagrimento-localizzato]] — Smonta il mito: addominali o squat non bruciano il grasso della zona allenata perché la mobilizzazione è sistemica e dipende da genetica, ormoni e bilancio energetico.
+- [[dimagrimento-localizzato-gambe-possibile]] — Posizione sfumata sul dimagrimento localizzato: microcircolo, recettori adrenergici alfa e beta, estrogeni, distribuzione dei liquidi, e programma mirato alle gambe per soggetti allenati e già magri.
+- [[dimagrire-in-palestra]] — Perché molti si allenano senza dimagrire: costanza, programma con progressione dei parametri, dieta, eccesso di allenamenti e stile di vita attivo; quali esercizi e quanto tempo serve.
+- [[dimagrire-in-una-settimana]] — Quanti chili si perdono davvero in sette giorni e perché sono soprattutto liquidi: effetto yo-yo delle diete rapide, fabbisogno, deficit e regole sostenibili.
+- [[dimagrire-pancia]] — Deficit di 350-500 kcal e vita attiva contro il grasso addominale ostinato: perché integratori, esercizi mirati e diete miracolose per la pancia piatta non funzionano.
+- [[dimagrire-senza-sport]] — Dieci strategie per creare il deficit con la sola alimentazione: porzioni, idratazione, alcolici, zuccheri semplici, cibi trasformati, quota proteica, sonno, fabbisogno calorico e costanza.
+- [[dipendenze-da-cibo]] — Circuiti cerebrali della ricompensa e dopamina, differenza tra fame fisiologica e appetito edonico, sintomi della food addiction, rimedi per riprendere il controllo della dieta.
+- [[effetto-yo-yo]] — Perché il peso perso viene ripreso con gli interessi dopo diete drastiche: cause, conseguenze del weight cycling sulla salute, strategie per mantenere il risultato.
+- [[endomorfo]] — Somatotipo che accumula grasso facilmente: caratteristiche, fenotipo accumulatore, morfotipo androide e ginoide, impostazione della dieta con esempio pratico e allenamento adatto.
+- [[fame-nervosa]] — Emotional eating come risposta a stress e vuoto emotivo: cause, nove rimedi pratici tra diario alimentare, sonno, microbiota e supporto professionale.
+- [[grasso-addominale]] — Grasso sulla pancia e recettori alfa/beta adrenergici, insulino-resistenza e rischio cardiometabolico legato alla circonferenza vita, dieta ed esercizi per ridurlo.
+- [[grasso-localizzato-come-eliminarlo]] — Perché il grasso si accumula su pancia o cosce e glutei: recettori alfa e beta degli adipociti, e perché il dimagrimento localizzato non esiste.
+- [[grasso-sottocutaneo]] — Grasso visibile sotto la cute, differenze con il viscerale, perché quello addominale è più rischioso, misurazione con plicometria, dieta ed esercizi.
+- [[grasso-viscerale]] — Grasso ectopico attorno agli organi: insulino-resistenza epatica e muscolare, valori percentuali di deposito, caso degli skinny fat, linee guida di dieta e allenamento.
+- [[ho-sempre-fame]] — Perché la fame aumenta in dieta ipocalorica: ipotalamo, lipostato e bilancio energetico negativo, con strategie pratiche per ridurre gli attacchi di fame e dormire meglio.
+- [[il-grasso-ostinato-il-set-point-cosa-dobbiamo-sapere-a-riguardo]] — Set point metabolico e turnover degli adipociti, recettori alfa e beta, perché addome basso, fianchi, interno coscia e glutei resistono al dimagrimento.
+- [[ingrassare-senza-motivo]] — Cause dell'aumento di peso apparentemente inspiegabile: dieta sbilanciata, poco sonno, sedentarietà, fame nervosa e sgarri del weekend, con consigli su abitudini e NEAT.
+- [[macronutrienti-definizione-muscolare]] — Quanti grammi per kg di proteine, grassi e carboidrati impostare in cut per preservare la massa muscolare, con entità del deficit calorico consigliata.
+- [[mangiare-poco-e-ingrassare]] — Perché non è fisiologicamente possibile: sottostima delle calorie, weekend non conteggiati, diario alimentare come verifica e cosa fare per riprendere a dimagrire.
+- [[metabolismo-lento]] — Perché non esiste davvero: cause reali del blocco del peso tra poca attività e diete troppo aggressive, sintomi attribuiti al metabolismo rallentato.
+- [[non-riesco-a-dimagrire]] — Dieci cause dello stallo e relative soluzioni: calorie nascoste, mangiare troppo poco, sgarri del weekend, sedentarietà, sonno scarso, eliminazione dei carboidrati.
+- [[nuoto-fa-dimagrire]] — Quante calorie brucia il nuoto e come impostarlo con la dieta; perché non riduce pancia e fianchi: il dimagrimento localizzato non esiste.
+- [[pancia-piatta]] — Distinguere gonfiore addominale da grasso viscerale ostinato: impossibilità del dimagrimento localizzato, deficit calorico, circonferenza vita, rischio cardiometabolico, 10 consigli pratici.
+- [[perche-non-dimagrisco-quando-il-metabolismo-si-blocca]] — Dieci cause del peso fermo con relative soluzioni: dimagrimento troppo rapido, adattamento metabolico, stress, sonno, sgarri, condimenti sottostimati, aspettative irrealistiche.
+- [[perdere-5-kg]] — Calcolo dei tempi reali: 7000 kcal per kg di grasso, deficit 350-500 kcal al giorno, alimenti e allenamento, differenze a 40 e 50 anni.
+- [[perdere-massa-grassa]] — Dieci consigli pratici per perdere grasso e non solo peso: distinzione da acqua e massa magra, gestione della fame, sostenibilità, ritmo di perdita.
+- [[quante-calorie-bisogna-bruciare-al-giorno]] — Stima del dispendio giornaliero con Harris-Benedict, metabolismo basale, termogenesi indotta dagli alimenti, NEAT e attività fisica, per impostare il deficit.
+- [[quante-calorie-per-non-ingrassare]] — Calorie di mantenimento e deficit consigliato (350-500 kcal uomini, 200-350 donne) sul TDEE, e cosa fare quando il TDEE è già basso.
+- [[quante-calorie-per-perdere-un-chilo]] — 7000-7500 kcal di deficit per un chilo, tempi realistici e otto consigli pratici; distingue perdita di acqua, grasso e massa magra.
+- [[quanti-carboidrati-al-giorno-per-dimagrire]] — Quota glucidica in base a percentuale di massa grassa e sensibilità insulinica, adipochine e adiponectina, quali fonti scegliere, approcci low-carb iniziali.
+- [[reset-metabolico]] — Dimagrire alzando le calorie dopo diete restrittive: prerequisiti di allenamento coi pesi, vita attiva e sensibilità insulinica, applicazione pratica nel bodybuilding.
+- [[sgarro-dieta-bodybuilding]] — Quante calorie pesa davvero un pasto libero, ogni quanto inserirlo, perché non si ingrassa subito e come rimediare a uno sgarro esagerato.
+- [[smettere-di-fumare-ingrassare]] — I 3-4 kg dopo l'ultima sigaretta: calo del metabolismo basale del 3-5%, perdita dell'effetto anoressizzante della nicotina, carenza dopaminergica e fame nervosa.
+- [[sport-per-dimagrire]] — Dieci sport confrontati per dispendio calorico — corsa, nuoto, kick boxing, boxe, ciclismo, canottaggio, sci di fondo, rugby, squash — ricordando che decide il bilancio calorico.
+- [[tapis-roulant-per-dimagrire]] — Quante calorie si bruciano davvero sul nastro, minuti e velocità consigliati, perché servono comunque deficit calorico e pesi, differenze con la camminata all'aperto.
+- [[tartaruga-addominali]] — I tasselli del retto addominale si vedono solo sotto il 10% di grasso: numero e simmetria decisi dalla genetica, ruolo di crunch e plank, tempi realistici.
+- [[trucchi-per-dimagrire]] — Undici abitudini con base scientifica: deficit calorico, proteine, densità energetica bassa, idratazione, sonno, pianificazione dei pasti, cotture, gestione dello stress.
+- [[voglio-dimagrire-20-kg]] — Dieci strategie per perdere 20 kg da sovrappeso o obesità: diario alimentare, obiettivi realistici via BMI, quota proteica, NEAT, sonno, alcol, costanza.
+
+## Massa muscolare, ipertrofia e forza
+
+- [[alcol-bodybuilding-palestra]] — Sei meccanismi con cui l'etanolo frena forza e ipertrofia: acetaldeide e sintesi proteica, testosterone, sonno, cortisolo; dose occasionale contro consumo cronico, birra.
+- [[alimenti-per-la-massa-muscolare]] — Dieci cibi da mettere in dieta ipercalorica – carne, pesce, uova, yogurt greco, legumi, riso integrale, olio EVO – dentro il surplus calorico necessario.
+- [[aumentare-massa-muscolare]] — Parametri su cui progredire (volume, intensità di carico e percepita, densità, frequenza, tempo sotto tensione), impostazione della scheda, calorie e macro, recupero, tempi realistici.
+- [[aumentare-massa-muscolare-donne]] — Massa muscolare al femminile: fondamentali con bilanciere più accessori, normocalorica o ipercalorica, effetti del profilo ormonale su ritenzione e grasso, schede gambe e full body.
+- [[aumentare-massa-muscolare-senza-palestra]] — Costruire muscolo a casa: corpo libero con sovraccarico progressivo, manubri e kettlebell, sport come nuoto e arrampicata, surplus calorico e limiti rispetto alla palestra.
+- [[bodybuilding]] — Introduzione per principianti: allenamento con sovraccarichi, alternanza tra fasi di massa e definizione, stile di vita, categorie e criteri di gara.
+- [[bodybuilding-donne]] — Perché i pesi non mascolinizzano: rapporto testosterone/estrogeni, ritenzione idrica e distribuzione dell'adipe, schede gambe, dorso-spalle e full body, dieta e categorie.
+- [[colazione-bodybuilding-palestra]] — Perché per la massa la colazione non è obbligatoria: contano surplus e allenamento. Alimenti da preferire, esempi ipercalorici e gestione del pasto pre-workout mattutino.
+- [[come-diventare-grossi]] — Cinque regole per l'aumento di massa: surplus progressivo a step di 200 kcal, multiarticolari con bilanciere, sonno, calorie liquide, più scheda su quattro sedute settimanali.
+- [[come-ingrossare-le-gambe]] — Surplus calorico e costanza per l'ipertrofia degli arti inferiori: progressione di volume, intensità e forza, fasce di ripetizioni, migliori esercizi e scheda su due sedute.
+- [[cosa-mangiare-per-aumentare-la-massa-muscolare]] — Surplus del 10-15% sul fabbisogno, fonti proteiche magre e carboidrati complessi da includere, quantità di aminoacidi e realtà sui tempi di crescita.
+- [[cosa-mangiare-per-ingrassare]] — Lista di alimenti calorici e densi per uscire dal sottopeso, differenza tra prendere peso e aumentare massa magra, surplus sostenibile.
+- [[culturismo]] — Storia e federazioni del bodybuilding da Weider a oggi, bilancio calorico e macro nelle fasi di massa e definizione, monofrequenza contro multifrequenza, tecniche d'intensità.
+- [[definizione-palestra]] — Se alternare ancora massa e definizione o puntare alla ricomposizione: come impostare dieta ipocalorica e allenamento coi pesi per preservare i muscoli mentre cala il grasso.
+- [[dieta-per-il-bodybuilding]] — Alternanza di massa, definizione e mantenimento: surplus calorico, ripartizione dei macronutrienti, alimenti, timing dei nutrienti e incremento di 0,5-1% del peso corporeo al mese.
+- [[dieta-per-ingrassare]] — Aumentare di peso da sottopeso o per fare massa: surplus progressivo, cibi ad alta densità calorica, perché l'aumento rapido è glicogeno e acqua, integratori.
+- [[dieta-per-la-massa-muscolare]] — Surplus calibrato per crescere limitando il grasso: obiettivi della fase di bulk, mini-cut, progressione della performance in palestra, aumentare massa muscolare senza ingrassare troppo.
+- [[ectomorfo]] — Somatotipo longilineo che fatica a mettere massa: caratteristiche antropometriche, fenotipo dissipatore, dieta ipercalorica, variante skinny fat e progressione settimanale di allenamento.
+- [[finestra-anabolica]] — Quanto dura davvero la finestra post-allenamento e cosa mangiare: il timing conta meno di bilancio energetico e ripartizione dei macronutrienti.
+- [[fisico-calisthenics]] — Quanta massa si costruisce a corpo libero: buon stimolo meccanico ma stress metabolico e danno cellulare carenti, limiti sul lower body rispetto al bodybuilding.
+- [[il-segreto-dellipertrofia-funzionale]] — Differenza tra ipertrofia funzionale e ipertrofia estetica da bodybuilding, rapporto tra forza, carico e sezione muscolare; articolo di opinione più che protocollo.
+- [[ingrassare]] — Differenza tra ingrassare e prendere peso, surplus calorico e dieta ipercalorica, cosa mangiare per aumentare di peso senza accumulare solo massa grassa.
+- [[ipertrofia-addominali]] — Far crescere gli addominali con stimoli diversi: sovraccarico su rep-range bassi, alte ripetizioni, isometrie come plank e hollow, e perché la tartaruga resta nascosta in massa.
+- [[ipertrofia-miofibrillare-sarcoplasmatica]] — Differenza tra aumento del sarcoplasma e aumento delle proteine contrattili actina e miosina: quale stimolare, con quali esercizi e rep-range, e cosa conta davvero.
+- [[ipertrofia-muscolare-la-guida-completa]] — Riferimento completo sulla crescita muscolare: tensione meccanica, stress metabolico, danno cellulare, tipi di fibre, volume e frequenza, tempi di crescita, esempi di scheda.
+- [[metodo-hatfield-ipertrofia]] — Allenare separatamente miofibrille e sarcoplasma con carichi e tempi sotto tensione diversi; scheda in split petto-schiena e gambe-spalle secondo Frederick Hatfield.
+- [[mini-cut]] — Brevi fasi di deficit calorico di 2-6 settimane dentro il bulk per limitare l'accumulo di grasso, recuperare sensibilità insulinica ed evitare resistenza anabolica, con esempio pratico.
+- [[natural-bodybuilding]] — Come cambiano allenamento e dieta senza doping: sintesi proteica di 72 ore e multifrequenza, split da 3, 4 o 5 sedute, fase di massa, limiti del natural.
+- [[polpacci-carenti]] — Perché i polpacci non crescono oltre l'alibi genetico: serie, ripetizioni e frequenza, esercizi a gamba tesa e flessa, scheda in palestra e a casa.
+- [[quanto-tempo-per-ingrassare]] — Tempi per aumentare 2 kg (25-40 giorni) con surplus di 350-500 kcal, limite giornaliero di accumulo adiposo, differenza da liquidi e pasti abbondanti.
+- [[ricomposizione-corporea]] — Perdere grasso e mettere muscolo insieme: chi ci riesce, dieta differenziata per percentuale di massa grassa, schede petto-schiena e gambe-spalle-braccia, volume e lavoro metabolico.
+- [[ricomposizione-corporea-femminile]] — Caso studio di una ragazza di 50 kg al 18% di grasso: dieta, scheda con capillarizzazione e fondamentali, tempi reali su cellulite e ritenzione.
+- [[surplus-calorico-massa-muscolare]] — Quanto surplus serve in fase di massa e come impostarlo: bilancio energetico positivo, ipercalorica lineare oppure con ciclizzazione calorica, esempi pratici di calcolo.
+
+## Allenamento: metodologia e programmazione
+
+- [[abc-allenamento-bodybuilding]] — Cosa significa tecnica nel bodybuilding: carico interno contro carico esterno, coinvolgimento muscolare invece di isolamento puro, differenza rispetto alla tecnica dei gesti sportivi.
+- [[addominali-donne]] — Allenare il core al femminile tenendo conto di diastasi post-gravidanza, pavimento pelvico ed esercizi di Kegel, respirazione diaframmatica; circuiti d'esempio e tempi realistici.
+- [[addominali-tutti-i-giorni]] — Frequenza quotidiana inutile: ipertrofia limitata del torchio addominale, funzione stabilizzatrice, nessun effetto sul grasso sottocutaneo; quante serie e ripetizioni servono davvero.
+- [[allenamento-a-buffer]] — Ripetizioni di riserva e scala RPE con notazione @8: differenze rispetto al cedimento muscolare, vantaggi su recupero e tecnica, scheda d'esempio.
+- [[allenamento-a-circuito-schede]] — Come impostare recuperi e giri di un circuito, con schede pronte: full body, addominali, pettorali, al femminile, PHA, CrossFit, tri-set, EMOM.
+- [[allenamento-aerobico]] — Cardio LISS a basso impatto: sistemi energetici, capacità di lavoro, benefici nei principianti, confronto con HIIT e programmi pratici da inserire.
+- [[allenamento-calistenico-programma-benefici]] — Calisthenics tra forza, skills isometriche come front lever e planche, e street workout: benefici, limite sulle gambe, programma settimanale su tre giorni.
+- [[allenamento-cardio]] — Differenze tra LISS, MISS e HIIT per intensità e durata, quando collocare il cardio rispetto ai pesi in massa o definizione, opzioni a casa.
+- [[allenamento-crossfit-come-fare-una-scheda]] — Costruire un WOD da neofita: errori da evitare (troppi esercizi, volume eccessivo, recuperi tagliati), scelta dell'intensità e schede di esempio con forza 5×5.
+- [[allenamento-deltoide-esercizi]] — Allenare selettivamente i tre fasci del deltoide (anteriore, intermedio, posteriore) in palestra o a corpo libero: scheda, cause del dolore alle spalle, stretching.
+- [[allenamento-deltoidi-rapporto-spalle-trapezio]] — Scelta degli esercizi per i deltoidi divisi in fondamentali, complementari e isolamento, con range di ripetizioni, scheda esempio e anatomia dei tre capi.
+- [[allenamento-e-ciclo-mestruale]] — Adattare i carichi alle fasi follicolare e luteale: ruolo di estrogeni e progesterone su forza, recupero e reclutamento muscolare nella donna.
+- [[allenamento-elastico]] — Quando gli elastici servono davvero: picco di contrazione, limiti per l'ipertrofia, esercizi per cosce, glutei e parte alta, schede e circuito da casa.
+- [[allenamento-forza]] — Principi per allenare la forza massimale: tecnica sugli schemi motori, specializzazione sui carichi alti, 1RM, e programmi distinti per principianti, intermedi e avanzati.
+- [[allenamento-gambe-quadricipiti]] — I dieci esercizi migliori per quadricipiti e gambe (squat, affondi, leg press, hack squat, pistol, leg extension) e scheda per la massa degli arti inferiori.
+- [[allenamento-glutei]] — Perché gli esercizietti in quadrupedia non bastano: squat, hip thrust, affondi e stacchi a gambe tese con carichi alti, scheda e versione da casa.
+- [[allenamento-in-multifrequenza]] — Multifrequenza contro monofrequenza split: quando conviene in base al livello dell'atleta, alternanza tra i due approcci e cinque schede, tra cui upper/lower.
+- [[allenamento-metabolico-nel-bodybuilding]] — Stress metabolico e lattato come stimolo ipertrofico: singolo esercizio a cedimento, tecniche d'intensità, allenamenti completi e due circuiti metabolici pronti.
+- [[allenamento-pha]] — Metodo PHA (azione periferica del cuore): alternare esercizi multiarticolari tra parte alta e bassa senza recupero, benefici su circolazione e pressione, circuiti e scheda.
+- [[allenamento-piramidale]] — Variare carico e ripetizioni serie dopo serie: piramidale ascendente, discendente e doppio, percentuali di 1RM e obiettivi di ciascuna versione.
+- [[allenamento-spartan-race-come-prepararla]] — Preparare una Spartan Race o mud race: sviluppare insieme forza, resistenza, corsa, arrampicata e strisciata in un unico mesociclo, con due giornate tipo.
+- [[allenamento-trazioni]] — Cinque metodi per aumentare le trazioni alla sbarra: ripetizioni totali, ladder, AMRAP con back off e doppia progressione, calibrati sul massimale.
+- [[allenarsi-con-il-caldo]] — Rischi dell'esercizio ad alte temperature: disidratazione, frequenza cardiaca, lattato, carico su reni e fegato; orari, abbigliamento e integrazione di sali.
+- [[app-fitness-le-10-migliori]] — Classifica di dieci app per allenarsi e monitorare l'attività: V-Athlete, Google Fit, Apple Fitness+, Strava, Freeletics, Adidas Training; quale scegliere per casa.
+- [[bill-starr]] — Il 5×5 nelle sue versioni: Bill Starr, Reg Park, StrongLifts e Texas Method; progressioni sui multiarticolari, carichi al 70-80% dell'1RM, full body trisettimanale.
+- [[braccio-di-ferro-da-dove-iniziare]] — Preparazione in palestra prima di gareggiare nel braccio di ferro: articolazioni e tendini da irrobustire, scheda di allenamento giorno per giorno.
+- [[breakdance]] — Breaking e hip hop stand up come street dance: toprock e le altre categorie di movimento, cultura hip hop, inclusività e riconoscimento sportivo.
+- [[calisthenic-workout-programmi]] — Cinque metodi per accumulare ripetizioni a corpo libero: piramidale, EDT, EMOM, AMRAP e ripetizioni totali, più tre programmi basati sull'intensità; non per le isometrie.
+- [[calisthenics-programma-per-principianti]] — Da dove partire a corpo libero: esercizi base di spinta, trazione e addome, attrezzatura minima, struttura del programma, pro e contro, ipertrofia col calisthenics.
+- [[calisthenics-vs-bodybuilding]] — Pro e contro delle due discipline: skill, streetlifting, endurance e freestyle contro sovraccarichi in sala pesi; come scegliere in base a obiettivi e gusti.
+- [[calorie-bicicletta]] — Calcolo con la formula MET × peso × ore, valori per pedalata blanda, moderata e intensa, confronto con corsa e camminata, uso per dimagrire.
+- [[calorie-bruciate-corsa]] — Formula di Arcelli (1 kcal per km per kg): perché la velocità non conta, consumo su 1, 3, 5 e 10 km, confronto con la palestra.
+- [[cardio-per-dimagrire]] — Il cardio non brucia i grassi senza deficit calorico: minuti e calorie per peso corporeo, HIIT contro LISS, schede base e avanzata.
+- [[cedimento-muscolare-sempre-e-comunque-utile]] — Confronto di opinioni tra preparatori del natural bodybuilding italiano su serie a cedimento contro buffer: pro, contro e impatto sul recupero.
+- [[cellulite-palestra]] — Miti da sfatare sull'allenamento anticellulite e scheda concreta in palestra: forza in buffer alternata a lavori metabolici, ruolo del microcircolo.
+- [[come-allargare-spalle]] — Esercizi e programmazione per il deltoide e la forma a V: bilanciere, manubri, elastici, corpo libero, volume e frequenza per le categorie estetiche del bodybuilding.
+- [[come-allestire-una-palestra-in-casa]] — I cinque attrezzi indispensabili per l'home gym (bilanciere da 20 kg, manubri componibili, panca, rack), i sette esercizi fondamentali replicabili, costi e dove comprare.
+- [[come-effettuare-il-riscaldamento]] — Warm-up attivo e passivo, generale e specifico: fasi del riscaldamento dinamico, effetti fisiologici e sulla prevenzione infortuni, defaticamento, stretching ed esempi per diversi sport.
+- [[come-ingrossare-le-braccia]] — Bicipiti e tricipiti allenati come muscolo prioritario: 15-20 serie settimanali, esercizi (curl EZ, spider curl, french press, panca stretta, push down) e tecniche d'intensità.
+- [[come-iniziare-a-correre]] — Programmi di corsa da zero differenziati per BMI sopra o sotto 26 e per sportivi non corridori, gradualità, controllo medico e prevenzione di tendiniti.
+- [[come-iniziare-con-lo-strongman-seconda-parte]] — Impostare la preparazione strongman: base di forza sui multiarticolari, anelli deboli da rinforzare, transizione da powerlifting o bodybuilding, logistica degli attrezzi, prevenzione infortuni.
+- [[come-migliorare-riflessi-tempi-di-reazione]] — Allenare le capacità coordinative di reazione: differenza tra riflessi e tempi di reazione, luci reattive, stimoli sonori, macchine lanciapalle, videogames, lavoro sport-specifico.
+- [[complementari-dello-squat]] — Meglio nove serie di squat o squat più affondi e leg extension: varietà di stimoli contro l'adattamento neurale nella programmazione per l'ipertrofia.
+- [[core-stability]] — Cos'è la stabilità del core, muscoli anteriori e posteriori coinvolti, benefici su schiena e prestazione, manovra di Valsalva, scheda di esercizi.
+- [[cose-lo-strength-conditioning]] — Preparazione fisica sport-specifica: ottimizzazione dei sistemi energetici, potenza massimale, aerobica e resistente, criteri di specificità del programma rispetto ad atleta e disciplina.
+- [[crossfit-10-esercizi]] — Glossario del CrossFit: dieci movimenti fondamentali, acronimi come WOD, cosa c'è scritto sulla lavagna del box, video tutorial, allenarsi a casa.
+- [[crossfit-preparazione-atletica-calcio]] — Esercizi generali, speciali e di gara nel calcio: sedute su campo con obiettivi di resistenza aerobica, capacità lattacida e forza in stile CrossFit.
+- [[cyclette-per-dimagrire]] — Cyclette e dimagrimento: calorie bruciate a intensità moderata e alta, durata e frequenza consigliate, perché non brucia il grasso localizzato su pancia e gambe.
+- [[densita-nel-bodybuilding]] — Densità come quarto parametro dopo volume, intensità e frequenza: calcolo su TUT e tempi di recupero, densità sistemica e locale, esempi su distretti uguali o lontani.
+- [[dimagrire-correndo]] — Corsa lenta contro scatti e ripetute HIIT per perdere grasso: consumo calorico reale, critica agli studi sull'EPOC, sensibilità insulinica, uso dei substrati a riposo e salute cardiovascolare.
+- [[doms-rimedi]] — Cosa fare e cosa non fare con gli indolenzimenti post-allenamento: riscaldamento mirato, mobilità, progressione graduale degli stimoli nuovi; perché l'acido lattico non c'entra.
+- [[donne-in-palestra]] — Pesi al femminile: perché non si diventa grosse con testosterone dieci volte più basso, scheda di allenamento, esercizi più efficaci, calorie bruciate calcolate con i MET.
+- [[drop-set-bodybuilding]] — Tecnica di intensità: scalare il carico del 10-25% a fine serie, vantaggi e svantaggi, perché rende di più sui monoarticolari, esempio pratico per il dorso.
+- [[edt-allenamento]] — Escalating Density Training di Charles Staley: coppie di esercizi antagonisti, 6 ripetizioni esplosive con carico 10-12RM, recuperi di 10-20 secondi, schede per blocco muscolare.
+- [[emom]] — Each Minute On the Minute: come impostare minuti, serie e ripetizioni, schemi per forza e per ipertrofia, versione con più esercizi, uso in crossfit e calisthenics.
+- [[esercizi-anticellulite]] — Dieci esercizi per glutei e gambe (hip thrust, squat, leg press, kickback, step up) con scheda su due giorni: la cellulite PEFS si migliora, non si elimina.
+- [[esercizi-calistenici]] — Panoramica del calisthenics dai fondamentali (piegamenti, body row, dip, trazioni, plank) agli skill avanzati: muscle up, front lever, planche, verticale, con progressioni numeriche.
+- [[esercizi-complementari]] — Cosa distingue un complementare dall'esercizio target, come sceglierlo per colmare un punto carente (panca stretta per i tricipiti nella panca piana), elenco per gruppo muscolare.
+- [[esercizi-con-bilanciere]] — Sei movimenti base e linee di forza col bilanciere: rematore, Pendlay row, T bar, panca piana, squat; perché la tirata verticale resta esclusa.
+- [[esercizi-con-manubri]] — Cinque esercizi con manubri (lento avanti, panca, rematore, curl, french press), perché vanno a fine seduta e programma di esempio per forza e ipertrofia.
+- [[esercizi-di-riscaldamento]] — A cosa serve scaldarsi su flusso sanguigno, liquido sinoviale e sistema nervoso: fasi, riscaldamento generale e specifico per corsa e palestra, ruolo dello stretching.
+- [[esercizi-fondamentali]] — Quali sono i sei multiarticolari irrinunciabili (military press, panca, trazioni, rematore, squat, stacco) e perché costruirci sopra progressioni di forza e tensione meccanica.
+- [[esercizi-kettlebell]] — Repertorio kettlebell diviso per scuola: RKC/StrongFirst (swing, snatch, clean, turkish get up, pistol), Girevoy sport, crossfit e protocollo delle 100 ripetizioni a casa.
+- [[esercizi-per-bruciare-calorie]] — Dieci esercizi ad alto dispendio energetico (corda, burpees, squat jump, box jump) e cosa serve davvero per bruciare 500 calorie in una seduta.
+- [[esercizi-per-dimagrire]] — Dieci esercizi ordinati per difficoltà (air squat, swing, double under, burpees) con circuito completo, ridimensionando EPOC e consumo calorico dell'attività fisica.
+- [[forza-esplosiva]] — Massima forza nel minor tempo: sport in cui serve davvero, legame con la forza massimale e la coordinazione intra/intermuscolare, esercizi per svilupparla.
+- [[forza-massimale]] — Test del massimale e calcolo dell'1RM, fattori nervosi che limitano il principiante, mesociclo di 11 settimane con accumulo, intensificazione e scarico.
+- [[forza-muscolare]] — Definizione di forza come capacità condizionale, fattori nervosi e strutturali che la compongono, tassonomia dei tipi di forza (massimale, rapida, resistente).
+- [[forza-resistente]] — Resistere a un carico nel tempo: differenza netta con la resistenza alla forza, sistemi energetici coinvolti, sport di riferimento, esempio pratico di allenamento.
+- [[forza-veloce]] — Carichi al 30-80% mossi alla massima velocità: applicazione su snatch, clean and jerk e push press, gestione della serie al calo di velocità.
+- [[fst-7-cose-e-funziona-veramente]] — Fascia Stretch Training di Hany Rambod: 7 serie finali in pump per stirare la fascia, scheda completa, varianti e valutazione critica dell'efficacia.
+- [[gara-strongman]] — Come sono strutturate le competizioni di Strongman: classificazione degli eventi tra specifici e aspecifici, tipologie di prova, ricadute sulla periodizzazione dell'atleta.
+- [[giant-set]] — Tecnica d'intensità con più di tre esercizi consecutivi: pre-congestione, post-congestione e muscoli antagonisti, con schede per pettorali, glutei, deltoidi e petto-schiena.
+- [[gruppi-muscolari]] — Come raggruppare i muscoli in una scheda: full body, upper-lower e split per spinta e tirata, con schede da 2 a 5 giorni ed esercizi per gruppo.
+- [[heavy-duty-allenamento]] — Il metodo di Mike Mentzer con una sola serie a cedimento per gruppo muscolare: ramping, pre-attivazione, limiti per il natural e scheda in monofrequenza.
+- [[hiit-high-intensity-interval-training-aspetti-scientifici-e-pratici]] — Basi fisiologiche dell'allenamento intervallato ad alta intensità, variabili dei protocolli, effetti su composizione corporea, confronto con la corsa lunga, sicurezza ed esempi di workout.
+- [[hrv-heart-rate-variability]] — Variabilità del battito a riposo come indice oggettivo di stress e recupero: valori normali in millisecondi, relazione con salute e come migliorarla.
+- [[il-riscaldamento-nella-ginnastica]] — Sequenza di riscaldamento nella ginnastica artistica: corsa skippata e calciata, andature, circonduzioni di spalle e anche, stretching dinamico, chiusura acrobatica con capovolte e ruote.
+- [[intensita-nel-bodybuilding]] — Intensità di carico (% del massimale) contro intensità percepita: scala di Borg, RIR, cedimento, e tecniche come il super-set per aumentarla.
+- [[jump-set]] — Alternare due esercizi antagonisti con recupero nel mezzo per aumentare la densità: differenze dal super-set, esempi di abbinamenti e scheda upper/lower a quattro sedute.
+- [[kettlebell-snatch-da-dove-cominciare]] — Avvicinarsi allo snatch con kettlebell: due allenamenti per principianti, esercizi complementari, differenze con swing e jerk, riferimenti sui numeri di ripetizioni in gara.
+- [[la-legge-di-henneman-il-cedimento-il-carico-ottimale]] — Reclutamento delle fibre per ordine di dimensione: già all'80% del massimale sono attive tutte, quindi il cedimento non è necessario per stimolarle.
+- [[la-tecnica-nel-braccio-di-ferro]] — Armwrestling: posizionamento al tavolo, tipi di presa in base al pollice e tecniche di tiro, con il peso relativo di tecnica e forza.
+- [[loop-band-elastici-come-si-usano]] — Bande elastiche ad anello: differenze tra prodotti per materiale e lavorazione, criteri d'acquisto di un set e applicazioni pratiche nell'allenamento.
+- [[mal-di-schiena-ottimizziamo-lallenamento-in-palestra]] — Consigli pratici per ridurre lo stress sul rachide mantenendo lo stimolo: adattamenti di rematore, squat, stacchi, distensioni sopra la testa, curl e core.
+- [[mesociclo-di-allenamento]] — Come costruire un blocco di 3-5 settimane partendo dalla fine: differenze tra microciclo e mesociclo, esempi per forza e per ipertrofia.
+- [[mesomorfo]] — Somatotipo con struttura bilanciata e buon partizionamento calorico: come riconoscerlo, dieta per massa e definizione, schede di esempio petto-schiena e gambe-spalle-braccia.
+- [[migliorare-le-trazioni-zavorrate]] — Prerequisiti di forza (12-15 trazioni complete a ROM pieno), programma per progredire nelle weighted pull-up e come costruire la cintura per il sovraccarico.
+- [[monofrequenza-o-multifrequenza]] — Quante volte a settimana allenare un muscolo: perché il danno muscolare non fa crescere, natural contro doped, con schede split e full body pronte.
+- [[pettorali-alti]] — Porzione clavicolare del gran pettorale: esiste ma non è un muscolo a sé; inclinazione minima 45°, quattro esercizi migliori, versione a corpo libero, scheda.
+- [[pettorali-con-manubri]] — Sviluppare il petto con soli manubri e panca: spinte e croci piane e inclinate, spinta stretta, piegamenti e dip, due schede complete.
+- [[pettorali-corpo-libero-esercizi]] — Petto a casa senza attrezzi: piegamenti e varianti (stretti, diamond, archer, zavorrati), dip alle parallele, V push up, tre allenamenti A/B/C.
+- [[pettorali-scolpiti]] — Dieci consigli per massa e definizione del petto: 20-25 serie settimanali, frequenza 2-3 volte, scelta esercizi, carboidrati post-allenamento, alcol, sonno, tempistiche.
+- [[phat-power-hypertrophy-adaptive-training]] — Metodo di Layne Norton su cinque sedute: due giorni di potenza 3-5 ripetizioni e tre di ipertrofia, scheda completa per principianti e intermedi.
+- [[pof-bodybuilding]] — Metodo Positions of Flexion di Steve Holman: tre esercizi per gruppo muscolare su ROM intermedio, massimo allungamento e massimo accorciamento, con esempi pratici.
+- [[powerbuilding]] — Alzate del powerlifting dentro un programma di bodybuilding: differenze con i due sport, motivi per sceglierlo, scheda esempio su due giorni.
+- [[powerlifting-allenamento-scheda]] — Sport dei tre massimali su squat, panca e stacco: regole di gara e tre chiamate, tecnica e setup, carichi sub-massimali, frequenza settimanale.
+- [[programmazione-allenamento-palestra]] — Come costruire un programma in base all'obiettivo estetico o di forza, manipolando volume e intensità tra sedute e settimane, per livello base, intermedio e avanzato.
+- [[quando-fare-stretching]] — Stretching prima o dopo l'allenamento: lo statico passivo prolungato peggiora la prestazione, il dinamico la migliora e aumenta mobilità e flessibilità.
+- [[quante-calorie-si-bruciano-camminando]] — Consumo della camminata in kcal/kg/km (0,4-0,5 veloce, 0,1-0,3 lenta) rispetto alla corsa, peso, distanza, velocità, salita, tabella su 5 km.
+- [[quante-volte-andare-in-palestra]] — Frequenza settimanale per anzianità d'allenamento, perché gli avanzati devono allenarsi di più, se ha senso allenarsi tutti i giorni, durata della seduta.
+- [[quanti-addominali-al-giorno]] — Routine quotidiana con circuito, plank e lavoro di forza; perché gli addominali non tolgono la pancia e vanno compensati con estensioni del busto.
+- [[rassodare-i-glutei-come-fare]] — Esercizi davvero efficaci per il grande gluteo (squat, stacco, hip thrust, affondi, step up), ruolo della retroversione del bacino, programma su due giorni per neofite.
+- [[recupero-muscolare-dopo-allenamento-palestra]] — Supercompensazione e strategie di recupero muscolare: programmazione, dieta, sonno, recupero attivo, stretching, ghiaccio e acqua fredda, massaggi; quali funzionano davvero.
+- [[rest-pause]] — Tecnica d'intensità a mini-serie con recuperi di 15-30 secondi: percentuali di carico e ripetizioni per forza e ipertrofia, vantaggi, svantaggi, dove inserirla in scheda.
+- [[risultati-palestra]] — Dopo quanto tempo si vedono i cambiamenti (3-4 mesi), guadagni di peso attesi per livello, errori su calorie e progressione dei carichi che li bloccano.
+- [[rpe-palestra]] — Scala di Borg applicata ai pesi: RPE come ripetizioni di buffer dal cedimento, corrispondenza numerica, come misurarla e usarla per l'ipertrofia.
+- [[scala-di-borg]] — Sforzo percepito RPE: scale 6-20, CR-10 e CR-100, rapporto con frequenza cardiaca e VO2max, uso diverso nei pesi (ripetizioni dal cedimento).
+- [[scheda-allenamento-casa]] — Quattro schede pronte per allenarsi in casa: corpo libero per principianti, circuito metabolico da 20 minuti, programma con manubri e calisthenics.
+- [[scheda-allenamento-full-body]] — Programmare la multifrequenza total body: scelta dei multiarticolari, gestione di volume e frequenza, schede A/B per principianti, intermedi e avanzati.
+- [[scheda-allenamento-massa]] — Come costruirsi una scheda per l'ipertrofia con lo schema fondamentale-complementare-accessorio, perché massa e definizione dipendono dal bilancio calorico e non dal rep range.
+- [[scheda-bicipiti]] — Specializzazione braccia: frequenza due volte a settimana, volume fino a 24-26 serie, tecniche di intensità e scheda pratica su due giorni con superserie.
+- [[scheda-bodybuilding]] — Cinque schede pronte con serie, ripetizioni e RPE: monofrequenza, push/pull più full body, total body, programma forza sui tre big e tecniche di intensità.
+- [[scheda-forza]] — Principi della forza (tecnica, carichi pesanti, ROM, ipertrofia di supporto) ed esempi di schede per principianti, intermedi, avanzati, bodybuilding e powerlifting.
+- [[scheda-palestra-dimagrimento]] — Perché non esiste una scheda per la definizione: allenarsi in deficit serve a preservare massa magra; densità locale e sistemica, schede uomo e donna per livello.
+- [[scheda-palestra-principianti]] — Priorità del neofita: apprendimento tecnico, volume in 8-15 ripetizioni, split sostenibile su tre sedute; due programmi pronti in monofrequenza e multifrequenza.
+- [[scheda-pettorali]] — Fasci clavicolari e sterno-addominali del grande pettorale e cinque schede: multifrequenza, monofrequenza, petto carente, petto alto, petto sviluppato con braccia carenti.
+- [[skill-calisthenics]] — Progressioni per dragon flag, plank aperto, front lever, human flag, back lever e planche, divise per livello, e influenza della struttura corporea.
+- [[sovrallenamento]] — Differenza tra overreaching e overtraining, sintomi per riconoscerlo davvero, cause di accumulo di stress e rimedi su programmazione, sonno e nutrizione.
+- [[spartan-race-italia]] — Preparazione alle OCR sulla distanza Sprint: tipi di ostacoli naturali e artificiali, esempio di allenamento, abbigliamento da gara, alimentazione pre e post-gara, integratori.
+- [[spartan-ultra-race-preparazione]] — Oltre 50 km e 60 ostacoli con cancelli orari: modello di prestazione del trail con carichi 15-30 kg, test, programma su corsa lunga, forza e ripetute con burpees.
+- [[split-routine]] — Organizzare i gruppi muscolari sui giorni disponibili: frequenza, specializzazione dei punti carenti, priorità a un'alzata, esempio di scheda su due settimane.
+- [[squat-donne-quanto-peso]] — Quanti chili caricare in base al massimale: percentuali di 1RM, fattori che le determinano (peso corporeo, mobilità, livello, obiettivo) e progressioni per aumentare il carico.
+- [[sticking-point]] — Il punto del ROM in cui il carico rallenta: cause come leva sfavorevole e carenze muscolari, strategie per superarlo su panca, squat e stacco.
+- [[street-workout]] — Branca del calisthenics con trazioni, dip, push up e squat ai parchi: differenze con lo streetlifting e programmi per principianti, intermedi e avanzati.
+- [[streetlifting]] — Disciplina agonistica sulle alzate zavorrate (trazioni, dip, muscle up, squat): come funziona la gara, come iniziare e schede per tre livelli.
+- [[stripping]] — Drop set: serie consecutive senza pause scalando il carico per andare oltre il cedimento, su quali esercizi usarlo come finisher, vantaggi e svantaggi.
+- [[supercompensazione]] — Il modello stimolo-calo-adattamento: perché la prestazione scende prima di salire, i tempi giusti per il richiamo e cosa succede ripetendo lo stimolo troppo presto.
+- [[superserie-palestra]] — Due esercizi consecutivi senza pause: pre-congestione con isolamento prima del multiarticolare e post-congestione, esempi su pettorali, glutei e deltoidi, due schede pronte.
+- [[tabata-training-come-funziona]] — Protocollo 20" lavoro e 10" recupero per otto ripetute fino al 170% del VO2max: benefici, dimagrimento, versioni da 4 e 30 minuti, uso nel bodybuilding.
+- [[test-forza-lunghezza-muscolare-servizio-personal-trainer]] — Basi teoriche dei test fisioterapici di lunghezza e forza muscolare usati dal personal trainer per scegliere esercizi, prese e stretching su base oggettiva.
+- [[tipi-di-forza]] — Forza massima, esplosiva, esplosivo-elastica e esplosivo-elastico-riflessa: definizioni secondo Vittori, esempi di allenamento con percentuali di 1RM e progressioni settimanali sullo squat.
+- [[tonificazione]] — Cosa significa davvero rassodare senza ingrossare: acqua intracellulare contro ritenzione, perché le alte ripetizioni non funzionano, dieta ed esercizi per glutei, braccia, pancia.
+- [[trasporti-allenamento-strongman]] — Tabella di Prilepin applicata ai trasporti strongman: massimale dinamico D.C.E., variabilità della prestazione, proposta di chart volume-intensità per gli eventi di trasporto.
+- [[tut-time-under-tension]] — Tempo sotto tensione: come si legge la notazione 3-1-2-0, tensione meccanica e volume come fattori dell'ipertrofia, benefici e limiti della tensione continua.
+- [[vince-gironda-il-metodo]] — Metodo 8×8 di Vince Gironda: 8 serie da 8 con recuperi brevi, uso come fase di specializzazione o picco di forma, esempi di seduta.
+- [[volume-allenamento-bodybuilding]] — Volume come serie×ripetizioni×carico: calcolo pratico, relazione dose-risposta non lineare con ipertrofia e forza, distinzione tra volume allenante e non allenante, soglia di sovrallenamento.
+- [[wod-a-corpo-libero]] — WOD senza attrezzi per casa o box, divisi per livello: gambe, addominali, cosce e glutei, HIIT, burpees, Cindy e WOD 300, con struttura in quattro fasi.
+
+## Esercizi, tecnica e anatomia
+
+### Petto
+
+- [[allenamento-chest-press-lacertosus]] — Tecnica al chest press Lacertosus per il gran pettorale: regolazione seduta, adduzione scapolare, gomiti bassi, scheda su due giorni.
+- [[allenamento-panca-piana-nella-home-gym-lacertosus]] — Panca piana in home gym: set-up scapolare, discesa senza rimbalzo, scheda su tre giorni con manubri, bilanciere e fermo.
+- [[bench-press]] — Set-up con arco e scapole depresse, unrack, fase eccentrica, errori comuni, muscoli coinvolti e programma su tre giorni con varianti.
+- [[board-press]] — Panca piana con tavoletta: altezza e posizionamento del board, errore del rimbalzo, muscoli coinvolti, utilità e scheda su due giorni.
+- [[chest-press]] — Assetto corretto alla macchina per il gran pettorale: scapole addotte, altezza del sedile, varianti orizzontale, inclinata e verticale, scheda inclusa.
+- [[come-sviluppare-i-pettorali-quando-sono-carenti]] — Dodici esercizi per il petto carente (panca piana, inclinata, stretta, croci, dip, pullover), fasci claveari e sterno-costali, volume ottimale.
+- [[croci-ai-cavi]] — Esecuzione al crossover con setup scapolare corretto, errori comuni, varianti ai cavi alti, bassi, a 90 gradi e su panca, scheda.
+- [[croci-manubri]] — Monoarticolare per il gran pettorale su panca piana: perché si usano pochi kg, scapole addotte e depresse, errori, serie consigliate.
+- [[esercizi-panca]] — Dieci esercizi eseguibili sulla panca: distensioni bilanciere e manubri, spider curl, rematore, lento avanti, croci, french press, squat bulgaro.
+- [[esercizi-petto-alto]] — Fasci clavicolari del gran pettorale: quanto inclinare la panca, analisi biomeccanica e cosa dicono davvero gli studi sull'attivazione.
+- [[esercizi-pettorali-donne-aumentare-seno]] — Allenare i pettorali non aumenta il seno: contano postura e spalle anteposte, esercizi a casa, allenamento dopo cancro mammario.
+- [[flessioni-pettorali]] — Push up per pettorali e tricipiti: set-up scapolare, larghezza mani, varianti su rialzi e zavorrate, scheda di progressione, flessioni ogni giorno.
+- [[floor-press]] — Distensione a terra con bilanciere o manubri: ROM ridotto per sovraccaricare la panca piana, set-up scapolare, errori, scheda d'inserimento.
+- [[panca-al-multipower]] — Confronto biomeccanico tra multipower e panca piana libera: traiettoria vincolata dalle guide, conseguenze articolari sulla spalla, quando sostituisce il bilanciere.
+- [[panca-inclinata]] — Inclinazione minima di 45° per attivare i fasci clavicolari senza spostare il lavoro sul deltoide: set-up scapolare, errori, scheda.
+- [[panca-manubri]] — Distensioni su panca piana con manubri: set-up scapolare, abduzione omerale 45-60°, errori con gomiti troppo larghi, ROM, muscoli, scheda.
+- [[panca-pettorali]] — Set-up (spalle depresse, scapole addotte, petto in fuori) per massimizzare l'ipertrofia del pettorale; bilanciere vs manubri, schede principianti e intermedi.
+- [[panca-piana]] — Esecuzione con bilanciere: set-up scapolare, presa sugli 81 cm, stacco dal rack, muscoli coinvolti, differenze con i manubri, scheda principianti.
+- [[peck-deck]] — Pectoral machine in spinta orizzontale e verticale: regolazione della panca, piano scapolare, errori di setting, varianti e alternative.
+- [[pectoral-machine]] — Isolamento per pettorali come finisher o pre-stancaggio: altezza del sedile, gomiti sotto le spalle, set-up scapolare, errori, esempio di allenamento.
+- [[pettorale-esterno-petto-interno]] — Il pettorale interno non esiste anatomicamente: fasci claveari, sternali e addominali, e perché le croci ai cavi danno quella sensazione.
+- [[piegamenti-sulle-braccia]] — Push up: set-up di plank sulle mani, spalle lontane dalle orecchie, errori su scapole e hollow position, scheda tre settimane.
+- [[push-up]] — Piegamenti per il gran pettorale: tecnica dal plank sulle mani, errori, progressioni da rialzo a zavorra, varianti e muscoli coinvolti.
+- [[push-up-muscoli-coinvolti]] — Muscoli reclutati nei piegamenti, due schede con serie, RPE e progressione del volume, versione a corpo libero e zavorrata.
+- [[tutorial-spinte-con-manubri-piana-ed-inclinata]] — Panca piana e inclinata a 45° con manubri: scapole addotte, avambraccio verticale, respirazione, fasci clavicolari, confronto con il bilanciere.
+
+### Dorso
+
+- [[benefici-trazioni-sbarra]] — Cinque motivi per allenarle: stimolo ipertrofico sul dorso, transfer ad altri esercizi, accesso alle skill calisthenics, confronto con lat machine.
+- [[body-row]] — Australian orizzontali agli anelli, TRX o sbarra bassa: set-up delle spalle, partenza dal gomito, errori, muscoli del dorso, scheda.
+- [[chin-up]] — Trazioni a presa supina: gran dorsale e bicipite brachiale, errori come kipping e ROM incompleto, varianti, progressioni e scheda.
+- [[come-riuscire-fare-prima-trazione-sbarra]] — Progressioni per la prima trazione alla sbarra: lat machine, australian pull up orizzontali e verticali, pull down, schemi settimanali.
+- [[esercizi-dorsali]] — Anatomia della schiena (trapezio, romboidi, gran dorsale, erettori) e sei esercizi: trazioni, lat machine, pull down, rematore, con scheda.
+- [[esercizi-trapezio-superiore-lo-shrug]] — Scrollate per il trapezio superiore: confronto biomeccanico tra shrug a braccia lungo il corpo e con omeri abdotti sopra 90°.
+- [[hyperextension]] — Due esecuzioni alla panca hyperextension, stacco a gambe tese per glutei e femorali oppure crunch inverso per i lombari.
+- [[impariamo-le-kipping-pull]] — Video-tutorial sulle trazioni kipping: differenza da strict e butterfly, controllo del core, passaggio superman-hollow e slancio dei piedi.
+- [[lat-machine]] — Esecuzione corretta per il gran dorsale, gestione di scapole e respirazione, confronto tra prese supina o prona, stretta o larga.
+- [[lat-machine-avanti-dietro-la-testa]] — Dietro la nuca contro avanti: rischi per la spalla, muscoli davvero coinvolti, miti su trapezio e deltoide posteriore.
+- [[lat-machine-presa-inversa]] — Variante con presa supina: perché consente carichi maggiori grazie al bicipite, muscoli coinvolti, rischi articolari e quando inserirla o evitarla.
+- [[lat-machine-presa-stretta-o-larga]] — Presa larga come adduzione sul piano frontale, stretta come estensione: smonta la teoria di spessore e ampiezza della schiena.
+- [[pendlay-row]] — Rematore esplosivo da terra con busto parallelo: flessibilità degli ischiocrurali, errori, confronto col rematore classico, inserimento in scheda.
+- [[pull-down-come-eseguirlo]] — Estensione di spalla a braccia tese per il gran dorsale: setup con scapole neutre, errori, muscoli coinvolti, scheda esempio.
+- [[pulley-alto]] — Variante alta del pulley per la schiena: false grip, spalle basse, gomito verso le SIAS, muscoli coinvolti e scheda.
+- [[pulley-basso]] — Tirata orizzontale per centro schiena e gran dorsale: quattro errori comuni, prese, varianti, serie e progressioni, alterazioni posturali.
+- [[pulley-tutorial-ed-esecuzione]] — Esecuzione base del pulley: setup scapolare, niente oscillazioni del busto, errori frequenti, muscoli coinvolti, come farlo a casa, scheda esempio.
+- [[pullover-manubrio]] — Pettorale o dorsale, ROM che finisce ad altezza occhi, set-up scapolare, gomiti semiflessi, rischi articolari, scheda di allenamento.
+- [[pullover-palestra]] — Chiarisce se allena gran pettorale o gran dorsale secondo la letteratura e se è davvero pericoloso per spalle e schiena.
+- [[rematore-bilanciere]] — Tecnica a busto flesso, ROM e curva lombare, errori comuni, gran dorsale contro trapezio e romboidi, scheda di allenamento e alternative.
+- [[rematore-kettlebell]] — Variante monolaterale con appoggio su panca: guida del gomito, dorso, flessori di braccio e avambraccio, presa, scheda su due giorni.
+- [[rematore-manubrio-esecuzione-ed-errori-comuni]] — Setup su panca, spinta del gomito e adduzione scapolare, errore della rotazione del tronco, dorsali e romboidi, scheda di allenamento.
+- [[renegade-row]] — Remata da posizione di plank con manubri: gran dentato, anti-rotazione del bacino, quattro errori, uso in streetlifting e powerlifting, scheda.
+- [[shrugs-scrollate]] — Scrollate con manubri per il trapezio superiore: errori di esecuzione, varianti su panca inclinata e con rotazione, confronto col bilanciere.
+- [[trazioni-a-casa]] — Alternative senza sbarra: trazioni alla porta, al tavolo, australian con sedie e manico di scopa; attrezzi per home gym.
+- [[trazioni-agli-anelli]] — Instabilità degli anelli, ROM maggiore fino al petto, muscoli coinvolti, confronto con la sbarra e lavori complementari.
+- [[trazioni-alla-sbarra]] — Pull up: presa, depressione delle scapole, errori con spalle alte, muscoli coinvolti, schede di progressione per intermedi e avanzati.
+- [[trazioni-alla-sbarra-muscoli-coinvolti]] — Muscoli attivi nel pull up: gran dorsale, grande rotondo, bicipite, trapezio, romboidi, pettorali; come cambia l'attivazione secondo la presa.
+- [[trazioni-con-elastico]] — Loopband sotto entrambi i piedi per la prima trazione o per volume negli avanzati: errori, oscillazioni, scelta della resistenza, programmazione.
+- [[trazioni-isometriche-frenchy]] — Fermi isometrici in trazione (fronte, 120°, mento sopra la sbarra) e protocollo Frenchy a TUT aumentato; assetto scapolare e varianti.
+- [[trazioni-larghe]] — Presa da 1,5 a 2 volte le spalle: come misurarla, maggiore adduzione omerale, muscoli coinvolti, confronto con le trazioni strette.
+- [[trazioni-mento-trazioni-petto]] — Perché portare il petto alla sbarra non aggiunge lavoro al gran dorsale: oltre il mento intervengono deltoide posteriore e tricipite.
+- [[trazioni-orizzontali-australian-pull-up]] — Australian pull up o body row: l'inclinazione del corpo regola la difficoltà, muscoli coinvolti, propedeutica alle trazioni, scheda e varianti.
+- [[trazioni-presa-inversa]] — Presa supina: bicipite brachiale molto più attivo, più ripetizioni rispetto alla prona, ruolo di gran dorsale e grande rotondo.
+- [[trazioni-presa-neutra]] — Sbarre parallele e presa a martello: assenza di riferimento sul ROM, ampiezza consigliata 1-1,2 volte le spalle, errori, scheda.
+- [[trazioni-strette]] — Definizione di presa stretta (0,8-1,2 volte le spalle), come posizionare le mani, errori, muscoli coinvolti, confronto con le larghe.
+- [[upper-back]] — Schiena alta e movimenti scapolari: upper back machine chest supported, versioni con bilanciere, manubri e cavi, posizione dei gomiti, scheda.
+- [[varianti-di-trazioni]] — Dieci varianti: prone, supine, neutre, anelli, strette, larghe, al petto, muscle up, archer e a un braccio; rischi articolari.
+- [[vertical-row]] — Macchina per tirata orizzontale del dorso: prese, errori, varianti, confronto con rematore e pulley, critica al concetto di spessore.
+
+### Spalle
+
+- [[allenamento-shoulder-press-con-i-manubri-regolabili-selektor-lacertosus]] — Shoulder press con manubri: posizione dei gomiti, linea di spinta verticale, varianti seduto o in piedi, scheda su due sedute.
+- [[alzate-frontali]] — Alzate frontali con manubri o disco per il deltoide anteriore: flessione a 90°, errore del sovraccarico e compenso lombare, alternative.
+- [[alzate-frontali-cavi]] — Isolamento del deltoide anteriore ai cavi: distanza dalla carrucola, impugnatura a barra, maniglia o corda, errori, varianti e alternative.
+- [[alzate-laterali]] — Abduzione sul piano scapolare a 90°: presa supina, neutra o a martello, intra o extrarotazione, panca inclinata, varianti e scheda.
+- [[alzate-laterali-ai-cavi]] — Alzate laterali ai cavi per il deltoide mediale: set-up ai cavi bassi, braccia avanti di 20-30°, errori comuni e scheda.
+- [[alzate-posteriori]] — Alzate a 90° per il deltoide posteriore: busto flesso, errori che spostano il lavoro su trapezio e dorsale, varianti.
+- [[arnold-press-esecuzione]] — Arnold press con manubri: le due fasi con adduzione orizzontale, errori, muscoli coinvolti tra deltoide e trapezio, scheda e alternative.
+- [[distensioni-con-manubri-sopra-la-testa]] — Deltoidi e trapezio superiore: escursione da 90° o completa, rispetto del piano scapolare, distensioni dietro la nuca, seduto o in piedi.
+- [[esercizi-scapole-alate-3-spunti-utili]] — Rinforzo di gran dentato, trapezio medio e inferiore più stretching mirato per correggere le scapole alate, escluse le cause strutturali.
+- [[esercizi-spalle-corpo-libero]] — Sette esercizi per i deltoidi senza pesi: handstand push up, dip, V-push up, bar dip, face pull agli anelli.
+- [[esercizi-spalle-la-guida-completa]] — Otto esercizi per i deltoidi partendo dal military press, muscoli coinvolti, differenze tra obiettivo bodybuilding e powerlifting, più scheda.
+- [[esercizi-spalle-manubri]] — Alzate laterali, posteriori, frontali, cinesi e lento avanti: piano scapolare, errori comuni e scheda progressiva su tre settimane.
+- [[extrarotarori-muscoli-esercizi-ed-altro-ancora]] — Extrarotazioni per la cuffia dei rotatori: sovraspinato, sottospinato e piccolo rotondo, due modalità esecutive, carico ed errori frequenti.
+- [[extrarotazioni-spalla-sempre-comunque]] — Quando le extrarotazioni servono davvero: critica al dogma della cuffia come panacea, valutazione preventiva e casi in cui sono inutili.
+- [[face-pull]] — Tecnica ai cavi alti, movimenti scapolari richiesti, muscoli coinvolti, errori, alternative e come inserirlo come finisher nell'allenamento spalle.
+- [[landmine-press]] — Spinta con bilanciere in landmine da ginocchio a terra: set-up scapolare, stabilità del core, errori, muscoli coinvolti e alternative.
+- [[lento-avanti-in-piedi]] — Overhead press con bilanciere: set-up, errori (spinta di gambe, iperestensione lombare, gomiti), muscoli delle spalle, infortuni e alternative.
+- [[lento-dietro-lento-avanti]] — Presa, mobilità scapolo-omerale ed esecuzione dietro la testa; confronto con il lento avanti su reclutamento dei deltoidi e rischio articolare.
+- [[lento-manubri]] — Manubri a ROM completo: le mezze ripetizioni sopra i 90° spostano il lavoro sul trapezio; errori, varianti e scheda spalle.
+- [[military-press]] — Lento avanti con bilanciere: larghezza presa, gomiti e set-up, errori, muscoli coinvolti, schede per massimali e per massa, alternative.
+- [[push-press]] — Spinta sopra la testa con propulsione delle gambe: quarto di squat, differenze col military press, varianti manubri e kettlebell, programma.
+- [[shoulder-press]] — Macchina per le spalle: assetto del bacino, presa, manovra di Valsalva, gomiti a 45°, errori comuni e scheda di allenamento.
+- [[spinte-in-alto]] — Military press con bilanciere da rack: presa, stacco dal supporto, pressione intra-addominale, gomiti sotto le mani, errori e muscoli coinvolti.
+- [[tirate-al-mento]] — Bilanciere EZ per deltoidi più che trapezio: esecuzione, presa, errori sulla spalla in intrarotazione, scheda di allenamento.
+- [[tirate-al-petto]] — Presa larga e bilanciere dritto, abduzione sotto i 90°, muscoli coinvolti, errori, confronto con le tirate al mento.
+- [[tutorial-spinte-verticali-con-manubri]] — Partenza sotto la linea delle spalle, gomito sotto il manubrio, con o senza schienale, anatomia dei tre capi del deltoide.
+
+### Braccia
+
+- [[bicipiti-a-corpo-libero]] — Trazioni supine, australian, curl agli anelli, pellican push up e isometrie, con due schede per casa e home gym.
+- [[bicipiti-ai-cavi]] — Cinque curl alla cable machine: classico, da pre-allungamento, spider in piedi, a croce, frog curl, più due sedute di esempio.
+- [[bicipiti-alla-panca-scott]] — Smonta il mito del picco e della parte bassa del bicipite; rischio per il gomito col bilanciere dritto, efficacia reale.
+- [[curl-a-martello]] — Hammer curl con presa neutra: enfasi sul brachioradiale oltre a bicipite e brachiale, variante davanti al tronco, esecuzione corretta.
+- [[curl-con-bilanciere]] — Curl in piedi: bilanciere dritto contro EZ, differenze di presa e polso, gomiti fermi, muscoli coinvolti, scheda.
+- [[curl-concentrato]] — Isolamento del bicipite in pre-accorciamento: limiti rispetto a spider curl e panca Scott, errori di oscillazione del busto, come allenarlo.
+- [[curl-manubri]] — Esecuzione classica in piedi e varianti su panca inclinata, alternato, seduto, Scott e spider; bicipite, brachiale e brachioradiale, programmazione.
+- [[curl-manubri-panca-inclinata]] — Bicipite contratto da massimo allungamento con spalla estesa: meno carico sollevabile, errori, cuscino per ipercifosi, scheda bicipiti su due giorni.
+- [[dip-tra-panche]] — Tricipiti con due panche: set-up delle spalle, errori che stressano l'articolazione, scheda con e senza zavorra per principianti e intermedi.
+- [[dip-tricipiti]] — Focus sul tricipite nei dip alle parallele: set-up, discesa, errori comuni da evitare, progressione con zavorra per l'ipertrofia.
+- [[esercizi-avambracci]] — Flessori, estensori e brachioradiale: esercizi per presa e polso, wrist roller, impostazione per forza, ipertrofia e recupero da epicondilite.
+- [[esercizi-bicipiti]] — Curl con manubri e bilanciere: spider curl, panca Scott, curl concentrato, drag curl e varianti a corpo libero al TRX.
+- [[esercizi-braccia]] — Otto esercizi per bicipiti e tricipiti: curl con manubri e bilanciere, spider curl, push down, dip su panca, trazioni con elastico.
+- [[esercizi-braccia-senza-pesi]] — Dieci esercizi per le braccia a corpo libero: trazioni, body row, dip, curl agli anelli, pelican e V-push up, più scheda.
+- [[esercizi-per-braccia-snelle-e-toniche]] — Braccia femminili: perché appaiono flaccide, allenamento upper body a corpo libero, manubri ed elastici, varianti in gravidanza.
+- [[esercizi-per-le-braccia]] — Tredici esercizi per bicipite, brachiale, brachioradiale e tricipite: curl in ogni variante, push down, kick back, french press, dip.
+- [[esercizi-tricipiti]] — Multiarticolari (panca stretta, floor press, board press), isolamento (french press, push down) e corpo libero: dip e diamond push up.
+- [[esercizi-tricipiti-a-casa]] — Cinque esercizi senza palestra ordinati per difficoltà: french press, distensioni da plank, kick back, diamond push up, dip, con scheda.
+- [[estensioni-tricipiti]] — Tecnica del french press, confronto tra kick back, estensioni sopra la testa e push down ai cavi, con errori comuni.
+- [[french-press]] — Estensioni sopra la testa per i tricipiti: esecuzione su panca, versione manubri contro bilanciere, pre-affaticamento, esercizi sinergici e scheda braccia.
+- [[french-press-bilanciere]] — Monoarticolare per tricipiti: apertura dei gomiti e flessione di spalla come errori tipici, varianti esecutive, esempio di scheda ipertrofica.
+- [[kick-back]] — Esercizio monoarticolare per i tricipiti: esecuzione su panca, errori di braccio e gomito, varianti e scheda di allenamento.
+- [[panca-stretta-tricipiti]] — Variante che sposta il lavoro sui tricipiti: larghezza di presa con gomiti perpendicolari al suolo, fasci claveari, errori, scheda.
+- [[piegamenti-a-diamante]] — Diamond push up: la forma a diamante stressa polsi e gomiti, stance corretto 0,8-1x spalle, muscoli coinvolti, scheda tre settimane.
+- [[push-down-tricipiti]] — Estensione di gomito ai cavi per il tricipite: gomito fisso, ROM completo, barra dritta o angolata, errori, scheda di allenamento.
+- [[spider-curl]] — Curl prono su panca inclinata per il bicipite: posizione di scapole e gomiti, errori comuni, confronto con la panca Scott.
+- [[tate-press]] — Esercizio poco diffuso per i tricipiti con manubri: set-up scapolare come in panca, ROM insufficiente e altri errori, scheda.
+- [[zottman-curl]] — Curl con supinazione in salita e presa prona in negativa: bicipite brachiale, brachioradiale e avambracci, errori di setup, scheda di allenamento.
+
+### Gambe e glutei
+
+- [[abductor-machine]] — Perché la macchina abduttori non rassoda l'interno coscia: grande gluteo prevalente sul medio, bruciore da lattato, esecuzione seduta.
+- [[affondi]] — Tecnica degli affondi frontali: pressione del piede, valgo di ginocchio, inclinazione del busto, manubri contro bilanciere, varianti, scheda e alternative.
+- [[affondi-laterali]] — Affondo sul piano frontale per gambe e glutei: ampiezza del passo, angoli, muscoli coinvolti, varianti con manubri e bilanciere.
+- [[allenamento-hip-thrust-con-glute-thruster-lacertosus]] — Hip thrust al Glute Thruster Lacertosus: spinta verticale, estensione d'anca, niente iperestensione lombare, carico dischi più elastici, serie e ripetizioni.
+- [[calf-in-piedi]] — Sollevamento talloni in piedi: esecuzione controllata, rialzo per aumentare il ROM, errori di rimbalzo e apnea, gastrocnemio, varianti e scheda.
+- [[calf-raise]] — Calf in piedi, seduto e alla pressa a confronto per gastrocnemio e soleo; mito della genetica dei polpacci, due schede.
+- [[come-sviluppare-glutei]] — Perché il gluteo resta piatto: retroversione del bacino e osso sacro verticale, mobilità dell'anca, esercizi per rassodare.
+- [[esercizi-adduttori]] — Cinque esercizi per gli adduttori, dall'adductor machine ai cavi: non snelliscono l'interno coscia ma stabilizzano squat, leg press e affondi.
+- [[esercizi-esterno-coscia]] — Abduttori dell'anca (medio gluteo, tensore della fascia lata): perché l'abductor machine non asciuga l'esterno coscia, analisi biomeccanica ed esercizi efficaci.
+- [[esercizi-glutei-palestra]] — Squat, hip thrust, affondi, stacchi a gambe tese, step up con scheda su due giorni; esclude slanci ed elastici.
+- [[esercizi-glutei-uomo]] — Glutei maschili per forza e prestazione: fondamentali (squat profondo, hip thrust, stacchi), complementari e isolamento, con serie e ripetizioni.
+- [[esercizi-interno-coscia]] — Anatomia degli adduttori (grande, lungo, breve, pettineo, gracile), limiti dell'adductor machine e alternative a casa, in ufficio, con attrezzi.
+- [[esercizi-per-dimagrire-le-cosce]] — Squat, affondi, leg press, hack squat e scheda su due giorni; perché adductor machine e cerchi non snelliscono le cosce.
+- [[esercizi-polpacci]] — Calf in piedi, standing e sitting calf machine, polpacci alla leg press: gastrocnemio contro soleo e scheda su due giorni.
+- [[frog-jump]] — Salto della rana per gambe e glutei senza attrezzatura: stance largo con punte extraruotate, errori, uso in circuit training e superset.
+- [[good-morning-esercizio]] — Tecnica del good morning con bilanciere low bar, errori di gestione lombare, muscoli posteriori coinvolti, varianti e scheda.
+- [[hip-thrust-tecnica-ed-accorgimenti]] — Setup con bilanciere per l'hip thrust, errori su direzione di spinta, ROM e iperestensione lombare, progressioni di volume e intensità.
+- [[leg-curl]] — Flessione di ginocchio per gli ischiocrurali nelle tre varianti sdraiato, seduto e in piedi: pregi, difetti, ruolo del crociato posteriore.
+- [[leg-extension]] — Isolamento del quadricipite: posizione del cuscinetto, gradi di flessione, errori comuni, scheda di esempio e se fa male alle ginocchia.
+- [[leg-press-bodybuilding]] — Posizione dei piedi sulla pedana e coinvolgimento di quadricipiti o glutei, varianti, scheda e se sia più sicura dello squat.
+- [[ponte-glutei-esecuzione-corretta]] — Glute bridge: retroversione del bacino, spinta sui talloni, errori comuni, muscoli posteriori coinvolti, varianti esecutive e allenamento a casa.
+- [[sissy-squat-esecuzione]] — Isolamento del quadricipite senza glutei e femorali: esecuzione con talloni sollevati, come sovraccaricare, varianti, errori e rischio per le ginocchia.
+- [[step-up-esecuzione-corretta]] — Salita su rialzo per i glutei: altezza corretta del supporto, errore di spinta con la gamba posteriore, varianti e scheda.
+
+### Core e addome
+
+- [[ab-wheel-addominali]] — Ruota per addominali: tecnica dal ginocchio, rischi per schiena e guaina addominale, scelta dell'attrezzo, schede principianti e avanzati.
+- [[addominali-10-esercizi-corpo-libero]] — Dieci esercizi a corpo libero per il core con serie, ripetizioni e recuperi: ginocchia al petto, toes to bar, plank.
+- [[addominali-alla-sbarra]] — Knee raise e leg raise appesi: flessione d'anca pura, ruolo dell'ileopsoas, presa, mobilità richiesta, oscillazioni e altri errori.
+- [[addominali-alti]] — Anatomicamente non esistono: il retto addominale è unico, si vedono prima per meno grasso sopra l'ombelico; differenza funzionale ed esercizi.
+- [[addominali-bassi]] — Retto addominale poligastrico unico, guaina connettivale e grasso sottombelicale ostinato: non esistono; leg raise, toes to bar, plank monopodalico.
+- [[addominali-in-piedi]] — Core in stazione eretta con rotazione: lanci di palla medica, elastici, tagliare la legna; utile nella preparazione atletica per sport.
+- [[addominali-obliqui]] — Crunch obliquo: esecuzione, errori come strattonare e apnea, anatomia di obliquo interno ed esterno, e perché attiva soprattutto il retto.
+- [[core-stability-esercizi]] — Sei esercizi per il core con esecuzione: hollow position, leg raise, plank e plank laterale, dragon flag, allenamento completo.
+- [[crunch-addominali]] — I crunch non tolgono la pancia: nessun dimagrimento localizzato, grasso intramuscolare, varianti inverso, a libro e per obliqui.
+- [[crunch-inverso]] — Esecuzione staccando l'osso sacro senza slanci, mito degli addominali bassi, carico modulato dalla flessione del ginocchio, scheda addominali.
+- [[crunch-obliqui]] — Crunch laterali con gamba accavallata: lavorano il retto addominale più degli obliqui, esecuzione, scheda con plank laterale e crunch inverso.
+- [[dragon-flag]] — Addominali avanzati: versione isometrica e dinamica, requisiti di forza, errori comuni, muscoli coinvolti e propedeutiche per arrivare alla versione completa.
+- [[esercizi-addominali]] — Dieci esercizi per il core dal crunch al plank, L-sit, leg raise, dragon flag e AB wheel, più cinque errori.
+- [[esercizi-addominali-uomo]] — Addome maschile: perché serve prima dimagrire sul girovita (il dimagrimento localizzato non esiste) e tre esercizi, crunch, cavi, leg raise.
+- [[esercizi-fianchi-uomo]] — Plank laterale, crunch obliqui, side bending, russian twist per obliqui e quadrato dei lombi: nessuno riduce il grasso localizzato.
+- [[esercizi-pancia-piatta]] — Crunch, crunch inverso, plank, leg raise e vacuum per il core, con il perché non riducono il grasso addominale.
+- [[esercizi-per-i-fianchi]] — Plank laterale, russian twist, side bending per obliqui e quadrato dei lombi; il grasso localizzato lo toglie solo il deficit.
+- [[hollow-position]] — Posizione base di core stability nel calisthenics: retroversione del bacino, muscoli attivati, propedeutiche per regolare la difficoltà e quando usarla.
+- [[leg-raises]] — Flessione d'anca alla sbarra, alle parallele o a terra: evitare l'estensione lombare, varianti facilitate knee raise, muscoli addominali coinvolti.
+- [[mountain-climber]] — Esecuzione a corpo libero per il torchio addominale, errori di iperlordosi e anche alte, varianti dinamiche e uso nei circuiti.
+- [[plank-esercizio]] — Isometria per il core: bacino in retroversione, mal di schiena lombare, varianti laterale e inverso, quanti minuti tenerlo.
+- [[plank-inverso]] — Isometria supina per catena posteriore: ischiocrurali, glutei, paravertebrali; richiede estensione di spalla, errori sull'allineamento del bacino.
+- [[plank-laterale]] — Stabilizzazione laterale del core e gluteo medio: appoggio su mano o gomito, allineamento anche, programma a tempo, controindicazioni.
+- [[russian-twist]] — Rotazioni del busto da seduto per gli obliqui: inclinazione a 45°, gambe sollevate, errori, rischio lombare e discale, scheda di allenamento.
+- [[side-bending]] — Analisi biomeccanica delle inclinazioni laterali: smonta l'idea che sciolgano le maniglie dell'amore, ruolo di obliqui e quadrato dei lombi.
+- [[sit-up-esecuzione-varianti]] — Flessione di rachide e anche: sequenza corretta con retroversione del bacino per limitare lo stress lombare, muscoli coinvolti, varianti facilitate.
+- [[toes-to-bar]] — Esercizio CrossFit per core e spalle: hollow e superman, kipping, progressioni ginocchia-petto, controindicazioni con problemi lombari o di mobilità.
+- [[torsioni-del-busto]] — Rotazioni del rachide con bastone: non snelliscono il girovita, unico uso sensato è mobilità e propriocezione prima dello squat.
+- [[v-sit-guida]] — Skill di forza e flessibilità: estensione attiva delle spalle, flessori d'anca, errori, stretching dei femorali, progressioni da L-sit.
+- [[vacuum-addominale]] — Posa da bodybuilding per il trasverso: esecuzione e respirazione, non fa dimagrire, progressione in cinque fasi per principianti.
+
+### Multiarticolari e total body
+
+- [[air-squat]] — Squat a corpo libero per principianti: larghezza e extrarotazione dei piedi, bracing addominale, errori, muscoli coinvolti, circuito d'esempio.
+- [[back-squat]] — Tecnica passo per passo da unrack e walk out, manovra di Valsalva, errori comuni, muscoli coinvolti e programma per migliorarlo.
+- [[box-squat]] — Squat con fermo sul box: altezza, errori, muscoli coinvolti, varianti con bilanciere o manubrio, uso propedeutico e correttivo, con scheda.
+- [[burpees]] — Origine come test di Royal Burpee, esecuzione corretta, errori comuni, muscoli e lavoro cardiovascolare, calorie bruciate, programma nel crossfit.
+- [[esercizi-multiarticolari]] — Definizione, vantaggi e svantaggi dei multiarticolari, elenco per gruppo muscolare, guidati contro pesi liberi, con tre allenamenti di esempio.
+- [[front-squat]] — Squat frontale: presa e alternative con mobilità di spalla o polso limitata, stance, errori comuni, differenze col back squat, scheda.
+- [[goblet-squat]] — Squat col manubrio al petto per imparare l'accosciata prima del bilanciere: limite della presa, stance, errori, vantaggi e svantaggi, programmazione.
+- [[hack-squat]] — Tecnica alla macchina hack squat, posizionamento dei piedi per enfatizzare quadricipiti o glutei, varianti inverso, al multipower e a casa.
+- [[kettlebell-swing-come-farlo]] — Tre varianti di swing (RKC, girevoy, american), catena posteriore coinvolta, errori con spalle e braccia, tre programmi di allenamento.
+- [[overhead-squat]] — Bilanciere sopra la testa: presa, larghezza mani, mobilità di spalle, prerequisiti air squat e front squat, progressione col bastone.
+- [[pin-squat]] — Squat con bilanciere appoggiato sui pin: potenziare angoli deboli e ripartenza, regolazione dell'altezza, errori, inserimento accanto allo squat classico.
+- [[pistol-squat]] — Squat monopodalico a corpo libero: tecnica, equilibrio sul centro del piede, propedeutiche box e anelli, muscoli coinvolti, esempio di allenamento.
+- [[squat-a-casa]] — A corpo libero, con elastico o manubri: esecuzione, errori di stance e ginocchia, esercizi alternativi per gambe e glutei.
+- [[squat-a-corpo-libero]] — Air squat: esecuzione passo passo, muscoli coinvolti, benefici, quante ripetizioni fare e challenge a tempo 20" lavoro / 10" recupero.
+- [[squat-bulgaro]] — Split squat con piede posteriore rialzato: setup su panca, errori, enfasi su glutei o quadricipiti, varianti e scheda.
+- [[squat-con-elastico]] — Elastico sotto i piedi e dietro la nuca: esecuzione, errori di schiena e ginocchia valghe, muscoli coinvolti, utilità per principianti.
+- [[squat-con-manubri]] — Alternativa quando i bilancieri scarseggiano: esecuzione e manovra di Valsalva, errori di retroversione del bacino e sculata, varianti, scheda.
+- [[squat-esecuzione-approfondita]] — Cinque dettagli tecnici con bilanciere: sguardo, inclinazione del busto, anca, ginocchia e piedi, più le fasi di discesa e risalita.
+- [[squat-jump]] — Salto verticale da accosciata: uso di braccia e polpacci, errori, chi non dovrebbe farlo, circuito come finisher o circuit training.
+- [[squat-la-guida-completa]] — Tecnica di base con bilanciere ed errori, muscoli coinvolti e sei varianti: front, hack, multipower, sissy, sumo, bulgaro.
+- [[squat-low-bar-squat-high-bar]] — Bilanciere sul trapezio o sui deltoidi posteriori: inclinazione del busto, muscoli reclutati, quale scegliere tra powerlifting, bodybuilding, weightlifting e neofiti.
+- [[squat-multipower]] — Fa male o no: posizionamento sotto il bilanciere guidato, ROM ridotto, confronto con lo squat libero, muscoli e scheda.
+- [[squat-sumo]] — Stance largo con piedi extraruotati: pressione del piede, errori, muscoli coinvolti, varianti e uso come finisher o esercizio complementare.
+- [[stacchi-gambe-tese]] — Esecuzione per ischiocrurali e glutei, forze di taglio sul rachide, varianti, differenza con gli stacchi rumeni e scheda femorali/quadricipiti.
+- [[stacchi-rumeni]] — Catena posteriore, glutei e femorali: partenza dall'alto o dal basso, quanto scendere, errori, varianti, scheda giorno pesante e giorno volume.
+- [[stacco-da-terra]] — Set-up, prese ed errori nel deadlift con bilanciere, muscoli coinvolti, varianti e due mesocicli di progressione da quattro settimane.
+- [[stacco-da-terra-manubri]] — Partenza dal basso o dall'alto con manubri, errori, catena posteriore, confronto col bilanciere, inserimento in bodybuilding e powerlifting.
+- [[stacco-sumo-o-regular]] — Differenze di set-up, busto, presa e muscoli tra le due varianti, quale imparare prima e quando conviene il sumo.
+- [[stacco-sumo-tutorial-ed-esecuzione]] — Set-up con piedi larghi e presa interna, timing di attivazione muscolare, muscoli allenati e un'alternativa se la tecnica non regge.
+- [[thruster]] — Front squat più spinta sopra la testa nel CrossFit: posizione del bilanciere, gomiti, respirazione, errori comuni.
+- [[wall-ball-impariamo-a-farlo]] — Tecnica del wall ball nel crossfit: distanza dal muro di 40 cm, posizione dei gomiti, estensione d'anca, ricezione della palla medica.
+- [[zercher-squat]] — Squat col bilanciere nella piega dei gomiti: setup con rack e imbottitura, compattamento del core, errori, muscoli coinvolti, scheda a due giorni.
+
+### Calisthenics e corpo libero
+
+- [[allenamento-calisthenics-con-le-parallele-lacertosus]] — Dieci esercizi alle parallele basse per livello: push up inclinati, dip, frog stand, L-sit, verticale, pike push up, planche.
+- [[back-lever-tutorial-ed-esecuzione]] — Progressione completa: german hang, tuck, skin the cat, advanced tuck e straddle; presa prona o supina, condizionamento gomiti.
+- [[come-fare-la-verticale]] — Handstand nel calisthenics: equilibrio sulle mani, blocco articolare, mito dell'hollow, progressioni al muro, muscoli coinvolti e tempi di apprendimento.
+- [[dip-parallele]] — Set-up scapolare, depressione delle spalle, discesa e ROM sicuro; tricipiti, pettorale e deltoide, varianti, zavorra da streetlifting, programmi di allenamento.
+- [[front-lever-esecuzione]] — Skill calisthenics: progressioni da tuck a full lay, muscoli coinvolti, errori su gomiti flessi, bacino fuori linea e depressione delle spalle.
+- [[handstand-progressioni-per-riuscire-a-farla]] — Propedeutiche alla verticale nel calisthenics: V-handstand, muro schiena e pancia, prerequisiti di forza in military press e HSPU, errori comuni.
+- [[handstand-push-up]] — Piegamenti in verticale al muro: prerequisiti di forza in military press, dip e panca, progressione dai v-push up, muscoli coinvolti.
+- [[hindu-push-up]] — Piegamento a corpo libero che passa da v-push up a push up: step esecutivi, errori di timing, muscoli e scheda.
+- [[la-bandiera-human-flag-tutorial-ed-esecuzione]] — Skill di leva orizzontale del calisthenics: set-up di mani e spalle, errori comuni, muscoli coinvolti, progressioni e propedeutiche.
+- [[muscle-up-la-guida-completa]] — Tecnica in quattro fasi, errori comuni, propedeutiche con trazioni esplosive e loop band, muscoli coinvolti e programma di avvicinamento.
+- [[one-arm-pull-up]] — Trazione a un braccio: tecnica scapolare, compensi da evitare, propedeutiche con archer, lat machine monolaterale e anelli, muscoli coinvolti.
+- [[planche-tutorial-ed-esecuzione]] — Skill di calisthenics: gomiti in blocco, scapole protratte e depresse, progressione da planche lean a tuck, straddle, full.
+- [[superman-push-up]] — Piegamento esplosivo con stacco di mani e piedi: esecuzione, errori, muscoli, progressioni da clapping push up e mezzo superman.
+- [[tutorial-muscle-up-agli-anelli]] — Trazione, transizione e spinta con false grip: errori, muscoli coinvolti, propedeutiche da australian verticale, differenze con la versione CrossFit.
+- [[v-push-up]] — Pike push up: set-up di mani e piedi, sbilanciamento in avanti, muscoli coinvolti, progressioni verso la verticale, alternative.
+
+### Mobilità e stretching
+
+- [[caviglia-bloccata-cause-rimedi]] — Dorsiflessione limitata che impedisce lo squat con i talloni a terra: cause, esiti di distorsioni, esercizi e test di mobilità.
+- [[esercizi-di-stretching-routine]] — Routine di allungamento a fine allenamento per polsi, petto, dorsali, spalle, ischiocrurali, quadricipiti, adduttori con frog stretch e collo.
+- [[flessibilita]] — Distinzione tra flessibilità muscolare, elasticità e mobilità articolare: test pratico per capire se il ROM limitato dipende da retrazione muscolare o blocco capsulare.
+- [[metodo-pnf-stretching-propriocettivo]] — Stretching propriocettivo con contrazione isometrica in massimo allungamento: inganna fusi neuromuscolari e organi del Golgi, quanto farne per la flessibilità.
+- [[spalle-avanti-cause-rimedi]] — Cause della postura con spalle anteposte, dalla rigidità capsulare posteriore alla retrazione degli extrarotatori, con l'esercizio correttivo abbinato a ciascuna.
+- [[stretching]] — Cosa promette davvero l'allungamento: mobilità articolare, rischio infortuni e performance, con i primi esercizi per iniziare.
+- [[stretching-adduttori]] — Come le azioni di grande adduttore, gracile e pettineo cambiano l'allungamento: frog pose e spaccata supine al muro, routine.
+- [[stretching-anca]] — Frog routine da 10 minuti per adduttori, estensori d'anca e lombari: sequenza fluida senza pause, cinque respiri per posizione.
+- [[stretching-gambe]] — Esercizi al muro per quadricipite, adduttori, ischiocrurali, glutei, catena posteriore e psoas, con respiri, serie e frequenza settimanale.
+- [[stretching-ischiocrurali-un-esercizio-senza-compensi]] — Allungare bicipite femorale, semitendinoso e semimembranoso a gamba flessa o tesa, evitando l'interferenza del gastrocnemio e i compensi lombari.
+- [[stretching-passivo]] — Statico, assecondando la gravità: come posizionarsi, respirazione, durata delle pose, quanto dolore accettare; indicato per principianti e soggetti rigidi.
+- [[stretching-spalle-quali-esercizi]] — Esercizi per pettorale e bicipite da proni, seduti e alla spalliera, previa valutazione: la spalla può essere rigida o lassa.
+
+### Anatomia e biomeccanica
+
+- [[abduttori]] — Elenco anatomico di abduttori e adduttori dell'anca, ruolo stabilizzatore negli esercizi per gambe, esercizi mirati come finisher e scheda d'esempio.
+- [[acromion-anatomia-e-funzioni]] — Morfologia del processo acromiale e articolazione acromioclaveare: lussazione, impingement subacromiale, utilità discussa dell'acromionplastica chirurgica.
+- [[adduttori]] — Origini e inserzioni dei cinque adduttori dell'anca, zampa d'oca, stretching, esercizi di rinforzo e gestione degli adduttori infiammati.
+- [[anatomia-spalla-muscoli-funzioni]] — Le quattro articolazioni della spalla (sterno-clavicolare, acromion-claveare, scapolo-toracica, gleno-omerale), muscoli, legamenti e biomeccanica dei movimenti.
+- [[apparato-locomotore-sistema-muscolare]] — Ossa, articolazioni e muscoli: rimodellamento osseo con osteoblasti e osteoclasti, ruolo dei pesi contro l'osteoporosi, classificazione delle ossa.
+- [[bacino-anatomia-funzioni]] — Ossa coxali, sacro e sinfisi pubica, articolazione sacroiliaca e biomeccanica, differenze uomo-donna, fratture, legame con il mal di schiena.
+- [[bicipite-brachiale]] — Origine di capo lungo e breve, inserzione radiale, flessione e supinazione, tendinopatia del capo lungo, esercizi mono e multiarticolari.
+- [[bicipite-femorale]] — Capo lungo e breve, azione su anca e ginocchio; stiramento, contrattura e strappo, esercizi di rinforzo e stretching degli ischiocrurali.
+- [[brachioradiale]] — Origine omerale e inserzione sul radio, flessione del gomito in presa neutra, curl a martello, cause di dolore e formicolii.
+- [[caviglia]] — Anatomia dell'articolazione tibio-tarsica, movimenti di dorsiflessione e plantiflessione, legamenti; distorsione, instabilità cronica e frattura di caviglia.
+- [[cifosi-lordosi-palestra]] — Iperlordosi e ipercifosi in palestra: curve fisiologiche normali, esercizi utili, schiena senza lordosi e cosa si può davvero correggere.
+- [[coccige]] — Anatomia dell'osso coccigeo e articolazione sacro-coccigea, muscoli che vi si inseriscono, frattura, cause del dolore e trattamento.
+- [[colonna-vertebrale]] — Le 33 vertebre e le curve fisiologiche del rachide, con esercizi di rinforzo e di mobilizzazione da eseguire in palestra.
+- [[contrazione-muscolare]] — Meccanismo della contrazione a livello di sarcomero e sarcoplasma, rivestimenti connettivali (endomisio, perimisio, epimisio), tipi di contrazione allenanti.
+- [[cuffia-dei-rotatori]] — Origine, inserzione e azione di sovraspinato, infraspinato, piccolo rotondo e sottoscapolare, ruolo del capo lungo del bicipite, esercizi di rinforzo.
+- [[deltoide]] — Anatomia dei tre fasci anteriore, laterale e posteriore, origini e inserzione sulla tuberosità deltoidea, funzioni e attivazione nelle alzate laterali.
+- [[deltoide-posteriore]] — Perché trapezio e dorsale rubano il lavoro: tirate posteriori orizzontali e ai cavi, alzate posteriori, con scheda di esempio.
+- [[dentato-anteriore]] — Origine dalle coste e inserzione sul margine scapolare, ruolo nella stabilità scapolo-omerale, scapole alate, esercizi a corpo libero e sovraccarichi.
+- [[elevatore-scapola]] — Origine cervicale e inserzione sull'angolo superiore della scapola, funzioni su collo e scapola, contrattura, ruolo nel dolore di spalla, esercizi di stretching.
+- [[femorali]] — Ischiocrurali con glute ham raise, nordic ham curl e hyperextension: regolazioni della panca, varianti esplosive e programmazione.
+- [[femore-ossa-e-particolari-anatomici]] — Anatomia dell'osso più lungo del corpo: testa, collo, angolo cervico-diafisario e di torsione, più frattura del femore e trattamento.
+- [[gastrocnemio]] — Anatomia dei due ventri dei polpacci e differenze col soleo, standing e donkey calf raise, stretching, come renderli davvero allenanti.
+- [[glutei]] — Anatomia dei tre glutei ed esercizi realmente efficaci: hip thrust, squat, affondi, stacco, attivazione, con frequenza e volume per forza e ipertrofia.
+- [[gomito-anatomia-dolore]] — Le tre articolazioni omero-ulnare, omero-radiale e radio-ulnare, muscoli di flessione e prono-supinazione, quadri di dolore come epicondilite e borsite.
+- [[gran-dorsale]] — Anatomia delle quattro porzioni del gran dorsale, funzioni su omero, tronco e scapola, esercizi di tirata e stretching.
+- [[grande-gluteo]] — Origini, inserzioni e funzioni del grande gluteo come estensore e rotatore esterno d'anca, esercizi in sala pesi e stretching.
+- [[grande-pettorale]] — Fasci clavicolare, sternocostale e addominale del gran pettorale: anatomia, innervazione, muscoli sinergici, allenamento in palestra e stretching.
+- [[grande-rotondo]] — Muscolo tra scapola e omero: quadrilatero di Velpeau, meccanismi di lesione e dolore, test di lunghezza, stretching ed esercizi.
+- [[grande-trocantere]] — Anatomia del trocantere femorale e sue inserzioni (piriforme, glutei), fratture, sindrome dolorosa GTPS dell'anca, prevenzione con l'allenamento.
+- [[hamstring]] — Anatomia di bicipite femorale, semitendinoso e semimembranoso, leg curl seduto o prono, gestione e riabilitazione delle lesioni muscolari.
+- [[i-meridiani-miofasciali-linea-superficiale-posteriore]] — Linea superficiale posteriore secondo Myers, dal calcagno al cranio: stazioni, connessioni fasciali ed esercizi per allenarla e allungarla globalmente.
+- [[i-muscoli-sinergici-del-movimento-umano]] — Elenco dei muscoli agonisti e sinergici per ogni movimento di spalla, gomito, anca e ginocchio, con video esplicativo.
+- [[il-sistema-muscolo-scheletrico-come-struttura-di-tensegrita]] — Teoria del doppio involucro e tensegrità applicata a muscoli e fasce, con esempio di low back pain da pelvic tilt.
+- [[infraspinato-anatomia-e-funzioni]] — Extrarotatore della cuffia dei rotatori: origine e inserzione, test di forza e di lunghezza, rinforzo, sleeper e cross body stretch.
+- [[ischiocrurali]] — Anatomia di bicipite femorale, semitendinoso e semimembranoso, azione su anca e ginocchio, stretching ed esercizi di rinforzo.
+- [[la-miofascia-plasticita-del-tessuto-connettivo]] — Il tessuto connettivo si rimodella sotto trazioni e compressioni: analogia con le trabecole ossee, tensegrità, ricadute su mobilità e postura.
+- [[la-miofascia-verso-una-visione-olistica-del-corpo-umano]] — La fascia come sistema di comunicazione: collagene, matrice extracellulare, tensegrità, rilascio miofasciale e trigger point per mobilità e postura.
+- [[la-presa-carpea]] — Presa di polso del kettlebell contro impugnatura a pugno: perché rilassa l'avambraccio e permette più ripetizioni nello snatch.
+- [[la-scapola-kinesiologia-applicata-in-palestra]] — Movimenti della scapola applicati agli esercizi con sovraccarico: piano scapolare per le spalle, dolore scapolare, scapole alate ed esercizi correttivi.
+- [[le-fibre-muscolari]] — Classificazione da I a IIx per metabolismo e innervazione, legge di Henneman, depotenziamento delle IIx coi pesi, risvolti pratici.
+- [[lileopsoas-questo-sconosciuto]] — Grande psoas e iliaco: funzioni su bacino e lombari, mito smontato del muscolo corto uguale forte, esercizi e stretching.
+- [[medio-gluteo-anatomia-ed-esercizi]] — Origine, inserzione e fasci anteriori e posteriori con funzioni antagoniste; abduzione d'anca, stabilità del bacino in monopodalica ed esercizi mirati.
+- [[muscoli-addominali]] — Anatomia e funzioni di retto, obliqui e trasverso dell'addome; perché non esistono addominali alti e bassi. Solo teoria, niente esercizi.
+- [[muscoli-agonisti-ed-antagonisti-non-esistono]] — Perché la distinzione agonista/antagonista è fuorviante sui muscoli biarticolari; muscolo primario, stabilizzatore, co-contrazione e allenamento a serie alternate.
+- [[muscoli-arti-inferiori]] — Elenco con origine, inserzione e funzione di tutti i muscoli di coscia, gamba e piede, divisi per compartimento.
+- [[muscoli-avambraccio]] — Anatomia degli strati flessori, estensori e laterali, esercizi di rinforzo per la presa, stretching e cause di dolore o contrattura.
+- [[muscoli-biarticolari]] — Bicipite e tricipite brachiale analizzati come muscoli biarticolari: come la posizione della spalla cambia la loro tensione.
+- [[muscoli-braccio]] — Anatomia di bicipite, brachiale, coracobrachiale e tricipite: origini su scapola e omero, funzioni su spalla e gomito, cenni sull'avambraccio.
+- [[muscoli-coscia]] — Quadricipite, ischiocrurali, adduttori e muscoli esterni: origini, inserzioni e funzioni su anca e ginocchio, divisi per compartimento anteriore, posteriore, mediale.
+- [[muscoli-del-corpo-umano]] — Indice con video di anatomia dell'apparato locomotore: arti inferiori, tronco, schiena, braccia, addominali, con origine, inserzione e funzione.
+- [[muscoli-del-tronco]] — Elenco dei muscoli di torace, dorso e addome: intercostali, diaframma, gran pettorale e strati superficiale, medio e profondo del dorso.
+- [[muscoli-gamba]] — Anatomia di tibiale anteriore, peronei, gastrocnemio e soleo: dorsiflessori e plantiflessori della caviglia, con cenni sul dolore alle gambe.
+- [[muscoli-schiena]] — Strati superficiale, intermedio e profondo: gran dorsale, romboidi, trapezio ed erettori spinali con origini, inserzioni e funzioni.
+- [[muscoli-torace]] — Muscoli intrinseci ed estrinseci della gabbia toracica: intercostali, diaframma, gran pettorale, gran dorsale e trapezio, con funzioni respiratorie e scapolari.
+- [[muscolo-brachiale]] — Flessore puro del gomito sotto il bicipite: attivo con avambraccio supinato, pronato o neutro, esercizi che lo stimolano.
+- [[muscolo-gracile]] — Adduttore mediale della coscia, parte della zampa d'oca con sartorio e semitendinoso: funzioni su anca e ginocchio, come allenarlo.
+- [[muscolo-sartorio-anatomia-funzione-esercizi]] — Muscolo più lungo del corpo: flessione, abduzione ed extrarotazione d'anca, intrarotazione del ginocchio, coinvolgimento in squat, affondi e stacco sumo.
+- [[muscolo-semimembranoso]] — Ischiocrurale con tripla inserzione tibiale, la zampa d'oca profonda: funzioni su anca e ginocchio, borsa gastrocnemio-semimembranoso e dolore.
+- [[muscolo-semitendinoso]] — Ischiocrurale della zampa d'oca superficiale: estensione d'anca, flessione e intrarotazione del ginocchio, rapporto di forza 1:2 col quadricipite, dolore posteriore.
+- [[muscolo-sternocleidomastoideo]] — Muscolo del collo con capo sternale e clavicolare: rotazione e inclinazione del capo, funzione inspiratoria, esercizi, stretching e dolore cervicale.
+- [[muscolo-trapezio]] — Porzioni superiore, media e inferiore con funzioni scapolari a volte antagoniste tra loro; trapezio infiammato ed esercizi mirati.
+- [[obliquo-esterno]] — Origine costale e inserzione su linea alba e cresta iliaca: flessione del rachide, retroversione del bacino, rotazione controlaterale, come allenarlo.
+- [[obliquo-interno]] — Decorso opposto all'obliquo esterno: compressione dei visceri, flessione, rotazione e inclinazione del rachide, attivazione nei crunch.
+- [[omero]] — Osso del braccio tra scapola e avambraccio: testa, tubercoli, epifisi e superfici articolari di spalla e gomito, fratture.
+- [[otturatore-esterno-anatomia-funzioni-ed-esercizi]] — Origine, inserzione e ruolo nel gruppo dei sei rotatori esterni brevi dell'anca; extrarotatore o adduttore, esercizi di stimolo.
+- [[otturatore-interno-anatomia-funzioni]] — Anatomia, decorso attraverso il piccolo forame ischiatico, extrarotazione e stabilizzazione dell'anca, connessione col pavimento pelvico, esercizi.
+- [[perche-la-colonna-vertebrale-ha-le-curve]] — Funzione delle curve del rachide nella resistenza al carico: perché appiattire la lombare in palestra non protegge la schiena.
+- [[piccolo-gluteo]] — Origine iliaca e inserzione sul gran trocantere, abduzione e stabilizzazione del bacino in appoggio monopodalico, esercizi per rinforzarlo.
+- [[piccolo-pettorale]] — Muscolo toraco-scapolare inserito sul processo coracoideo: azione su scapola e respirazione, accorciamento come causa di dolore, esercizi di allungamento.
+- [[piccolo-trocantere]] — Inserzione dell'ileopsoas: impingement ischiofemorale (anca della ballerina), anca a scatto, fratture pertrocanteriche e relazione con l'allenamento in palestra.
+- [[piede-anatomia-biomeccanica]] — 26 ossa e 33 articolazioni tra retropiede, mesopiede e avampiede; movimenti, archi plantari, piede piatto e cavo, alluce valgo, fratture.
+- [[piriforme]] — Anatomia e funzioni, sindrome del piriforme confusa con la lombosciatalgia, diagnosi, terapia, stretching diverso ad anca flessa o estesa.
+- [[presa-prona-supina]] — Differenza tra presa prona, supina, neutra e mista, quale usare nei vari esercizi, prese in lat machine e trazioni.
+- [[quadricipite]] — Retto femorale e tre vasti: origini, estensione del ginocchio e flessione d'anca, esercizi, contratture, stiramenti, stretching, dolori di coscia.
+- [[rachide-anatomia-funzione]] — Colonna vertebrale: 33-34 vertebre per tratto, articolazioni, muscoli intrinseci ed estrinseci, funzioni di sostegno, mobilità e protezione del midollo spinale.
+- [[retto-addominale]] — Origine pubica e inserzione xifo-costale, flessione del tronco e retroversione del bacino, linea alba, crunch, diastasi dei retti.
+- [[romboidi]] — Piccolo e grande romboide sotto il trapezio: origini vertebrali, adduzione scapolare, esercizi di tirata, spessore della schiena, dolori, stretching.
+- [[scapole-addotte]] — Adduzione, abduzione, elevazione e depressione scapolare: perché tenerle addotte e depresse sotto carico ed esercizi di controllo propriocettivo.
+- [[scapole-alate]] — Cause del distacco del margine mediale della scapola dal torace, legame con dolore alla spalla ed esercizi correttivi mirati.
+- [[soleo]] — Anatomia del soleo nel tricipite surale, differenze funzionali col gastrocnemio secondo la flessione del ginocchio, seated calf raise e stretching.
+- [[sottoscapolare]] — Unico intrarotatore della cuffia dei rotatori: origine, inserzione, innervazione, ruolo nella centratura gleno-omerale, equilibrio col sottospinato, stretching e rinforzo.
+- [[sovraspinato]] — Muscolo della cuffia più colpito da tendinite: anatomia, ruolo nell'abduzione e nella stabilizzazione omerale, impingement subacromiale, esercizi di riabilitazione.
+- [[tensore-fascia-lata]] — Origine, tratto ileo-tibiale e azioni sui tre piani; perché si accorcia da seduti dominando sul medio gluteo, con stretching.
+- [[test-gran-pettorale-gran-dorsale-lunghezza-forza]] — Test di lunghezza e forza del gran pettorale (porzioni sterno-costale e clavicolare) e del gran dorsale: retrazioni, protocollo supino.
+- [[test-ischiocrurali-lunghezza-forza]] — Valutazione di lunghezza e forza di semitendinoso, semimembranoso e bicipite femorale: retrazioni, retroversione del bacino, rischio stiramenti.
+- [[test-lunghezza-muscolare-valutazione-dei-rotatori-spalla]] — Test di lunghezza dei rotatori mediali e laterali dell'omero: esecuzione supina, retrazioni intrarotatori, compensi lombari, uso nella scheda.
+- [[tibia-anatomia-e-dolore]] — Anatomia di tibia e perone, articolazioni con ginocchio e caviglia, inserzioni muscolari, frattura e cause del dolore tibiale.
+- [[trasverso-addome]] — Origine, inserzioni e funzione del muscolo addominale più profondo: compressione viscerale, stabilità lombare, core stability, esercizi, mal di schiena.
+- [[tricipite]] — Capo lungo, mediale e laterale: origini, inserzione sull'olecrano, biarticolarità e ruolo della spalla negli esercizi; stretching e lavoro in palestra.
+- [[valutazione-dei-flessori-dellanca-ileopsoas-test-lunghezza-forza]] — Test di Thomas per ileopsoas, retto femorale, tensore della fascia lata e sartorio: esecuzione sul lettino e test di forza.
+- [[viaggio-nella-miofascia-le-tre-reti-olistiche]] — Fascia come sistema olistico: rete neurale, rete fluida e rete fibrosa, premessa ai meridiani miofasciali; terzo articolo della serie.
+
+### Altro
+
+- [[cintura-sollevamento-pesi-qual-suo-corretto-utilizzo]] — Cintura in squat e stacco: pressione intra-addominale, respirazione diaframmatica e apnea, come sceglierla, utilità nel bodybuilding e quando allenarsi senza.
+- [[double-unders]] — Doppio salto della corda: regolare la lunghezza dell'attrezzo, postura, propedeutiche per la coordinazione e progressione dal salto singolo.
+- [[esercizi-fitness]] — Dieci esercizi a corpo libero (air squat, burpees, trazioni, dip, corda, plank) con due schede per casa e attrezzatura minima.
+- [[esercizi-muscoli]] — Dieci esercizi per l'ipertrofia (trazioni, squat, panca, stacco, dip, rematore, hip thrust, military press) con scheda full body.
+- [[esercizi-per-ritenzione-idrica]] — Dieci esercizi per gambe e glutei (squat, hip thrust, good morning, pull through) con serie e ripetizioni contro il gonfiore.
+- [[maniglie-per-flessioni]] — Parallettes per push up: aumento del ROM, prese strette o larghe, esercizi eseguibili e scheda di allenamento su tre giorni.
+- [[quadra-bar-cose-che-vantaggi-ha-e-come-utilizzarla]] — Trap bar (hex bar): stacco senza passaggio al ginocchio, squat, varianti d'uso e vantaggi rispetto al bilanciere dritto.
+- [[respirazione-diaframmatica-importante]] — Diaframma, centro frenico, pressione addominale e trasverso: come funziona la respirazione con la pancia e se è davvero da preferire.
+- [[skip]] — Corsa sul posto a ginocchia alte: appoggio sull'avampiede, ileopsoas e retto femorale come target, uso nel riscaldamento e scheda.
+
+## Integratori
+
+- [[5-htp]] — Precursore della serotonina da triptofano: soppressione dell'appetito e voglia di carboidrati, dosaggi, timing serale, interazioni con antidepressivi e sindrome serotoninergica.
+- [[acido-alfa-lipoico]] — ALA per glicemia e insulino-resistenza nella PCOS, sinergia con inositolo e NAC, scarsa efficacia dimagrante, neuropatia, dosaggio ed effetti collaterali.
+- [[acido-fosfatidico-integratore-bodybuilding]] — Fosfolipide che attiva mTOR e sintesi proteica: quanto le evidenze sull'ipertrofia reggano davvero, dosaggio, timing e sicurezza per chi fa palestra.
+- [[aminoacidi-o-proteine]] — Differenza biochimica tra aminoacidi liberi e proteine, funzioni di insulina, emoglobina e cheratina, timing pre o post allenamento e quale integrare in palestra.
+- [[aminoacidi-per-dimagrire]] — Perché EAA e BCAA non fanno dimagrire da soli: conta l'intake proteico giornaliero; meccanismi ipotizzati, benefici reali, effetti collaterali e controindicazioni.
+- [[aminoacidi-ramificati-bcaa]] — Smonta l'efficacia dei BCAA: leucina, isoleucina e valina bypassano il fegato ma gli studi non reggono; dosaggi, timing, alimenti che li contengono.
+- [[antiossidanti]] — Antiossidanti endogeni (glutatione, SOD, catalasi) ed esogeni: vitamina C ed E, polifenoli, zinco, selenio, coenzima Q10; effetti su stress ossidativo, testosterone, PCOS, sport.
+- [[arginina-integratore]] — Aminoacido condizionatamente essenziale: quali benefici sono reali, dosaggi per il bodybuilding, quando assumerla rispetto all'allenamento, alimenti che la contengono, controindicazioni.
+- [[bcaa-aminoacidi-ramificati-fanno-male]] — Se leucina, valina e isoleucina danneggiano reni o fegato: miti smontati con la fisiologia, dosi sicure e contesti d'uso reali.
+- [[berberina]] — Sensibilità insulinica e glicemia nel diabete tipo 2, colesterolo, intestino irritabile: dosaggio, timing, effetti collaterali e quanto reggono davvero le evidenze.
+- [[beta-alanina-funzione-effetti-dosaggi]] — Effetto tampone sull'acidosi muscolare via carnosina, benefici sull'endurance muscolare locale, dosaggio giornaliero, durata del carico, parestesia e uso nel bodybuilding.
+- [[bevande-energetiche]] — Isotoniche, ipotoniche e ipertoniche a confronto: concentrazione di carboidrati, sali e acqua, utilità negli sport di durata e inutilità in palestra.
+- [[bicarbonato-di-sodio]] — Effetto tampone sull'acido lattico negli sforzi anaerobici lattacidi, dosaggio e disturbi gastrointestinali; usi comuni come antiacido e digestivo, con evidenze.
+- [[bromelina-proprieta-e-funzioni]] — L'enzima del gambo d'ananas non fa dimagrire: azione antinfiammatoria e antiedemigena, ritenzione idrica e cellulite, origine del mito nella dieta South Beach.
+- [[cannella-benefici-proprieta]] — Non fa dimagrire: effetti reali su sensibilità insulinica e glicemia, colesterolo e pressione, dosi giornaliere e rischio cumarina (Ceylon contro cassia).
+- [[carnitina-bodybuilding-palestra]] — Non è un brucia grassi: effetti reali su cuore, cognitività, sensibilità insulinica e recupero post-allenamento, dosaggio e timing per la palestra.
+- [[carnosina-effetti-e-dosi]] — Dipeptide beta-alanina più istidina: funzione tampone del pH muscolare e antiossidante, benefici sulla forza resistente, quando e come assumerla, effetti collaterali.
+- [[caseine-quando-utilizzarle]] — Proteine a digestione lenta: uso pre-nanna contro le whey, dosaggi, alimenti che le contengono in tabella, effetto sul catabolismo notturno.
+- [[chetoni-esogeni-dimagrire]] — Sali ed esteri di beta-idrossibutirrato: perché non fanno dimagrire senza deficit calorico, dosaggi, effetto ergogenico nell'endurance, effetti collaterali gastrointestinali e controindicazioni.
+- [[collagene]] — Idrolizzato, marino, in polvere: dosi e tempistiche per dolore articolare, prevenzione infortuni e salute ossea, evidenze scientifiche reali, cibi che lo contengono, controindicazioni.
+- [[come-assumere-creatina]] — Dose giornaliera, durata del ciclo, timing prima o dopo l'allenamento, perché non assumerla a stomaco vuoto, con quali nutrienti abbinarla e quale forma scegliere.
+- [[condroitina-solfato]] — Glicosaminoglicano per cartilagine e tendini, spesso abbinato alla glucosamina: efficacia reale su artrosi e recupero da infortuni tendinei, dosaggi, effetti collaterali.
+- [[creatina-a-cosa-serve]] — Funzioni ed effetti ergogenici della creatina su forza, recupero, invecchiamento e composizione corporea; monoidrato, dosaggi, effetti collaterali reali e controindicazioni.
+- [[creatina-caffeina]] — Perché assumere caffeina e creatina insieme non conviene: meccanismi opposti, posologie diverse, distanza consigliata tra le due, creatina sciolta nel caffè.
+- [[creatina-cibi-alimenti-dove-si-trova]] — Contenuto di creatina in carni, pesce e frattaglie a confronto con i 3-5 g/die efficaci: perché la dieta da sola non satura le riserve.
+- [[creatina-definizione-muscolare]] — Uso della creatina in definizione: prevenzione del catabolismo, mantenimento della forza, saturazione della fosfocreatina, dosaggi e timing prima o dopo l'allenamento.
+- [[creatina-donne]] — Creatina al femminile: quanti chili fa guadagnare, ritenzione idrica intracellulare, timore di ingrassare, dosaggio giornaliero, accumulo indesiderato su braccia e spalle.
+- [[creatina-doping]] — La creatina non rientra nella lista WADA: posizione ufficiale delle autorità antidoping, casi in cui l'integrazione può diventare problematica, contaminazione dei prodotti.
+- [[creatina-monoidrato]] — Forma monoidrato nel dettaglio: metabolismo di fosfocreatina e ATP, polvere contro capsule, quanta acqua bere, pro e contro, effetti collaterali.
+- [[cromo-integratore]] — Cromo picolinato per glicemia e dimagrimento: efficacia reale quasi nulla salvo carenze, ruolo della cromodulina sull'insulina, quando assumerlo rispetto ai pasti, controindicazioni.
+- [[curcumina]] — Principio attivo della curcuma come supplemento: non fa dimagrire, evidenze su sensibilità insulinica, prostata, gastrite e cognitività, biodisponibilità con piperina, controindicazioni.
+- [[d-ribosio]] — Monosaccaride proposto come ergogenico per ripristinare l'ATP: evidenze scientifiche reali, uso cardiologico, dosaggi, alimenti che lo contengono, effetti collaterali, presenza negli energy drink.
+- [[destrosio-bodybuilding-palestra]] — Glucosio in polvere nel post-workout: calorie, indice glicemico, differenza con lo zucchero da cucina, abbinamento con creatina, dosi e utilità reale per il recupero.
+- [[effetti-caffeina]] — Dosaggi in mg/kg e timing, emivita, effetti su prestazione anaerobica e resistenza, sistema digerente, cellulite, status WADA, controindicazioni ed effetti collaterali.
+- [[egcg]] — Epigallocatechina gallato del tè verde: effetto termogenico e lipolitico, dosaggio, riduzione del colesterolo LDL, alimenti che la contengono, uso nel bodybuilding, effetti collaterali.
+- [[estratto-di-carciofo]] — Cinarina e silimarina per fegato e dispepsia, inulina prebiotica spesso assente nei concentrati, efficacia dimagrante non dimostrata, effetti collaterali ed evidenze scientifiche.
+- [[fabbisogno-aminoacidi-essenziali]] — EAA: funzione proteosintetica, dosaggi e timing prima, durante o dopo l'allenamento, confronto con le proteine alimentari e reale utilità dell'integrazione.
+- [[fitoestrogeni]] — Isoflavoni (genisteina, daidzeina) e lignani: evidenze reali su insulino-resistenza, PCOS, sintomi della menopausa e cognizione, alimenti ricchi, controindicazioni della supplementazione.
+- [[glicina]] — Amminoacido precursore di creatina e collagene: nessun effetto ergogenico dimostrato, possibili benefici su sonno e salute, alimenti fonte, dosi e controindicazioni.
+- [[glucosammina-integratore]] — Glucosamina e condroitina per artrosi e salute di cartilagini e tendini: origine da chitina, dosaggi, evidenze scientifiche reali, effetti collaterali e controindicazioni.
+- [[glutammina-palestra-bodybuilding]] — Perché le evidenze hanno smentito l'uso anticatabolico e per il recupero muscolare, e in quali contesti (intestino, sistema immunitario) resta utile; dosi e timing.
+- [[hmb-integratore]] — Metabolita della leucina dall'effetto anticatabolico: evidenze scarse su ipertrofia nei bodybuilder, utilità in sarcopenia e immobilizzazione, dosaggio, timing e sicurezza.
+- [[inositolo]] — Mioinositolo come vitamino-simile B7: uso in ovaio policistico, insulino-resistenza, fertilità e dimagrimento, dosaggi, effetti collaterali ed efficacia reale secondo la ricerca.
+- [[integratore-ferro]] — Quando integrare ferro: anemia sideropenica, cause della carenza, dosaggi e timing, atleti di endurance, forme in commercio, rischi di tossicità da eccesso.
+- [[integratori-omega-3]] — EPA, DHA e ALA in integrazione: effetti reali su colesterolo, sensibilità insulinica, massa muscolare e cognizione, dosaggi di olio di pesce, mito del dimagrimento.
+- [[integratori-proteine]] — Whey, caseine e proteine vegetali a confronto per composizione amminoacidica e digeribilità, dosi consigliate, quando l'integrazione ha senso e perché non è indispensabile.
+- [[intra-workout-cosa-assumere-durante-allenamento]] — Cosa assumere durante l'allenamento: acqua, elettroliti, carboidrati e maltodestrine, aminoacidi essenziali, BCAA e creatina, con i limiti dati dalla digestione e dalla deplezione di glicogeno.
+- [[la-creatina-male]] — Sicurezza della creatina monoidrato: effetti su fegato e reni, dosi eccessive, prodotto scaduto, e benefici reali su forza, recupero e longevità.
+- [[lecitina-soia]] — Fosfatidilcolina come integratore: effetti su colesterolo, bile e calcoli biliari, funzione cognitiva, alimenti che la contengono, dosi e utilità reale in palestra.
+- [[magnesio-integratore]] — Quale forma scegliere e quando assumerlo (mattina o sera); evidenze reali su sonno, stress, sensibilità insulinica, testosterone, ossa, sindrome premestruale e magnesio supremo.
+- [[mct-trigliceridi-grassi-media-catena]] — Trigliceridi a catena media C6-C12: assorbimento diverso dai grassi a catena lunga, evidenze scarse sul dimagrimento, dosi, alimenti che li contengono ed effetti collaterali.
+- [[migliori-proteine-in-polvere]] — Confronto tra whey, caseine, proteine del latte, uovo, soia e carne per qualità proteica e prezzo; quali scegliere davvero ed evitare acquisti superflui.
+- [[multivitaminico]] — Quando serve davvero integrare vitamine e minerali: carenze da verificare con esami, copertura del fabbisogno con la dieta, marketing dell'integratore risolutivo.
+- [[ossido-nitrico-integratore]] — Vasodilatazione e flusso ematico: precursori arginina e nitrati (verdure a foglia verde), dosaggi, efficacia reale su pump e resistenza, maggiore nei poco allenati, controindicazioni.
+- [[panax-ginseng]] — Adattogeno per stress, ansia e affaticamento: evidenze su cognizione e resistenza, dosaggio e timing, confronto con ashwagandha e rhodiola, effetti collaterali.
+- [[probiotici]] — Fermenti lattici e microbiota: ceppi, differenza con i prebiotici, efficacia secondo gli studi, come sceglierli e assumerli, alimenti fermentati, effetti collaterali.
+- [[proteine-del-siero-del-latte]] — Whey: composizione amminoacidica, isolate, idrolizzate e senza lattosio, kcal e grammi per dose, dose giornaliera, utilità per massa e dimagrimento, controindicazioni.
+- [[proteine-fanno-male]] — Smonta l'idea che le proteine in polvere danneggino reni e fegato o facciano ingrassare: nessuna differenza con il cibo proteico solido.
+- [[proteine-idrolizzate]] — Whey pre-digerite: velocità di assimilazione, differenza con le isolate, quando assumerle pre o post workout, tipi senza lattosio o d'uovo, vantaggi reali.
+- [[proteine-in-polvere-dimagrire]] — Non fanno dimagrire da sole: quando l'integrazione aiuta in definizione, differenze tra whey concentrate, isolate, idrolizzate e caseine per sazietà.
+- [[proteine-in-polvere-per-dimagrire-donne]] — Fabbisogno proteico femminile in dieta ipocalorica per preservare massa magra e sazietà: quando le polveri servono davvero e quanti grammi al giorno.
+- [[proteine-isolate]] — Purezza 90-95% senza lattosio e grassi, microfiltrazione o scambio ionico, kcal per misurino, quando assumerle (spuntino, prima di dormire), pro e contro.
+- [[proteine-lento-rilascio]] — Caseine e altre fonti a digestione lenta: differenze col rilascio rapido, alternative vegetali, se assumerle prima di dormire ha davvero senso.
+- [[proteine-vegane]] — Valore biologico inferiore e come compensarlo in dieta vegana: alimenti fonte, polveri, dosi e uso per la massa muscolare, effetti collaterali.
+- [[proteine-vegetali-in-polvere]] — Confronto tra sette polveri vegane: soia, pisello, riso, grano, lupino, avena e canapa; qualità amminoacidica, uso per la massa, controindicazioni.
+- [[psillio]] — Fibra solubile molto viscosa e poco fermentabile contro stipsi e per sazietà: dosi, quando assumerlo, evidenze reali, controindicazioni, confronto con chia e glucomannano.
+- [[ritenzione-idrica-rimedi-naturali]] — Sei fitoterapici drenanti: Vitis vinifera, bromelina, ippocastano, ginkgo biloba, centella asiatica, mirtillo nero; cosa dicono gli studi e quali risultati non garantiscono.
+- [[sinefrina]] — Alcaloide bruciagrassi da arancio amaro: azione simpaticomimetica sul tasso metabolico, evidenze reali di efficacia, dosaggio, timing, effetti collaterali e abbinamento con caffeina.
+- [[spirulina-proprieta]] — Cianobatterio, non alga: profilo nutrizionale reale, proprietà e benefici documentati contro quelli presunti, effetti collaterali, uso nella malnutrizione e fama di cibo del futuro.
+- [[taurina-bodybuilding-palestra]] — Amminoacido degli energy drink, non proteinogenico: funzioni su glucosio, calcio e temperatura, evidenze limitate sulla performance, dosaggio giornaliero e timing pre-workout.
+- [[vitamina-c]] — Integratori di acido ascorbico: forme chimiche e biodisponibilità, dosaggi e timing, effetti su immunità e infezioni respiratorie negli atleti, limite tollerabile e sovradosaggio.
+- [[vitamina-d-integratore]] — Colecalciferolo D3 contro ergocalciferolo D2, associazione con K2, dosi e assunzione coi grassi; evidenze su testosterone, sensibilità insulinica, menopausa, immunità e funzione muscolare.
+- [[zinco-integratore]] — Zinco picolinato e altre forme a confronto: evidenze su immunità e durata dei virus, sensibilità insulinica, testosterone, PCOS, ossa; dosaggi, timing ed effetti collaterali.
+- [[zma-integratore]] — Zinco monometionina, magnesio aspartato e vitamina B6: cosa dicono le evidenze su testosterone, sonno, recupero e massa muscolare, dosaggi e reale efficacia.
+
+## Diete e protocolli alimentari
+
+- [[3-diete-efficaci]] — Tre approcci in ordine di complessità, dal mangiare come i bisnonni al calcolo del fabbisogno calorico: perché ogni dieta funziona solo creando deficit.
+- [[alimentazione-corretta]] — Cosa significa mangiare sano in concreto: linee guida, qualità delle materie prime, rapporto omega 3/omega 6, versione per dimagrire ed esempio di giornata alimentare.
+- [[alimentazione-in-gravidanza]] — Impostazione mediterranea in gravidanza: aumento di peso raccomandato per BMI, cibi crudi e formaggi da evitare, carenze vegane, integrazione, esempio di dieta.
+- [[alimenti-senza-glutine]] — Elenco di cibi naturalmente senza glutine e prodotti dietoterapeutici, soglia 20 ppm e spiga barrata AIC, alimenti a rischio, gluten free come moda.
+- [[carb-cycling-come-applicarla]] — Ciclizzare i carboidrati in giorni alti e bassi: quando serve davvero, impostazione pratica, menù esempio, uso in massa e definizione.
+- [[cheat-day]] — Differenza tra cheat day e cheat meal, benefici psicologici contro effetti metabolici, quante calorie concedersi e quando inserirlo nella dieta.
+- [[colazione-ideale]] — Equilibrio tra carboidrati, grassi e proteine al primo pasto, opzioni salate e proteiche, cosa non mangiare, varianti per chi dimagrisce e per atleti.
+- [[colazione-proteica]] — Cinque esempi pratici (yogurt greco, uova, toast, pancake, porridge) e 10 alimenti proteici per il mattino, con effetti su sazietà e controllo della fame.
+- [[colazione-proteica-dolce]] — Cinque ricette dolci con grammature: pancake d'albume, porridge, yogurt greco, frullato proteico, ricotta e cacao. Alternativa a biscotti e merendine anche in dieta ipocalorica.
+- [[come-fare-la-dieta]] — Otto principi per impostare l'alimentazione come stile di vita: completezza, quantità e qualità, cibi poco lavorati, abitudini sostenibili, bilancio settimanale, critica alle diete low carb.
+- [[come-mangiare-prima-di-una-gara]] — Alimentazione nel giorno della gara negli sport a impegno energetico misto (calcio, judo, CrossFit): colazione, timing dei pasti, più impegni nella stessa giornata.
+- [[dieta-1000-calorie]] — Menù settimanale completo da 1000 kcal, con porzioni di verdura, frutta e cereali e avvertenze sul deficit eccessivo di un regime così restrittivo.
+- [[dieta-1200-calorie]] — Menù settimanale da 1200 kcal con porzioni standard, perché resta troppo bassa per molte donne e inadatta agli uomini, e come calcolare prima il TDEE.
+- [[dieta-1400-calorie]] — Menù settimanale da 1400 kcal per una perdita di peso lenta e graduale, tarato soprattutto sulle donne, con porzioni di verdura, frutta e cereali.
+- [[dieta-1500-calorie]] — Menù settimanale da 1500 kcal per dimagrire gradualmente, indicato più per le donne, con quantità per porzione e cereali intercambiabili tra loro.
+- [[dieta-1600-calorie]] — Menù settimanale da 1600 kcal per dimagrire lentamente, pensato più per le donne che per gli uomini, con porzioni e sostituzioni tra cereali.
+- [[dieta-1800-calorie]] — Menù settimanale da 1800 kcal, che per molte donne è già normocalorica di mantenimento più che dimagrante, con porzioni e alternative tra cereali integrali.
+- [[dieta-2000-calorie]] — Menù settimanale da 2000 kcal, livello di mantenimento per molti adulti, con porzioni di verdura e frutta e cereali integrali scelti per la sazietà.
+- [[dieta-800-calorie]] — Menù settimanale da 800 kcal, regime fortemente ipocalorico usato prima della chirurgia bariatrica o in stati patologici, con i rischi del fai-da-te.
+- [[dieta-a-punti]] — Sistema a punteggio del dott. Razzoli: punti per alimento secondo grassi, calorie e porzione, soglie per sesso e peso, menù settimanale, controindicazioni.
+- [[dieta-a-zona]] — Ripartizione 40-30-30 di Barry Sears e presunto equilibrio insulina-glucagone: calcolo dei blocchi, cinque pasti, menù settimanale, chili persi e controindicazioni.
+- [[dieta-alcalina]] — Perché l'alimentazione non può modificare il pH dell'organismo: falsi presupposti su acidità, osteoporosi e metabolismo osseo, cibi alcalinizzanti, esempio di menù.
+- [[dieta-allenamento]] — Far combaciare alimentazione e palestra: cosa mangiare prima dell'allenamento, ipocalorica o ipercalorica secondo l'obiettivo, perché non dimagrisci pur allenandoti, addominali scolpiti.
+- [[dieta-antinfiammatoria]] — Infiammazione cronica di basso grado: cause legate a sovrappeso, cibi processati e disbiosi, alimenti permessi e vietati, menù giornaliero, benefici reali e limiti.
+- [[dieta-atkins]] — Le quattro fasi da induzione a mantenimento, restrizione progressiva dei carboidrati simile alla chetogenica, menù di esempio, chili persi, pro e contro.
+- [[dieta-carboidrati]] — Carb lovers: dimagrire senza togliere i carboidrati, perché non sono loro a far ingrassare, amido resistente, ruolo nell'allenamento, esempio di menù.
+- [[dieta-che-funziona]] — Cosa rende una dieta davvero efficace, aderenza e sostenibilità prima della restrizione, con dieci esempi confrontati: flessibile, Dukan, chetogenica, Plank, digiuno intermittente, mima-digiuno, paleo.
+- [[dieta-chetogenica-fa-male]] — Rischi della chetosi per reni e fegato, controindicazioni della chetogenica, e perché il dimagrimento dipende dal deficit calorico e non dall'esclusione dei carboidrati.
+- [[dieta-colesterolo]] — Cosa mangiare per abbassare LDL e alzare HDL, cibi da evitare, limiti della dieta nell'ipercolesterolemia familiare, ruolo di riso rosso fermentato e statine.
+- [[dieta-crudista]] — Raw food sotto i 45 gradi: varianti onnivora, vegetariana e vegana, presunta conservazione degli enzimi, benefici dichiarati anti-aging, carenze e rischi, idee di menù.
+- [[dieta-dei-3-giorni]] — Dieta Birmingham: tre giorni da circa 1000 kcal seguiti da quattro liberi, ripetuti per 3-4 settimane, con menù, pro e contro e limiti reali.
+- [[dieta-dei-legumi]] — Legumi come base dei pasti: proteine vegetali a medio valore biologico da abbinare ai cereali per gli amminoacidi essenziali, fibre, quanto fa dimagrire, menù settimanale.
+- [[dieta-del-gelato]] — Sostituire pranzo o cena con un gelato: calorie medie dei gelati confezionati, gelato proteico, quanto si perde e perché conta solo il deficit calorico.
+- [[dieta-del-gruppo-sanguigno]] — Teoria di D'Adamo e Mozzi su agglutinine e intolleranze: cosa prevedono le diete per gruppo 0, A, B e AB e perché mancano fondamenti scientifici.
+- [[dieta-del-limone]] — Bevanda acqua e limone unita a una restrizione severa da 800-1200 kcal: menù settimanale, vitamina C e acido citrico, perché a far dimagrire è il taglio calorico.
+- [[dieta-del-panino]] — Panini ai pasti principali con proteine magre, verdure e scelta del pane: menù settimanale, quanto fa dimagrire, limiti nutrizionali del consumo quotidiano.
+- [[dieta-del-riso]] — Origine clinica nella dieta Kempner per ipertensione e nefropatie, versione dimagrante attuale, menù di esempio, carenze di vitamine e grassi buoni, peso perso.
+- [[dieta-del-supermetabolismo]] — Fast Metabolism Diet di Haylie Pomroy: rotazione settimanale in fasi glucidica, proteica e lipidica, menù, promessa di 10 kg in 4 settimane e critiche.
+- [[dieta-della-frutta]] — Basare i pasti sulla frutta: carenze nel lungo periodo, quanti kg si perdono, quantità corretta di fibra, acqua e micronutrienti, frutta in palestra.
+- [[dieta-della-pasta]] — Pasta ogni giorno come piatto unico completato con proteine, verdure e olio EVO: cinque pasti, menù settimanale, quanto si dimagrisce mangiandola quotidianamente.
+- [[dieta-delle-uova]] — Molte uova ai pasti principali, circa 400 kcal in sei uova: menù di esempio, monotonia e carenze nutrizionali, controindicazioni di questo schema.
+- [[dieta-detox]] — Presunta eliminazione delle tossine: perché il calo dipende solo dalla restrizione calorica, alimenti permessi e vietati, centrifugati, menù detox da 3 e 7 giorni.
+- [[dieta-di-mantenimento]] — Uscire dal deficit dopo il dimagrimento: risalita graduale verso il fabbisogno, prevenzione dell'effetto yo-yo, nuovo set-point, esempio di settimana normocalorica.
+- [[dieta-disintossicante]] — Perché non servono diete depurative per fegato, reni e intestino: l'infiammazione silente dipende dal grasso viscerale, cosa fare dopo le feste, esempio di menù.
+- [[dieta-donne-bodybuilding]] — Alimentazione femminile in palestra: linee guida per definizione e massa, adattamenti alle fasi del ciclo mestruale, e il mito del diventare grosse coi pesi.
+- [[dieta-drenante]] — Ritenzione idrica e gambe gonfie: acqua, tisane diuretiche e riduzione del sodio, cibi drenanti, menù, perché il calo sulla bilancia è solo liquidi.
+- [[dieta-dukan]] — Le quattro fasi iperproteiche attacco, crociera, consolidamento e stabilizzazione: menù settimanale, perdita rapida iniziale, perdita di massa magra e recupero dei chili.
+- [[dieta-equilibrata-alimentazione-bilanciata]] — Ripartizione dei macronutrienti energetici, piramide alimentare, frequenze di consumo e porzioni standard, suddivisione dei pasti, integratori per lacune nutrizionali, ecosostenibilità.
+- [[dieta-estiva]] — Sette consigli per dimagrire d'estate tra aperitivi e cene fuori: proteine magre, carboidrati integrali, idratazione, attenzione a sale e condimenti, menù di esempio.
+- [[dieta-ferrea]] — Quando una dieta rigidissima ha senso e quando no: aderenza che cala col tempo, autocontrollo e obiettivo, cosa mangiare, tre proposte di menù restrittivo.
+- [[dieta-flessibile]] — Nessun cibo vietato purché rientri nei macro: come impostare calorie e macronutrienti, inserire alimenti sfiziosi restando in target, personalizzazione e sostenibilità nel tempo.
+- [[dieta-fodmap-colon-irritabile]] — Protocollo low-FODMAP per la sindrome del colon irritabile: fruttani, galattani, lattosio, fruttosio e polioli, lista dei cibi da evitare, reintroduzione graduale e menù esempio.
+- [[dieta-gruppo-sanguigno-0]] — Cosa mangiare ed evitare col gruppo 0, classificazione in alimenti positivi, neutri e negativi, e perché l'eventuale dimagrimento dipende dalla restrizione calorica, non dal sangue.
+- [[dieta-in-definizione]] — Impostare il cut nel bodybuilding: passaggio da ipercalorica a normocalorica, deficit di 350-500 kcal, ripartizione dei macronutrienti e quattro menù da 1400 a 2500 kcal.
+- [[dieta-ipercalorica]] — Surplus calorico per aumentare peso e massa muscolare: quante calorie aggiungere, ritmo di crescita per limitare l'accumulo di grasso, alimenti e applicazione nel bodybuilding.
+- [[dieta-iperproteica-dimagrimento]] — Soglie che definiscono l'iperproteica (35% delle calorie o oltre 0,8 g/kg), sazietà, rischi, menù da 1400 kcal e perché i primi chili persi non sono grasso.
+- [[dieta-ipocalorica]] — Calcolare il deficit calorico, impostare calorie e macronutrienti, esempio di menù bilanciato, cause del mancato dimagrimento nonostante l'ipocalorica e ruolo dell'allenamento.
+- [[dieta-ipolipidica]] — Ridurre i grassi sotto il 25% delle calorie o 0,6-0,8 g/kg: rischio sulle vitamine liposolubili A, D, E, K, qualità delle fonti lipidiche, cibi e menù.
+- [[dieta-ipoproteica]] — Terapia dietetica per la malattia renale cronica: 0,6-0,8 g/kg di proteine, restrizione di potassio e sodio, linee guida della Società Italiana di Nefrologia, menù settimanale.
+- [[dieta-lampo]] — Cinque diete lampo a confronto (Atkins, chetogenica, Dukan, detox, Plank), perché il calo rapido è acqua e massa magra, tempi reali per perdere 5 o 10 kg.
+- [[dieta-low-fat]] — Dieta a basso contenuto di grassi: origine dei prodotti light, evidenze che smentiscono i benefici sul profilo lipidico, confronto con la low carb e menù settimanale.
+- [[dieta-macrobiotica]] — Principi yin-yang di Ohsawa, cereali integrali e cibi non raffinati, presunti benefici, carenze e controindicazioni, menù esempio della filosofia alimentare macrobiotica.
+- [[dieta-mediterranea]] — Modello alimentare validato dal Seven Countries Study di Keys: alimenti, porzioni, stile di vita, benefici cardiovascolari e come strutturarla per dimagrire, con quanti chili aspettarsi.
+- [[dieta-metabolica]] — Chetogenica ciclica di Di Pasquale: 4-5 giorni a 30-50 g di carboidrati con ricariche glucidiche nel weekend, avvio, menù settimanale e limiti reali della ricomposizione promessa.
+- [[dieta-militare]] — Schema di 3 giorni a 800-1000 kcal più 4 liberi che promette -5 kg in una settimana: menù, cibi permessi e vietati, assenza di evidenze scientifiche.
+- [[dieta-mima-digiuno]] — Protocollo di Valter Longo su 5 giorni (1100 poi 800 kcal): schema dei pasti, kit Prolon, promesse su longevità, controindicazioni e risultati uguali a qualsiasi restrizione calorica.
+- [[dieta-mountain-dog]] — Approccio di John Meadows per il bodybuilding: più grassi e meno carboidrati, salute del fegato, vitamine liposolubili, GDA, manzo grass-fed, uova ruspanti e salmone selvaggio.
+- [[dieta-normocalorica]] — Dieta di mantenimento dopo il dimagrimento: stimare le calorie di pareggio tra 1500 e 3000 kcal, menù esempio e come non riprendere il peso perso.
+- [[dieta-nutrizionista]] — Menù settimanale esempio da 2000 kcal impostato da una nutrizionista, più dieci consigli pratici su pasti, cibi poco lavorati, frutta e verdura e abitudini sostenibili.
+- [[dieta-ormonale]] — Smonta l'idea degli ormoni dimagranti: insulina, glucagone, GH e cortisolo rispondono in acuto, mentre leptina e ormoni tiroidei seguono il bilancio energetico cronico. Menù settimanale.
+- [[dieta-personalizzata]] — Costruire una dieta su misura partendo da obiettivo, peso, stile di vita, orari e preferenze: app per il conteggio, menù settimanale, versione bodybuilding e nutrigenetica.
+- [[dieta-plank]] — Menù rigido di 7 giorni iperproteico che promette -10 kg in due settimane: cosa prevede, controindicazioni, insostenibilità e recupero del peso con gli interessi.
+- [[dieta-plant-based]] — Differenza tra plant-based, plant-only e vegana secondo la letteratura dal 1999, variante Whole Food Plant Based, alimenti ammessi e due menù giornalieri completi.
+- [[dieta-povera-di-carboidrati]] — Soglie della low-carb (sotto 100 g al giorno o 2,5 g/kg), diete che vi rientrano (Zona, Dukan, paleo, chetogeniche), vantaggi, rischi e menù settimanale.
+- [[dieta-proteica]] — Quando alzare le proteine a 1,6-2 g/kg (dimagrimento, sportivi, anziani, adolescenti, gravidanza), sazietà, cautele con l'insufficienza renale, uso in palestra e menù settimanale.
+- [[dieta-senza-carboidrati]] — Eliminazione quasi totale dei glucidi: confronto tra chetogenica, Atkins e paleo, cosa mangiare, menù giornaliero, benefici dichiarati e rischi di un approccio così estremo.
+- [[dieta-senza-scorie]] — Dieta priva di residui prima di colonscopia, esami o interventi chirurgici: cosa sono le scorie alimentari, tabella dei cibi consentiti e menù settimanale. Non è salutistica.
+- [[dieta-senza-zuccheri]] — Ridurre gli zuccheri aggiunti distinguendoli da quelli naturali di frutta, verdura e latte: cosa mangiare, benefici e conseguenze di un consumo eccessivo di zuccheri semplici.
+- [[dieta-sgonfiante]] — Alimenti drenanti e riduzione del sodio contro ritenzione idrica e gonfiore addominale, con menù esempio e verifica di quanto l'effetto drenante sia davvero reale.
+- [[dieta-sirt]] — Sirtuine e i 20 cibi Sirt: fase iniziale da 1000 kcal con succhi, mantenimento, e perché il calo dipende dalla restrizione calorica e non dai geni della magrezza.
+- [[dieta-vegana-e-bodybuilding]] — Costruire massa muscolare senza alimenti animali: fonti proteiche vegetali, valore biologico e combinazione, sintesi proteica muscolare, energia per l'allenamento ed esempi di colazioni, spuntini e pasti.
+- [[dieta-vegana-per-dimagrire]] — Impostare una dieta vegana ipocalorica: carenze nutrizionali da prevenire, pro e contro rispetto ad altri regimi, esempi di colazione, spuntini e pasti principali.
+- [[dieta-vegetariana]] — Tipologie latto-ovo-vegetariane, ripartizione dei macronutrienti secondo le linee guida SSNV, carenze da evitare, benefici, uso per dimagrire e adattamento a sportivi e bodybuilding.
+- [[dieta-vegetariana-per-dimagrire]] — Perché escludere carne e pesce non basta a perdere peso: ruolo del deficit calorico, quanti chili si perdono davvero e menù settimanale vegetariano bilanciato.
+- [[diete-famose]] — Elenco delle 10 diete più note (mediterranea, Dukan, detox, paleo, chetogenica, Plank, metabolica, gruppo sanguigno, Zona, digiuno intermittente) e criteri per scegliere quella sostenibile.
+- [[digiuno-intermittente]] — Finestre di digiuno da 16 a 36 ore: benefici e controindicazioni, cosa bere, effetti su ricomposizione corporea, massa muscolare, allenamento, autofagia e chetosi.
+- [[flexitariana]] — Vegetarianismo flessibile di Dawn Jackson Blatner: quali prodotti animali restano ammessi, menù giornaliero completo di esempio, se fa davvero dimagrire.
+- [[iifym]] — If It Fits Your Macros: contare solo calorie e macronutrienti senza vietare alimenti, calcolo delle quote, esempio di giornata, vantaggi e limiti sulla qualità.
+- [[intermittent-fasting]] — Digiuno intermittente nelle tre varianti alternate-day, whole-day e time-restricted feeding: cosa mangiare, effetti su massa muscolare, resa in palestra e differenze per le donne.
+- [[la-dieta-del-gruppo-sanguigno-a-cosa-mangiare]] — Cibi consentiti e vietati secondo D'Adamo e Mozzi per il gruppo A, impianto quasi vegetariano e ipoproteico, menù di esempio e critica scientifica.
+- [[la-paleo-dieta]] — Alimenti ammessi ed esclusi nell'approccio paleolitico, menù settimanale completo, perdita di peso attesa e controindicazioni, con i limiti pratici dell'impostazione.
+- [[menu-dieta-proteica]] — Menù settimanale completo con pranzi e cene proteiche, fonti animali e vegetali da abbinare, alimenti da limitare, versione per la massa muscolare.
+- [[nutrient-timing]] — Quanto conta davvero il timing dei pasti: finestra anabolica, timing glucidico e proteico attorno all'allenamento, ridimensionato rispetto a calorie e macro totali.
+- [[piramide-alimentare]] — Strumento educativo SINU e USDA: sei livelli con porzioni giornaliere di frutta, verdura, cereali, proteine e grassi; a cosa serve per pianificare la dieta.
+- [[reverse-diet]] — Aumento graduale delle calorie per uscire da diete ipocaloriche prolungate o dallo stallo del peso, e transizione da definizione a massa limitando il grasso.
+- [[spuntino-pre-nanna]] — Quando lo spuntino serale è utile e quando è superfluo: sazietà in ipocalorica, fabbisogni calorici o proteici alti, allenamento serale a digiuno, esempi pratici.
+
+## Alimenti: calorie e valori nutrizionali
+
+### Carne, pesce e uova
+
+- [[albume-valori-nutrizionali]] — Valore biologico 100, 10% proteine e 89% acqua, zero grassi e colesterolo; avidina, quanto usarne in palestra.
+- [[bresaola-calorie]] — Salume magro e proteico ma ricco di sodio, con nitriti e nitrati; quante volte a settimana a dieta.
+- [[calorie-gamberetti-gamberi]] — Calorie e proteine nobili di gamberi, gamberetti e mazzancolle; sali minerali, omega-3, allergia ai crostacei, quantità a dieta.
+- [[calorie-merluzzo]] — Pesce bianco magro: calorie, proteine ad alto valore biologico, omega-3, differenze con baccalà e stoccafisso, porzioni e condimenti.
+- [[calorie-orata]] — 121 kcal/100 g, proteine nobili, EPA e DHA; differenze tra orata pescata e allevata, quantità a dieta.
+- [[calorie-prosciutto-cotto]] — Salume lavorato: proteine e grassi saturi, sale, nitriti e polifosfati, rischio oncologico, differenza con la spalla cotta.
+- [[calorie-tonno]] — Fresco contro in scatola: calorie, proteine, omega-3 EPA e DHA, iodio e sodio, frequenza di consumo consigliata.
+- [[calorie-uova-valori-nutrizionali]] — 65 kcal a uovo, proteine di alta qualità, profilo lipidico simile all'olio d'oliva; colesterolo e quante a settimana.
+- [[carni-piu-proteiche]] — Classifica delle carni per contenuto proteico: rosse contro bianche, tagli magri, ferro, zinco e B12.
+- [[fesa-di-tacchino-calorie]] — 24 g di proteine e 1,2 g di grassi per 100 g, crudo contro affettato, senza glutine, saziante.
+- [[petto-di-pollo-calorie-e-valori-nutrizionali]] — Proteine e micronutrienti (zinco, selenio, ferro eme), confronto petto vs coscia con pelle, frequenza settimanale, ormoni e antibiotici.
+- [[quante-proteine-contiene-un-uovo]] — Circa 6-7 g di proteine per uovo medio, differenze per pezzatura, albume 10,7 g/100 g, albumina proteina nobile.
+- [[quante-uova-a-settimana]] — Quantità settimanale tarata sui valori ematici di colesterolo, LARN 2-4 uova, tabella di riferimento: smonta il divieto generalizzato.
+- [[salmone-affumicato-calorie]] — Tabella comparativa con salmone fresco selvaggio e allevato: omega-3 EPA e DHA ridotti, sodio molto alto dalla salatura.
+- [[salome-calorie-valori-nutrizionali]] — Valori nutrizionali del salmone atlantico e differenze tra selvaggio e allevato: grassi, omega-3 EPA e DHA, costo, reperibilità.
+- [[sgombro-calorie]] — Pesce azzurro da 170 kcal: valori CREA, proteine nobili, EPA e DHA, potassio e fosforo, frequenza di consumo.
+- [[trota-valori-nutrizionali]] — 120-140 kcal, proteine ad alto valore biologico, omega-3, sodio basso; la trota salmonata non è una specie.
+- [[uova-nellalimentazione-ed-in-cucina]] — Albume e tuorlo, grassi saturi e colesterolo, se fanno davvero male a colesterolo e fegato, proteine nobili.
+
+### Latticini
+
+- [[fiocchi-di-latte]] — Formaggio fresco da 95-115 kcal: proteine ad alto valore biologico, grassi variabili con panna aggiunta, lattosio, grammature a dieta.
+- [[formaggio-fa-ingrassare]] — Tabella con calorie, grassi e proteine di 17 formaggi: perché nessuno fa ingrassare da solo, quali scegliere a dieta e in che quantità.
+- [[latte-bodybuilding]] — Quanto latte bere per la massa, porzione LARN da 125 g, scremato o intero, assunzione pre-nanna.
+- [[latte-fa-male-o-bene]] — Miti su latte e colesterolo, ossa, cancro e IGF-1, intolleranza al lattosio, apporto di calcio dei latticini.
+- [[yogurt-greco]] — Filtrazione extra, proteine alte e lattosio ridotto; valori nutrizionali di intero e magro 0-2-5%, confronto con lo yogurt tradizionale.
+
+### Cereali e derivati
+
+- [[avena]] — Valori nutrizionali e confronto con grano e riso, differenza tra fiocchi, crusca e farina, betaglucani, glutine e avenina.
+- [[calorie-pizza]] — Una margherita arriva a 1000 kcal: valori CREA per trancio e pizza intera, farciture, scelta a dieta.
+- [[calorie-riso-ed-proprieta-nutrizionali]] — Calorie e valori USDA di riso bianco, basmati, integrale, venere e gallette; indice glicemico 89 e uso sportivo.
+- [[fiocchi-di-avena]] — Valori CREA, beta-glucani e fibre solubili, effetto su glicemia e microbiota, versioni fino a 14 g proteine, porzioni e ricette.
+- [[gallette-di-riso]] — Sostituto secco del pane da 5-8 g: densità calorica e indice glicemico alti nonostante l'immagine dietetica, amido, digeribilità, uso corretto a dieta.
+- [[il-pane-fa-ingrassare]] — Perché indice glicemico alto non significa ingrassare, che pane scegliere a dieta e quanto mangiarne al giorno.
+- [[la-pasta-fa-ingrassare]] — Perché il bilancio energetico conta più della pasta: porzioni tollerate, pasta a cena, differenze tra tipi e integrale.
+- [[mais-alimentazione]] — Cereale senza glutine povero di lisina e triptofano, valori nutrizionali, derivati industriali (sciroppo di fruttosio, maltodestrine), impatto ambientale.
+- [[pane-calorie-valori-nutrizionali]] — Tabella calorie e macro per pane 0, 00, integrale e di segale; conta più la farcitura.
+- [[pane-di-segale-fa-ingrassare]] — Non fa ingrassare: valori per 100 g e porzione da 50 g, fibre, confronto con altri pani.
+- [[pane-proteico]] — Farine di legumi e proteine del siero: meno carboidrati, più proteine e fibre a pari calorie del pane.
+- [[pasta-integrale-benefici-dimagrire]] — Non fa dimagrire da sola: più fibre (almeno 7 g/100 g), minerali e vitamine B rispetto alla raffinata.
+- [[pasta-riso-patate]] — Confronto calorie e macro tra le tre fonti glucidiche, quale scegliere a dieta e alla sera, solanina.
+- [[quinoa-calorie-e-valori-nutrizionali]] — Pseudo-cereale senza glutine ricco di lisina e proteine complete: calorie, fibre, grassi insaturi, se fa ingrassare, adatta ai celiaci.
+- [[seitan-calorie]] — Glutine di frumento: 150-180 kcal, proteine vegetali carenti di lisina e treonina, niente colesterolo, da abbinare ai legumi.
+
+### Legumi
+
+- [[ceci-calorie]] — 132 kcal/100 g, valori CREA secchi e cotti, amido e fibre, amminoacidi limitanti, sazietà e porzioni.
+- [[fagioli-calorie-valori-nutrizionali]] — Valori CREA per freschi, secchi e cotti, antinutrienti, meteorismo e confronto con lenticchie, ceci e soia.
+- [[fave-calorie]] — 81 kcal per 100 g cotte, valori CREA secche e cotte, amminoacidi limitanti solforati, quanto mangiarne a dieta.
+- [[legumi]] — Carboidrati, proteine vegetali e fibre di fagioli, ceci, lenticchie; secchi vs freschi, decorticati per la digestione, quantità settimanali.
+- [[lenticchie]] — Valori nutrizionali crude e cotte, ferro non emico per vegetariani, fibre, flavonoidi, tipi di lenticchie ed effetti collaterali.
+- [[lupini-calorie]] — 119 kcal, proteine record tra i legumi, valori CREA, pochi antinutrienti, effetti su pressione e sensibilità insulinica.
+- [[soia-proprieta-e-valori-nutrizionali]] — Valori USDA, isoflavoni e fitoestrogeni, effetti sulla tiroide, lecitina e derivati: latte di soia, tofu, tempeh, farina.
+
+### Verdura
+
+- [[barbabietola-rossa-calorie-proprieta-benefici]] — Circa 20 kcal, ricca di nitrati per l'ossido nitrico e la performance, betanina e potassio, proprietà e benefici.
+- [[broccolo-proprieta]] — 33 kcal, fibre sazianti, composti solforati e rischio tumori, valori USDA, quanto mangiarne a dieta, controindicazioni.
+- [[calorie-patate]] — Calorie e amido resistente del tubero, fibra e potassio nella buccia, solanina e germogli, versioni fritte e americane.
+- [[calorie-zucca]] — 25-30 kcal per 100 g, 95% acqua, vitamina A e fibre; bassa densità energetica, quantità a dieta.
+- [[carote-calorie-proprieta-e-benefici]] — Poche calorie e zuccheri anche da cotte, vitamina A da abbinare ai grassi, ciuffo ricco di vitamina E.
+- [[finocchio-valori-nutrizionali]] — Ortaggio ipocalorico, 30-35 kcal per porzione da 200 g: tabelle crudo e cotto, potassio, vitamina C, effetto carminativo, porzione consigliata.
+- [[i-pomodori-fanno-ingrassare]] — 21 kcal per 100 g, 94% acqua, licopene e fibra: perché non fanno ingrassare, quanti mangiarne.
+- [[lattuga-calorie-valori-nutrizionali]] — Calorie quasi nulle e valori nutrizionali, varietà di Lactuca sativa, differenza tra lattuga e insalata, effetto sul sonno.
+- [[le-patate-fanno-ingrassare]] — 72 kcal per 100 g: densità calorica inferiore a pasta e pane, effetto della cottura e del purè.
+- [[patata-americana-calorie-proprieta]] — 85 kcal/100 g, beta-carotene e vitamina A, potassio, fibre; confronto con la patata comune e controindicazioni.
+- [[pomodori-proprieta]] — Calorie basse ed effetto saziante, licopene, vitamine A e C, contenuto di nichel, varietà e uso a dieta.
+- [[topinambur-calorie-proprieta]] — Tubero con inulina al posto dell'amido, 70 kcal, prebiotico per l'intestino; gonfiore e flatulenza come effetti collaterali.
+- [[tuberi-nellalimentazione-ed-in-cucina]] — Perché non fermarsi alla patata: elenco di tuberi commestibili reperibili al supermercato, micronutrienti, solanina delle solanacee.
+
+### Frutta
+
+- [[albicocca]] — 28 kcal per 100 g, pochi zuccheri, vitamine e potassio; fresca contro sciroppata, amigdalina dell'armellina, porzione.
+- [[anacardi-calorie-e-proprieta]] — Frutta secca da 200-250 kcal a manciata: monoinsaturi, potassio e magnesio, cardolo, rischio aflatossine, uso in chetogenica.
+- [[ananas-proprieta-benefici]] — Non brucia i grassi: 10 g di zuccheri per 100 g, fibre sazianti, bromelina, colesterolo e diabete.
+- [[arachidi]] — Valori CREA: proteine vegetali, 84% grassi insaturi, fibre, potassio 680 mg; quante mangiarne e chi deve evitarle.
+- [[arancia-proprieta-benefici]] — 45 kcal per 100 g, 90% acqua, pectina saziante nell'albedo, succo meno fibroso, vitamina C, varietà e controindicazioni.
+- [[avocado-calorie-valori-nutrizionali]] — Calorie e macro CREA, grassi monoinsaturi, potassio superiore alla banana, vitamina E, quanto mangiarne a dieta senza ingrassare.
+- [[banana-proprieta-benefici]] — 70-79 kcal, indice glicemico 54-70, amido resistente nella banana acerba, potassio e magnesio, quante mangiarne al giorno.
+- [[calorie-anguria]] — Frutto composto per il 90% da acqua, pochi zuccheri, licopene e carotenoidi, rapporto sodio/potassio; buccia e semi commestibili.
+- [[calorie-castagne]] — Valori nutrizionali e calorie: frutta secca ricca di amido ma povera di grassi, minerali, porzione consigliata a dieta.
+- [[calorie-frutta-tabella]] — Tabella calorie di frutta fresca, secca, disidratata, cotta, sciroppata e candita; frutti più e meno calorici.
+- [[calorie-nocciole]] — Valori CREA, grassi insaturi e acido oleico, vitamina E; porzione da 30 g e se fanno ingrassare.
+- [[calorie-noci]] — 610-660 kcal per 100 g, ricche di omega-6 pro-infiammatori più che omega-3; sazietà, porzione 30 g, allergia.
+- [[ciliegie-calorie]] — Kcal di ciliegie e amarene, calorie del singolo frutto e della marmellata, fruttosio, vitamina C e potassio.
+- [[cocco-proprieta-benefici]] — Molto calorico (358 kcal) e grasso, ricco di rame, ferro e magnesio, quanto mangiarne a dieta.
+- [[datteri]] — 124 kcal freschi, quasi solo carboidrati; essiccati raddoppiano zuccheri e calorie. Potassio, porzione tipica, se fanno ingrassare.
+- [[fichi-calorie]] — Circa 50 kcal per 100 g freschi contro 250 secchi, zuccheri semplici, fibre insolubili, antiossidanti ed effetti collaterali.
+- [[fragole-proprieta]] — Zuccheri e calorie per 100 g, vitamina C variabile con la conservazione, potassio, vitamina K, nichel, allergia, consumo con diabete.
+- [[frutta-proteica]] — Classifica dei frutti più proteici: pistacchio, mandorle, anacardi, noci; l'avocado con 4.4 g tra i freschi, utile in dieta vegana.
+- [[frutta-secca-quale-quanta-e-perche]] — Distinzione tra frutta secca glucidica e lipidica, profilo in polinsaturi e omega-3, proteine scarse, quantità e timing pre o post allenamento.
+- [[kiwi-calorie-e-valori-nutrizionali]] — Calorie e valori nutrizionali, verde contro giallo, vitamina C, fibre solubili con effetto lassativo, porzione da 150-200 g.
+- [[l-uva-fa-ingrassare]] — Frutto più zuccherino della media: perché non fa ingrassare, quantità giornaliera consigliata, attenzioni per chi ha il diabete.
+- [[limone-calorie-proprieta-valori-nutrizionali]] — Acqua oltre il 90%, pochi zuccheri, acido citrico; smonta le proprietà detox e alcalinizzanti di acqua e limone.
+- [[mela-calorie]] — Valori con e senza buccia, 90-100 kcal per frutto da 200 g, sazietà, varietà, quante mangiarne a dieta.
+- [[melograno-calorie-valori-nutrizionali]] — 80% acqua, 13% carboidrati, potassio e fitosteroli; benefici antiossidanti, controindicazioni e quanta melagrana consumare al giorno.
+- [[melone]] — Poche calorie e molta acqua, carotenoidi per la pelle, varietà a polpa arancione, bianca e gialla, come sceglierlo.
+- [[mirtilli-calorie-valori-nutrizionali]] — Calorie e valori nutrizionali, antocianine e polifenoli, mirtillo nero e americano, integrazione antiossidante post-esercizio; nessun claim EFSA approvato.
+- [[mirtillo-rosso-proprieta-benefici]] — Cranberry e mirtillo rosso: 46 kcal/100 g, antocianine e tannini, uso per cistite, prostata, vista, acidificazione delle urine.
+- [[more-proprieta-benefici]] — 42 kcal/100 g, ricche di fibra, vitamina C e K, antiossidanti ORAC; gelso bianco e nero, quantità giornaliera.
+- [[noci-di-macadamia]] — Oltre 70% di grassi, acido oleico e alfa-linolenico, effetto su colesterolo e trigliceridi, porzione consigliata a dieta.
+- [[pera-calorie]] — Calorie e macro, contenuto di fibre, stagionalità, botanica del pomo e usi in cucina.
+- [[pesca-calorie-valori-nutrizionali]] — Circa 40 kcal/100 g, acqua e potassio, sazietà a dieta; varietà, pesche sciroppate e disidratate, amigdalina nel nocciolo.
+- [[pistacchi]] — Frutta secca ad alta densità calorica: grassi monoinsaturi, fibra, lisina limitante, varietà Bronte DOP, dose giornaliera a dieta.
+- [[pompelmo-calorie-benefici-valori-nutrizionali]] — Valori nutrizionali dell'agrume, naringina e limonoidi amari, licopene nelle varietà rosse, interazioni pericolose con i farmaci.
+- [[prugne-calorie]] — Calorie della prugna fresca e di quella disidratata, effetto sulla regolarità intestinale, varietà europee e asiatiche.
+- [[quanta-frutta-mangiare-al-giorno]] — 2-3 porzioni da 150 g al giorno, tabella grammature per tipo, frutta essiccata più calorica, zuccheri e benefici.
+- [[uva-calorie-proprieta-benefici]] — Calorie e zuccheri dell'uva da tavola, resveratrolo, antocianine, semi; differenze con l'uva passa disidratata, più calorica.
+
+### Grassi e condimenti
+
+- [[aceto-di-mele-per-dimagrire]] — Nessun effetto dimagrante dimostrato: acido acetico, svuotamento gastrico, 21 kcal come condimento al posto dell'olio.
+- [[calorie-burro-proprieta]] — Meno calorico dell'olio: saturi, colesterolo e acido palmitico, porzione da 10 g, quando fa davvero male.
+- [[calorie-olio]] — 99% grassi, 90 kcal a cucchiaio, acido oleico e polifenoli; l'olio EVO fa ingrassare, confronto con altri oli.
+- [[olio-di-cocco-fa-male]] — Smonta i benefici presunti (metabolismo, colesterolo, sistema immunitario): resta un grasso saturo, perché le linee guida lo limitano.
+- [[olio-di-cocco-proprieta]] — Proprietà reali o marketing: uso per dimagrire, oil pulling e denti, effetti sul colesterolo, MCT e grassi saturi.
+- [[olio-di-palma-fa-male]] — 50% di grassi saturi, palmitico: perché il problema è la quota totale nella dieta, non l'alimento; usi industriali.
+
+### Dolci e snack
+
+- [[calorie-gelato]] — Calorie di gelato artigianale e industriale, creme contro frutta, coni e cialde; come inserirlo in una dieta ipocalorica.
+- [[calorie-pandoro]] — Circa 300 kcal a fetta da 80 g: confronto con biscotti e muesli, consigli per mangiarlo a dieta.
+- [[calorie-panettone]] — 300 kcal a fetta, equivalenti a 5-6 biscotti; confronto con il pandoro e gestione dei dolci nelle feste.
+- [[cioccolato-fondente-fa-ingrassare-dimagrire]] — Percentuale minima di cacao, polifenoli e benefici sopra il 70%, quanto mangiarne a dieta senza sforare le calorie.
+
+### Bevande
+
+- [[acqua-e-limone]] — Benefici detox e brucia-grassi smentiti: composizione del succo, vitamina C, potassio, reale utilità solo per idratazione.
+- [[alcol-fa-ingrassare]] — 7 kcal/g prioritarie nel metabolismo: blocco dell'ossidazione di grassi e glucosio, lipogenesi, quali alcolici pesano meno.
+- [[calorie-birra]] — 100-180 kcal per lattina da 33 cl, tabella per marca, gradazione alcolica e 7 kcal/g dell'alcol.
+- [[la-birra-fa-ingrassare]] — Calorie e valori CREA della birra, perché contano più gli snack che l'accompagnano, quanta berne restando a dieta.
+
+### Ricette e cucina
+
+- [[pizza-a-dieta]] — Come inserire la pizza in una dieta ipocalorica: fino a 1400 kcal, gestione settimanale delle calorie.
+- [[spuntini-proteici]] — Dieci idee ad alto contenuto proteico: yogurt greco, uova, frullati con proteine in polvere, burro d'arachidi; quando inserirle.
+- [[spuntini-sani]] — Dieci idee dolci e salate per merende equilibrate; gli spuntini gestiscono la fame ma non alzano il metabolismo.
+
+### Altri alimenti
+
+- [[burro-di-arachidi-calorie]] — Crema ipercalorica con circa 50% di grassi, allergene, profilo lipidico e saturi, quanto mangiarne senza sforare il fabbisogno.
+- [[curcuma-proprieta-e-benefici]] — Valori nutrizionali della radice, potassio elevato ma porzioni irrisorie, curcumina e reali effetti antinfiammatori, dosaggio ed effetti collaterali.
+- [[junk-food-cibo-spazzatura]] — Cibo spazzatura: caratteristiche (denso di calorie, poco saziante), elenco dei prodotti tipici, effetti sulla salute e come limitarlo.
+- [[menta-piperita]] — Mentolo e oli essenziali su digestione gastrica, colon irritabile ed emorroidi; evidenze scientifiche, quanta usarne e controindicazioni.
+- [[pinoli]] — Semi oleosi molto calorici: omega-6, steroli vegetali, vitamina E, proteine vegetali; quanti mangiarne a dieta e nel pesto.
+- [[semi-di-sesamo-calorie]] — Valori USDA: grassi mono e polinsaturi, omega-6 e omega-3, lisina limitante, differenze tra sesamo bianco, nero e rosso.
+- [[zenzero-calorie-proprieta-e-benefici]] — Gingeroli e shogaoli della radice: effetto antinausea, digestione, uso in gravidanza, dimagrimento, pressione, controindicazioni e dosi con limone o curcuma.
+
+## Salute, patologie e infortuni
+
+- [[allenamentofisiologiaesercizio-fisico-e-cartilagini-articolari]] — Cartilagine ialina e dolore articolare: nutrimento dei condrociti, effetti del carico sul ginocchio e cosa dicono davvero i dati sui rimedi naturali.
+- [[allergie-alimentari]] — Reazioni IgE-mediate agli allergeni proteici, differenza dalle intolleranze (lattosio, breath test), sintomi, diagnosi e prevenzione; il 4% reale contro il 20% percepito.
+- [[amenorrea-aumento-di-peso]] — Se l'assenza di ciclo faccia ingrassare: distinzione tra amenorrea ipotalamica funzionale, PCOS e Cushing, esami ormonali da fare, calorie e rimedi.
+- [[amenorrea-ipotalamica-funzionale-dieta-palestra]] — Recuperare il ciclo mangiando di più e allenandosi meno: sintomi e conseguenze dell'AFI, dieta consigliata, integratori e gestione della palestra.
+- [[artrosi-cervicale]] — Degenerazione età-dipendente di vertebre e dischi cervicali: osteofiti, rigidità, cefalea cervicogenica, sintomi neurologici, diagnosi radiografica e risonanza, rimedi ed esercizi.
+- [[cause-cellulite]] — Perché si forma la PEFS (panniculopatia edemato-fibro-sclerotica) nell'85-90% delle donne: fattori modificabili e non, ormoni, stadi, rimedi che funzionano davvero.
+- [[cellulite-gambe]] — Rimedi per cellulite su gambe e glutei: composizione corporea, idratazione, alimentazione, mix di cardio e pesi, efficacia dei trattamenti estetici.
+- [[cibi-processati]] — Classificazione NOVA in quattro gruppi, come riconoscere gli ultraprocessati leggendo l'etichetta, differenze tra livelli di lavorazione e rapporto con obesità e rischio di cancro.
+- [[colesterolo-alto]] — Differenza tra HDL e LDL e perché è la lipoproteina a essere buona o cattiva, rapporto ideale, cinque mosse dietetiche per abbassare l'LDL con grassi e fibre.
+- [[colon-irritabile]] — Sindrome dell'intestino irritabile (IBS): dolore addominale, diarrea e meteorismo, ruolo di disbiosi e microbiota, rimedi, dieta consigliata e legame con il mal di schiena.
+- [[colpo-di-frusta-cosa-fare]] — Meccanismo biomeccanico del trauma cervicale da tamponamento, sintomi immediati e tardivi, se il collare serve davvero e come gestire il recupero post-trauma.
+- [[come-eliminare-la-cellulite]] — Dieci rimedi contro la buccia d'arancia: normopeso, idratazione, riduzione del sale, allenamento e circolazione; perché spesso non si elimina del tutto e cosa aspettarsi.
+- [[come-evitare-dolori-alla-cervicale]] — Prevenire il dolore cervicale invece di curarlo: ruolo dell'ipercifosi toracica e della postura al PC, esercizi di fitness utili, accorgimenti sul luogo di lavoro.
+- [[come-far-passare-il-torcicollo]] — Rinforzo dei flessori profondi del collo: squilibrio con sternocleidomastoideo, trapezio superiore ed elevatore della scapola, cause posturali del torcicollo ed esecuzione dettagliata dell'esercizio.
+- [[come-non-ingrassare-in-gravidanza]] — Aumento calorico per trimestre (69/266/496 kcal), kg raccomandati in gravidanza e menù giornaliero completo per contenere l'incremento di peso gestazionale.
+- [[come-riconoscere-il-mal-di-testa-da-cervicale-il-flexion-rotation-test]] — Cefalea cervicogenica da disfunzione delle prime tre vertebre: convergenza trigemino-cervicale, trigger point di trapezio e sternocleidomastoideo, esecuzione e interpretazione del Flexion Rotation Test.
+- [[come-sgonfiare-la-pancia]] — Gonfiore addominale da gas: disbiosi putrefattiva, fermentativa e deficitaria, cibi e bevande da scegliere, esercizi, distinzione tra aria, liquidi e grasso viscerale.
+- [[conflitto-spalla-cause-rimedi]] — L'impingement subacromiale come diagnosi oggi messa in discussione: vere cause del dolore di spalla, test di Hawkins-Kennedy, Neer e Speed, esercizi di mobilizzazione.
+- [[correggere-piede-pronato]] — Piede valgo pronato riconosciuto dall'appoggio posteriore: calcagno in fuori, arco basso, compensi da anca in rotazione interna e ginocchio valgo, esercizi e scarpe.
+- [[curare-dolori-articolari-losservazione-dei-movimenti]] — Analisi del movimento per risalire alle cause di torcicollo e mal di schiena, invece di trattare il sintomo con antinfiammatori e cerotti.
+- [[de-quervain-e-dolore-al-polso]] — Dolore laterale al polso alla base del pollice: tenosinovite di estensore breve e abduttore lungo, cause da movimenti ripetitivi di deviazione radiale, sintomi e cura.
+- [[dieta-tumori]] — Relazione tra alimentazione e rischio oncologico: raccomandazioni su normopeso, attività fisica, carne rossa e processata, alcol, sale, bevande zuccherate, allattamento e nutrienti da dieta anziché integratori.
+- [[dolore-alla-spalla]] — Cause traumatiche e degenerative: cuffia dei rotatori, sindrome da dolore subacromiale, borsite, lussazione; epidemiologia, sintomi, terapie e gestione degli esercizi in palestra.
+- [[dolore-cervicale-cause-rimedi]] — Cervicalgia: cause discali, artrosiche e muscolari, trigger point, farmaci, rimedi, posizione migliore per dormire, dolore irradiato a spalla e braccio.
+- [[dolore-gomito-prevenzione-palestra]] — Epicondilite ed epitrocleite come cause più comuni, traumi e lussazioni, tempi di guarigione, rimedi ed esercizi, gestione del dolore in palestra e calisthenics.
+- [[dolore-lombare-e-addominali]] — Smonta l'idea che allenare il retto dell'addome curi la lombalgia: anatomia della parete addominale, funzione stabilizzatrice del core, esercizi realmente utili.
+- [[epicondilite-rimedi-esercizi-palestra]] — Gomito del tennista: tendinopatia dei muscoli epicondiloidei, continuum model in tre fasi, diagnosi, tempi di recupero, esercizi efficaci, movimenti da evitare in palestra.
+- [[epitrocleite]] — Gomito del golfista: tendinopatia mediale di flessori e pronatori del polso, cause, fattori di rischio, diagnosi, esercizi, durata del recupero, cosa evitare in palestra.
+- [[ernia-cervicale-come-curarla]] — Radicolopatia cervicale: compressione della radice nervosa da ernia, osteofiti o artrosi, sintomi di cervico-brachialgia, quando si opera, percorso di fisioterapia.
+- [[ernia-cervicale-distraction-test]] — Distraction Test per riconoscere una radicolopatia cervicale senza risonanza o elettromiografia: esecuzione da supino, cosa indica la riduzione dei sintomi in trazione.
+- [[ernia-cervicale-test-spurling]] — Test di Spurling per individuare la radicolopatia cervicale: latero-flessione e compressione assiale, restringimento del forame, quando il dolore irradiato al braccio conferma il sospetto.
+- [[ernia-discale]] — Differenza tra protrusione ed ernia del disco lombare: anatomia di nucleo e anulus, lombosciatalgia, ruolo della lordosi, prevenzione e movimenti da evitare.
+- [[esercizi-cervicale]] — Tre esercizi contro la cervicalgia: rinforzo dei flessori profondi del collo e degli estensori cervicali, più un esercizio di coordinazione e consapevolezza corporea.
+- [[esercizi-mal-di-schiena]] — Rinforzo selettivo di multifido e core secondo McGill per la lombalgia: progressioni a basso carico, differenza tra ginnastica posturale e stretching.
+- [[esercizi-pavimento-pelvico]] — Esercizi di Kegel per uomo e donna contro l'incontinenza urinaria: presa di coscienza, posizioni progressive, gravidanza e post parto, test di tonicità.
+- [[esercizi-spalla-dolorosa]] — Tendinopatie e altre cause di dolore alla spalla in palestra, con esercizi terapeutici selezionati dalla letteratura scientifica e criteri per inquadrare il problema.
+- [[fascite-plantare-come-curarla]] — Dolore al tallone ai primi passi del mattino: fattori di rischio (BMI, dorsiflessione limitata), sintomi e rimedi per la fascia plantare.
+- [[fruttosio-e-diabete]] — Perché l'indice glicemico basso non basta: glicazione sette volte superiore al glucosio, peggioramento dell'insulino-resistenza e del fegato grasso, frutta e dolcificanti per diabetici.
+- [[ginnastica-posturale]] — Critica agli esercizi posturali standardizzati per cervicale, ernia del disco, scoliosi e lombalgia: perché parlare di esercizio terapeutico personalizzato e quando funziona davvero.
+- [[ho-una-protrusione-posso-fare-palestra]] — Allenarsi con protrusione o ernia discale lombare: quali movimenti e esercizi evitare in palestra, gestione del carico, quando fermarsi in fase acuta.
+- [[il-ginocchio]] — Anatomia con menischi e legamenti, movimenti dell'articolazione, gonalgia: anamnesi, esame obiettivo, esami strumentali, terapie e percorsi diagnostico-terapeutici per il dolore al ginocchio.
+- [[infortuni-spalla-palestra]] — Cause di dolore alla spalla in palestra, patologie più comuni (cuffia dei rotatori, dolore subacromiale, borsite), infortuni tipici di bodybuilding, CrossFit e calisthenics, tempi di recupero.
+- [[insulino-resistenza-quello-che-devi-sapere]] — Cause, sintomi, cura e dieta per la resistenza all'insulina: grasso addominale, sedentarietà, test indiretti disponibili, confronto low-carb contro low-fat e perché fa ingrassare.
+- [[insulino-resistenza-sintomi-e-rimedi]] — Trattazione estesa: iperinsulinemia, sintomi, esami per la diagnosi, cosa mangiare, integratori e come dimagrire quando la sensibilità insulinica è compromessa, con il legame con l'obesità.
+- [[ipercifosi-come-correggerla]] — Non è una patologia ma un'accentuazione della curva dorsale (la gobba): cause, legame con cervicale e sedentarietà, esercizi correttivi e prevenzione.
+- [[iperglicemia]] — Glicemia a digiuno sopra 100 mg/dl: tabella dei valori di riferimento, cause oltre al diabete (farmaci, endocrinopatie, pancreatiti, infezioni), sintomi e rimedi.
+- [[iperlordosi-come-correggerla]] — Accentuazione della lordosi lombare, non una patologia: miti sulla schiena inarcata, cause, rapporto con il mal di schiena ed esercizi per correggerla.
+- [[legamento-crociato-anteriore]] — Anatomia dei crociati anteriore e posteriore, fasci antero-mediale e postero-laterale, meccanismi di rottura nello sport, prevenzione e riabilitazione dopo lesione LCA.
+- [[lesione-cuffia-dei-rotatori]] — Sovraspinato e gli altri quattro muscoli, sintomi, cause, test diagnostici, terapia conservativa, esercizi di rinforzo e cosa fare o evitare in palestra.
+- [[lesioni-muscolari-sportivo]] — Contrattura, stiramento e strappo: gradi di lesione, fattori predisponenti, fasi di guarigione e recupero funzionale, con focus su ischiocrurali e tricipite surale.
+- [[lombalgia-come-curarla]] — Sintomi del mal di schiena lombare e colpo della strega; utilità reale di farmaci e massaggi, cosa fare davvero per risolvere il dolore.
+- [[lombalgia-ed-allenamento-in-palestra]] — Due tipi di lombalgia in sala pesi, da iperlordosi e da rettificazione lombare: come continuare ad allenarsi per l'ipertrofia senza rinunciare ai sovraccarichi.
+- [[mal-di-schiena-cause-sintomi-e-rimedi-efficaci]] — Dolore lombare aspecifico (90% dei casi) vs specifico, ruolo sopravvalutato di ernie, protrusioni e contratture, durata, rimedi, riposo, chirurgia e palestra.
+- [[mal-di-testa-da-cervicale]] — Cefalea cervicogenica dalle prime tre vertebre cervicali e dal nervo trigemino: come distinguerla dall'emicrania, sintomi tipici e rimedi realmente efficaci.
+- [[massaggio-dolori-utile-oppure-no]] — Efficacia della massoterapia su cervicalgia e lombalgia confrontata con nessun trattamento e con altre terapie: cosa dicono gli studi e quando ha senso.
+- [[menisco-rotto]] — Funzioni dei menischi, sintomi e dolore alla rima articolare, quando serve l'operazione o basta il trattamento conservativo, tempi e percorso di guarigione.
+- [[microbioma-umano]] — Legame tra flora intestinale, obesità e umore, fattori che la alterano come antibiotici ed eccesso di igiene, cosa mangiare per nutrire il microbiota.
+- [[microbiota-intestinale]] — Differenza tra microbiota e microbioma, formazione alla nascita tra parto naturale e latte materno, funzioni per la salute, alimenti e fibre per curarlo.
+- [[microcircolo-gambe]] — Gambe gonfie e ritenzione: come funzionano capillari e drenaggio linfatico, sintomi di cattiva circolazione, dieta, integratori ed esercizi per attivare il microcircolo.
+- [[ortoressia]] — Ossessione per il cibo sano come disturbo alimentare: sintomi, test di valutazione, cause, esclusione arbitraria di intere categorie di alimenti, percorsi di cura.
+- [[pavimento-pelvico]] — Anatomia muscolo-legamentosa, funzioni di continenza e sessualità, sintomi di ipertono e ipotono, incontinenza urinaria e fecale, esercizi, riabilitazione, gravidanza, a quale specialista rivolgersi.
+- [[pavimento-pelvico-sintomi]] — Tabella dei sintomi per distretto: prolasso, cedimento, contrattura, infiammazione, incontinenza; valutazione, ipertono vs ipotono, esercizi e gravidanza come fattore di rischio.
+- [[perche-viene-la-cellulite]] — PEFS come disturbo multifattoriale del tessuto adiposo sottocutaneo: ipertrofia degli adipociti, ormoni, circolazione, buccia d'arancia; rimedi con dieta e allenamento.
+- [[periartrite-spalla-cosa-palestra]] — Impingement subacromiale in sala pesi: biomeccanica dell'articolazione gleno-omerale, ritmo scapolo-omerale, dolore nei movimenti sopra la testa, cause tecniche e gestione dei carichi.
+- [[periartrite-spalla-scapolo-omerale]] — Etichetta diagnostica generica per tendinopatie e lesioni della cuffia, borsite e dolore subacromiale: infiammazione o degenerazione, sintomi, terapie, come dormire, decorso, ritorno in palestra.
+- [[riabilitazione-del-pavimento-pelvico]] — Valutazione, fisioterapia, elettrostimolazione, biofeedback ed esercizi per ipotono o ipertono pelvico: quando iniziare, quante sedute servono, a quale specialista rivolgersi.
+- [[riabilitazione-e-prevenzione-della-spalla-impingement-sub-acromiale]] — Protocollo in fase acuta, intermedia e avanzata per l'impingement sub-acromiale: rinforzo di extrarotatori e stabilizzatori della scapola, mobilità toracica, flessibilità della capsula posteriore.
+- [[riabilitazione-rottura-crociato-anteriore]] — Anatomia del legamento crociato anteriore, gestione della lesione tra intervento e conservativo, cinque punti pratici per lavorare in palestra dopo l'operazione.
+- [[rimedi-ritenzione-idrica]] — Dieci rimedi pratici: dieta, acqua, sale, movimento, posizioni statiche, gambe elevate, linfodrenaggio, calze compressive, alimenti diuretici, integratori; e cosa aspettarsi davvero.
+- [[rimedi-torcicollo]] — Dolore cervicale acuto e cronico: sintomi, muscoli da massaggiare, utilità di farmaci e terapie fisiche, esercizi, nuoto, cosa fare in palestra, tempi di guarigione.
+- [[ritenzione-idrica-in-gravidanza]] — Cause ormonali (progesterone, estrogeni, prolattina), compressione della vena cava, quando compare, quanto pesa sulla bilancia, rimedi, dieta e recupero dopo il parto.
+- [[ritenzione-idrica-sintomi]] — Come riconoscerla: gonfiore di gambe, caviglie e addome, pesantezza, pelle alterata, peso che oscilla; distingue forma fisiologica e cause patologiche renali, tiroidee, linfatiche.
+- [[sciatalgia-come-curarla]] — Compressione della radice lombare da protrusioni ed ernie, sintomi lungo natica e gamba, ed esercizi di neurodinamica per la mobilità del nervo sciatico.
+- [[sgonfiare-velocemente-gambe]] — Dieci rimedi pratici contro gambe gonfie da ritenzione idrica: idratazione, riduzione del sodio, scarico posturale, abiti e scarpe, doccia alternata, linfodrenaggio.
+- [[sindrome-del-piriforme-e-palestra]] — Dolore alla natica simil-sciatalgico da sovraccarico del piriforme, con il legame diretto tra abductor machine, esercizi per l'esterno coscia e insorgenza della sindrome.
+- [[sindrome-ovaio-policistico-dieta-allenamento]] — PCOS: iperandrogenismo, insulino-resistenza, amenorrea e umore; indicazioni alimentari e confronto tra aerobico moderato, pesi e HIIT per gestire i sintomi.
+- [[solanina]] — Alcaloide di difesa delle Solanacee: dove si concentra in patate, pomodori, melanzane e peperoni, dosi tossiche, sintomi di intossicazione e come ridurla.
+- [[stadi-cellulite]] — I quattro stadi (edematosa, fibrosa, sclerotica molle, sclerotica), come riconoscerli a vista e al tatto, quali sono reversibili e come contrastarli con dieta e attività.
+- [[steroidi-anabolizzanti-cosa-sono-ed-effetti-collaterali]] — Cosa sono chimicamente gli anabolizzanti, effetti collaterali sistemici, uso nel bodybuilding, bodybuilder morti, steroidi più noti e i sedicenti steroidi legali, naturali o dimagranti.
+- [[tendinite-spalla-infiammazione]] — Tendinite, tendinosi o tendinopatia della cuffia dei rotatori: non è solo infiammazione, continuum model in tre fasi, tempi di guarigione, recidive, esercizi e terapie.
+- [[tendinite-zampa-doca-e-ginocchio-doloroso]] — Dolore mediale al ginocchio dal tendine comune di semitendinoso, gracile e sartorio: anatomia, borsite, cause, rimedi e ritorno graduale allo sport.
+- [[test-valutazione-spalla]] — Spalla dolorosa: test clinici e funzionali per extrarotatori e capo lungo del bicipite, mobilità passiva con goniometro, asimmetrie tra arti e squilibri muscolari.
+- [[tiroide-fa-ingrassare]] — Quanto gli ormoni tiroidei incidono davvero sul peso: T3, T4, metabolismo basale e termogenesi; smonta l'alibi della tiroide, micronutrienti utili.
+- [[trigger-point-sintomi-rimedi-utili]] — Il cosiddetto nervo accavallato è in realtà una contrattura: cosa sono i punti trigger, differenza dai tender point della fibromialgia, mappa e terapie.
+- [[tunnel-carpale-sintomi-e-rimedi-utili]] — Compressione del nervo mediano tra i tendini flessori: sintomi, dolore notturno, maggiore incidenza in donne e gravidanza, rimedi e opzione chirurgica.
+
+## Divulgazione, miti e psicologia
+
+- [[anatomia-funzionale-un-imprescindibile-alleato-in-palestra]] — Perché anatomia, fisiologia e biomeccanica servono a chi allena: contro lo stereotipo del palestrato senza teoria, come collegare studio ed esecuzione in sala pesi.
+- [[andare-palestra-ingrassare]] — Smonta l'idea che i pesi facciano ingrassare: peso che sale per muscolo o acqua, primo mese, timori femminili, quando l'aumento è davvero grasso.
+- [[aspartame-fa-male]] — Cosa dicono davvero le evidenze sul dolcificante E951 classificato IARC 2B: ADI di 40 mg/kg, allarme cancro sui giornali, dove si trova.
+- [[atleti-transgender-sport-femminile]] — Differenze fisiologiche tra uomo e donna in forza, massa, cuore e capacità aerobica, con dati di powerlifting, 100 metri e maratona applicati alle categorie femminili.
+- [[bufale-alimentari]] — Venti miti smontati: ananas dimagrante, dieta alcalina, detox, acqua e limone, uova e colesterolo, carboidrati dopo le 18, sale rosa, biologico, superfood.
+- [[caseina-fa-male]] — Cosa c'è di vero sulla caseina cancerogena, effetti su intestino e ritenzione idrica, allergia al latte, controindicazioni della caseina micellare.
+- [[chi-e-e-cosa-fa-lo-psicologo-dello-sport]] — Cosa fa e cosa non fa lo psicologo dello sport: lavoro sulla prestazione e non sulla psicopatologia, tecniche usate, differenze da mental coach e life coach.
+- [[cibi-brucia-grassi]] — Nessun alimento brucia grasso, lo fanno solo i mitocondri: lista dei 10 cibi (tè verde, peperoncino, albume, merluzzo) e ruolo reale di termogenesi e fibra.
+- [[colazione-re-un-pranzo-principe-cena-povero]] — Il timing dei pasti non dà vantaggi metabolici, conta il bilancio settimanale: quando però anticipare le calorie al mattino migliora l'aderenza, con esempi di colazione.
+- [[come-diventare-personal-trainer]] — Percorso professionale: diploma di ente riconosciuto CONI o laurea in scienze motorie, corsi di formazione, costi, quanto si guadagna e dove si lavora.
+- [[come-diventare-personal-trainer-online]] — Competenze extra del coaching a distanza: correggere la tecnica senza intervento manuale, comunicare con neofiti, adattare le schede all'attrezzatura disponibile a casa del cliente.
+- [[corso-online-personal-trainer]] — Criteri per scegliere un corso da personal trainer, quanto costa, confronto tra inVictus Academy, FIPE, FIF, ISSA e NBFI, con esplicita raccomandazione commerciale.
+- [[dieta-fai-da-te]] — Rischi delle diete copiate da Internet e differenze tra biologo nutrizionista, dietologo e dietista; le fai-da-te più diffuse: Dukan, detox, paleo, chetogenica, Plank.
+- [[dimagrisci-mangiando]] — Smonta il claim del dimagrire mangiando: nessun cibo colpevole né insulina, confronto tra mangiare a sazietà, poco di tutto o poco e spesso, gestione di mensa e ufficio.
+- [[dolcificanti-ci-dobbiamo-preoccupare]] — Aspartame, sucralosio e altri dolcificanti non nutritivi: se facciano ingrassare, dose giornaliera ammissibile, presunta cancerogenicità ed effetti sul microbiota, cosa dicono davvero i dati.
+- [[doms]] — Smonta acido lattico e microlacerazioni come causa dell'indolenzimento ritardato: i DOMS non misurano l'efficacia dell'allenamento, tempistiche del picco, rapporto con recupero e rimedi.
+- [[educazione-alimentare]] — Definizione OMS/FAO, ruolo dell'educatore alimentare, obiettivi nelle scuole, fattori psicologici, culturali ed economici che influenzano le scelte di consumo, sostenibilità.
+- [[elevation-training-mask-serve-o-non-serve]] — Smonta la maschera da allenamento: non riproduce l'ipossia d'altura perché cambia la pressione parziale, non la percentuale di ossigeno; al più allena i muscoli respiratori.
+- [[esercizi-allenamento-aumentare-metabolismo]] — Il metabolismo lento o veloce come alibi: l'esercizio non accelera le reazioni biochimiche ma aumenta la spesa energetica; quale allenamento conviene davvero per dimagrire.
+- [[esercizio-con-i-pesi-per-bambini-e-adolescenti-come-si-esprime-la-comunita-scientifica]] — Rassegna di review e position stand sui sovraccarichi in età pediatrica: smonta il timore di danni alla crescita, con conclusioni pratiche per allenatori.
+- [[frequenza-dei-pasti]] — Smonta il mito dei pasti piccoli e frequenti che attivano il metabolismo: nessun effetto sul TDEE, colazione saltata, effetti reali su fame e sazietà.
+- [[frutta-dopo-i-pasti]] — Smonta l'idea che la frutta a fine pasto fermenti, gonfi o faccia ingrassare: cosa dicono gli studi sul transito, eccezioni per chi soffre di fruttosio e fruttani.
+- [[glutine-fa-male]] — Smonta il gluten-free per tutti tra bias di conferma ed effetto placebo: celiachia e sensibilità, digeribilità, se i prodotti senza glutine facciano male.
+- [[grassi-ed-carboidrati-vanno-mangiati-assieme]] — Smonta il mito che grassi e carboidrati nello stesso pasto facciano ingrassare: calorie, sazietà, ripartizione low carb o low fat, ossidazione dei substrati.
+- [[insulina-fa-ingrassare]] — Smonta la tesi che l'insulina causi l'ingrassamento: cosa la stimola oltre ai carboidrati, ruolo anticatabolico più che anabolico, ciclizzazione dei carboidrati e proteine.
+- [[istruttore-palestra]] — Mansioni reali dell'istruttore di sala, requisiti per diventarlo in Italia (nessun albo, tesserino CONI), stipendio medio e differenze con il personal trainer.
+- [[la-palestra-blocca-la-crescita]] — Mito dei pesi che fermano la statura negli adolescenti: adattamento osseo allo stress, rischi opposti della sedentarietà, studi citati e conclusioni.
+- [[mangiare-la-pizza-la-sera]] — Smonta il mito degli alimenti che fanno ingrassare: pizza a cena o a pranzo è indifferente, calorie di margherita e farciture, quale scegliere a dieta.
+- [[mangiare-prima-secondo-poi-primo]] — L'ordine delle portate non cambia il peso corporeo: invertire proteine e carboidrati aumenta solo la sazietà, utile per aderire alla dieta ipocalorica.
+- [[metodo-invictus]] — Metodica di programmazione per personal trainer: tecnica, progressione, rapporto intensità-volume, effort e scelta esercizi, più i principi di costanza e organizzazione del lavoro.
+- [[nutrigenetica-dimmi-dna-ti-diro]] — Affidabilità dei test genetici che promettono la dieta su misura: differenza tra ricerca e applicazione clinica, nutrigenetica e nutrigenomica, perché la dieta del DNA resta utopia.
+- [[pasta-a-cena]] — Smonta il tabù della pasta serale: il peso dipende dal bilancio calorico giornaliero, non dall'orario; il condimento è la vera variabile, 6 motivi per mangiarla a cena.
+- [[personal-trainer-40-anni]] — Cambiare lavoro a 40 o 50 anni: requisiti di formazione, esperienza pregressa, costruzione della clientela e strategia di marketing; promuove il corso Academy InVictus.
+- [[personal-trainer-cosa-fa]] — Ruolo e competenze del PT: anamnesi iniziale, valutazione funzionale di postura, forza e flessibilità, stesura del programma personalizzato, percorso formativo per diventarlo.
+- [[personal-trainer-online-donne]] — Criteri per scegliere una trainer donna: esigenze femminili (ritenzione idrica, gravidanza), specializzazione sull'obiettivo, online o in presenza, costi, albo certificati Academy InVictus.
+- [[personal-trainer-senza-laurea]] — Si può esercitare senza Scienze Motorie: certificazione richiesta dalle palestre, costi del percorso, differenze reali tra laureati e non laureati.
+- [[personal-training-a-domicilio]] — Vantaggi e svantaggi del PT a casa: costanza e risparmio di tempo contro costi e attrezzatura limitata, tariffe, confronto con palestra e online.
+- [[psicologia-e-sport-quanto-conta-il-fattore-mentale]] — Modello integrato della prestazione di Gardner e Moore, differenza tra prestazione e risultato di gara, come misurare, progettare e monitorare il miglioramento.
+- [[quanto-costa-personal-trainer]] — Tariffe a lezione di un personal trainer: domicilio 20-70 euro, online, in palestra, differenze tra Nord e Sud, pacchetti e coaching.
+- [[quanto-guadagna-personal-trainer]] — Guadagno tra libera professione con partita IVA e lavoro dipendente, spese, lezioni settimanali sostenibili, differenze tra online, palestra e studio proprio.
+- [[saltare-la-colazione]] — Smonta i miti su ipoglicemia, metabolismo rallentato e chetosi: quando saltare la colazione aiuta il deficit calorico e quando invece porta a compensare con più fame.
+- [[scegliere-libri-alimentazione]] — Come distinguere testi universitari, divulgativi e libri-dieta, perché citare studi non rende scientifico un libro, con i titoli consigliati per livello.
+- [[sollevare-pesi-schiena-curva]] — Smonta la regola "solleva con le gambe, mai a schiena curva": fragilità del rachide sopravvalutata, alterazioni discali asintomatiche, fattori psicosociali, uso della cintura.
+- [[stretching-e-mobilita-bisognerebbe-partire-da-qui]] — Perché lo stretching serve a liberare blocchi articolari più che ad allungare: falso arto corto, plantari e ortesi che stabilizzano artificialmente destabilizzando la funzione.
+- [[sudare-fa-dimagrire]] — Perché il sudore non brucia grassi né calorie: l'acqua persa viene dal liquido interstiziale e l'adipocita è quasi anidro; k-way e fasce dimagranti smontati.
+- [[superfood]] — Termine commerciale vietato dall'UE nel 2007: lista degli alimenti così etichettati (mirtillo, chia, goji, curcuma, wakame) e quanto valgono davvero in una dieta equilibrata.
+- [[una-calorie-e-un-caloria-vediamo-di-fare-chiarezza]] — Una caloria è una caloria: bomba calorimetrica contro metabolismo reale, perché non dimagrisci nel deficit teorico, metabolismo lento, low carb e paleo.
+- [[workout-ormonale]] — Smonta l'idea di un allenamento che sblocca gli ormoni del dimagrimento: cosa fanno davvero catecolamine, cortisolo, GH, glucagone e testosterone, con due programmi di esempio.

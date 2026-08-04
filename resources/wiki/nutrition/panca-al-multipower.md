@@ -1,0 +1,33 @@
+# Panca al multipower
+
+L’utilizzo del Multipower (MP) come surrogato della Panca Piana classica è pratica comune in tutti i centri fitness di oggi. Una rapida analisi biomeccanica, confrontando le due modalità esecutive, può consegnarci importanti informazioni da riportare immediatamente nella pratica dell’allenamento quotidiano. Può realmente il MP sostituire la Panca Piana classica? Cosa cambia da un punto di vista muscolare e da un punto di vista articolare?
+
+Il Multipower, come molti sanno, è strutturato da un bilanciere che scorre all’interno di due guide le quali vincolano il movimento e condizionano inevitabilmente l’esecuzione di un esercizio. La Panca Piana, come anche il Lento Avanti, è riprodotta in maniera semplice posizionando una panca al di sotto del bilanciere guidato e riproducendo fedelmente il movimento di spinta.
+
+Se analizziamo la questione focalizzando la nostra attenzione sui muscoli non ci sono dubbi: se spingete il bilanciere al MP sdraiati su una panca il gran pettorale si attiverà, verrà stimolato e in condizioni esterne favorevoli crescerà. Il problema, come spesso accade in palestra, non sta qui; il muscolo è un mero esecutore ed è protagonista di diatribe spesso sterili e poso affascinanti. Osservate il movimento, imparate le funzioni muscolari e capirete in maniera inconfutabile quali sono i muscoli attivi. Fine della storia.
+
+Se vogliamo invece affrontare il discorso in maniera più precisa e approfondire ogni aspetto dobbiamo imparare a distaccarci dalla mentalità superficiale che considera solo ed esclusivamente il punto di vista muscolare, per addentrarci negli aspetti biomeccanici e articolari in senso stretto.
+
+Figura 1. Traiettoria corretta del bilanciere alla Panca Piana. Il bilanciere deve partire all’altezza dei capezzoli con gli avambracci perpendicolari al terreno e, tramite una traiettoria a I storta (freccia rossa), raggiungere l’altezza del collo alla fine della spinta.
+
+Per fare ciò partiamo col definire la traiettoria ideale che deve seguire il bilanciere durante una Panca Piana classica per poi confrontarla con quella possibile al MP. Come riporta nel suo libro Evangelista nel 2011, durante la Panca Piana il bilanciere deve compiere (come movimento naturale) una traiettoria che parte all’altezza del collo e giunge sulla linea dei capezzoli o lievemente più sotto alla fine del pettorale. Questa traiettoria fisiologica in visione laterale ha l’andamento di una I inclinata. Inoltre sottolinea anche che durante l’esecuzione i gomiti devono posizionarsi sempre sotto il bilanciere mantenendo gli avambracci perpendicolari al terreno in modo da evitare rischiose rotazioni dell’omero sotto carico. Tutto ciò può essere garantito solo se la spalla è libera di muoversi lungo il piano sagittale cosa che accade durante l’esecuzione della panca classica (figura 1).
+
+Lo stesso non può accadere con un bilanciere al MP. Infatti, se provate a posizionare una panca piana sotto di esso sarete davanti ad una scelta di traiettoria: non potendo eseguire spostamenti sul piano sagittale la I inclinata ve la scordate e dovrete decidere se partire col bilanciere al collo o col bilanciere ai capezzoli e sarete costretti poi a tenere quella traiettoria sempre durante la spinta. Se scegliete di partire dal collo, tenere i gomiti sotto il bilanciere significa avere gomiti altissimi e ciò renderà impossibile il mantenimento del corretto assetto scapolare (figura 2).
+
+Figura 2. Panca Piana al MP e impossibilità a eseguire una traiettoria ottimale. In foto si vede una partenza all’altezza del collo che non permette di assumere il corretto assetto scapolare sotto carico.
+
+Diversamente la partenza dai capezzoli renderà complesso mantenere i gomiti sotto il bilanciere (come fisiologia vorrebbe) e durante la spinta sono in agguato rischiosi movimenti di intrarotazione dell’omero (figura 3). Insomma, mettersi sotto il bilanciere del MP renderà la vita molto molto difficile alle vostre spalle in un esercizio come la panca nel quale vengono già ampiamente sollecitate.
+
+Figura 3. Panca Piana al MP e impossibilità a eseguire una traiettoria ottimale. In foto si vede una partenza all’altezza dei capezzoli che impedisce alla spalla di eseguire la traiettoria fisiologica e la espone a forzature sotto carico.
+
+## Panca Multipower: conclusioni
+
+Alla luce di questa breve analisi appare impossibile riprodurre fedelmente la Panca Piana sotto un MP e non tanto da un punto di vista muscolare bensì da quello articolare e del rischio infortuni. Oltre a ciò, anche la questione motoria merita un appunto. Infatti, molti giustificano l’utilizzo del MP come sostituto della Panca dicendo: “Non riesco a fare la Panca perché mi sbilancio”*.
+
+Eseguire la Panca classica (figura 4) senza vincoli garantirà oltre alla stimolazione del muscolo target anche un reclutamento ottimale dei muscoli stabilizzatori e amplierà il bagaglio motorio attraverso il miglioramento della propriocezione e dello schema corporeo nel lungo periodo. È normale che se non l’avete mai eseguita i primi allenamenti traballate e vi sentite instabili. In prima istanza qui andranno allenate le capacità coordinative e solo successivamente ci si potrà concentrare sul muscolo per stimolarlo all’interno di un contesto motorio che vi permetterà di esprimere tutto il vostro potenziale.
+
+Figura 4. La Panca Piana classica, a differenza di quella eseguita al MP, garantisce oltre a un’ottima stimolazione del gran pettorale anche un miglioramento del bagaglio motorio riducendo le forzature articolari.
+
+Se la abbandonate subito semplicemente perché inizialmente “è difficile” e sceglierete il “più facile” MP avrete risolto gli effetti dell’instabilità ignorandone le cause. Continuare a eseguire la Panca al Multipower peggiorerà (o quantomeno non migliorerà) le capacità coordinative perché queste non verranno chiamate in causa e stimolate durante l’esecuzione. Se ritornerete poi a fare Panca senza MP vi sentirete ancor più instabili e sarete entrati all’interno di un circolo vizioso.
+
+Per questo serve pazienza, criterio, buon senso e progressione nel lungo periodo. Purtroppo a fare il MP sono capaci tutti, non vi sono richieste motorie elevate. Facendolo si rimane sempre e comunque nella mentalità muscolo-centrica, dimenticando tutto ciò che sta intorno. Per far crescere un muscolo basta stimolarlo e supportarlo e per fare ciò consiglio sempre la strada che porta anche al miglioramento della funzionalità e delle capacità motorie sempre con un occhio di riguardo alla prevenzione. In tal senso la Panca classica non potrà essere mai sostituita da quella al Multipower.

@@ -1,0 +1,15 @@
+# Ernia cervicale distraction test
+
+L’ernia cervicale, o più in generale la radicolopatia cervicale, è un disturbo accompagnato da numerosi sintomi come il dolore cervicale e possibili alterazioni di forza e sensibilità del braccio. Tutto ciò accade perché un evento patologico, come può essere appunto l’ernia cervicale (ma non è la sola), va a comprimere e irritare una radice nervosa a livello vertebrale scatenando una serie di segni clinici tipici che vanno a manifestarsi nei territori di innervazione del nervo compresso, nella fattispecie territori localizzati a livello di spalla e braccio. Ma come fare a riconoscere l’ernia cervicale? Quali strumenti abbiamo a disposizione per individuare una
+
+radicolopatiasenza una risonanza? Oggi parliamo di uno strumento clinico utile in tal senso: il Distraction Test.
+
+## Il Distraction Test per diagnosticare l’ernia cervicale
+
+Prima ancora di capire come curare l’ernia cervicale, un passo fondamentale da compiere prevede il suo riconoscimento in sede di valutazione. Se non vogliamo fare elettromiografia o risonanza magnetica possiamo utilizzare una serie di test provocativi che ci aiutano a riconoscere l’ernia discale cervicale e le radicolopatie cervicali anche se non vi sono segni gravi come un calo della sensibilità e di forza al braccio. Tra questi strumenti abbiamo il Distraction Test.
+
+Il test può essere eseguito o da seduti o supini su un lettino. In questa occasione vediamo il test da sdraiati. Il fisioterapista seduto dietro, afferrando con una mano la parte posteriore della testa e con l’altra il mento, mantenendo la cervicale in posizione neutra (né flessa né estesa) imprime sul collo una trazione mano a mano più intensa. La posizione raggiunta viene mantenuta qualche attimo e poi rilasciata con gradualità. Il test è positivo se durante la sua esecuzione i sintomi al collo o al braccio diminuiscono di intensità o scompaiono.
+
+Il razionale in questa caso sta nel fatto che, trazionando il capo, vi è un’apertura degli spazi dentro i quali le radici nervose fuoriescono a livello vertebrale e, un’eventuale radice compressa che comporta sintomi diminuirà così il suo grado di compressione alleviando quindi i disturbi riferiti.
+
+È bene ricordare che il Distraction Test non deve essere considerato uno strumento davvero affidabile se utilizzato da solo e deve essere somministrato in casi di storia radicolare riferita dalla persona o riferita in sede di valutazione (dolore al braccio per esempio). È importante associarlo a una batteria di test per riconoscere l’ernia cervicale della quale fanno parte anche il __test di Spurling__ e l’__Upper Limb Tension Test__. Il Distraction Test ha infatti il pregio di essere altamente specifico (se positivo è molto probabile che siate in presenza di una compressione nervosa cervicale) ma scarsamente sensibile (anche in presenza di una problematica potrebbe risultare negativo). In ultima analisi fate attenzione: se durante il test il dolore aumenta invece che diminuire ciò potrebbe essere dato da una problematica ai tessuti molli come muscoli e legamenti della zona cervicale.

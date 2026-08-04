@@ -1,0 +1,7724 @@
+[
+  {
+    "name": "Fiocchi di Latte",
+    "brand": "Eurospin",
+    "kcal100": 91,
+    "fat100": 4.5,
+    "carbs100": 2.8,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fiocchi-di-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Norvegese Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 169,
+    "fat100": 9,
+    "carbs100": 0.5,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-norvegese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco 0% Grassi",
+    "brand": "Eurospin",
+    "kcal100": 68,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-greco-0-grassi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Avena",
+    "brand": "Eurospin",
+    "kcal100": 363,
+    "fat100": 7,
+    "carbs100": 57.4,
+    "protein100": 11.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fiocchi-di-avena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Tacchino Affettato",
+    "brand": "Eurospin",
+    "kcal100": 98,
+    "fat100": 1.5,
+    "carbs100": 3,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosto-di-tacchino-affettato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Sgusciate",
+    "brand": "Eurospin",
+    "kcal100": 595,
+    "fat100": 50,
+    "carbs100": 9.1,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mandorle-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 102,
+    "fat100": 1.7,
+    "carbs100": 3.8,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno al Naturale",
+    "brand": "Eurospin",
+    "kcal100": 97,
+    "fat100": 0,
+    "carbs100": 0,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tonno-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Budino Proteico Vaniglia",
+    "brand": "Eurospin",
+    "kcal100": 75,
+    "fat100": 1,
+    "carbs100": 8,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/budino-proteico-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte Proteico",
+    "brand": "Eurospin",
+    "kcal100": 49,
+    "fat100": 0.1,
+    "carbs100": 4.9,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/latte-proteico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Pollo Affettato",
+    "brand": "Eurospin",
+    "kcal100": 93,
+    "fat100": 1,
+    "carbs100": 1,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/petto-di-pollo-affettato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macinato Scelto Bovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 186,
+    "fat100": 7.7,
+    "carbs100": 1.5,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macinato-scelto-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 109,
+    "fat100": 1,
+    "carbs100": 2,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sottilette Light",
+    "brand": "Eurospin",
+    "kcal100": 215,
+    "fat100": 13,
+    "carbs100": 6,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sottilette-light/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate al Rosmarino",
+    "brand": "Eurospin",
+    "kcal100": 106,
+    "fat100": 0,
+    "carbs100": 23,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/patate-al-rosmarino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberetti",
+    "brand": "Eurospin",
+    "kcal100": 71,
+    "fat100": 0.6,
+    "carbs100": 2.9,
+    "protein100": 13.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gamberetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccia",
+    "brand": "Eurospin",
+    "kcal100": 179,
+    "fat100": 13,
+    "carbs100": 1.5,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salsiccia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Latte Proteici",
+    "brand": "Eurospin",
+    "kcal100": 67,
+    "fat100": 0.9,
+    "carbs100": 2.8,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fiocchi-di-latte-proteici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Basmati",
+    "brand": "Eurospin",
+    "kcal100": 355,
+    "fat100": 0.6,
+    "carbs100": 78,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/riso-basmati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Integrali",
+    "brand": "Eurospin",
+    "kcal100": 377.8,
+    "fat100": 5.56,
+    "carbs100": 66.67,
+    "protein100": 12.22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fette-biscottate-integrali/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panini Precotti",
+    "brand": "Eurospin",
+    "kcal100": 248,
+    "fat100": 1,
+    "carbs100": 50,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/panini-precotti/1-panino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane di Segale",
+    "brand": "Eurospin",
+    "kcal100": 222,
+    "fat100": 1.3,
+    "carbs100": 43,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-di-segale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Affumicato con Legno di Faggio",
+    "brand": "Eurospin",
+    "kcal100": 182,
+    "fat100": 11.2,
+    "carbs100": 0,
+    "protein100": 20.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-affumicato-con-legno-di-faggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noci Sgusciate",
+    "brand": "Eurospin",
+    "kcal100": 670,
+    "fat100": 62,
+    "carbs100": 4.6,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/noci-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Scozzese Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 168,
+    "fat100": 9,
+    "carbs100": 0.6,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-scozzese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Tacchino",
+    "brand": "Eurospin",
+    "kcal100": 127,
+    "fat100": 5.4,
+    "carbs100": 1.7,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola Punta d'anca",
+    "brand": "Eurospin",
+    "kcal100": 152,
+    "fat100": 3.5,
+    "carbs100": 0.5,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bresaola-punta-danca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macinato di Fesa di Tacchino",
+    "brand": "Eurospin",
+    "kcal100": 114,
+    "fat100": 2.3,
+    "carbs100": 1.4,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macinato-di-fesa-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 165,
+    "fat100": 3.6,
+    "carbs100": 0,
+    "protein100": 31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/petto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coscia di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 115,
+    "fat100": 3.82,
+    "carbs100": 0,
+    "protein100": 18.84,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/coscia-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco 2% senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 70,
+    "fat100": 2,
+    "carbs100": 4,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-greco-2-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliata di Petto di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 105,
+    "fat100": 1.7,
+    "carbs100": 2.4,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tagliata-di-petto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panino per Hamburger",
+    "brand": "Eurospin",
+    "kcal100": 286.7,
+    "fat100": 5.47,
+    "carbs100": 49.07,
+    "protein100": 8.53,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/panino-per-hamburger/1-panino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 150,
+    "fat100": 12,
+    "carbs100": 3,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ricotta-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi di Patate",
+    "brand": "Eurospin",
+    "kcal100": 160,
+    "fat100": 0.1,
+    "carbs100": 35,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gnocchi-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macinato Misto Bovino Adulto Suino",
+    "brand": "Eurospin",
+    "kcal100": 214,
+    "fat100": 16.3,
+    "carbs100": 0.1,
+    "protein100": 16.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macinato-misto-bovino-adulto-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine di Petto di Pollo Panate",
+    "brand": "Eurospin",
+    "kcal100": 135,
+    "fat100": 2.4,
+    "carbs100": 8.6,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fettine-di-petto-di-pollo-panate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema di Arachidi",
+    "brand": "Eurospin",
+    "kcal100": 646,
+    "fat100": 55,
+    "carbs100": 7.7,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/crema-di-arachidi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tartare di Bovino",
+    "brand": "Eurospin",
+    "kcal100": 91,
+    "fat100": 1.3,
+    "carbs100": 0.5,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tartare-di-bovino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto 2% Grassi",
+    "brand": "Eurospin",
+    "kcal100": 106,
+    "fat100": 2,
+    "carbs100": 1,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/prosciutto-cotto-2-grassi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Merluzzo",
+    "brand": "Eurospin",
+    "kcal100": 186,
+    "fat100": 8.6,
+    "carbs100": 14,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bastoncini-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Corn Flakes",
+    "brand": "Eurospin",
+    "kcal100": 378,
+    "fat100": 0.9,
+    "carbs100": 84,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/corn-flakes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliata Bovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 100,
+    "fat100": 1.6,
+    "carbs100": 2.8,
+    "protein100": 18.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tagliata-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 225,
+    "fat100": 17,
+    "carbs100": 1,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mozzarella-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macinato di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 131,
+    "fat100": 6.5,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macinato-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Surimi",
+    "brand": "Eurospin",
+    "kcal100": 120,
+    "fat100": 5.5,
+    "carbs100": 9.5,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/surimi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Proteine",
+    "brand": "Eurospin",
+    "kcal100": 398,
+    "fat100": 7.5,
+    "carbs100": 9.9,
+    "protein100": 71,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/proteine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane ai Cereali",
+    "brand": "Eurospin",
+    "kcal100": 242,
+    "fat100": 4.5,
+    "carbs100": 39,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-ai-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Bovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 140,
+    "fat100": 6.9,
+    "carbs100": 1,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais",
+    "brand": "Eurospin",
+    "kcal100": 383,
+    "fat100": 1.2,
+    "carbs100": 84.8,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gallette-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Merluzzo Atlantico",
+    "brand": "Eurospin",
+    "kcal100": 91,
+    "fat100": 2.9,
+    "carbs100": 0.8,
+    "protein100": 15.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-merluzzo-atlantico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberi Indopacifici Sgusciati",
+    "brand": "Eurospin",
+    "kcal100": 56,
+    "fat100": 0.9,
+    "carbs100": 0,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gamberi-indopacifici-sgusciati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Fresca",
+    "brand": "Eurospin",
+    "kcal100": 98,
+    "fat100": 6,
+    "carbs100": 3,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ricotta-fresca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Suino",
+    "brand": "Eurospin",
+    "kcal100": 160,
+    "fat100": 11,
+    "carbs100": 2,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Merluzzo Panato",
+    "brand": "Eurospin",
+    "kcal100": 144,
+    "fat100": 4.2,
+    "carbs100": 11.7,
+    "protein100": 14.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/merluzzo-panato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Kebab di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 131,
+    "fat100": 6.1,
+    "carbs100": 2.1,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/kebab-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Riso con Verdure",
+    "brand": "Eurospin",
+    "kcal100": 170,
+    "fat100": 8.5,
+    "carbs100": 19,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-di-riso-con-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Spinaci e Formaggio",
+    "brand": "Eurospin",
+    "kcal100": 193,
+    "fat100": 7.8,
+    "carbs100": 19,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-spinaci-e-formaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone di Verdure",
+    "brand": "Eurospin",
+    "kcal100": 37,
+    "fat100": 0.7,
+    "carbs100": 5,
+    "protein100": 1.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/minestrone-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi Tostate",
+    "brand": "Eurospin",
+    "kcal100": 592,
+    "fat100": 49.7,
+    "carbs100": 8.5,
+    "protein100": 27.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arachidi-tostate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cacao Amaro",
+    "brand": "Eurospin",
+    "kcal100": 368,
+    "fat100": 20.7,
+    "carbs100": 8.7,
+    "protein100": 19.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cacao-amaro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella Light",
+    "brand": "Eurospin",
+    "kcal100": 152,
+    "fat100": 9,
+    "carbs100": 1.5,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mozzarella-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Petto di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 97,
+    "fat100": 1.3,
+    "carbs100": 3.3,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosto-di-petto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Caffè Protein",
+    "brand": "Eurospin",
+    "kcal100": 132,
+    "fat100": 4.1,
+    "carbs100": 20,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-caffè-protein",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette di Segale Croccanti",
+    "brand": "Eurospin",
+    "kcal100": 379,
+    "fat100": 7.5,
+    "carbs100": 58,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fette-di-segale-croccanti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Caramello Salato Protein",
+    "brand": "Eurospin",
+    "kcal100": 134,
+    "fat100": 4.2,
+    "carbs100": 21,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-caramello-salato-protein",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle",
+    "brand": "Eurospin",
+    "kcal100": 592,
+    "fat100": 51,
+    "carbs100": 2.4,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mandorle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Tacchino",
+    "brand": "Eurospin",
+    "kcal100": 98,
+    "fat100": 1.5,
+    "carbs100": 3,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosto-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fresella Bianca",
+    "brand": "Eurospin",
+    "kcal100": 253,
+    "fat100": 1.3,
+    "carbs100": 49.7,
+    "protein100": 10.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fresella-bianca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coscia di Maiale",
+    "brand": "Eurospin",
+    "kcal100": 110,
+    "fat100": 3.2,
+    "carbs100": 0,
+    "protein100": 20.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/coscia-di-maiale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata",
+    "brand": "Eurospin",
+    "kcal100": 23,
+    "fat100": 0.4,
+    "carbs100": 2.2,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trota Salmonata",
+    "brand": "Eurospin",
+    "kcal100": 142,
+    "fat100": 5.4,
+    "carbs100": 0,
+    "protein100": 23.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/trota-salmonata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso",
+    "brand": "Eurospin",
+    "kcal100": 367,
+    "fat100": 1.3,
+    "carbs100": 80,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gallette-di-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotoletta",
+    "brand": "Eurospin",
+    "kcal100": 250,
+    "fat100": 14,
+    "carbs100": 17,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotoletta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Crudo",
+    "brand": "Eurospin",
+    "kcal100": 234,
+    "fat100": 14,
+    "carbs100": 0,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/prosciutto-crudo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Selvaggio Sockeye Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 107,
+    "fat100": 2.2,
+    "carbs100": 1,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-selvaggio-sockeye-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Tacchino Arrosto",
+    "brand": "Eurospin",
+    "kcal100": 102,
+    "fat100": 1.1,
+    "carbs100": 0,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/petto-di-tacchino-arrosto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "100% Whey Proteine in Polvere",
+    "brand": "Eurospin",
+    "kcal100": 349,
+    "fat100": 2,
+    "carbs100": 6.3,
+    "protein100": 76,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/100-whey-proteine-in-polvere",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Creakers Leggeri",
+    "brand": "Eurospin",
+    "kcal100": 410,
+    "fat100": 6.3,
+    "carbs100": 76,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/creakers-leggeri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Pollo Fresche Fette",
+    "brand": "Eurospin",
+    "kcal100": 91,
+    "fat100": 1.9,
+    "carbs100": 2.5,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/petto-di-pollo-fresche-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Cioccolato Protein",
+    "brand": "Eurospin",
+    "kcal100": 155,
+    "fat100": 4.4,
+    "carbs100": 21,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-cioccolato-protein",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesce Spada",
+    "brand": "Eurospin",
+    "kcal100": 72,
+    "fat100": 0.89,
+    "carbs100": 1,
+    "protein100": 15.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pesce-spada",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chele di Granchio",
+    "brand": "Eurospin",
+    "kcal100": 153,
+    "fat100": 2.1,
+    "carbs100": 26,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/chele-di-granchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Integrale",
+    "brand": "Eurospin",
+    "kcal100": 349,
+    "fat100": 3.3,
+    "carbs100": 63.1,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pasta-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso a Chicco Lungo",
+    "brand": "Eurospin",
+    "kcal100": 349,
+    "fat100": 0.6,
+    "carbs100": 78,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/riso-a-chicco-lungo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Glassa Aceto Balsamico",
+    "brand": "Eurospin",
+    "kcal100": 237,
+    "fat100": 0,
+    "carbs100": 55,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/glassa-aceto-balsamico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger ai Broccoli",
+    "brand": "Eurospin",
+    "kcal100": 205,
+    "fat100": 11,
+    "carbs100": 14,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-ai-broccoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotoletta di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 260,
+    "fat100": 15,
+    "carbs100": 23,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotoletta-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cubetti di Pancetta Affumicata",
+    "brand": "Eurospin",
+    "kcal100": 243,
+    "fat100": 20,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cubetti-di-pancetta-affumicata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Integrale a Fette",
+    "brand": "Eurospin",
+    "kcal100": 267,
+    "fat100": 5.3,
+    "carbs100": 42,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-integrale-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fesa di Manzo Cotta",
+    "brand": "Eurospin",
+    "kcal100": 160,
+    "fat100": 4.65,
+    "carbs100": 0,
+    "protein100": 27.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fesa-di-manzo-cotta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Sgusciate e Pelate",
+    "brand": "Eurospin",
+    "kcal100": 607,
+    "fat100": 52,
+    "carbs100": 3,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mandorle-sgusciate-e-pelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Legumi e Cereali",
+    "brand": "Eurospin",
+    "kcal100": 104,
+    "fat100": 2.5,
+    "carbs100": 15,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zuppa-di-legumi-e-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Skyr",
+    "brand": "Eurospin",
+    "kcal100": 53,
+    "fat100": 0.1,
+    "carbs100": 3.6,
+    "protein100": 9.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/skyr",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto",
+    "brand": "Eurospin",
+    "kcal100": 154,
+    "fat100": 8,
+    "carbs100": 0.6,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta Proteica",
+    "brand": "Eurospin",
+    "kcal100": 432,
+    "fat100": 13,
+    "carbs100": 46,
+    "protein100": 31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/barretta-proteica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Baguette De Campagne",
+    "brand": "Eurospin",
+    "kcal100": 281,
+    "fat100": 1,
+    "carbs100": 59,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/baguette-de-campagne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane alla Semola di Grano Duro",
+    "brand": "Eurospin",
+    "kcal100": 245,
+    "fat100": 2.3,
+    "carbs100": 49.1,
+    "protein100": 10.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-alla-semola-di-grano-duro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Kiwi",
+    "brand": "Eurospin",
+    "kcal100": 61,
+    "fat100": 0.5,
+    "carbs100": 15,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/kiwi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Speck Alto Adige IGP",
+    "brand": "Eurospin",
+    "kcal100": 277,
+    "fat100": 17,
+    "carbs100": 0,
+    "protein100": 31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/speck-alto-adige-igp",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fitness Mix Frutta Secca",
+    "brand": "Eurospin",
+    "kcal100": 622,
+    "fat100": 52,
+    "carbs100": 14,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fitness-mix-frutta-secca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Valeriana Foglia Verde",
+    "brand": "Eurospin",
+    "kcal100": 46,
+    "fat100": 2.5,
+    "carbs100": 3,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/valeriana-foglia-verde",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Banana Chips",
+    "brand": "Eurospin",
+    "kcal100": 535,
+    "fat100": 34,
+    "carbs100": 51,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/banana-chips",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croissant Crema",
+    "brand": "Eurospin",
+    "kcal100": 426,
+    "fat100": 21.8,
+    "carbs100": 47.8,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/croissant-crema/1-pezzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella",
+    "brand": "Eurospin",
+    "kcal100": 235,
+    "fat100": 18,
+    "carbs100": 1.3,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cubetti di Prosciutto Cotto",
+    "brand": "Eurospin",
+    "kcal100": 123,
+    "fat100": 5,
+    "carbs100": 1.5,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cubetti-di-prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Rigate",
+    "brand": "Eurospin",
+    "kcal100": 358,
+    "fat100": 1.5,
+    "carbs100": 73,
+    "protein100": 11.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/penne-rigate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bontà Veloce Riso Integrale",
+    "brand": "Eurospin",
+    "kcal100": 211,
+    "fat100": 3.5,
+    "carbs100": 40,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bontà-veloce-riso-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cordon Bleu di Pollo e Tacchino",
+    "brand": "Eurospin",
+    "kcal100": 243,
+    "fat100": 15,
+    "carbs100": 16,
+    "protein100": 9.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cordon-bleu-di-pollo-e-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti ai Cereali",
+    "brand": "Eurospin",
+    "kcal100": 451,
+    "fat100": 14.9,
+    "carbs100": 71,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/biscotti-ai-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Straccetti di Soia",
+    "brand": "Eurospin",
+    "kcal100": 168,
+    "fat100": 7.9,
+    "carbs100": 3,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/straccetti-di-soia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotoletta di Pollo con Spinaci",
+    "brand": "Eurospin",
+    "kcal100": 226,
+    "fat100": 14,
+    "carbs100": 15,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotoletta-di-pollo-con-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Surgelati",
+    "brand": "Eurospin",
+    "kcal100": 235,
+    "fat100": 17,
+    "carbs100": 7,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sovracosce di Pollo senza Pelle",
+    "brand": "Eurospin",
+    "kcal100": 132,
+    "fat100": 6.3,
+    "carbs100": 0,
+    "protein100": 18.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sovracosce-di-pollo-senza-pelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta High Protein Gusto Cookie Cream",
+    "brand": "Eurospin",
+    "kcal100": 394,
+    "fat100": 12,
+    "carbs100": 25,
+    "protein100": 50,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/barretta-high-protein-gusto-cookie-cream",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina di Arachidi",
+    "brand": "Eurospin",
+    "kcal100": 387,
+    "fat100": 9.8,
+    "carbs100": 20.2,
+    "protein100": 48.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/farina-di-arachidi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno all'olio d'oliva",
+    "brand": "Eurospin",
+    "kcal100": 370,
+    "fat100": 33,
+    "carbs100": 0.5,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tonno-allolio-doliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta Arachidi e Datteri",
+    "brand": "Eurospin",
+    "kcal100": 382.9,
+    "fat100": 15.43,
+    "carbs100": 45.71,
+    "protein100": 10.57,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/barretta-arachidi-e-datteri/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix di Verdure",
+    "brand": "Eurospin",
+    "kcal100": 21,
+    "fat100": 0.2,
+    "carbs100": 2.9,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mix-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Arabo",
+    "brand": "Eurospin",
+    "kcal100": 305,
+    "fat100": 0.81,
+    "carbs100": 63.63,
+    "protein100": 9.79,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-arabo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccia con Tacchino, Suino e Pollo",
+    "brand": "Eurospin",
+    "kcal100": 227,
+    "fat100": 19,
+    "carbs100": 0.9,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salsiccia-con-tacchino-suino-e-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Fresca Land",
+    "brand": "Eurospin",
+    "kcal100": 115,
+    "fat100": 6,
+    "carbs100": 6.3,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ricotta-fresca-land",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Affumicato Norvegese",
+    "brand": "Eurospin",
+    "kcal100": 211,
+    "fat100": 15,
+    "carbs100": 0.5,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-affumicato-norvegese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Würstel",
+    "brand": "Eurospin",
+    "kcal100": 199,
+    "fat100": 14,
+    "carbs100": 4.2,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/würstel",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wurstel Pollo e Tacchino",
+    "brand": "Eurospin",
+    "kcal100": 199,
+    "fat100": 14,
+    "carbs100": 4.2,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/wurstel-pollo-e-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberetti in Salamoia",
+    "brand": "Eurospin",
+    "kcal100": 79,
+    "fat100": 0.8,
+    "carbs100": 2.2,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gamberetti-in-salamoia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Erbette Cotte",
+    "brand": "Eurospin",
+    "kcal100": 30,
+    "fat100": 0.5,
+    "carbs100": 0.4,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/erbette-cotte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Integrali",
+    "brand": "Eurospin",
+    "kcal100": 455,
+    "fat100": 15,
+    "carbs100": 70,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/frollini-integrali/5-biscotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Mix con Carote",
+    "brand": "Eurospin",
+    "kcal100": 16,
+    "fat100": 0.2,
+    "carbs100": 2.8,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-mix-con-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Topping al Cioccolato",
+    "brand": "Eurospin",
+    "kcal100": 301,
+    "fat100": 2.4,
+    "carbs100": 67.5,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/topping-al-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Edamer",
+    "brand": "Eurospin",
+    "kcal100": 306,
+    "fat100": 23,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/formaggio-edamer",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cicoria",
+    "brand": "Eurospin",
+    "kcal100": 13,
+    "fat100": 0.1,
+    "carbs100": 1.7,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cicoria",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macedonia di Verdure",
+    "brand": "Eurospin",
+    "kcal100": 44,
+    "fat100": 0.3,
+    "carbs100": 7.6,
+    "protein100": 2.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macedonia-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Kaiser",
+    "brand": "Eurospin",
+    "kcal100": 293,
+    "fat100": 4.3,
+    "carbs100": 53,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-kaiser",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema di Riso",
+    "brand": "Eurospin",
+    "kcal100": 381,
+    "fat100": 1.1,
+    "carbs100": 84.5,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/crema-di-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pollo con Patate",
+    "brand": "Eurospin",
+    "kcal100": 96,
+    "fat100": 1.1,
+    "carbs100": 12,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pollo-con-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggini Land",
+    "brand": "Eurospin",
+    "kcal100": 219,
+    "fat100": 17,
+    "carbs100": 3.5,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/formaggini-land",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nasello Sudafricano",
+    "brand": "Eurospin",
+    "kcal100": 80,
+    "fat100": 0.9,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nasello-sudafricano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passato di Verdure",
+    "brand": "Eurospin",
+    "kcal100": 22.3,
+    "fat100": 0.29,
+    "carbs100": 3.55,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/passato-di-verdure/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fresella Integrale",
+    "brand": "Eurospin",
+    "kcal100": 343,
+    "fat100": 1.4,
+    "carbs100": 66,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fresella-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Vitello",
+    "brand": "Eurospin",
+    "kcal100": 162,
+    "fat100": 8.4,
+    "carbs100": 5.2,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-vitello",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olio di Semi Vari",
+    "brand": "Eurospin",
+    "kcal100": 828,
+    "fat100": 92,
+    "carbs100": 0,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/olio-di-semi-vari",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostini Integrali",
+    "brand": "Eurospin",
+    "kcal100": 446,
+    "fat100": 11.3,
+    "carbs100": 70.1,
+    "protein100": 12.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/crostini-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Cremoso Bianco",
+    "brand": "Eurospin",
+    "kcal100": 104,
+    "fat100": 3.6,
+    "carbs100": 13.8,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-cremoso-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Bauletto Integrale",
+    "brand": "Eurospin",
+    "kcal100": 252,
+    "fat100": 4,
+    "carbs100": 43,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pan-bauletto-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Feta Greca senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 276,
+    "fat100": 23,
+    "carbs100": 0.7,
+    "protein100": 16.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/feta-greca-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Mista con Rucola e Carote",
+    "brand": "Eurospin",
+    "kcal100": 16,
+    "fat100": 0.2,
+    "carbs100": 2.6,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-mista-con-rucola-e-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto Scelto",
+    "brand": "Eurospin",
+    "kcal100": 147,
+    "fat100": 8,
+    "carbs100": 0.8,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/prosciutto-cotto-scelto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lupini",
+    "brand": "Eurospin",
+    "kcal100": 94,
+    "fat100": 2.5,
+    "carbs100": 3,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/lupini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Finissimi",
+    "brand": "Eurospin",
+    "kcal100": 83,
+    "fat100": 0.4,
+    "carbs100": 13.2,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/piselli-finissimi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crocchette di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 244,
+    "fat100": 15,
+    "carbs100": 17,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/crocchette-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Spalmabile Proteico",
+    "brand": "Eurospin",
+    "kcal100": 60,
+    "fat100": 0.2,
+    "carbs100": 3.5,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/formaggio-spalmabile-proteico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Caciocavallo Silano Dop",
+    "brand": "Eurospin",
+    "kcal100": 321,
+    "fat100": 23,
+    "carbs100": 2.5,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/caciocavallo-silano-dop",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizzette Pomodoro e Mozzarella",
+    "brand": "Eurospin",
+    "kcal100": 304,
+    "fat100": 16,
+    "carbs100": 33,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pizzette-pomodoro-e-mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Salmone Norvegese",
+    "brand": "Eurospin",
+    "kcal100": 224,
+    "fat100": 16,
+    "carbs100": 0,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetto-di-salmone-norvegese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Brioscia Col Tuppo",
+    "brand": "Eurospin",
+    "kcal100": 330,
+    "fat100": 14,
+    "carbs100": 42,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/brioscia-col-tuppo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Intero alla Frutta",
+    "brand": "Eurospin",
+    "kcal100": 101.3,
+    "fat100": 3.33,
+    "carbs100": 14.8,
+    "protein100": 3.13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-intero-alla-frutta/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone Delicato a Basso Contenuto Calorico",
+    "brand": "Eurospin",
+    "kcal100": 22,
+    "fat100": 0.2,
+    "carbs100": 2.4,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/minestrone-delicato-a-basso-contenuto-calorico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone",
+    "brand": "Eurospin",
+    "kcal100": 194,
+    "fat100": 12,
+    "carbs100": 0.3,
+    "protein100": 21.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sarde Panate",
+    "brand": "Eurospin",
+    "kcal100": 149,
+    "fat100": 3.4,
+    "carbs100": 19.6,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sarde-panate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Salmone al Naturale",
+    "brand": "Eurospin",
+    "kcal100": 126,
+    "fat100": 4.4,
+    "carbs100": 0,
+    "protein100": 21.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-salmone-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lattughino",
+    "brand": "Eurospin",
+    "kcal100": 17,
+    "fat100": 0,
+    "carbs100": 2.2,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/lattughino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola",
+    "brand": "Eurospin",
+    "kcal100": 156,
+    "fat100": 2.7,
+    "carbs100": 0.5,
+    "protein100": 33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bresaola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pangrattato Senza Glutine",
+    "brand": "Eurospin",
+    "kcal100": 384,
+    "fat100": 2.29,
+    "carbs100": 82.96,
+    "protein100": 6.88,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pangrattato-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Frutti di Bosco",
+    "brand": "Eurospin",
+    "kcal100": 37,
+    "fat100": 0,
+    "carbs100": 6.6,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/misto-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Parmigiano Reggiano",
+    "brand": "Eurospin",
+    "kcal100": 402,
+    "fat100": 30,
+    "carbs100": 0,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/parmigiano-reggiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettina Panata Suino",
+    "brand": "Eurospin",
+    "kcal100": 205,
+    "fat100": 8.9,
+    "carbs100": 15,
+    "protein100": 16.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fettina-panata-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orata Eviscerata",
+    "brand": "Eurospin",
+    "kcal100": 174,
+    "fat100": 11.2,
+    "carbs100": 0,
+    "protein100": 18.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/orata-eviscerata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Contorno Grigliato",
+    "brand": "Eurospin",
+    "kcal100": 72,
+    "fat100": 1.3,
+    "carbs100": 12,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/contorno-grigliato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette Grano Saraceno",
+    "brand": "Eurospin",
+    "kcal100": 353,
+    "fat100": 3.7,
+    "carbs100": 63,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gallette-grano-saraceno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macinato Scelto B.a.",
+    "brand": "Eurospin",
+    "kcal100": 146,
+    "fat100": 8.1,
+    "carbs100": 0.4,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macinato-scelto-ba",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Zucca Tostati e Salati",
+    "brand": "Eurospin",
+    "kcal100": 427,
+    "fat100": 19,
+    "carbs100": 35,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/semi-di-zucca-tostati-e-salati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto senza Aglio",
+    "brand": "Eurospin",
+    "kcal100": 587,
+    "fat100": 62,
+    "carbs100": 3.6,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pesto-senza-aglio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Pollo e Tacchino",
+    "brand": "Eurospin",
+    "kcal100": 189,
+    "fat100": 13,
+    "carbs100": 3,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-pollo-e-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trofie",
+    "brand": "Eurospin",
+    "kcal100": 351,
+    "fat100": 1.4,
+    "carbs100": 69,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/trofie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncino alle Olive",
+    "brand": "Eurospin",
+    "kcal100": 258,
+    "fat100": 8.3,
+    "carbs100": 38,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bastoncino-alle-olive",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macinato Vitello",
+    "brand": "Eurospin",
+    "kcal100": 198,
+    "fat100": 14,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macinato-vitello",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ritagli di Salmone Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 179,
+    "fat100": 10,
+    "carbs100": 0.5,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ritagli-di-salmone-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macinato Ragu Bovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 225,
+    "fat100": 17,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macinato-ragu-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotoletta Agli Spinaci",
+    "brand": "Eurospin",
+    "kcal100": 214,
+    "fat100": 13,
+    "carbs100": 14,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotoletta-agli-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Merluzzo Nordico al Limone",
+    "brand": "Eurospin",
+    "kcal100": 219,
+    "fat100": 9.8,
+    "carbs100": 19.9,
+    "protein100": 12.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/merluzzo-nordico-al-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpettine con Tacchino e Suino",
+    "brand": "Eurospin",
+    "kcal100": 209,
+    "fat100": 14,
+    "carbs100": 5.1,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/polpettine-con-tacchino-e-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Tacchino con Rosmarino",
+    "brand": "Eurospin",
+    "kcal100": 127,
+    "fat100": 5.4,
+    "carbs100": 1.7,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-tacchino-con-rosmarino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Mignon",
+    "brand": "Eurospin",
+    "kcal100": 290,
+    "fat100": 6.7,
+    "carbs100": 48,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/piadina-mignon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizzette Rosse",
+    "brand": "Eurospin",
+    "kcal100": 325,
+    "fat100": 6,
+    "carbs100": 66.9,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pizzette-rosse",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uova Biologiche",
+    "brand": "Eurospin",
+    "kcal100": 128,
+    "fat100": 8.7,
+    "carbs100": 0.5,
+    "protein100": 12.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/uova-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burgheroni Petto di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 110,
+    "fat100": 2.8,
+    "carbs100": 3.2,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burgheroni-petto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata di Fragole",
+    "brand": "Eurospin",
+    "kcal100": 241,
+    "fat100": 0.2,
+    "carbs100": 59,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/marmellata-di-fragole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciabatta Bianca Classica",
+    "brand": "Eurospin",
+    "kcal100": 355,
+    "fat100": 1.5,
+    "carbs100": 74,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ciabatta-bianca-classica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco al Cocco",
+    "brand": "Eurospin",
+    "kcal100": 99,
+    "fat100": 1.6,
+    "carbs100": 13,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-greco-al-cocco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mirtilli Rossi",
+    "brand": "Eurospin",
+    "kcal100": 354,
+    "fat100": 1.4,
+    "carbs100": 82.4,
+    "protein100": 0.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mirtilli-rossi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Speedy Pollo",
+    "brand": "Eurospin",
+    "kcal100": 250,
+    "fat100": 14,
+    "carbs100": 18,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/speedy-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesce Spada Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 201,
+    "fat100": 13,
+    "carbs100": 0.5,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pesce-spada-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Protein Bar Gusto Cocco",
+    "brand": "Eurospin",
+    "kcal100": 432,
+    "fat100": 13,
+    "carbs100": 46,
+    "protein100": 31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/protein-bar-gusto-cocco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 69,
+    "fat100": 0.1,
+    "carbs100": 13,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini",
+    "brand": "Eurospin",
+    "kcal100": 76,
+    "fat100": 0.6,
+    "carbs100": 12.5,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fagioli-cannellini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti Digestive Avena e Cioccolato",
+    "brand": "Eurospin",
+    "kcal100": 476,
+    "fat100": 21,
+    "carbs100": 61,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/biscotti-digestive-avena-e-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Tonno a Pinne Gialle",
+    "brand": "Eurospin",
+    "kcal100": 103,
+    "fat100": 1,
+    "carbs100": 0.5,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-tonno-a-pinne-gialle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpettine di Carne Bovina",
+    "brand": "Eurospin",
+    "kcal100": 235,
+    "fat100": 17,
+    "carbs100": 7,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/polpettine-di-carne-bovina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Croce del Sud",
+    "brand": "Eurospin",
+    "kcal100": 249,
+    "fat100": 2.4,
+    "carbs100": 44,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-croce-del-sud",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stracciatella di Burrata",
+    "brand": "Eurospin",
+    "kcal100": 217,
+    "fat100": 18,
+    "carbs100": 1.2,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/stracciatella-di-burrata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti Gratinati di Merluzzo d'alaska",
+    "brand": "Eurospin",
+    "kcal100": 143,
+    "fat100": 7,
+    "carbs100": 8.9,
+    "protein100": 10.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-gratinati-di-merluzzo-dalaska",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate a Spicchi",
+    "brand": "Eurospin",
+    "kcal100": 123,
+    "fat100": 3.1,
+    "carbs100": 20,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/patate-a-spicchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cetrioli Aromatizzati",
+    "brand": "Eurospin",
+    "kcal100": 34,
+    "fat100": 0.16,
+    "carbs100": 5.5,
+    "protein100": 1.86,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cetrioli-aromatizzati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bevanda alle Mandorle",
+    "brand": "Eurospin",
+    "kcal100": 85,
+    "fat100": 3.2,
+    "carbs100": 13,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bevanda-alle-mandorle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt",
+    "brand": "Eurospin",
+    "kcal100": 41,
+    "fat100": 0.1,
+    "carbs100": 4.5,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciole Sgusciate",
+    "brand": "Eurospin",
+    "kcal100": 631,
+    "fat100": 54,
+    "carbs100": 18,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nocciole-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mortadella",
+    "brand": "Eurospin",
+    "kcal100": 300,
+    "fat100": 26,
+    "carbs100": 1,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mortadella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noodles Gusto Verdure",
+    "brand": "Eurospin",
+    "kcal100": 452,
+    "fat100": 17,
+    "carbs100": 62,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/noodles-gusto-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vongole",
+    "brand": "Eurospin",
+    "kcal100": 48,
+    "fat100": 0.7,
+    "carbs100": 0,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/vongole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stracchino senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 289,
+    "fat100": 25,
+    "carbs100": 2,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/stracchino-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crescenza",
+    "brand": "Eurospin",
+    "kcal100": 267,
+    "fat100": 23,
+    "carbs100": 1.9,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/crescenza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini in Scatola",
+    "brand": "Eurospin",
+    "kcal100": 94,
+    "fat100": 0.6,
+    "carbs100": 13,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fagioli-cannellini-in-scatola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger",
+    "brand": "Eurospin",
+    "kcal100": 235,
+    "fat100": 17,
+    "carbs100": 7,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Bovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 238,
+    "fat100": 18,
+    "carbs100": 0,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais in Scatola",
+    "brand": "Eurospin",
+    "kcal100": 100,
+    "fat100": 1.7,
+    "carbs100": 17.4,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mais-in-scatola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bistecca di Tonno a Pinne Gialle",
+    "brand": "Eurospin",
+    "kcal100": 82,
+    "fat100": 0.11,
+    "carbs100": 1,
+    "protein100": 19.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bistecca-di-tonno-a-pinne-gialle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Integrali Croccanti",
+    "brand": "Eurospin",
+    "kcal100": 349,
+    "fat100": 1.6,
+    "carbs100": 64,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fette-integrali-croccanti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti",
+    "brand": "Eurospin",
+    "kcal100": 358,
+    "fat100": 1.5,
+    "carbs100": 73,
+    "protein100": 11.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/spaghetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Battuta Piemontese",
+    "brand": "Eurospin",
+    "kcal100": 129,
+    "fat100": 4.8,
+    "carbs100": 0,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/battuta-piemontese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Skin Bovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 198,
+    "fat100": 13,
+    "carbs100": 0.4,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-skin-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carpaccio di Salmone Marinato",
+    "brand": "Eurospin",
+    "kcal100": 214,
+    "fat100": 14,
+    "carbs100": 1.7,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/carpaccio-di-salmone-marinato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Treccia alla Crema Pasticcera con Gocce di Cioccolato",
+    "brand": "Eurospin",
+    "kcal100": 285,
+    "fat100": 8.2,
+    "carbs100": 45,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/treccia-alla-crema-pasticcera-con-gocce-di-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate ai Cereali",
+    "brand": "Eurospin",
+    "kcal100": 404,
+    "fat100": 5.8,
+    "carbs100": 75,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fette-biscottate-ai-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Alette Arrosto di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 199,
+    "fat100": 11,
+    "carbs100": 5.1,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/alette-arrosto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa alla Giapponese",
+    "brand": "Eurospin",
+    "kcal100": 21,
+    "fat100": 1.4,
+    "carbs100": 0.6,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zuppa-alla-giapponese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bio Barretta Cocco e Vaniglia",
+    "brand": "Eurospin",
+    "kcal100": 388.6,
+    "fat100": 18,
+    "carbs100": 45.71,
+    "protein100": 5.14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bio-barretta-cocco-e-vaniglia/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Cotte al Vapore",
+    "brand": "Eurospin",
+    "kcal100": 75,
+    "fat100": 0.5,
+    "carbs100": 16,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/patate-cotte-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotto di Tacchino con Olive",
+    "brand": "Eurospin",
+    "kcal100": 124,
+    "fat100": 5,
+    "carbs100": 4.5,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotto-di-tacchino-con-olive",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa Alla Thailandese",
+    "brand": "Eurospin",
+    "kcal100": 69,
+    "fat100": 1.2,
+    "carbs100": 8.4,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zuppa-alla-thailandese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciabatta Rustica alle Patate",
+    "brand": "Eurospin",
+    "kcal100": 254,
+    "fat100": 0.8,
+    "carbs100": 52,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ciabatta-rustica-alle-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Drink Energy Sugar Free",
+    "brand": "Eurospin",
+    "kcal100": 4,
+    "fat100": 0,
+    "carbs100": 0.1,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/drink-energy-sugar-free",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Saltimbocca Cotto con Forno in Pietra",
+    "brand": "Eurospin",
+    "kcal100": 307,
+    "fat100": 7.8,
+    "carbs100": 51,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/saltimbocca-cotto-con-forno-in-pietra",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riccioli di Mais",
+    "brand": "Eurospin",
+    "kcal100": 556,
+    "fat100": 35,
+    "carbs100": 53,
+    "protein100": 5.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/riccioli-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pinsa",
+    "brand": "Eurospin",
+    "kcal100": 300,
+    "fat100": 7.5,
+    "carbs100": 49,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pinsa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Scozzese Affumicato con Legno di Faggio",
+    "brand": "Eurospin",
+    "kcal100": 191,
+    "fat100": 11.8,
+    "carbs100": 0.2,
+    "protein100": 21.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-scozzese-affumicato-con-legno-di-faggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coppiette Essiccate di Suino",
+    "brand": "Eurospin",
+    "kcal100": 206,
+    "fat100": 9.83,
+    "carbs100": 0.96,
+    "protein100": 28.21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/coppiette-essiccate-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panna Spray",
+    "brand": "Eurospin",
+    "kcal100": 279,
+    "fat100": 26,
+    "carbs100": 8.6,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/panna-spray",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 110,
+    "fat100": 1.27,
+    "carbs100": 4.63,
+    "protein100": 19.97,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Choko Snack",
+    "brand": "Eurospin",
+    "kcal100": 497,
+    "fat100": 31,
+    "carbs100": 43,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/choko-snack",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotoletta di Platessa del Pacifico",
+    "brand": "Eurospin",
+    "kcal100": 192,
+    "fat100": 8.6,
+    "carbs100": 11,
+    "protein100": 12.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotoletta-di-platessa-del-pacifico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Merluzzo in Crosta di Cornflakes",
+    "brand": "Eurospin",
+    "kcal100": 191,
+    "fat100": 6.8,
+    "carbs100": 19,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/merluzzo-in-crosta-di-cornflakes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lingotto di Salmone Norvegese",
+    "brand": "Eurospin",
+    "kcal100": 175,
+    "fat100": 9.9,
+    "carbs100": 0.3,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/lingotto-di-salmone-norvegese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Protein Bar Arachidi e Nocciola",
+    "brand": "Eurospin",
+    "kcal100": 453,
+    "fat100": 23,
+    "carbs100": 26,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/protein-bar-arachidi-e-nocciola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta Cereali",
+    "brand": "Eurospin",
+    "kcal100": 277,
+    "fat100": 5.9,
+    "carbs100": 45,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/barretta-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rotolo con Spinaci",
+    "brand": "Eurospin",
+    "kcal100": 220,
+    "fat100": 16,
+    "carbs100": 5,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/rotolo-con-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 95,
+    "fat100": 13,
+    "carbs100": 0.6,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salame Ungherese",
+    "brand": "Eurospin",
+    "kcal100": 386,
+    "fat100": 32,
+    "carbs100": 0.9,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salame-ungherese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Protein Bar Caramello Salato",
+    "brand": "Eurospin",
+    "kcal100": 440,
+    "fat100": 17,
+    "carbs100": 40,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/protein-bar-caramello-salato/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ritagli di Salmone",
+    "brand": "Eurospin",
+    "kcal100": 161,
+    "fat100": 8.4,
+    "carbs100": 0,
+    "protein100": 21.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ritagli-di-salmone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Orzo con Verdure",
+    "brand": "Eurospin",
+    "kcal100": 198,
+    "fat100": 9.8,
+    "carbs100": 22,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-di-orzo-con-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salame al Cioccolato",
+    "brand": "Eurospin",
+    "kcal100": 414,
+    "fat100": 17,
+    "carbs100": 56,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salame-al-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi Ripieni ai Formaggi",
+    "brand": "Eurospin",
+    "kcal100": 165,
+    "fat100": 3.4,
+    "carbs100": 28,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gnocchi-ripieni-ai-formaggi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane di Semola",
+    "brand": "Eurospin",
+    "kcal100": 316,
+    "fat100": 3.5,
+    "carbs100": 60,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-di-semola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coppa al Caffè",
+    "brand": "Eurospin",
+    "kcal100": 194.3,
+    "fat100": 8.57,
+    "carbs100": 25.71,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/coppa-al-caffè/1-coppa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panna senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 206,
+    "fat100": 20,
+    "carbs100": 4,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/panna-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fishburger",
+    "brand": "Eurospin",
+    "kcal100": 193,
+    "fat100": 7.5,
+    "carbs100": 20,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fishburger",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Speck Stagionato",
+    "brand": "Eurospin",
+    "kcal100": 256,
+    "fat100": 15,
+    "carbs100": 0.7,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/speck-stagionato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burgheroni Prosciutto Cotto",
+    "brand": "Eurospin",
+    "kcal100": 196,
+    "fat100": 13,
+    "carbs100": 0.7,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burgheroni-prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Intero alla Frutta",
+    "brand": "Eurospin",
+    "kcal100": 92,
+    "fat100": 3.2,
+    "carbs100": 12.8,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-intero-alla-frutta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato con Crema Spalmabile Nocciola e Cacao",
+    "brand": "Eurospin",
+    "kcal100": 310,
+    "fat100": 18,
+    "carbs100": 32,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-con-crema-spalmabile-nocciola-e-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Broccoli a Rosette",
+    "brand": "Eurospin",
+    "kcal100": 26,
+    "fat100": 0,
+    "carbs100": 1.5,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/broccoli-a-rosette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passato di Verdure",
+    "brand": "Eurospin",
+    "kcal100": 25,
+    "fat100": 0.8,
+    "carbs100": 2.9,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/passato-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maionese",
+    "brand": "Eurospin",
+    "kcal100": 649,
+    "fat100": 71,
+    "carbs100": 1.1,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/maionese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger 100% Vegetale con Melanzane e Pomodori",
+    "brand": "Eurospin",
+    "kcal100": 201,
+    "fat100": 9.6,
+    "carbs100": 11,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-100-vegetale-con-melanzane-e-pomodori",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Scottona",
+    "brand": "Eurospin",
+    "kcal100": 213,
+    "fat100": 16,
+    "carbs100": 0.5,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-scottona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine di Mela",
+    "brand": "Eurospin",
+    "kcal100": 358,
+    "fat100": 0,
+    "carbs100": 80,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fettine-di-mela",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spalla Cotta",
+    "brand": "Eurospin",
+    "kcal100": 113,
+    "fat100": 5,
+    "carbs100": 2,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/spalla-cotta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato con Crema Spalmabile al Pistacchio",
+    "brand": "Eurospin",
+    "kcal100": 304,
+    "fat100": 17,
+    "carbs100": 32,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-con-crema-spalmabile-al-pistacchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro",
+    "brand": "Eurospin",
+    "kcal100": 338,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-sgombro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mazzancolle Tropicali con Coda",
+    "brand": "Eurospin",
+    "kcal100": 82,
+    "fat100": 0.6,
+    "carbs100": 0,
+    "protein100": 18.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mazzancolle-tropicali-con-coda",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orecchiette Fresche",
+    "brand": "Eurospin",
+    "kcal100": 273,
+    "fat100": 1.3,
+    "carbs100": 55,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/orecchiette-fresche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Selvaggio D’Alaska Sockeye",
+    "brand": "Eurospin",
+    "kcal100": 140,
+    "fat100": 4.1,
+    "carbs100": 0,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-selvaggio-d’alaska-sockeye",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola della Valtellina IGP",
+    "brand": "Eurospin",
+    "kcal100": 152,
+    "fat100": 1.9,
+    "carbs100": 0.5,
+    "protein100": 33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bresaola-della-valtellina-igp",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Reale Equino",
+    "brand": "Eurospin",
+    "kcal100": 149,
+    "fat100": 1,
+    "carbs100": 0.5,
+    "protein100": 23.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/reale-equino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Robiola",
+    "brand": "Eurospin",
+    "kcal100": 271,
+    "fat100": 26,
+    "carbs100": 3.2,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/robiola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Focaccia",
+    "brand": "Eurospin",
+    "kcal100": 327,
+    "fat100": 5,
+    "carbs100": 58.4,
+    "protein100": 10.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pan-focaccia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Surimi Surgelati",
+    "brand": "Eurospin",
+    "kcal100": 145,
+    "fat100": 5.3,
+    "carbs100": 18.4,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bastoncini-di-surimi-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Peschette Alchermes",
+    "brand": "Eurospin",
+    "kcal100": 410,
+    "fat100": 19,
+    "carbs100": 55,
+    "protein100": 4.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/peschette-alchermes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carote Julienne",
+    "brand": "Eurospin",
+    "kcal100": 23,
+    "fat100": 0.4,
+    "carbs100": 2.2,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/carote-julienne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Champignon",
+    "brand": "Eurospin",
+    "kcal100": 21,
+    "fat100": 0.12,
+    "carbs100": 3.26,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/funghi-champignon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Salmone e Zucchine",
+    "brand": "Eurospin",
+    "kcal100": 249,
+    "fat100": 16.1,
+    "carbs100": 15,
+    "protein100": 10.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-salmone-e-zucchine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack Piccante",
+    "brand": "Eurospin",
+    "kcal100": 517,
+    "fat100": 30.8,
+    "carbs100": 41,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/snack-piccante",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini di Salmone Affumicato a Caldo",
+    "brand": "Eurospin",
+    "kcal100": 205,
+    "fat100": 12,
+    "carbs100": 0.5,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bocconcini-di-salmone-affumicato-a-caldo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane per Tramezzini",
+    "brand": "Eurospin",
+    "kcal100": 244,
+    "fat100": 2.7,
+    "carbs100": 45.4,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-per-tramezzini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tartare di Fassone",
+    "brand": "Eurospin",
+    "kcal100": 174,
+    "fat100": 7,
+    "carbs100": 0,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tartare-di-fassone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carne in Gelatina",
+    "brand": "Eurospin",
+    "kcal100": 61,
+    "fat100": 1.5,
+    "carbs100": 0.6,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/carne-in-gelatina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Bauletto 8 Cereali e Soia",
+    "brand": "Eurospin",
+    "kcal100": 281,
+    "fat100": 5.8,
+    "carbs100": 45,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pan-bauletto-8-cereali-e-soia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo ai Funghi",
+    "brand": "Eurospin",
+    "kcal100": 103,
+    "fat100": 7.5,
+    "carbs100": 4.2,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sugo-ai-funghi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stikki Speck",
+    "brand": "Eurospin",
+    "kcal100": 243,
+    "fat100": 12,
+    "carbs100": 0.5,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/stikki-speck",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Culatta",
+    "brand": "Eurospin",
+    "kcal100": 280,
+    "fat100": 18,
+    "carbs100": 1,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/culatta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cavolo Cappuccio",
+    "brand": "Eurospin",
+    "kcal100": 19,
+    "fat100": 0.1,
+    "carbs100": 2.5,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cavolo-cappuccio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Girella di Bovino",
+    "brand": "Eurospin",
+    "kcal100": 175,
+    "fat100": 11.8,
+    "carbs100": 1.7,
+    "protein100": 14.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/girella-di-bovino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie",
+    "brand": "Eurospin",
+    "kcal100": 304,
+    "fat100": 1.6,
+    "carbs100": 40,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/lenticchie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grattugiato Italiano",
+    "brand": "Eurospin",
+    "kcal100": 392,
+    "fat100": 28,
+    "carbs100": 0,
+    "protein100": 33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/grattugiato-italiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpette della Nonna",
+    "brand": "Eurospin",
+    "kcal100": 176,
+    "fat100": 10.5,
+    "carbs100": 2.7,
+    "protein100": 17.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/polpette-della-nonna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salad Mix",
+    "brand": "Eurospin",
+    "kcal100": 463,
+    "fat100": 31,
+    "carbs100": 20,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salad-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spiedino di Tacchino",
+    "brand": "Eurospin",
+    "kcal100": 202,
+    "fat100": 15,
+    "carbs100": 0.7,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/spiedino-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fitness Mix",
+    "brand": "Eurospin",
+    "kcal100": 493,
+    "fat100": 27,
+    "carbs100": 47,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fitness-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Tostati e Salati",
+    "brand": "Eurospin",
+    "kcal100": 386,
+    "fat100": 10,
+    "carbs100": 48,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ceci-tostati-e-salati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix Frutti Rossi",
+    "brand": "Eurospin",
+    "kcal100": 337,
+    "fat100": 1.52,
+    "carbs100": 74.7,
+    "protein100": 3.36,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mix-frutti-rossi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciole",
+    "brand": "Eurospin",
+    "kcal100": 635,
+    "fat100": 56,
+    "carbs100": 16,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spiedini di Suino con Peperoni",
+    "brand": "Eurospin",
+    "kcal100": 208,
+    "fat100": 16,
+    "carbs100": 0.5,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/spiedini-di-suino-con-peperoni",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Surimi",
+    "brand": "Eurospin",
+    "kcal100": 112,
+    "fat100": 2.6,
+    "carbs100": 16,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bastoncini-di-surimi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger di Salmone",
+    "brand": "Eurospin",
+    "kcal100": 153,
+    "fat100": 9.8,
+    "carbs100": 0.2,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-di-salmone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Benessere Mix",
+    "brand": "Eurospin",
+    "kcal100": 513,
+    "fat100": 36,
+    "carbs100": 27,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/benessere-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tentacoli di Polpo Cotti",
+    "brand": "Eurospin",
+    "kcal100": 97,
+    "fat100": 1.1,
+    "carbs100": 0,
+    "protein100": 21.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tentacoli-di-polpo-cotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Integrali",
+    "brand": "Eurospin",
+    "kcal100": 401,
+    "fat100": 7,
+    "carbs100": 70,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fette-biscottate-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto di Mare per Risotto",
+    "brand": "Eurospin",
+    "kcal100": 81,
+    "fat100": 1.8,
+    "carbs100": 3,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/misto-di-mare-per-risotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rotolo con Speck",
+    "brand": "Eurospin",
+    "kcal100": 215,
+    "fat100": 15,
+    "carbs100": 4,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/rotolo-con-speck",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Couscous Alibabà",
+    "brand": "Eurospin",
+    "kcal100": 349,
+    "fat100": 1.8,
+    "carbs100": 69,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/couscous-alibabà",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciambelline Gustose",
+    "brand": "Eurospin",
+    "kcal100": 420,
+    "fat100": 9.6,
+    "carbs100": 69,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ciambelline-gustose",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ragù di Cinghiale",
+    "brand": "Eurospin",
+    "kcal100": 189,
+    "fat100": 14,
+    "carbs100": 1.8,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ragù-di-cinghiale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Mare",
+    "brand": "Eurospin",
+    "kcal100": 89,
+    "fat100": 1.3,
+    "carbs100": 0.5,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine Scelte Equino",
+    "brand": "Eurospin",
+    "kcal100": 106,
+    "fat100": 2.14,
+    "carbs100": 0.24,
+    "protein100": 21.42,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fettine-scelte-equino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Cioccolato e Fiordilatte",
+    "brand": "Eurospin",
+    "kcal100": 193,
+    "fat100": 8.2,
+    "carbs100": 26,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-cioccolato-e-fiordilatte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wusterl di Suino Tobias",
+    "brand": "Eurospin",
+    "kcal100": 278,
+    "fat100": 25,
+    "carbs100": 0.5,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/wusterl-di-suino-tobias",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Discocco",
+    "brand": "Eurospin",
+    "kcal100": 538,
+    "fat100": 40,
+    "carbs100": 40,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/discocco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macinato Ragù Bovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 225,
+    "fat100": 17,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/macinato-ragù-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Fresco Classico (Land)",
+    "brand": "Eurospin",
+    "kcal100": 246,
+    "fat100": 23.5,
+    "carbs100": 2.5,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/formaggio-fresco-classico-(land)",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccia Macinata",
+    "brand": "Eurospin",
+    "kcal100": 248,
+    "fat100": 21.6,
+    "carbs100": 0.5,
+    "protein100": 13.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salsiccia-macinata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farro Soffiato Degli Altipiani Umbri",
+    "brand": "Eurospin",
+    "kcal100": 333,
+    "fat100": 2.2,
+    "carbs100": 61.6,
+    "protein100": 15.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/farro-soffiato-degli-altipiani-umbri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bevanda All’Avena",
+    "brand": "Eurospin",
+    "kcal100": 53,
+    "fat100": 1.4,
+    "carbs100": 9.3,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bevanda-all’avena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bistecche di Mare",
+    "brand": "Eurospin",
+    "kcal100": 246,
+    "fat100": 12.9,
+    "carbs100": 19.5,
+    "protein100": 12.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bistecche-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spiedini di Suino",
+    "brand": "Eurospin",
+    "kcal100": 171,
+    "fat100": 10,
+    "carbs100": 1.8,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/spiedini-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gouda",
+    "brand": "Eurospin",
+    "kcal100": 361,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gouda",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grana Padano DOP Grattugiato",
+    "brand": "Eurospin",
+    "kcal100": 398,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/grana-padano-dop-grattugiato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Pollo senza Antibiotici",
+    "brand": "Eurospin",
+    "kcal100": 132,
+    "fat100": 7.1,
+    "carbs100": 0,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-pollo-senza-antibiotici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vongole Sgusciate",
+    "brand": "Eurospin",
+    "kcal100": 64,
+    "fat100": 0.8,
+    "carbs100": 3.1,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/vongole-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Fragola e Limone",
+    "brand": "Eurospin",
+    "kcal100": 153,
+    "fat100": 3.5,
+    "carbs100": 29,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-fragola-e-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccia di Suino con Finocchio",
+    "brand": "Eurospin",
+    "kcal100": 196,
+    "fat100": 14,
+    "carbs100": 0.4,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salsiccia-di-suino-con-finocchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Trigusto",
+    "brand": "Eurospin",
+    "kcal100": 170,
+    "fat100": 5.9,
+    "carbs100": 26.1,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-trigusto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Margherita senza Glutine senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 253,
+    "fat100": 11,
+    "carbs100": 31,
+    "protein100": 6.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pizza-margherita-senza-glutine-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Soia",
+    "brand": "Eurospin",
+    "kcal100": 223.8,
+    "fat100": 8.38,
+    "carbs100": 20.38,
+    "protein100": 16.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotolette-di-soia/1-cotoletta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato di Modica",
+    "brand": "Eurospin",
+    "kcal100": 514,
+    "fat100": 31,
+    "carbs100": 46,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cioccolato-di-modica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema da Spalmare alle Nocciole Vegetale",
+    "brand": "Eurospin",
+    "kcal100": 522,
+    "fat100": 28.3,
+    "carbs100": 60,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/crema-da-spalmare-alle-nocciole-vegetale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpo Cotto",
+    "brand": "Eurospin",
+    "kcal100": 126,
+    "fat100": 3.8,
+    "carbs100": 0,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/polpo-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Platessa",
+    "brand": "Eurospin",
+    "kcal100": 60,
+    "fat100": 2.2,
+    "carbs100": 0,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetto-di-platessa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Grattato",
+    "brand": "Eurospin",
+    "kcal100": 365,
+    "fat100": 3.5,
+    "carbs100": 74,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pan-grattato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto di Salsiccia",
+    "brand": "Eurospin",
+    "kcal100": 239,
+    "fat100": 19,
+    "carbs100": 0,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pesto-di-salsiccia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carne Salada",
+    "brand": "Eurospin",
+    "kcal100": 128,
+    "fat100": 2.3,
+    "carbs100": 0.7,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/carne-salada",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Stracciatella senza Zuccheri Aggiunti",
+    "brand": "Eurospin",
+    "kcal100": 177,
+    "fat100": 9.6,
+    "carbs100": 25,
+    "protein100": 3.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-stracciatella-senza-zuccheri-aggiunti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fresella Bianca Classica",
+    "brand": "Eurospin",
+    "kcal100": 253,
+    "fat100": 1.3,
+    "carbs100": 49,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fresella-bianca-classica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi Ricoperte Gusto Bacon",
+    "brand": "Eurospin",
+    "kcal100": 498,
+    "fat100": 31,
+    "carbs100": 39,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arachidi-ricoperte-gusto-bacon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cacio e Pepe",
+    "brand": "Eurospin",
+    "kcal100": 379,
+    "fat100": 30,
+    "carbs100": 1,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cacio-e-pepe",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberi in Salamoia",
+    "brand": "Eurospin",
+    "kcal100": 69,
+    "fat100": 0.8,
+    "carbs100": 0,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gamberi-in-salamoia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pomodori Pelati",
+    "brand": "Eurospin",
+    "kcal100": 20,
+    "fat100": 0.1,
+    "carbs100": 3,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pomodori-pelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Merendine al Miele",
+    "brand": "Eurospin",
+    "kcal100": 460,
+    "fat100": 19,
+    "carbs100": 67,
+    "protein100": 4.75,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/merendine-al-miele/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fruit Mix",
+    "brand": "Eurospin",
+    "kcal100": 539,
+    "fat100": 38.2,
+    "carbs100": 32.6,
+    "protein100": 12.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fruit-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Luganega senza Pelle di Suino",
+    "brand": "Eurospin",
+    "kcal100": 239,
+    "fat100": 19,
+    "carbs100": 0,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/luganega-senza-pelle-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cappelletti alla Carne",
+    "brand": "Eurospin",
+    "kcal100": 295,
+    "fat100": 6,
+    "carbs100": 47,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cappelletti-alla-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hummus di Ceci",
+    "brand": "Eurospin",
+    "kcal100": 168,
+    "fat100": 8.7,
+    "carbs100": 10,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hummus-di-ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fesa di Tacchino Arrosto al Miele",
+    "brand": "Eurospin",
+    "kcal100": 101,
+    "fat100": 1.5,
+    "carbs100": 0.8,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fesa-di-tacchino-arrosto-al-miele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chefburger con Erba Cipollina",
+    "brand": "Eurospin",
+    "kcal100": 186,
+    "fat100": 12,
+    "carbs100": 0.6,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/chefburger-con-erba-cipollina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi Ricoperte Gusto Chili",
+    "brand": "Eurospin",
+    "kcal100": 497,
+    "fat100": 31,
+    "carbs100": 39,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arachidi-ricoperte-gusto-chili",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Energia Mix",
+    "brand": "Eurospin",
+    "kcal100": 550,
+    "fat100": 40,
+    "carbs100": 31,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/energia-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fegato Di Suino",
+    "brand": "Eurospin",
+    "kcal100": 140,
+    "fat100": 4.8,
+    "carbs100": 1.5,
+    "protein100": 22.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fegato-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini di Salsiccia di Suino",
+    "brand": "Eurospin",
+    "kcal100": 196,
+    "fat100": 14,
+    "carbs100": 0.4,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bocconcini-di-salsiccia-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tè al Limone Capsule",
+    "brand": "Eurospin",
+    "kcal100": 384,
+    "fat100": 0,
+    "carbs100": 96,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tè-al-limone-capsule",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "La Merenda Snack",
+    "brand": "Eurospin",
+    "kcal100": 603.1,
+    "fat100": 20.63,
+    "carbs100": 75,
+    "protein100": 25.31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/la-merenda-snack/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cannelloni di Carne",
+    "brand": "Eurospin",
+    "kcal100": 273,
+    "fat100": 10.6,
+    "carbs100": 25,
+    "protein100": 10.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cannelloni-di-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina di Cocco",
+    "brand": "Eurospin",
+    "kcal100": 693,
+    "fat100": 68,
+    "carbs100": 5.5,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/farina-di-cocco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Porcini Surgelati",
+    "brand": "Eurospin",
+    "kcal100": 32,
+    "fat100": 0.7,
+    "carbs100": 1.4,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/funghi-porcini-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carciofi a Spicchi",
+    "brand": "Eurospin",
+    "kcal100": 27,
+    "fat100": 0.2,
+    "carbs100": 2.5,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/carciofi-a-spicchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Colato Magro alla Pesca",
+    "brand": "Eurospin",
+    "kcal100": 90,
+    "fat100": 0,
+    "carbs100": 14.5,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-colato-magro-alla-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi in Guscio Tostate",
+    "brand": "Eurospin",
+    "kcal100": 622,
+    "fat100": 50,
+    "carbs100": 8.5,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arachidi-in-guscio-tostate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Healthy Mix Frutta Secca",
+    "brand": "Eurospin",
+    "kcal100": 571,
+    "fat100": 46.09,
+    "carbs100": 26.77,
+    "protein100": 12.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/healthy-mix-frutta-secca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberi Argentini Sgusciati e Devenati Congelati",
+    "brand": "Eurospin",
+    "kcal100": 86,
+    "fat100": 0.71,
+    "carbs100": 0,
+    "protein100": 19.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gamberi-argentini-sgusciati-e-devenati-congelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo ai Crostacei",
+    "brand": "Eurospin",
+    "kcal100": 94,
+    "fat100": 8.5,
+    "carbs100": 2.3,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sugo-ai-crostacei",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tentacoli di Polpo",
+    "brand": "Eurospin",
+    "kcal100": 99,
+    "fat100": 1.4,
+    "carbs100": 0,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tentacoli-di-polpo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Pecora Sarda",
+    "brand": "Eurospin",
+    "kcal100": 160,
+    "fat100": 8.6,
+    "carbs100": 2.4,
+    "protein100": 18.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-pecora-sarda",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maxi Hamburger di Scottona",
+    "brand": "Eurospin",
+    "kcal100": 193,
+    "fat100": 13,
+    "carbs100": 1.1,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/maxi-hamburger-di-scottona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Merluzzo e Spinaci",
+    "brand": "Eurospin",
+    "kcal100": 131,
+    "fat100": 4.6,
+    "carbs100": 7.4,
+    "protein100": 14.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-merluzzo-e-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Farro con Verdure",
+    "brand": "Eurospin",
+    "kcal100": 192,
+    "fat100": 11,
+    "carbs100": 18,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-di-farro-con-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 244,
+    "fat100": 15,
+    "carbs100": 17,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bocconcini-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotoletta con Filetti di Pollo Premium",
+    "brand": "Eurospin",
+    "kcal100": 228,
+    "fat100": 12,
+    "carbs100": 15,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotoletta-con-filetti-di-pollo-premium",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farro alla Mediterranea",
+    "brand": "Eurospin",
+    "kcal100": 161,
+    "fat100": 6.4,
+    "carbs100": 20,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/farro-alla-mediterranea",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Anacardi al Naturale",
+    "brand": "Eurospin",
+    "kcal100": 569,
+    "fat100": 40.3,
+    "carbs100": 29.68,
+    "protein100": 18.28,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/anacardi-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciabatta Croccante",
+    "brand": "Eurospin",
+    "kcal100": 354,
+    "fat100": 0.7,
+    "carbs100": 75.2,
+    "protein100": 10.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ciabatta-croccante",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotoletta Branzino",
+    "brand": "Eurospin",
+    "kcal100": 257,
+    "fat100": 14,
+    "carbs100": 22,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotoletta-branzino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Pomodoro a Cubetti",
+    "brand": "Eurospin",
+    "kcal100": 23,
+    "fat100": 0.5,
+    "carbs100": 3,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/polpa-di-pomodoro-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Pollo e Tacchino",
+    "brand": "Eurospin",
+    "kcal100": 248,
+    "fat100": 16,
+    "carbs100": 15,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotolette-di-pollo-e-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burratina Affumicata",
+    "brand": "Eurospin",
+    "kcal100": 217,
+    "fat100": 18,
+    "carbs100": 1.2,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burratina-affumicata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Bigusto Vaniglia e Pistacchio",
+    "brand": "Eurospin",
+    "kcal100": 178,
+    "fat100": 7.4,
+    "carbs100": 26,
+    "protein100": 1.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-bigusto-vaniglia-e-pistacchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine Petto di Pollo Panate",
+    "brand": "Eurospin",
+    "kcal100": 135,
+    "fat100": 2.4,
+    "carbs100": 8.6,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fettine-petto-di-pollo-panate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine la Leggera",
+    "brand": "Eurospin",
+    "kcal100": 485,
+    "fat100": 23.1,
+    "carbs100": 61.3,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/patatine-la-leggera",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Torta alla Crema di Yogurt e di Frutti di Bosco",
+    "brand": "Eurospin",
+    "kcal100": 389,
+    "fat100": 16,
+    "carbs100": 57,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/torta-alla-crema-di-yogurt-e-di-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpo Arricciato Surgelato",
+    "brand": "Eurospin",
+    "kcal100": 46,
+    "fat100": 0.5,
+    "carbs100": 0.5,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/polpo-arricciato-surgelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Costine Suino stile Americano",
+    "brand": "Eurospin",
+    "kcal100": 225,
+    "fat100": 13,
+    "carbs100": 8.8,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/costine-suino-stile-americano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Alici Marinate",
+    "brand": "Eurospin",
+    "kcal100": 373,
+    "fat100": 17.2,
+    "carbs100": 0,
+    "protein100": 17.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-alici-marinate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 116,
+    "fat100": 0.5,
+    "carbs100": 0.3,
+    "protein100": 27.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tonno-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Bianchi di Spagna",
+    "brand": "Eurospin",
+    "kcal100": 107,
+    "fat100": 1.2,
+    "carbs100": 13,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fagioli-bianchi-di-spagna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "la Pinsa",
+    "brand": "Eurospin",
+    "kcal100": 251,
+    "fat100": 3,
+    "carbs100": 45.5,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/la-pinsa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Intero Bianco Dolce con Cereali e Biscotti al Cioccolato senza Lattosio",
+    "brand": "Eurospin",
+    "kcal100": 125,
+    "fat100": 4.9,
+    "carbs100": 16,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-intero-bianco-dolce-con-cereali-e-biscotti-al-cioccolato-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Allo Scoglio",
+    "brand": "Eurospin",
+    "kcal100": 148,
+    "fat100": 9.7,
+    "carbs100": 5.9,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sugo-allo-scoglio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burrata",
+    "brand": "Eurospin",
+    "kcal100": 253,
+    "fat100": 22,
+    "carbs100": 2,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burrata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Sgusciato Tostato",
+    "brand": "Eurospin",
+    "kcal100": 546,
+    "fat100": 42,
+    "carbs100": 21,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/misto-sgusciato-tostato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola Punta d'anca Riserva",
+    "brand": "Eurospin",
+    "kcal100": 147,
+    "fat100": 1.8,
+    "carbs100": 0.4,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bresaola-punta-danca-riserva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "High Protein",
+    "brand": "Eurospin",
+    "kcal100": 394,
+    "fat100": 12,
+    "carbs100": 25,
+    "protein100": 50,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/high-protein",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Branzino alla Campana",
+    "brand": "Eurospin",
+    "kcal100": 91,
+    "fat100": 4.6,
+    "carbs100": 6.6,
+    "protein100": 5.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetto-di-branzino-alla-campana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciobisk",
+    "brand": "Eurospin",
+    "kcal100": 500,
+    "fat100": 24.14,
+    "carbs100": 62.07,
+    "protein100": 7.59,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nocciobisk/2-biscotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Kiwi Disidratato",
+    "brand": "Eurospin",
+    "kcal100": 372,
+    "fat100": 0,
+    "carbs100": 92,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/kiwi-disidratato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tentacoli di Polpo Cotto",
+    "brand": "Eurospin",
+    "kcal100": 115,
+    "fat100": 1,
+    "carbs100": 1.2,
+    "protein100": 25.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tentacoli-di-polpo-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato con Crema Spalmabile al Caramello Salato",
+    "brand": "Eurospin",
+    "kcal100": 311,
+    "fat100": 18,
+    "carbs100": 31,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-con-crema-spalmabile-al-caramello-salato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Torta Sbrisolona",
+    "brand": "Eurospin",
+    "kcal100": 529,
+    "fat100": 29,
+    "carbs100": 55,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/torta-sbrisolona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortiglioni",
+    "brand": "Eurospin",
+    "kcal100": 358,
+    "fat100": 1.5,
+    "carbs100": 73,
+    "protein100": 11.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tortiglioni",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Aringhe Affumicate",
+    "brand": "Eurospin",
+    "kcal100": 166,
+    "fat100": 12,
+    "carbs100": 0.5,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-aringhe-affumicate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Chianina",
+    "brand": "Eurospin",
+    "kcal100": 127,
+    "fat100": 5,
+    "carbs100": 0.2,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-chianina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cannoli Crema",
+    "brand": "Eurospin",
+    "kcal100": 318,
+    "fat100": 16,
+    "carbs100": 40,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cannoli-crema",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini Cheddar e Jalapeno",
+    "brand": "Eurospin",
+    "kcal100": 334,
+    "fat100": 22,
+    "carbs100": 21,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bocconcini-cheddar-e-jalapeno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Esotico",
+    "brand": "Eurospin",
+    "kcal100": 450,
+    "fat100": 24,
+    "carbs100": 51,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/misto-esotico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Milanese di Suino",
+    "brand": "Eurospin",
+    "kcal100": 169,
+    "fat100": 3.6,
+    "carbs100": 15.6,
+    "protein100": 18.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/milanese-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Protein Bar Extra 50%",
+    "brand": "Eurospin",
+    "kcal100": 394,
+    "fat100": 12,
+    "carbs100": 24,
+    "protein100": 50,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/protein-bar-extra-50/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Strudel",
+    "brand": "Eurospin",
+    "kcal100": 239,
+    "fat100": 13,
+    "carbs100": 26,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/strudel",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frese Integrali",
+    "brand": "Eurospin",
+    "kcal100": 250,
+    "fat100": 0.8,
+    "carbs100": 54.8,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/frese-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sgombro Marinato",
+    "brand": "Eurospin",
+    "kcal100": 321,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sgombro-marinato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Tavoletta di Cioccolato al Latte",
+    "brand": "Eurospin",
+    "kcal100": 521,
+    "fat100": 26.7,
+    "carbs100": 63.9,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/biscotti-con-tavoletta-di-cioccolato-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 265,
+    "fat100": 21,
+    "carbs100": 1,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetti-di-sgombro-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosticini",
+    "brand": "Eurospin",
+    "kcal100": 192,
+    "fat100": 12.37,
+    "carbs100": 2.3,
+    "protein100": 17.77,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosticini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Orata alla Ligure",
+    "brand": "Eurospin",
+    "kcal100": 146,
+    "fat100": 10,
+    "carbs100": 5.2,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetto-di-orata-alla-ligure/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio da Grattugia a Pasta Dura",
+    "brand": "Eurospin",
+    "kcal100": 378,
+    "fat100": 28,
+    "carbs100": 0.6,
+    "protein100": 31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/formaggio-da-grattugia-a-pasta-dura",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Imperiale",
+    "brand": "Eurospin",
+    "kcal100": 100,
+    "fat100": 4.3,
+    "carbs100": 2.6,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-imperiale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cocco Essiccato Raspato",
+    "brand": "Eurospin",
+    "kcal100": 665,
+    "fat100": 61,
+    "carbs100": 14,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cocco-essiccato-raspato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chicken Wings",
+    "brand": "Eurospin",
+    "kcal100": 199,
+    "fat100": 11,
+    "carbs100": 5.1,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/chicken-wings",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosticini di Ovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 297,
+    "fat100": 25.66,
+    "carbs100": 0.26,
+    "protein100": 16.23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosticini-di-ovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "2 Hamburger Classici",
+    "brand": "Eurospin",
+    "kcal100": 228,
+    "fat100": 17,
+    "carbs100": 1.8,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/2-hamburger-classici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "‘Nduja Piccante",
+    "brand": "Eurospin",
+    "kcal100": 553,
+    "fat100": 55,
+    "carbs100": 3.1,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/‘nduja-piccante",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cono Nocciola",
+    "brand": "Eurospin",
+    "kcal100": 370,
+    "fat100": 22.86,
+    "carbs100": 38.57,
+    "protein100": 3.29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cono-nocciola/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scamorzone Bianco in Rete",
+    "brand": "Eurospin",
+    "kcal100": 266,
+    "fat100": 20.4,
+    "carbs100": 1.5,
+    "protein100": 17.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/scamorzone-bianco-in-rete",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vitamine Mix",
+    "brand": "Eurospin",
+    "kcal100": 192,
+    "fat100": 0.5,
+    "carbs100": 8.1,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/vitamine-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Energy Bar Gusto Cacao",
+    "brand": "Eurospin",
+    "kcal100": 363,
+    "fat100": 6.7,
+    "carbs100": 55,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/energy-bar-gusto-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciccioli Friabili con Alloro",
+    "brand": "Eurospin",
+    "kcal100": 656,
+    "fat100": 55,
+    "carbs100": 0,
+    "protein100": 40.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ciccioli-friabili-con-alloro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Tonno e Mais",
+    "brand": "Eurospin",
+    "kcal100": 51,
+    "fat100": 1.6,
+    "carbs100": 2.8,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-tonno-e-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Yogurt Miele e Noci",
+    "brand": "Eurospin",
+    "kcal100": 193,
+    "fat100": 6.8,
+    "carbs100": 30,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelato-yogurt-miele-e-noci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Quinoa",
+    "brand": "Eurospin",
+    "kcal100": 351,
+    "fat100": 6,
+    "carbs100": 54.6,
+    "protein100": 14.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/semi-di-quinoa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nuggets",
+    "brand": "Eurospin",
+    "kcal100": 247,
+    "fat100": 15,
+    "carbs100": 17,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nuggets",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Calamarata",
+    "brand": "Eurospin",
+    "kcal100": 309,
+    "fat100": 1.3,
+    "carbs100": 64,
+    "protein100": 9.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/calamarata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Albicocche Essiccate Denocciolate",
+    "brand": "Eurospin",
+    "kcal100": 257,
+    "fat100": 0.6,
+    "carbs100": 56,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/albicocche-essiccate-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa Bulgur e Quinoa",
+    "brand": "Eurospin",
+    "kcal100": 347,
+    "fat100": 2,
+    "carbs100": 74,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zuppa-bulgur-e-quinoa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Pollo con Spinaci",
+    "brand": "Eurospin",
+    "kcal100": 265,
+    "fat100": 15,
+    "carbs100": 20,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/cotolette-di-pollo-con-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chiocciola Curcuma e Chia",
+    "brand": "Eurospin",
+    "kcal100": 252,
+    "fat100": 7.2,
+    "carbs100": 36,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/chiocciola-curcuma-e-chia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salame Milano senza Glutine",
+    "brand": "Eurospin",
+    "kcal100": 356,
+    "fat100": 28,
+    "carbs100": 0.5,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salame-milano-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini di Pollo con Formaggio",
+    "brand": "Eurospin",
+    "kcal100": 223,
+    "fat100": 14,
+    "carbs100": 14,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bocconcini-di-pollo-con-formaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Caprino",
+    "brand": "Eurospin",
+    "kcal100": 209,
+    "fat100": 16.4,
+    "carbs100": 3,
+    "protein100": 12.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/caprino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosticini di Lonza di Suino",
+    "brand": "Eurospin",
+    "kcal100": 148,
+    "fat100": 6.7,
+    "carbs100": 0,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosticini-di-lonza-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Rosso con Verdure",
+    "brand": "Eurospin",
+    "kcal100": 134,
+    "fat100": 4.5,
+    "carbs100": 17,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/riso-rosso-con-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carpaccio di Polpo",
+    "brand": "Eurospin",
+    "kcal100": 93,
+    "fat100": 0,
+    "carbs100": 0.6,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/carpaccio-di-polpo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sottilette Light",
+    "brand": "Eurospin",
+    "kcal100": 189,
+    "fat100": 7,
+    "carbs100": 11.9,
+    "protein100": 16.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sottilette-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane alla Farina Integrale Bananine",
+    "brand": "Eurospin",
+    "kcal100": 224,
+    "fat100": 1.3,
+    "carbs100": 53.8,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-alla-farina-integrale-bananine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta per Pizza",
+    "brand": "Eurospin",
+    "kcal100": 262,
+    "fat100": 4.3,
+    "carbs100": 49,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pasta-per-pizza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Beef Burger",
+    "brand": "Eurospin",
+    "kcal100": 238,
+    "fat100": 18,
+    "carbs100": 0,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/beef-burger",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Marchigiana Scottona",
+    "brand": "Eurospin",
+    "kcal100": 177,
+    "fat100": 11,
+    "carbs100": 0.2,
+    "protein100": 19.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-marchigiana-scottona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi Fritte e Salate",
+    "brand": "Eurospin",
+    "kcal100": 580,
+    "fat100": 44,
+    "carbs100": 21,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arachidi-fritte-e-salate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Layer Protein Bar Biscotto al Cacao e Crema Latte",
+    "brand": "Eurospin",
+    "kcal100": 382,
+    "fat100": 17,
+    "carbs100": 39,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/layer-protein-bar-biscotto-al-cacao-e-crema-latte/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zenzero in Salamoia",
+    "brand": "Eurospin",
+    "kcal100": 10,
+    "fat100": 0,
+    "carbs100": 1.5,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zenzero-in-salamoia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Girasoli Ricotta e Limone",
+    "brand": "Eurospin",
+    "kcal100": 291,
+    "fat100": 14.3,
+    "carbs100": 31.6,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/girasoli-ricotta-e-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Paella",
+    "brand": "Eurospin",
+    "kcal100": 96,
+    "fat100": 1.6,
+    "carbs100": 16,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/paella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadine Mignon",
+    "brand": "Eurospin",
+    "kcal100": 287,
+    "fat100": 8.81,
+    "carbs100": 48.12,
+    "protein100": 6.94,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/piadine-mignon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ravioli di Carne al Vapore",
+    "brand": "Eurospin",
+    "kcal100": 215,
+    "fat100": 10,
+    "carbs100": 21,
+    "protein100": 6.63,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ravioli-di-carne-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Azzimo",
+    "brand": "Eurospin",
+    "kcal100": 375,
+    "fat100": 1.2,
+    "carbs100": 78.2,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-azzimo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Trifolati Scatola",
+    "brand": "Eurospin",
+    "kcal100": 335,
+    "fat100": 36,
+    "carbs100": 0.9,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/funghi-trifolati-scatola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Low Carb",
+    "brand": "Eurospin",
+    "kcal100": 267,
+    "fat100": 12.9,
+    "carbs100": 6.5,
+    "protein100": 25.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pane-low-carb",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trippa alla Parmigiana",
+    "brand": "Eurospin",
+    "kcal100": 96,
+    "fat100": 4.9,
+    "carbs100": 0,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/trippa-alla-parmigiana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Pregiato di Bovino Adulto",
+    "brand": "Eurospin",
+    "kcal100": 169,
+    "fat100": 9.35,
+    "carbs100": 2.72,
+    "protein100": 17.16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-pregiato-di-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Culurgiones Classico",
+    "brand": "Eurospin",
+    "kcal100": 262,
+    "fat100": 8.5,
+    "carbs100": 39,
+    "protein100": 6.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/culurgiones-classico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nervetti Fantasia",
+    "brand": "Eurospin",
+    "kcal100": 110,
+    "fat100": 2.1,
+    "carbs100": 12,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nervetti-fantasia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosticini di Suino con Peperone",
+    "brand": "Eurospin",
+    "kcal100": 153,
+    "fat100": 9,
+    "carbs100": 0.6,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosticini-di-suino-con-peperone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger 100% Vegetale con Spinaci e Carote",
+    "brand": "Eurospin",
+    "kcal100": 98,
+    "fat100": 0.3,
+    "carbs100": 18.8,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-100-vegetale-con-spinaci-e-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ragù di Chianina",
+    "brand": "Eurospin",
+    "kcal100": 167,
+    "fat100": 12,
+    "carbs100": 1.9,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ragù-di-chianina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Involtini di Pollo con Pancetta e Salvia",
+    "brand": "Eurospin",
+    "kcal100": 198,
+    "fat100": 14,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/involtini-di-pollo-con-pancetta-e-salvia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Torta Ricotta e Spinaci",
+    "brand": "Eurospin",
+    "kcal100": 282,
+    "fat100": 18,
+    "carbs100": 19,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/torta-ricotta-e-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tomino Tirolese",
+    "brand": "Eurospin",
+    "kcal100": 312,
+    "fat100": 25,
+    "carbs100": 0.5,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tomino-tirolese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccia Friarielli e Scamorza",
+    "brand": "Eurospin",
+    "kcal100": 199,
+    "fat100": 15.7,
+    "carbs100": 0.4,
+    "protein100": 14.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salsiccia-friarielli-e-scamorza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grano Saraceno Decorticato",
+    "brand": "Eurospin",
+    "kcal100": 341,
+    "fat100": 3.3,
+    "carbs100": 62,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/grano-saraceno-decorticato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stuzzichini di Prosciutto Cotto",
+    "brand": "Eurospin",
+    "kcal100": 254,
+    "fat100": 16,
+    "carbs100": 15,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/stuzzichini-di-prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pomodori Secchi",
+    "brand": "Eurospin",
+    "kcal100": 258,
+    "fat100": 2.97,
+    "carbs100": 55.76,
+    "protein100": 14.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pomodori-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Pesce",
+    "brand": "Eurospin",
+    "kcal100": 51,
+    "fat100": 2.1,
+    "carbs100": 1.7,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zuppa-di-pesce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hot Snack di Riso Soffiato",
+    "brand": "Eurospin",
+    "kcal100": 557,
+    "fat100": 33,
+    "carbs100": 60,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hot-snack-di-riso-soffiato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "ALETTE di POLLO PRECOTTE",
+    "brand": "Eurospin",
+    "kcal100": 182,
+    "fat100": 11,
+    "carbs100": 0.8,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/alette-di-pollo-precotte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pollo Diavoletto",
+    "brand": "Eurospin",
+    "kcal100": 175,
+    "fat100": 11,
+    "carbs100": 0,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pollo-diavoletto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arance Amare Italiane Bio",
+    "brand": "Eurospin",
+    "kcal100": 214,
+    "fat100": 0,
+    "carbs100": 53,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arance-amare-italiane-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zenzero Zuccherato Disidratato",
+    "brand": "Eurospin",
+    "kcal100": 379,
+    "fat100": 3.3,
+    "carbs100": 82,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zenzero-zuccherato-disidratato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bio Barretta Arachidi e Datteri",
+    "brand": "Eurospin",
+    "kcal100": 384,
+    "fat100": 15,
+    "carbs100": 46,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bio-barretta-arachidi-e-datteri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccia Luganega al Peperoncino",
+    "brand": "Eurospin",
+    "kcal100": 244,
+    "fat100": 20,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salsiccia-luganega-al-peperoncino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Poke Gambero",
+    "brand": "Eurospin",
+    "kcal100": 123,
+    "fat100": 0.5,
+    "carbs100": 25,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/poke-gambero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Farro",
+    "brand": "Eurospin",
+    "kcal100": 347,
+    "fat100": 2.5,
+    "carbs100": 67,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gallette-di-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Vegetale Lenticchie e Pomodori",
+    "brand": "Eurospin",
+    "kcal100": 110,
+    "fat100": 0.3,
+    "carbs100": 21.3,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-vegetale-lenticchie-e-pomodori",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa Mista di Cereali",
+    "brand": "Eurospin",
+    "kcal100": 355,
+    "fat100": 3,
+    "carbs100": 69,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zuppa-mista-di-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciabatta Siciliana Sesamo",
+    "brand": "Eurospin",
+    "kcal100": 344,
+    "fat100": 3.4,
+    "carbs100": 54.9,
+    "protein100": 11.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ciabatta-siciliana-sesamo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fichi Secchi",
+    "brand": "Eurospin",
+    "kcal100": 271,
+    "fat100": 1,
+    "carbs100": 60,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fichi-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Scelto B.a.",
+    "brand": "Eurospin",
+    "kcal100": 208,
+    "fat100": 14.9,
+    "carbs100": 0,
+    "protein100": 18.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-scelto-ba",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Protein Bar Caramello Salato",
+    "brand": "Eurospin",
+    "kcal100": 439,
+    "fat100": 17,
+    "carbs100": 40,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/protein-bar-caramello-salato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chiavennasca",
+    "brand": "Eurospin",
+    "kcal100": 157,
+    "fat100": 3,
+    "carbs100": 0.5,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/chiavennasca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Puccini Salentina con Acqua di Mare",
+    "brand": "Eurospin",
+    "kcal100": 250,
+    "fat100": 3,
+    "carbs100": 47,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/puccini-salentina-con-acqua-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Dessert Stracciatella",
+    "brand": "Eurospin",
+    "kcal100": 428,
+    "fat100": 22,
+    "carbs100": 53,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/dessert-stracciatella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mango Disidratato",
+    "brand": "Eurospin",
+    "kcal100": 348,
+    "fat100": 0,
+    "carbs100": 85,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mango-disidratato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chorice Mille",
+    "brand": "Eurospin",
+    "kcal100": 542,
+    "fat100": 31.2,
+    "carbs100": 57.3,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/chorice-mille",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Lenticchie",
+    "brand": "Eurospin",
+    "kcal100": 334,
+    "fat100": 2.16,
+    "carbs100": 56.67,
+    "protein100": 18.22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/zuppa-di-lenticchie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix Goloso di Spiedini",
+    "brand": "Eurospin",
+    "kcal100": 199,
+    "fat100": 15,
+    "carbs100": 0.2,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mix-goloso-di-spiedini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Allo Speck",
+    "brand": "Eurospin",
+    "kcal100": 233,
+    "fat100": 16,
+    "carbs100": 1.2,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-allo-speck",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Scozzese Affumicato Premium Quality",
+    "brand": "Eurospin",
+    "kcal100": 167,
+    "fat100": 9.7,
+    "carbs100": 0.5,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-scozzese-affumicato-premium-quality",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Corny Coconut",
+    "brand": "Eurospin",
+    "kcal100": 468,
+    "fat100": 22.8,
+    "carbs100": 57.2,
+    "protein100": 5.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/corny-coconut/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Baccalà Mantecato",
+    "brand": "Eurospin",
+    "kcal100": 661,
+    "fat100": 70,
+    "carbs100": 0,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/baccalà-mantecato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bio Barretta Cocco e Vaniglia",
+    "brand": "Eurospin",
+    "kcal100": 393,
+    "fat100": 18,
+    "carbs100": 47,
+    "protein100": 5.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bio-barretta-cocco-e-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi Ricoperte Gusto Wasabi",
+    "brand": "Eurospin",
+    "kcal100": 502,
+    "fat100": 31,
+    "carbs100": 40,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arachidi-ricoperte-gusto-wasabi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Branzino alla Campana",
+    "brand": "Eurospin",
+    "kcal100": 91.2,
+    "fat100": 4.4,
+    "carbs100": 6.4,
+    "protein100": 5.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/filetto-di-branzino-alla-campana/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Piemontese",
+    "brand": "Eurospin",
+    "kcal100": 190,
+    "fat100": 10.7,
+    "carbs100": 0,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-piemontese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spiedini con Tacchino e Peperoni",
+    "brand": "Eurospin",
+    "kcal100": 202,
+    "fat100": 15,
+    "carbs100": 0.7,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/spiedini-con-tacchino-e-peperoni",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Mare Surgelata",
+    "brand": "Eurospin",
+    "kcal100": 146,
+    "fat100": 1.4,
+    "carbs100": 1.75,
+    "protein100": 26.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-di-mare-surgelata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette ai 5 Cereali",
+    "brand": "Eurospin",
+    "kcal100": 370,
+    "fat100": 1.4,
+    "carbs100": 81,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gallette-ai-5-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Papaia Disidratata",
+    "brand": "Eurospin",
+    "kcal100": 360,
+    "fat100": 0,
+    "carbs100": 89,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/papaia-disidratata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Merluzzo senza Glutine",
+    "brand": "Eurospin",
+    "kcal100": 190,
+    "fat100": 8.6,
+    "carbs100": 14.6,
+    "protein100": 13.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bastoncini-di-merluzzo-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quadrifoglio Formaggio Fresco a Pasta Filata",
+    "brand": "Eurospin",
+    "kcal100": 184,
+    "fat100": 14.2,
+    "carbs100": 1.5,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/quadrifoglio-formaggio-fresco-a-pasta-filata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Cremoso Caffè con Scaglie di Cioccolato",
+    "brand": "Eurospin",
+    "kcal100": 139.2,
+    "fat100": 6.88,
+    "carbs100": 15.68,
+    "protein100": 2.88,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-cremoso-caffè-con-scaglie-di-cioccolato/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "2 Focacce Rustiche Toscane",
+    "brand": "Eurospin",
+    "kcal100": 261,
+    "fat100": 3.4,
+    "carbs100": 47.4,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/2-focacce-rustiche-toscane",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Caprese",
+    "brand": "Eurospin",
+    "kcal100": 17,
+    "fat100": 0.1,
+    "carbs100": 2.9,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-caprese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Layer Protein Bar Cioccolato al Latte e Granella di Arachidi",
+    "brand": "Eurospin",
+    "kcal100": 382,
+    "fat100": 17,
+    "carbs100": 32,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/layer-protein-bar-cioccolato-al-latte-e-granella-di-arachidi/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Tonno Olive Pomodorini",
+    "brand": "Eurospin",
+    "kcal100": 181,
+    "fat100": 8.3,
+    "carbs100": 9.1,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-tonno-olive-pomodorini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spiedini con Pollo e Alloro",
+    "brand": "Eurospin",
+    "kcal100": 161,
+    "fat100": 9.6,
+    "carbs100": 0.7,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/spiedini-con-pollo-e-alloro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Torta Zucchine e Prosciutto",
+    "brand": "Eurospin",
+    "kcal100": 281,
+    "fat100": 17.94,
+    "carbs100": 19.13,
+    "protein100": 10.79,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/torta-zucchine-e-prosciutto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosticino Golosino Suino",
+    "brand": "Eurospin",
+    "kcal100": 291,
+    "fat100": 24.2,
+    "carbs100": 3.1,
+    "protein100": 15.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosticino-golosino-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack Mix Gusto Bacon",
+    "brand": "Eurospin",
+    "kcal100": 568,
+    "fat100": 44,
+    "carbs100": 18,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/snack-mix-gusto-bacon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Black Angus Scottona",
+    "brand": "Eurospin",
+    "kcal100": 280,
+    "fat100": 23.1,
+    "carbs100": 0.3,
+    "protein100": 17.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-black-angus-scottona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Poke Bowl Gamberi",
+    "brand": "Eurospin",
+    "kcal100": 188,
+    "fat100": 5.8,
+    "carbs100": 31,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/poke-bowl-gamberi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Involtini Coppa Suino",
+    "brand": "Eurospin",
+    "kcal100": 273,
+    "fat100": 22,
+    "carbs100": 3.6,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/involtini-coppa-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "le Croccantine",
+    "brand": "Eurospin",
+    "kcal100": 304,
+    "fat100": 2.4,
+    "carbs100": 61,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/le-croccantine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricoperti",
+    "brand": "Eurospin",
+    "kcal100": 284,
+    "fat100": 20.3,
+    "carbs100": 22,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ricoperti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fichi d'india Dell'etna",
+    "brand": "Eurospin",
+    "kcal100": 53,
+    "fat100": 0.1,
+    "carbs100": 13,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fichi-dindia-delletna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crochy Cereali",
+    "brand": "Eurospin",
+    "kcal100": 545,
+    "fat100": 31.5,
+    "carbs100": 57,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/crochy-cereali/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Purè di Patate con Funghi Porcini",
+    "brand": "Eurospin",
+    "kcal100": 341,
+    "fat100": 2.3,
+    "carbs100": 66,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/purè-di-patate-con-funghi-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sarde a Beccafico",
+    "brand": "Eurospin",
+    "kcal100": 595,
+    "fat100": 22.9,
+    "carbs100": 34.7,
+    "protein100": 18.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sarde-a-beccafico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prime Pappe Mela e Pera",
+    "brand": "Eurospin",
+    "kcal100": 60,
+    "fat100": 0.2,
+    "carbs100": 13.3,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/prime-pappe-mela-e-pera",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Treccia",
+    "brand": "Eurospin",
+    "kcal100": 296,
+    "fat100": 9,
+    "carbs100": 46,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/treccia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Affumicato Scozzese",
+    "brand": "Eurospin",
+    "kcal100": 95,
+    "fat100": 13,
+    "carbs100": 0.6,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-affumicato-scozzese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberi Indiani",
+    "brand": "Eurospin",
+    "kcal100": 41,
+    "fat100": 0.53,
+    "carbs100": 0.31,
+    "protein100": 8.81,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gamberi-indiani",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rollino Tradizionale di Pollo",
+    "brand": "Eurospin",
+    "kcal100": 188,
+    "fat100": 6.5,
+    "carbs100": 15.5,
+    "protein100": 16.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/rollino-tradizionale-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Frutti di Mare",
+    "brand": "Eurospin",
+    "kcal100": 87,
+    "fat100": 1.3,
+    "carbs100": 0.5,
+    "protein100": 18.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-di-frutti-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno a Pinne Gialle Affumicato",
+    "brand": "Eurospin",
+    "kcal100": 116,
+    "fat100": 0.5,
+    "carbs100": 0.3,
+    "protein100": 27.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tonno-a-pinne-gialle-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Dessert Mokaccino",
+    "brand": "Eurospin",
+    "kcal100": 306.7,
+    "fat100": 13.5,
+    "carbs100": 41,
+    "protein100": 5.67,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/dessert-mokaccino/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ananas Disidratata",
+    "brand": "Eurospin",
+    "kcal100": 338,
+    "fat100": 0,
+    "carbs100": 83,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ananas-disidratata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciobisk",
+    "brand": "Eurospin",
+    "kcal100": 500,
+    "fat100": 24,
+    "carbs100": 62,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nocciobisk",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sbrodoloni",
+    "brand": "Eurospin",
+    "kcal100": 410,
+    "fat100": 27,
+    "carbs100": 35,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sbrodoloni",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalatissima di Mare",
+    "brand": "Eurospin",
+    "kcal100": 110,
+    "fat100": 6.7,
+    "carbs100": 3.5,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalatissima-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciole Tostate e Pelate",
+    "brand": "Eurospin",
+    "kcal100": 677,
+    "fat100": 61,
+    "carbs100": 15,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nocciole-tostate-e-pelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pistacchi Sgusciati Aromatizzati Zenzero e Limone",
+    "brand": "Eurospin",
+    "kcal100": 550,
+    "fat100": 40,
+    "carbs100": 25,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pistacchi-sgusciati-aromatizzati-zenzero-e-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minitreccine alle Olive",
+    "brand": "Eurospin",
+    "kcal100": 492,
+    "fat100": 23,
+    "carbs100": 61,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/minitreccine-alle-olive",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Melone di Cantalupo Disidratato",
+    "brand": "Eurospin",
+    "kcal100": 355,
+    "fat100": 0,
+    "carbs100": 86,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/melone-di-cantalupo-disidratato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini Bacon e Provola",
+    "brand": "Eurospin",
+    "kcal100": 287,
+    "fat100": 16,
+    "carbs100": 22,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bocconcini-bacon-e-provola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Garganelli",
+    "brand": "Eurospin",
+    "kcal100": 308,
+    "fat100": 2.6,
+    "carbs100": 60,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/garganelli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Couscous di Mais",
+    "brand": "Eurospin",
+    "kcal100": 355,
+    "fat100": 2.3,
+    "carbs100": 75.4,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/couscous-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crauti Val d'adige",
+    "brand": "Eurospin",
+    "kcal100": 24,
+    "fat100": 0,
+    "carbs100": 2.5,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/crauti-val-dadige",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Esotica",
+    "brand": "Eurospin",
+    "kcal100": 95,
+    "fat100": 2.9,
+    "carbs100": 2.2,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-esotica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nuovo Sushi Box",
+    "brand": "Eurospin",
+    "kcal100": 160,
+    "fat100": 4.3,
+    "carbs100": 24,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/nuovo-sushi-box",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Farro Bio",
+    "brand": "Eurospin",
+    "kcal100": 376,
+    "fat100": 2.6,
+    "carbs100": 69.3,
+    "protein100": 13.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gallette-di-farro-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pavé di Salmone al Pepe e Limone",
+    "brand": "Eurospin",
+    "kcal100": 172,
+    "fat100": 11,
+    "carbs100": 1.5,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pavé-di-salmone-al-pepe-e-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelatina Limone",
+    "brand": "Eurospin",
+    "kcal100": 87,
+    "fat100": 3.9,
+    "carbs100": 0,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/gelatina-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tigelle",
+    "brand": "Eurospin",
+    "kcal100": 299,
+    "fat100": 3,
+    "carbs100": 58,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tigelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Focacce Umbre",
+    "brand": "Eurospin",
+    "kcal100": 243,
+    "fat100": 1,
+    "carbs100": 48.8,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/focacce-umbre",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "4 Milanesi",
+    "brand": "Eurospin",
+    "kcal100": 245,
+    "fat100": 13,
+    "carbs100": 18,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/4-milanesi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa alla Mediterranea",
+    "brand": "Eurospin",
+    "kcal100": 357,
+    "fat100": 4,
+    "carbs100": 68,
+    "protein100": 9.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/quinoa-alla-mediterranea",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Aloe Vera Disidratata",
+    "brand": "Eurospin",
+    "kcal100": 376,
+    "fat100": 0,
+    "carbs100": 94,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/aloe-vera-disidratata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ragù di Anatra",
+    "brand": "Eurospin",
+    "kcal100": 141,
+    "fat100": 8.6,
+    "carbs100": 2,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ragù-di-anatra",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa alle Verdure",
+    "brand": "Eurospin",
+    "kcal100": 353,
+    "fat100": 4.8,
+    "carbs100": 62,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/quinoa-alle-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger 100% Vegetale con Quinoa e Piselli",
+    "brand": "Eurospin",
+    "kcal100": 112,
+    "fat100": 0.5,
+    "carbs100": 21.9,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/burger-100-vegetale-con-quinoa-e-piselli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wellness Mix",
+    "brand": "Eurospin",
+    "kcal100": 452,
+    "fat100": 21.6,
+    "carbs100": 52,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/wellness-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grattugiato senza Glutine",
+    "brand": "Eurospin",
+    "kcal100": 365,
+    "fat100": 3.5,
+    "carbs100": 74,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/grattugiato-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Paccheri",
+    "brand": "Eurospin",
+    "kcal100": 309,
+    "fat100": 1.3,
+    "carbs100": 64,
+    "protein100": 9.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/paccheri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone in Pastasfoglia",
+    "brand": "Eurospin",
+    "kcal100": 260,
+    "fat100": 16.1,
+    "carbs100": 19.9,
+    "protein100": 8.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salmone-in-pastasfoglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Tacchino senza Glutine",
+    "brand": "Eurospin",
+    "kcal100": 102,
+    "fat100": 3.3,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-tacchino-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pollo all'emiliana",
+    "brand": "Eurospin",
+    "kcal100": 158,
+    "fat100": 5.7,
+    "carbs100": 3.6,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pollo-allemiliana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosticino Goloso",
+    "brand": "Eurospin",
+    "kcal100": 293,
+    "fat100": 26.7,
+    "carbs100": 0.2,
+    "protein100": 12.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/arrosticino-goloso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tasty Mix Insalata",
+    "brand": "Eurospin",
+    "kcal100": 146,
+    "fat100": 8.5,
+    "carbs100": 11.1,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tasty-mix-insalata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Spiedini di Suino Rustici",
+    "brand": "Eurospin",
+    "kcal100": 182,
+    "fat100": 12,
+    "carbs100": 0.6,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mini-spiedini-di-suino-rustici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack con Arachidi",
+    "brand": "Eurospin",
+    "kcal100": 547,
+    "fat100": 34,
+    "carbs100": 46,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/snack-con-arachidi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Purè di Patate con Spinaci e Carote",
+    "brand": "Eurospin",
+    "kcal100": 336,
+    "fat100": 0.5,
+    "carbs100": 70,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/purè-di-patate-con-spinaci-e-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Tacchino con Speck",
+    "brand": "Eurospin",
+    "kcal100": 141,
+    "fat100": 7.3,
+    "carbs100": 0,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-di-tacchino-con-speck",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Gran Gusto",
+    "brand": "Eurospin",
+    "kcal100": 176,
+    "fat100": 10.5,
+    "carbs100": 3.8,
+    "protein100": 16.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/hamburger-gran-gusto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pastrami di Bovino",
+    "brand": "Eurospin",
+    "kcal100": 112,
+    "fat100": 4.5,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/pastrami-di-bovino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Involtino Saporito",
+    "brand": "Eurospin",
+    "kcal100": 109,
+    "fat100": 10,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/involtino-saporito",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carpaccio di Polpo Cotto",
+    "brand": "Eurospin",
+    "kcal100": 107,
+    "fat100": 2,
+    "carbs100": 0.5,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/carpaccio-di-polpo-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Pronto al Nero di Seppia",
+    "brand": "Eurospin",
+    "kcal100": 67,
+    "fat100": 1.3,
+    "carbs100": 6.4,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/sugo-pronto-al-nero-di-seppia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bistoccu 5 Cereali",
+    "brand": "Eurospin",
+    "kcal100": 416,
+    "fat100": 7.2,
+    "carbs100": 70.7,
+    "protein100": 14.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/bistoccu-5-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Amaretti Morbidi All’Arancia",
+    "brand": "Eurospin",
+    "kcal100": 459,
+    "fat100": 21,
+    "carbs100": 56,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/amaretti-morbidi-all’arancia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Choco Banana Milk Snack",
+    "brand": "Eurospin",
+    "kcal100": 520,
+    "fat100": 35,
+    "carbs100": 44,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/choco-banana-milk-snack",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "La Pescatora",
+    "brand": "Eurospin",
+    "kcal100": 143,
+    "fat100": 9.4,
+    "carbs100": 1.7,
+    "protein100": 13.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/la-pescatora",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta di Pecora Stagionata",
+    "brand": "Eurospin",
+    "kcal100": 280,
+    "fat100": 23,
+    "carbs100": 0.3,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/ricotta-di-pecora-stagionata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Greca con Feta",
+    "brand": "Eurospin",
+    "kcal100": 30,
+    "fat100": 2.7,
+    "carbs100": 0.8,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/insalata-greca-con-feta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Merendine Farcite al Miele",
+    "brand": "Eurospin",
+    "kcal100": 460,
+    "fat100": 18.9,
+    "carbs100": 66.9,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/merendine-farcite-al-miele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fior di Soia",
+    "brand": "Eurospin",
+    "kcal100": 196,
+    "fat100": 9,
+    "carbs100": 25.3,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/fior-di-soia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsiccia di Salmone",
+    "brand": "Eurospin",
+    "kcal100": 162,
+    "fat100": 10.83,
+    "carbs100": 1.94,
+    "protein100": 14.07,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/salsiccia-di-salmone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix Colazione Golosa",
+    "brand": "Eurospin",
+    "kcal100": 812,
+    "fat100": 50,
+    "carbs100": 25,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/mix-colazione-golosa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Caffè",
+    "brand": "Eurospin",
+    "kcal100": 87,
+    "fat100": 0,
+    "carbs100": 13.9,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/yogurt-greco-caffè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliata di Coppa Marinata BBQ",
+    "brand": "Eurospin",
+    "kcal100": 212,
+    "fat100": 16,
+    "carbs100": 0.5,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/tagliata-di-coppa-marinata-bbq",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Triangolosi",
+    "brand": "Eurospin",
+    "kcal100": 423,
+    "fat100": 8.9,
+    "carbs100": 72,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/eurospin/triangolosi",
+      "license": "proprietary"
+    }
+  }
+]

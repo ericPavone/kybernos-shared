@@ -1,0 +1,50 @@
+import { describe, expect, it } from 'vitest'
+import { HrZoneSchema, ProfileInputSchema } from './profile'
+
+const baseProfile = {
+  sex: 'male',
+  birthDate: '1993-05-01',
+  heightCm: 180,
+}
+
+describe('HrZoneSchema', () => {
+  it('accetta una zona tra 1 e 5', () => {
+    expect(HrZoneSchema.safeParse({ zone: 3, minBpm: 120, maxBpm: 140 }).success).toBe(true)
+  })
+
+  it('rifiuta una zona oltre 5', () => {
+    expect(HrZoneSchema.safeParse({ zone: 6, minBpm: 120, maxBpm: 140 }).success).toBe(false)
+  })
+})
+
+describe('ProfileInputSchema', () => {
+  it('accetta un profilo con i soli campi obbligatori', () => {
+    expect(ProfileInputSchema.safeParse(baseProfile).success).toBe(true)
+  })
+
+  it('accetta i campi opzionali a null perché nullish', () => {
+    expect(
+      ProfileInputSchema.safeParse({
+        ...baseProfile,
+        trainingYears: null,
+        disciplines: null,
+        hrMax: null,
+        hrZones: null,
+        limitations: null,
+      }).success,
+    ).toBe(true)
+  })
+
+  it('rifiuta sex fuori enum', () => {
+    expect(ProfileInputSchema.safeParse({ ...baseProfile, sex: 'other' }).success).toBe(false)
+  })
+
+  it('rifiuta heightCm non positiva', () => {
+    expect(ProfileInputSchema.safeParse({ ...baseProfile, heightCm: 0 }).success).toBe(false)
+  })
+
+  it('rifiuta piu di 50 limitations', () => {
+    const limitations = Array.from({ length: 51 }, (_, i) => `lim${i}`)
+    expect(ProfileInputSchema.safeParse({ ...baseProfile, limitations }).success).toBe(false)
+  })
+})

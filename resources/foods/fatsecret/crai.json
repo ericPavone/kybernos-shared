@@ -1,0 +1,5553 @@
+[
+  {
+    "name": "Yogurt Greco Bianco 0% Grassi",
+    "brand": "Crai",
+    "kcal100": 55,
+    "fat100": 0,
+    "carbs100": 3.8,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-greco-bianco-0-grassi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco 0%",
+    "brand": "Crai",
+    "kcal100": 56,
+    "fat100": 0,
+    "carbs100": 5,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-greco-0",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Radicchio Variegato",
+    "brand": "Crai",
+    "kcal100": 22,
+    "fat100": 0.2,
+    "carbs100": 2.6,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/radicchio-variegato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane per Tramezzini",
+    "brand": "Crai",
+    "kcal100": 252,
+    "fat100": 3.6,
+    "carbs100": 45.4,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-per-tramezzini/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno al Naturale",
+    "brand": "Crai",
+    "kcal100": 98,
+    "fat100": 0.3,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tonno-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais",
+    "brand": "Crai",
+    "kcal100": 357.1,
+    "fat100": 1.43,
+    "carbs100": 80,
+    "protein100": 7.14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-mais/1-galletta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uova Grandi",
+    "brand": "Crai",
+    "kcal100": 126,
+    "fat100": 8.7,
+    "carbs100": 0,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/uova-grandi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Albume D’Uovo",
+    "brand": "Crai",
+    "kcal100": 43,
+    "fat100": 0,
+    "carbs100": 0.9,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/albume-d’uovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cordonbleu",
+    "brand": "Crai",
+    "kcal100": 272,
+    "fat100": 16,
+    "carbs100": 17,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cordonbleu",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane 5 Cereali e Semi di Lino",
+    "brand": "Crai",
+    "kcal100": 288,
+    "fat100": 5.7,
+    "carbs100": 48.5,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-5-cereali-e-semi-di-lino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Selvaggio",
+    "brand": "Crai",
+    "kcal100": 184,
+    "fat100": 4,
+    "carbs100": 0,
+    "protein100": 37,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/salmone-selvaggio/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Tacchino",
+    "brand": "Crai",
+    "kcal100": 89,
+    "fat100": 1.8,
+    "carbs100": 3.3,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/arrosto-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Vaniglia",
+    "brand": "Crai",
+    "kcal100": 76,
+    "fat100": 0,
+    "carbs100": 12,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-greco-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chips di Lenticchie",
+    "brand": "Crai",
+    "kcal100": 365,
+    "fat100": 1.3,
+    "carbs100": 69,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/chips-di-lenticchie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pastina all'uovo",
+    "brand": "Crai",
+    "kcal100": 361,
+    "fat100": 3,
+    "carbs100": 68,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pastina-alluovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coppa di Parma",
+    "brand": "Crai",
+    "kcal100": 338,
+    "fat100": 26,
+    "carbs100": 0,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/coppa-di-parma",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Songino",
+    "brand": "Crai",
+    "kcal100": 29,
+    "fat100": 0.4,
+    "carbs100": 3.6,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/songino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella",
+    "brand": "Crai",
+    "kcal100": 225,
+    "fat100": 17,
+    "carbs100": 1.3,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Crudo",
+    "brand": "Crai",
+    "kcal100": 234,
+    "fat100": 14,
+    "carbs100": 0,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/prosciutto-crudo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Miele Millefiori",
+    "brand": "Crai",
+    "kcal100": 314,
+    "fat100": 0,
+    "carbs100": 78,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/miele-millefiori",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Corn Flakes",
+    "brand": "Crai",
+    "kcal100": 373,
+    "fat100": 0.8,
+    "carbs100": 82,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/corn-flakes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Feta",
+    "brand": "Crai",
+    "kcal100": 275,
+    "fat100": 23,
+    "carbs100": 0.4,
+    "protein100": 16.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/feta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Romagnola",
+    "brand": "Crai",
+    "kcal100": 295,
+    "fat100": 6.5,
+    "carbs100": 51,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/piadina-romagnola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette Proteiche con Lenticchie",
+    "brand": "Crai",
+    "kcal100": 355,
+    "fat100": 1.9,
+    "carbs100": 55,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-proteiche-con-lenticchie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto",
+    "brand": "Crai",
+    "kcal100": 156,
+    "fat100": 8,
+    "carbs100": 1,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Intero",
+    "brand": "Crai",
+    "kcal100": 126,
+    "fat100": 10,
+    "carbs100": 3.5,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-greco-intero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso Bio",
+    "brand": "Crai",
+    "kcal100": 367,
+    "fat100": 1.3,
+    "carbs100": 79.9,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-riso-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cracker Integrali",
+    "brand": "Crai",
+    "kcal100": 422.9,
+    "fat100": 11.43,
+    "carbs100": 65.43,
+    "protein100": 11.14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cracker-integrali/5-cracker",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pisellini Finissimi",
+    "brand": "Crai",
+    "kcal100": 66,
+    "fat100": 1,
+    "carbs100": 6.5,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pisellini-finissimi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco 0% Pesca",
+    "brand": "Crai",
+    "kcal100": 68,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-greco-0-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cremosa 100% Arachidi",
+    "brand": "Crai",
+    "kcal100": 614,
+    "fat100": 49,
+    "carbs100": 14,
+    "protein100": 25.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cremosa-100-arachidi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Avena Biologici",
+    "brand": "Crai",
+    "kcal100": 372,
+    "fat100": 8,
+    "carbs100": 60,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fiocchi-di-avena-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Merluzzo Gratinato",
+    "brand": "Crai",
+    "kcal100": 152,
+    "fat100": 7.6,
+    "carbs100": 9.4,
+    "protein100": 11.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/merluzzo-gratinato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno All’Olio D’Oliva Leggero",
+    "brand": "Crai",
+    "kcal100": 277,
+    "fat100": 21,
+    "carbs100": 0,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tonno-all’olio-d’oliva-leggero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Champignon",
+    "brand": "Crai",
+    "kcal100": 24,
+    "fat100": 0.5,
+    "carbs100": 0.8,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/funghi-champignon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chips di Ceci",
+    "brand": "Crai",
+    "kcal100": 367,
+    "fat100": 3.7,
+    "carbs100": 65,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/chips-di-ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Affumicato",
+    "brand": "Crai",
+    "kcal100": 175,
+    "fat100": 8.9,
+    "carbs100": 0.7,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/salmone-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostini Integrali",
+    "brand": "Crai",
+    "kcal100": 418.2,
+    "fat100": 10.91,
+    "carbs100": 63.64,
+    "protein100": 11.82,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/crostini-integrali/1-crostino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Alici Marinate Sgocciolate",
+    "brand": "Crai",
+    "kcal100": 139,
+    "fat100": 6.8,
+    "carbs100": 0.1,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-alici-marinate-sgocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci",
+    "brand": "Crai",
+    "kcal100": 125,
+    "fat100": 2.2,
+    "carbs100": 16.8,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Pollo",
+    "brand": "Crai",
+    "kcal100": 189,
+    "fat100": 12,
+    "carbs100": 1.2,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/hamburger-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Granola Proteica Cioccolato Fondente e Nocciole",
+    "brand": "Crai",
+    "kcal100": 460,
+    "fat100": 21,
+    "carbs100": 34,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/granola-proteica-cioccolato-fondente-e-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi di Patate",
+    "brand": "Crai",
+    "kcal100": 159,
+    "fat100": 0.4,
+    "carbs100": 35,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gnocchi-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotto Tondo alla Vaniglia e Cioccolato (Gelato)",
+    "brand": "Crai",
+    "kcal100": 291.4,
+    "fat100": 9.14,
+    "carbs100": 46.29,
+    "protein100": 5.43,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/biscotto-tondo-alla-vaniglia-e-cioccolato-(gelato)/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Multi Flakes Fiocchi di Riso e Frumento Integrale",
+    "brand": "Crai",
+    "kcal100": 385,
+    "fat100": 1.5,
+    "carbs100": 82,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/multi-flakes-fiocchi-di-riso-e-frumento-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini",
+    "brand": "Crai",
+    "kcal100": 87,
+    "fat100": 0.4,
+    "carbs100": 12.1,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagioli-cannellini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ghiaccioli Assortiti",
+    "brand": "Crai",
+    "kcal100": 72.9,
+    "fat100": 0,
+    "carbs100": 18.57,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ghiaccioli-assortiti/1-ghiacciolo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Arborio",
+    "brand": "Crai",
+    "kcal100": 351,
+    "fat100": 1.3,
+    "carbs100": 77,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-arborio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Triangolini di Mais",
+    "brand": "Crai",
+    "kcal100": 418,
+    "fat100": 10.3,
+    "carbs100": 75.2,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/triangolini-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Fresco Spalmabile Light",
+    "brand": "Crai",
+    "kcal100": 164,
+    "fat100": 13,
+    "carbs100": 3,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/formaggio-fresco-spalmabile-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Spalmabile",
+    "brand": "Crai",
+    "kcal100": 256,
+    "fat100": 24,
+    "carbs100": 2.8,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/formaggio-spalmabile",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Nasello",
+    "brand": "Crai",
+    "kcal100": 79,
+    "fat100": 1.4,
+    "carbs100": 0.3,
+    "protein100": 16.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cuori-di-nasello",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco Magro",
+    "brand": "Crai",
+    "kcal100": 40,
+    "fat100": 0.08,
+    "carbs100": 5.12,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-bianco-magro/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panini Maxi per Hamburger con Semi di Sesamo",
+    "brand": "Crai",
+    "kcal100": 286.7,
+    "fat100": 5.47,
+    "carbs100": 50.67,
+    "protein100": 8.53,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/panini-maxi-per-hamburger-con-semi-di-sesamo/1-panino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Fini",
+    "brand": "Crai",
+    "kcal100": 96,
+    "fat100": 0.6,
+    "carbs100": 15,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/piselli-fini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passata di Pomodoro Bio",
+    "brand": "Crai",
+    "kcal100": 31,
+    "fat100": 0.1,
+    "carbs100": 6,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/passata-di-pomodoro-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Integrale",
+    "brand": "Crai",
+    "kcal100": 307,
+    "fat100": 8.9,
+    "carbs100": 46,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/piadina-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Integrale",
+    "brand": "Crai",
+    "kcal100": 262.5,
+    "fat100": 4.58,
+    "carbs100": 41.67,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-integrale/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente",
+    "brand": "Crai",
+    "kcal100": 556,
+    "fat100": 36,
+    "carbs100": 46,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cioccolato-fondente",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane 8 Cereali",
+    "brand": "Crai",
+    "kcal100": 287,
+    "fat100": 5.6,
+    "carbs100": 47,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-8-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Bianco 10%Grassi",
+    "brand": "Crai",
+    "kcal100": 129,
+    "fat100": 10,
+    "carbs100": 4,
+    "protein100": 5.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-greco-bianco-10grassi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo al Ragù",
+    "brand": "Crai",
+    "kcal100": 101,
+    "fat100": 6,
+    "carbs100": 6.3,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sugo-al-ragù",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Primo Sale",
+    "brand": "Crai",
+    "kcal100": 215,
+    "fat100": 16,
+    "carbs100": 2.8,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/primo-sale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scamorza Affumicata",
+    "brand": "Crai",
+    "kcal100": 371,
+    "fat100": 26,
+    "carbs100": 0.7,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/scamorza-affumicata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro Grigliati al Naturale",
+    "brand": "Crai",
+    "kcal100": 146,
+    "fat100": 5.1,
+    "carbs100": 0,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-sgombro-grigliati-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais con Legumi",
+    "brand": "Crai",
+    "kcal100": 378,
+    "fat100": 1.3,
+    "carbs100": 77,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-mais-con-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto",
+    "brand": "Crai",
+    "kcal100": 589,
+    "fat100": 61.8,
+    "carbs100": 4.1,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pesto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cous Cous",
+    "brand": "Crai",
+    "kcal100": 355,
+    "fat100": 0.6,
+    "carbs100": 72,
+    "protein100": 12.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cous-cous",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orata alla Mediterranea",
+    "brand": "Crai",
+    "kcal100": 155,
+    "fat100": 11,
+    "carbs100": 5.2,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/orata-alla-mediterranea",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Morbido al Grano Duro",
+    "brand": "Crai",
+    "kcal100": 252,
+    "fat100": 3.3,
+    "carbs100": 46.1,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-morbido-al-grano-duro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortelli alla Ricotta e Spinaci",
+    "brand": "Crai",
+    "kcal100": 248,
+    "fat100": 5,
+    "carbs100": 39,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tortelli-alla-ricotta-e-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petali di Cereali al Cacao",
+    "brand": "Crai",
+    "kcal100": 392,
+    "fat100": 3.3,
+    "carbs100": 81.9,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/petali-di-cereali-al-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta",
+    "brand": "Crai",
+    "kcal100": 145,
+    "fat100": 10,
+    "carbs100": 3.7,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ricotta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tofu al Naturale",
+    "brand": "Crai",
+    "kcal100": 133,
+    "fat100": 7.8,
+    "carbs100": 0.7,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tofu-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte senza Lattosio",
+    "brand": "Crai",
+    "kcal100": 43,
+    "fat100": 1.1,
+    "carbs100": 5,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/latte-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Emmental Bavarese a Fette",
+    "brand": "Crai",
+    "kcal100": 365,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/emmental-bavarese-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli Croccante Cioccolato Fondente e Nocciole",
+    "brand": "Crai",
+    "kcal100": 462,
+    "fat100": 17.8,
+    "carbs100": 63,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/muesli-croccante-cioccolato-fondente-e-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cozze",
+    "brand": "Crai",
+    "kcal100": 99,
+    "fat100": 2.6,
+    "carbs100": 4.7,
+    "protein100": 14.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cozze",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stick di Speck",
+    "brand": "Crai",
+    "kcal100": 280,
+    "fat100": 18,
+    "carbs100": 0.5,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/stick-di-speck",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cacao Amaro",
+    "brand": "Crai",
+    "kcal100": 421,
+    "fat100": 23,
+    "carbs100": 18,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cacao-amaro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate al Rosmarino",
+    "brand": "Crai",
+    "kcal100": 114,
+    "fat100": 3.1,
+    "carbs100": 18,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patate-al-rosmarino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Dolce",
+    "brand": "Crai",
+    "kcal100": 83,
+    "fat100": 1.8,
+    "carbs100": 12.2,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mais-dolce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Yogurt Variegato Frutti di Bosco",
+    "brand": "Crai",
+    "kcal100": 196,
+    "fat100": 6,
+    "carbs100": 32,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gelato-yogurt-variegato-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Integrali",
+    "brand": "Crai",
+    "kcal100": 393,
+    "fat100": 5.8,
+    "carbs100": 68,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fette-biscottate-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cracker Integrali Bio",
+    "brand": "Crai",
+    "kcal100": 430.3,
+    "fat100": 12.42,
+    "carbs100": 63.64,
+    "protein100": 12.12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cracker-integrali-bio/1-confezione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie",
+    "brand": "Crai",
+    "kcal100": 96,
+    "fat100": 0.5,
+    "carbs100": 13,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/lenticchie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burro",
+    "brand": "Crai",
+    "kcal100": 754,
+    "fat100": 83.5,
+    "carbs100": 0.1,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/burro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricottine",
+    "brand": "Crai",
+    "kcal100": 145,
+    "fat100": 10,
+    "carbs100": 3.7,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ricottine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Protein Bar 33% Arachidi e Caramello",
+    "brand": "Crai",
+    "kcal100": 396.7,
+    "fat100": 16,
+    "carbs100": 36.67,
+    "protein100": 33.33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/protein-bar-33-arachidi-e-caramello/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto Classico",
+    "brand": "Crai",
+    "kcal100": 496,
+    "fat100": 50,
+    "carbs100": 7.1,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pesto-classico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Wurstel e Patatine",
+    "brand": "Crai",
+    "kcal100": 233,
+    "fat100": 7.5,
+    "carbs100": 31,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pizza-wurstel-e-patatine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mezze Penne Rigate",
+    "brand": "Crai",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mezze-penne-rigate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Merluzzo Sudafricano",
+    "brand": "Crai",
+    "kcal100": 68,
+    "fat100": 0,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cuori-di-merluzzo-sudafricano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Integrale Soffiato Biologico",
+    "brand": "Crai",
+    "kcal100": 376,
+    "fat100": 2.5,
+    "carbs100": 78,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-integrale-soffiato-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciok'n Rice",
+    "brand": "Crai",
+    "kcal100": 390,
+    "fat100": 2.5,
+    "carbs100": 85,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ciokn-rice",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema Proteica al Pistacchio",
+    "brand": "Crai",
+    "kcal100": 548,
+    "fat100": 40.4,
+    "carbs100": 31.4,
+    "protein100": 22.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/crema-proteica-al-pistacchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Toffee Caramelle Morbide",
+    "brand": "Crai",
+    "kcal100": 416,
+    "fat100": 7.9,
+    "carbs100": 85,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/toffee-caramelle-morbide",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Salmone al Naturale",
+    "brand": "Crai",
+    "kcal100": 138,
+    "fat100": 5.8,
+    "carbs100": 0,
+    "protein100": 21.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetto-di-salmone-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Pollo",
+    "brand": "Crai",
+    "kcal100": 97,
+    "fat100": 1.4,
+    "carbs100": 4.1,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/arrosto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Magro Caffè",
+    "brand": "Crai",
+    "kcal100": 70,
+    "fat100": 0,
+    "carbs100": 11.5,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-greco-magro-caffè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina di Riso Bio",
+    "brand": "Crai",
+    "kcal100": 350,
+    "fat100": 1,
+    "carbs100": 78,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/farina-di-riso-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Cereali e Semi",
+    "brand": "Crai",
+    "kcal100": 238,
+    "fat100": 3.5,
+    "carbs100": 41,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-cereali-e-semi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Baguette",
+    "brand": "Crai",
+    "kcal100": 236,
+    "fat100": 0.2,
+    "carbs100": 49,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/baguette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di FARRO",
+    "brand": "Crai",
+    "kcal100": 325,
+    "fat100": 2.5,
+    "carbs100": 66.25,
+    "protein100": 8.75,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-farro/1-galetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta senza Lattosio",
+    "brand": "Crai",
+    "kcal100": 141,
+    "fat100": 10,
+    "carbs100": 2.8,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ricotta-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso Integrale",
+    "brand": "Crai",
+    "kcal100": 385.7,
+    "fat100": 1.43,
+    "carbs100": 82.86,
+    "protein100": 7.14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-riso-integrale/1-galletta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panetti",
+    "brand": "Crai",
+    "kcal100": 433,
+    "fat100": 11,
+    "carbs100": 72,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/panetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uova Bio",
+    "brand": "Crai",
+    "kcal100": 128,
+    "fat100": 8.7,
+    "carbs100": 0,
+    "protein100": 12.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/uova-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Carré",
+    "brand": "Crai",
+    "kcal100": 280,
+    "fat100": 4.2,
+    "carbs100": 51,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pan-carré",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tranci di Tonno",
+    "brand": "Crai",
+    "kcal100": 102,
+    "fat100": 0.5,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tranci-di-tonno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Taralli",
+    "brand": "Crai",
+    "kcal100": 469,
+    "fat100": 19,
+    "carbs100": 65,
+    "protein100": 9.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/taralli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Ribe Parboiled",
+    "brand": "Crai",
+    "kcal100": 351,
+    "fat100": 1.3,
+    "carbs100": 75,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-ribe-parboiled",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Morbido Integrale",
+    "brand": "Crai",
+    "kcal100": 248,
+    "fat100": 3.6,
+    "carbs100": 43.3,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-morbido-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Code di Mazzancolle Tropicali",
+    "brand": "Crai",
+    "kcal100": 90,
+    "fat100": 1,
+    "carbs100": 0.6,
+    "protein100": 19.46,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/code-di-mazzancolle-tropicali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarelline",
+    "brand": "Crai",
+    "kcal100": 240,
+    "fat100": 12,
+    "carbs100": 22,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mozzarelline",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Merluzzo",
+    "brand": "Crai",
+    "kcal100": 68,
+    "fat100": 0,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cuori-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Merluzzo Sudafricano",
+    "brand": "Crai",
+    "kcal100": 92,
+    "fat100": 3.1,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-merluzzo-sudafricano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rucola Selvatica",
+    "brand": "Crai",
+    "kcal100": 31,
+    "fat100": 0.3,
+    "carbs100": 3.9,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/rucola-selvatica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers Salati",
+    "brand": "Crai",
+    "kcal100": 434.3,
+    "fat100": 12,
+    "carbs100": 70,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/crackers-salati/1-pacco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Intero",
+    "brand": "Crai",
+    "kcal100": 101,
+    "fat100": 3.1,
+    "carbs100": 13.8,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-intero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Proteiche",
+    "brand": "Crai",
+    "kcal100": 348,
+    "fat100": 1.6,
+    "carbs100": 25,
+    "protein100": 55,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/penne-proteiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciliegine di Mozzarella",
+    "brand": "Crai",
+    "kcal100": 239,
+    "fat100": 19,
+    "carbs100": 1.3,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ciliegine-di-mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Pop Corn",
+    "brand": "Crai",
+    "kcal100": 347,
+    "fat100": 4.5,
+    "carbs100": 63.3,
+    "protein100": 12.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mais-pop-corn",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fesa Di Tacchino A Fette",
+    "brand": "Crai",
+    "kcal100": 106,
+    "fat100": 0.5,
+    "carbs100": 0.5,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fesa-di-tacchino-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Prefritte",
+    "brand": "Crai",
+    "kcal100": 134,
+    "fat100": 4.4,
+    "carbs100": 20,
+    "protein100": 2.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patate-prefritte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente Senza Zuccheri",
+    "brand": "Crai",
+    "kcal100": 438,
+    "fat100": 30,
+    "carbs100": 44,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cioccolato-fondente-senza-zuccheri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nuggets di Pollo",
+    "brand": "Crai",
+    "kcal100": 231,
+    "fat100": 13,
+    "carbs100": 18,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/nuggets-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zucchine Grigliate Surgelate",
+    "brand": "Crai",
+    "kcal100": 29,
+    "fat100": 0.1,
+    "carbs100": 4,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/zucchine-grigliate-surgelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata di Albicocche Bio",
+    "brand": "Crai",
+    "kcal100": 167,
+    "fat100": 0,
+    "carbs100": 39,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/marmellata-di-albicocche-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais",
+    "brand": "Crai",
+    "kcal100": 362,
+    "fat100": 1,
+    "carbs100": 81,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Strozzapreti di Lenticchie Rosse",
+    "brand": "Crai",
+    "kcal100": 343,
+    "fat100": 1.6,
+    "carbs100": 53,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/strozzapreti-di-lenticchie-rosse",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mista Vivace",
+    "brand": "Crai",
+    "kcal100": 20,
+    "fat100": 0,
+    "carbs100": 2.2,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mista-vivace",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberetti",
+    "brand": "Crai",
+    "kcal100": 66,
+    "fat100": 0.7,
+    "carbs100": 0,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gamberetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate",
+    "brand": "Crai",
+    "kcal100": 85,
+    "fat100": 1,
+    "carbs100": 18,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Protein Bar Cookie",
+    "brand": "Crai",
+    "kcal100": 422,
+    "fat100": 16,
+    "carbs100": 31,
+    "protein100": 50,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/protein-bar-cookie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Gallette di Mais",
+    "brand": "Crai",
+    "kcal100": 362,
+    "fat100": 1,
+    "carbs100": 80.7,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mini-gallette-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Alici Panate",
+    "brand": "Crai",
+    "kcal100": 252,
+    "fat100": 12,
+    "carbs100": 24,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/alici-panate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Bovino Adulto",
+    "brand": "Crai",
+    "kcal100": 95,
+    "fat100": 1.2,
+    "carbs100": 0.1,
+    "protein100": 20.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/hamburger-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola",
+    "brand": "Crai",
+    "kcal100": 169,
+    "fat100": 3.3,
+    "carbs100": 0,
+    "protein100": 34,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/bresaola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Lattuga",
+    "brand": "Crai",
+    "kcal100": 22,
+    "fat100": 0.2,
+    "carbs100": 3,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cuori-di-lattuga",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Integrale",
+    "brand": "Crai",
+    "kcal100": 268,
+    "fat100": 4.6,
+    "carbs100": 43.4,
+    "protein100": 10.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lattughino",
+    "brand": "Crai",
+    "kcal100": 17,
+    "fat100": 0,
+    "carbs100": 2.2,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/lattughino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte di Soia",
+    "brand": "Crai",
+    "kcal100": 56,
+    "fat100": 2.2,
+    "carbs100": 5.8,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/latte-di-soia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro alla Frutta",
+    "brand": "Crai",
+    "kcal100": 59,
+    "fat100": 0.1,
+    "carbs100": 10.2,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-magro-alla-frutta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maionese",
+    "brand": "Crai",
+    "kcal100": 733,
+    "fat100": 80.5,
+    "carbs100": 0.6,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/maionese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Foglie di Mais e Riso",
+    "brand": "Crai",
+    "kcal100": 361,
+    "fat100": 1.4,
+    "carbs100": 78,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/foglie-di-mais-e-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti",
+    "brand": "Crai",
+    "kcal100": 97,
+    "fat100": 0.5,
+    "carbs100": 13.2,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagioli-borlotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Asiago Dop",
+    "brand": "Crai",
+    "kcal100": 368,
+    "fat100": 30,
+    "carbs100": 0.5,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/asiago-dop",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Fresca di Semola di Grano Duro",
+    "brand": "Crai",
+    "kcal100": 273,
+    "fat100": 1.3,
+    "carbs100": 55,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pasta-fresca-di-semola-di-grano-duro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagiolini Finissimi",
+    "brand": "Crai",
+    "kcal100": 37,
+    "fat100": 0.5,
+    "carbs100": 4.6,
+    "protein100": 1.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagiolini-finissimi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Pomodoro Fine",
+    "brand": "Crai",
+    "kcal100": 28,
+    "fat100": 0.5,
+    "carbs100": 5.2,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/polpa-di-pomodoro-fine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema Spalmabile Cacao e Nocciole",
+    "brand": "Crai",
+    "kcal100": 522,
+    "fat100": 28.1,
+    "carbs100": 60.1,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/crema-spalmabile-cacao-e-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lardo",
+    "brand": "Crai",
+    "kcal100": 578,
+    "fat100": 59,
+    "carbs100": 0.7,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/lardo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maasdam Olandese",
+    "brand": "Crai",
+    "kcal100": 346,
+    "fat100": 27,
+    "carbs100": 0,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/maasdam-olandese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Crusca",
+    "brand": "Crai",
+    "kcal100": 341,
+    "fat100": 3.3,
+    "carbs100": 46,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/bastoncini-di-crusca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto a Cubetti",
+    "brand": "Crai",
+    "kcal100": 122,
+    "fat100": 4.2,
+    "carbs100": 0,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/prosciutto-cotto-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Rustiche",
+    "brand": "Crai",
+    "kcal100": 555,
+    "fat100": 34,
+    "carbs100": 54,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patatine-rustiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Würstel di Puro Suino",
+    "brand": "Crai",
+    "kcal100": 259,
+    "fat100": 23,
+    "carbs100": 1,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/würstel-di-puro-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Grattugiato",
+    "brand": "Crai",
+    "kcal100": 369,
+    "fat100": 1.2,
+    "carbs100": 77,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-grattugiato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra Mirtilli",
+    "brand": "Crai",
+    "kcal100": 186,
+    "fat100": 0.4,
+    "carbs100": 43,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/confettura-extra-mirtilli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filone Rustico",
+    "brand": "Crai",
+    "kcal100": 285,
+    "fat100": 7.8,
+    "carbs100": 41,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filone-rustico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ananas al Naturale",
+    "brand": "Crai",
+    "kcal100": 60,
+    "fat100": 0.1,
+    "carbs100": 14,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ananas-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliolini Allo Scoglio",
+    "brand": "Crai",
+    "kcal100": 113,
+    "fat100": 2.8,
+    "carbs100": 16.2,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tagliolini-allo-scoglio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate da Forno",
+    "brand": "Crai",
+    "kcal100": 146,
+    "fat100": 5.6,
+    "carbs100": 21,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patate-da-forno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Merluzzo",
+    "brand": "Crai",
+    "kcal100": 180,
+    "fat100": 7.8,
+    "carbs100": 14.7,
+    "protein100": 12.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/bastoncini-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lievito per Dolci",
+    "brand": "Crai",
+    "kcal100": 40,
+    "fat100": 0,
+    "carbs100": 10,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/lievito-per-dolci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Salmone",
+    "brand": "Crai",
+    "kcal100": 94,
+    "fat100": 1.5,
+    "carbs100": 0,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cuori-di-salmone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Risotto al Formaggio",
+    "brand": "Crai",
+    "kcal100": 378,
+    "fat100": 5.3,
+    "carbs100": 72,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/risotto-al-formaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chips di Lenticchie",
+    "brand": "Crai",
+    "kcal100": 365,
+    "fat100": 1.25,
+    "carbs100": 70,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/chips-di-lenticchie/farina-di-lenticchie-49-farina-di-mais-49-sale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone 15 Verdure",
+    "brand": "Crai",
+    "kcal100": 60,
+    "fat100": 0.5,
+    "carbs100": 9.4,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/minestrone-15-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra Fragole",
+    "brand": "Crai",
+    "kcal100": 226,
+    "fat100": 0.2,
+    "carbs100": 55,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/confettura-extra-fragole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bevanda di Mandorla",
+    "brand": "Crai",
+    "kcal100": 24,
+    "fat100": 1.2,
+    "carbs100": 3,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/bevanda-di-mandorla",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Seitan al Naturale",
+    "brand": "Crai",
+    "kcal100": 141,
+    "fat100": 1.8,
+    "carbs100": 5.7,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/seitan-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Margherita",
+    "brand": "Crai",
+    "kcal100": 246,
+    "fat100": 7.5,
+    "carbs100": 32,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pizza-margherita",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Sfoglia Rotonda",
+    "brand": "Crai",
+    "kcal100": 398,
+    "fat100": 22,
+    "carbs100": 39,
+    "protein100": 5.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pasta-sfoglia-rotonda",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Mais Bio",
+    "brand": "Crai",
+    "kcal100": 369,
+    "fat100": 1,
+    "carbs100": 81,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fiocchi-di-mais-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco senza Lattosio",
+    "brand": "Crai",
+    "kcal100": 90.4,
+    "fat100": 1.52,
+    "carbs100": 14.48,
+    "protein100": 3.92,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-bianco-senza-lattosio/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato alla Panna",
+    "brand": "Crai",
+    "kcal100": 192,
+    "fat100": 8.4,
+    "carbs100": 25.8,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gelato-alla-panna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliata di Petto di Pollo",
+    "brand": "Crai",
+    "kcal100": 104,
+    "fat100": 0.5,
+    "carbs100": 0,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tagliata-di-petto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane di Grano Duro",
+    "brand": "Crai",
+    "kcal100": 281,
+    "fat100": 4.6,
+    "carbs100": 48.8,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-di-grano-duro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Pizze Margherita",
+    "brand": "Crai",
+    "kcal100": 251.3,
+    "fat100": 9.25,
+    "carbs100": 32,
+    "protein100": 9.13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mini-pizze-margherita/1-mini-pizza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bianco",
+    "brand": "Crai",
+    "kcal100": 274,
+    "fat100": 3.6,
+    "carbs100": 51.5,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Capperi in Aceto di Vino",
+    "brand": "Crai",
+    "kcal100": 39,
+    "fat100": 0.8,
+    "carbs100": 4.1,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/capperi-in-aceto-di-vino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Acciughe",
+    "brand": "Crai",
+    "kcal100": 205,
+    "fat100": 10.7,
+    "carbs100": 0,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-acciughe",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Norvegese Affumicato",
+    "brand": "Crai",
+    "kcal100": 184,
+    "fat100": 10,
+    "carbs100": 0.5,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/salmone-norvegese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Rucola e Pomodorini",
+    "brand": "Crai",
+    "kcal100": 218,
+    "fat100": 6,
+    "carbs100": 30,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pizza-rucola-e-pomodorini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Iceberg",
+    "brand": "Crai",
+    "kcal100": 19,
+    "fat100": 0,
+    "carbs100": 3,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cuori-di-iceberg",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Farro",
+    "brand": "Crai",
+    "kcal100": 71,
+    "fat100": 1.3,
+    "carbs100": 10,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/zuppa-di-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quadrucci alla Carne",
+    "brand": "Crai",
+    "kcal100": 315,
+    "fat100": 5.5,
+    "carbs100": 53,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/quadrucci-alla-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polenta Istantanea",
+    "brand": "Crai",
+    "kcal100": 344,
+    "fat100": 0.8,
+    "carbs100": 76,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/polenta-istantanea",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bianco",
+    "brand": "Crai",
+    "kcal100": 266.7,
+    "fat100": 3.33,
+    "carbs100": 50.42,
+    "protein100": 7.08,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-bianco/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli Croccante Frutta Secca",
+    "brand": "Crai",
+    "kcal100": 451,
+    "fat100": 17.7,
+    "carbs100": 62,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/muesli-croccante-frutta-secca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Fini Surgelati",
+    "brand": "Crai",
+    "kcal100": 66,
+    "fat100": 1,
+    "carbs100": 6.5,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/piselli-fini-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chips di Piselli",
+    "brand": "Crai",
+    "kcal100": 353,
+    "fat100": 1.5,
+    "carbs100": 66,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/chips-di-piselli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Rigate Integrali",
+    "brand": "Crai",
+    "kcal100": 350,
+    "fat100": 2.4,
+    "carbs100": 66,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/penne-rigate-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata di Fichi",
+    "brand": "Crai",
+    "kcal100": 182,
+    "fat100": 0.3,
+    "carbs100": 43,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/marmellata-di-fichi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carote Julienne",
+    "brand": "Crai",
+    "kcal100": 43,
+    "fat100": 0,
+    "carbs100": 7.6,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/carote-julienne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola Bio",
+    "brand": "Crai",
+    "kcal100": 158,
+    "fat100": 1.6,
+    "carbs100": 1,
+    "protein100": 35,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/bresaola-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Carnaroli Superfino",
+    "brand": "Crai",
+    "kcal100": 344,
+    "fat100": 1.6,
+    "carbs100": 74,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-carnaroli-superfino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Mista Delicata",
+    "brand": "Crai",
+    "kcal100": 25,
+    "fat100": 0.3,
+    "carbs100": 2.9,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/insalata-mista-delicata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro",
+    "brand": "Crai",
+    "kcal100": 170,
+    "fat100": 7.8,
+    "carbs100": 0.1,
+    "protein100": 25.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-sgombro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Drink Proteico",
+    "brand": "Crai",
+    "kcal100": 63,
+    "fat100": 0.5,
+    "carbs100": 5.4,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/drink-proteico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tranci di Filetto Salmone Selvaggio",
+    "brand": "Crai",
+    "kcal100": 94,
+    "fat100": 1.5,
+    "carbs100": 0,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tranci-di-filetto-salmone-selvaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne di Piselli",
+    "brand": "Crai",
+    "kcal100": 341,
+    "fat100": 1.8,
+    "carbs100": 55,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/penne-di-piselli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Bianco",
+    "brand": "Crai",
+    "kcal100": 40,
+    "fat100": 0.1,
+    "carbs100": 5.1,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-magro-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vellutata di Zucca e Carote",
+    "brand": "Crai",
+    "kcal100": 41,
+    "fat100": 2.7,
+    "carbs100": 3,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/vellutata-di-zucca-e-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sottilette",
+    "brand": "Crai",
+    "kcal100": 224,
+    "fat100": 14,
+    "carbs100": 8.4,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sottilette/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata di Arance",
+    "brand": "Crai",
+    "kcal100": 185,
+    "fat100": 0.1,
+    "carbs100": 54,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/marmellata-di-arance",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Speck a Cubetti",
+    "brand": "Crai",
+    "kcal100": 280,
+    "fat100": 18,
+    "carbs100": 0.5,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/speck-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Branzino",
+    "brand": "Crai",
+    "kcal100": 129,
+    "fat100": 5.1,
+    "carbs100": 1,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-branzino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Platessa",
+    "brand": "Crai",
+    "kcal100": 80,
+    "fat100": 1.5,
+    "carbs100": 0,
+    "protein100": 16.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-platessa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix di Radicchi",
+    "brand": "Crai",
+    "kcal100": 19,
+    "fat100": 0.1,
+    "carbs100": 1.9,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mix-di-radicchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Succo e Polpa di Pesca",
+    "brand": "Crai",
+    "kcal100": 58,
+    "fat100": 0,
+    "carbs100": 13.7,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/succo-e-polpa-di-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cetriolini in Aceto di Vino",
+    "brand": "Crai",
+    "kcal100": 16,
+    "fat100": 0.6,
+    "carbs100": 0.6,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cetriolini-in-aceto-di-vino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancetta",
+    "brand": "Crai",
+    "kcal100": 460,
+    "fat100": 44,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pancetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Sgusciate",
+    "brand": "Crai",
+    "kcal100": 595,
+    "fat100": 50,
+    "carbs100": 9.1,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mandorle-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pinsa",
+    "brand": "Crai",
+    "kcal100": 280,
+    "fat100": 4.3,
+    "carbs100": 49.4,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pinsa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt da Bere Banana",
+    "brand": "Crai",
+    "kcal100": 76,
+    "fat100": 1.5,
+    "carbs100": 12.1,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-da-bere-banana/1-bottiglietta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Carciofi",
+    "brand": "Crai",
+    "kcal100": 34,
+    "fat100": 0.2,
+    "carbs100": 2.5,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cuori-di-carciofi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci Surgelati",
+    "brand": "Crai",
+    "kcal100": 35,
+    "fat100": 0.7,
+    "carbs100": 2.9,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/spinaci-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Melanzane Grigliate",
+    "brand": "Crai",
+    "kcal100": 43,
+    "fat100": 0.4,
+    "carbs100": 6,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/melanzane-grigliate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Cacao e Mandorle",
+    "brand": "Crai",
+    "kcal100": 491.7,
+    "fat100": 21.67,
+    "carbs100": 65.83,
+    "protein100": 6.67,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frollini-cacao-e-mandorle/1-frollini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Composta di Arance Bio",
+    "brand": "Crai",
+    "kcal100": 167,
+    "fat100": 0,
+    "carbs100": 39,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/composta-di-arance-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa ai Cereali con Legumi e Verdure Fresche",
+    "brand": "Crai",
+    "kcal100": 48,
+    "fat100": 0.9,
+    "carbs100": 7,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/zuppa-ai-cereali-con-legumi-e-verdure-fresche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croccanti di Merluzzo",
+    "brand": "Crai",
+    "kcal100": 183,
+    "fat100": 7.6,
+    "carbs100": 17,
+    "protein100": 11.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/croccanti-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crescenza Cremosa",
+    "brand": "Crai",
+    "kcal100": 292,
+    "fat100": 26,
+    "carbs100": 2,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/crescenza-cremosa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Würstel di Pollo e Tacchino",
+    "brand": "Crai",
+    "kcal100": 190,
+    "fat100": 14,
+    "carbs100": 4,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/würstel-di-pollo-e-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Verdi Denocciolate",
+    "brand": "Crai",
+    "kcal100": 159,
+    "fat100": 15,
+    "carbs100": 3.1,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/olive-verdi-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Rossi",
+    "brand": "Crai",
+    "kcal100": 105,
+    "fat100": 0.8,
+    "carbs100": 12.1,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagioli-rossi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Romagnola IGP alla Riminese",
+    "brand": "Crai",
+    "kcal100": 343,
+    "fat100": 13,
+    "carbs100": 49,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/piadina-romagnola-igp-alla-riminese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate ai Cereali",
+    "brand": "Crai",
+    "kcal100": 389,
+    "fat100": 6.5,
+    "carbs100": 68,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fette-biscottate-ai-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Multi Flakes con Cioccolato Fondente",
+    "brand": "Crai",
+    "kcal100": 405,
+    "fat100": 6.8,
+    "carbs100": 76,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/multi-flakes-con-cioccolato-fondente",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti Digestive",
+    "brand": "Crai",
+    "kcal100": 467,
+    "fat100": 18,
+    "carbs100": 67,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/biscotti-digestive",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Cremoso Intero Banana",
+    "brand": "Crai",
+    "kcal100": 100,
+    "fat100": 3.2,
+    "carbs100": 13.84,
+    "protein100": 3.52,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-cremoso-intero-banana/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Roma Superfino",
+    "brand": "Crai",
+    "kcal100": 351,
+    "fat100": 1.3,
+    "carbs100": 77,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-roma-superfino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Pelate Precotte",
+    "brand": "Crai",
+    "kcal100": 58,
+    "fat100": 0,
+    "carbs100": 12,
+    "protein100": 1.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patate-pelate-precotte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carciofini Grigliati",
+    "brand": "Crai",
+    "kcal100": 93,
+    "fat100": 7.9,
+    "carbs100": 0.7,
+    "protein100": 2.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/carciofini-grigliati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro Grigliati All'olio di Oliva",
+    "brand": "Crai",
+    "kcal100": 214,
+    "fat100": 13,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-sgombro-grigliati-allolio-di-oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Sfogliate",
+    "brand": "Crai",
+    "kcal100": 524,
+    "fat100": 31,
+    "carbs100": 58,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patatine-sfogliate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane al Farro",
+    "brand": "Crai",
+    "kcal100": 283,
+    "fat100": 4.2,
+    "carbs100": 51.2,
+    "protein100": 8.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-al-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Pelate",
+    "brand": "Crai",
+    "kcal100": 648,
+    "fat100": 50,
+    "carbs100": 22,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mandorle-pelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scorfano all'isolana",
+    "brand": "Crai",
+    "kcal100": 101,
+    "fat100": 2.4,
+    "carbs100": 6.4,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/scorfano-allisolana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli",
+    "brand": "Crai",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fusilli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortelloni alla Carne",
+    "brand": "Crai",
+    "kcal100": 275,
+    "fat100": 7.8,
+    "carbs100": 39,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tortelloni-alla-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Basmati",
+    "brand": "Crai",
+    "kcal100": 359,
+    "fat100": 1.3,
+    "carbs100": 77.3,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-basmati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto in Armonia",
+    "brand": "Crai",
+    "kcal100": 102,
+    "fat100": 2,
+    "carbs100": 1.1,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/prosciutto-cotto-in-armonia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panna Uht",
+    "brand": "Crai",
+    "kcal100": 232,
+    "fat100": 23,
+    "carbs100": 3.7,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/panna-uht",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Linguine",
+    "brand": "Crai",
+    "kcal100": 354,
+    "fat100": 1.3,
+    "carbs100": 71.7,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/linguine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix di Formaggi Grattugiati",
+    "brand": "Crai",
+    "kcal100": 380,
+    "fat100": 28,
+    "carbs100": 0,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mix-di-formaggi-grattugiati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine Classiche",
+    "brand": "Crai",
+    "kcal100": 224,
+    "fat100": 14,
+    "carbs100": 8.4,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fettine-classiche/1-fettina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagiolini Fini",
+    "brand": "Crai",
+    "kcal100": 23,
+    "fat100": 0.2,
+    "carbs100": 2.7,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagiolini-fini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti Proteici",
+    "brand": "Crai",
+    "kcal100": 348,
+    "fat100": 1.6,
+    "carbs100": 25,
+    "protein100": 55,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/spaghetti-proteici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini ai Cereali con Frutta",
+    "brand": "Crai",
+    "kcal100": 436.4,
+    "fat100": 18.18,
+    "carbs100": 56.36,
+    "protein100": 7.27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frollini-ai-cereali-con-frutta/1-frollino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella senza Lattosio",
+    "brand": "Crai",
+    "kcal100": 224.8,
+    "fat100": 17.04,
+    "carbs100": 1.04,
+    "protein100": 17.04,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mozzarella-senza-lattosio/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Frutti di Bosco",
+    "brand": "Crai",
+    "kcal100": 59,
+    "fat100": 0.1,
+    "carbs100": 10.2,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-magro-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Uovo",
+    "brand": "Crai",
+    "kcal100": 469,
+    "fat100": 17,
+    "carbs100": 70.5,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frollini-uovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Medi",
+    "brand": "Crai",
+    "kcal100": 72,
+    "fat100": 0.9,
+    "carbs100": 7.6,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/piselli-medi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vellutata di Verdure",
+    "brand": "Crai",
+    "kcal100": 37,
+    "fat100": 1.9,
+    "carbs100": 2.4,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/vellutata-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farfalle",
+    "brand": "Crai",
+    "kcal100": 354,
+    "fat100": 1.3,
+    "carbs100": 71.7,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/farfalle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Paella di Pesce",
+    "brand": "Crai",
+    "kcal100": 95,
+    "fat100": 0.7,
+    "carbs100": 15.7,
+    "protein100": 5.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/paella-di-pesce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpetti Interi",
+    "brand": "Crai",
+    "kcal100": 63,
+    "fat100": 1.09,
+    "carbs100": 0,
+    "protein100": 15.68,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/polpetti-interi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barbabietole Pelate",
+    "brand": "Crai",
+    "kcal100": 49,
+    "fat100": 0,
+    "carbs100": 10,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/barbabietole-pelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini Pronti all'uso",
+    "brand": "Crai",
+    "kcal100": 89,
+    "fat100": 0.7,
+    "carbs100": 10.5,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagioli-cannellini-pronti-alluso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Cremoso Intero Fragola",
+    "brand": "Crai",
+    "kcal100": 100,
+    "fat100": 3.2,
+    "carbs100": 13.84,
+    "protein100": 3.52,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-cremoso-intero-fragola/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancetta Affumicata a Cubetti",
+    "brand": "Crai",
+    "kcal100": 345,
+    "fat100": 30.5,
+    "carbs100": 0.1,
+    "protein100": 17.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pancetta-affumicata-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra Pesche",
+    "brand": "Crai",
+    "kcal100": 184,
+    "fat100": 0.1,
+    "carbs100": 44,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/confettura-extra-pesche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Grano Saraceno",
+    "brand": "Crai",
+    "kcal100": 385,
+    "fat100": 3.5,
+    "carbs100": 72,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-grano-saraceno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina di Grano Tenero Integrale",
+    "brand": "Crai",
+    "kcal100": 321,
+    "fat100": 1.8,
+    "carbs100": 57,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/farina-di-grano-tenero-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancetta Dolce a Cubetti",
+    "brand": "Crai",
+    "kcal100": 333,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pancetta-dolce-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grano Saraceno",
+    "brand": "Crai",
+    "kcal100": 340,
+    "fat100": 3.3,
+    "carbs100": 62.4,
+    "protein100": 12.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/grano-saraceno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Ricoperto al Cacao",
+    "brand": "Crai",
+    "kcal100": 282,
+    "fat100": 18,
+    "carbs100": 26,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gelato-ricoperto-al-cacao/1-gelato-ricoperto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mortadella",
+    "brand": "Crai",
+    "kcal100": 249,
+    "fat100": 21,
+    "carbs100": 0,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mortadella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Originario",
+    "brand": "Crai",
+    "kcal100": 346,
+    "fat100": 1.1,
+    "carbs100": 77,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-originario",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Nere Denocciolate",
+    "brand": "Crai",
+    "kcal100": 125,
+    "fat100": 13,
+    "carbs100": 0,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/olive-nere-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orecchiette",
+    "brand": "Crai",
+    "kcal100": 273,
+    "fat100": 1.3,
+    "carbs100": 55,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/orecchiette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passato di Zucca e Carote",
+    "brand": "Crai",
+    "kcal100": 28,
+    "fat100": 0.8,
+    "carbs100": 3.6,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/passato-di-zucca-e-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Focaccia Tradizionale con Pomodorini",
+    "brand": "Crai",
+    "kcal100": 262,
+    "fat100": 8.6,
+    "carbs100": 38.3,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/focaccia-tradizionale-con-pomodorini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chicche",
+    "brand": "Crai",
+    "kcal100": 142,
+    "fat100": 0.4,
+    "carbs100": 30.2,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/chicche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Pollo",
+    "brand": "Crai",
+    "kcal100": 281,
+    "fat100": 16,
+    "carbs100": 20,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cotolette-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Agnolotti al Brasato",
+    "brand": "Crai",
+    "kcal100": 299,
+    "fat100": 12,
+    "carbs100": 35,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/agnolotti-al-brasato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grissini Torinesi",
+    "brand": "Crai",
+    "kcal100": 384,
+    "fat100": 5,
+    "carbs100": 72,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/grissini-torinesi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette Mais con Quinoa",
+    "brand": "Crai",
+    "kcal100": 386,
+    "fat100": 2.1,
+    "carbs100": 83,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-mais-con-quinoa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa alla Toscana",
+    "brand": "Crai",
+    "kcal100": 50,
+    "fat100": 0.9,
+    "carbs100": 6.6,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/zuppa-alla-toscana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Legumi e Cereali",
+    "brand": "Crai",
+    "kcal100": 88,
+    "fat100": 2.1,
+    "carbs100": 12.4,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/zuppa-di-legumi-e-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Piccole",
+    "brand": "Crai",
+    "kcal100": 333,
+    "fat100": 1.6,
+    "carbs100": 48.7,
+    "protein100": 25.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/lenticchie-piccole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco Cremoso Intero",
+    "brand": "Crai",
+    "kcal100": 69,
+    "fat100": 3.5,
+    "carbs100": 4.8,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/yogurt-bianco-cremoso-intero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini Cotti al Vapore",
+    "brand": "Crai",
+    "kcal100": 110,
+    "fat100": 0.5,
+    "carbs100": 15.1,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagioli-cannellini-cotti-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ragù Ricetta Ricca",
+    "brand": "Crai",
+    "kcal100": 121,
+    "fat100": 8.6,
+    "carbs100": 3.2,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ragù-ricetta-ricca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Dorate Fette Spesse",
+    "brand": "Crai",
+    "kcal100": 405,
+    "fat100": 5.3,
+    "carbs100": 77,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/dorate-fette-spesse",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Farro",
+    "brand": "Crai",
+    "kcal100": 373,
+    "fat100": 2.8,
+    "carbs100": 70,
+    "protein100": 12.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Arrabbiata",
+    "brand": "Crai",
+    "kcal100": 56,
+    "fat100": 3.1,
+    "carbs100": 5.4,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sugo-arrabbiata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta Cacao e Mandorle",
+    "brand": "Crai",
+    "kcal100": 433,
+    "fat100": 19,
+    "carbs100": 46,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/barretta-cacao-e-mandorle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra Albicocche",
+    "brand": "Crai",
+    "kcal100": 223,
+    "fat100": 0.1,
+    "carbs100": 55,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/confettura-extra-albicocche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cereali e Legumi",
+    "brand": "Crai",
+    "kcal100": 334,
+    "fat100": 2.2,
+    "carbs100": 54,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cereali-e-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hummus di Ceci",
+    "brand": "Crai",
+    "kcal100": 231,
+    "fat100": 17,
+    "carbs100": 17,
+    "protein100": 5.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/hummus-di-ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mortadella Bologna",
+    "brand": "Crai",
+    "kcal100": 294,
+    "fat100": 26,
+    "carbs100": 0,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mortadella-bologna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trecce",
+    "brand": "Crai",
+    "kcal100": 445.2,
+    "fat100": 23.33,
+    "carbs100": 50.48,
+    "protein100": 7.62,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/trecce/1-treccia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti Integrali Bio",
+    "brand": "Crai",
+    "kcal100": 350,
+    "fat100": 2.4,
+    "carbs100": 66,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/spaghetti-integrali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliatelle",
+    "brand": "Crai",
+    "kcal100": 307,
+    "fat100": 2.9,
+    "carbs100": 58,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tagliatelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gocce di Cioccolato",
+    "brand": "Crai",
+    "kcal100": 484.6,
+    "fat100": 20.77,
+    "carbs100": 66.92,
+    "protein100": 6.92,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gocce-di-cioccolato/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Succo e Polpa di Albicocca",
+    "brand": "Crai",
+    "kcal100": 62,
+    "fat100": 0,
+    "carbs100": 14.6,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/succo-e-polpa-di-albicocca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ketchup Squeeze",
+    "brand": "Crai",
+    "kcal100": 102,
+    "fat100": 0.1,
+    "carbs100": 24.6,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ketchup-squeeze",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Risotto alla Milanese",
+    "brand": "Crai",
+    "kcal100": 379,
+    "fat100": 5.5,
+    "carbs100": 73,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/risotto-alla-milanese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vongole al Naturale",
+    "brand": "Crai",
+    "kcal100": 71,
+    "fat100": 1.3,
+    "carbs100": 2.5,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/vongole-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Girasoli alla Parmigiana di Melanzane",
+    "brand": "Crai",
+    "kcal100": 269,
+    "fat100": 13,
+    "carbs100": 29,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/girasoli-alla-parmigiana-di-melanzane",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cozze Sgusciate e Precotte",
+    "brand": "Crai",
+    "kcal100": 105,
+    "fat100": 3,
+    "carbs100": 5.2,
+    "protein100": 14.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cozze-sgusciate-e-precotte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollìni Cacao e Nocciole",
+    "brand": "Crai",
+    "kcal100": 500,
+    "fat100": 20,
+    "carbs100": 70,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frollìni-cacao-e-nocciole/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso E Legumi",
+    "brand": "Crai",
+    "kcal100": 351,
+    "fat100": 2,
+    "carbs100": 69,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-e-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack di Mais",
+    "brand": "Crai",
+    "kcal100": 539,
+    "fat100": 34,
+    "carbs100": 52,
+    "protein100": 4.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/snack-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta Arachidi e Mirtilli",
+    "brand": "Crai",
+    "kcal100": 526.7,
+    "fat100": 33.33,
+    "carbs100": 36.67,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/barretta-arachidi-e-mirtilli/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Taralli Integrali",
+    "brand": "Crai",
+    "kcal100": 481,
+    "fat100": 22,
+    "carbs100": 60,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/taralli-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack Proteico Gusto Formaggio",
+    "brand": "Crai",
+    "kcal100": 415,
+    "fat100": 10,
+    "carbs100": 53,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/snack-proteico-gusto-formaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Composta di Frutti di Bosco",
+    "brand": "Crai",
+    "kcal100": 167,
+    "fat100": 0.1,
+    "carbs100": 39,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/composta-di-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vongole Sgusciate",
+    "brand": "Crai",
+    "kcal100": 26,
+    "fat100": 0.5,
+    "carbs100": 0,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/vongole-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Succo e Polpa di Pera",
+    "brand": "Crai",
+    "kcal100": 60,
+    "fat100": 0,
+    "carbs100": 14.8,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/succo-e-polpa-di-pera",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Focaccia Tradizionale",
+    "brand": "Crai",
+    "kcal100": 295,
+    "fat100": 8,
+    "carbs100": 47,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/focaccia-tradizionale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Contorno al Naturale",
+    "brand": "Crai",
+    "kcal100": 27,
+    "fat100": 0.4,
+    "carbs100": 2.7,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/contorno-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Contorno Grigliato Surgelato",
+    "brand": "Crai",
+    "kcal100": 71,
+    "fat100": 0.2,
+    "carbs100": 14,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/contorno-grigliato-surgelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini",
+    "brand": "Crai",
+    "kcal100": 87.2,
+    "fat100": 0.4,
+    "carbs100": 12.08,
+    "protein100": 5.52,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagioli-cannellini/1-lattina-piccola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Seppie Indopacifiche",
+    "brand": "Crai",
+    "kcal100": 72,
+    "fat100": 0.85,
+    "carbs100": 0,
+    "protein100": 16.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/seppie-indopacifiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orzo Perlato",
+    "brand": "Crai",
+    "kcal100": 355,
+    "fat100": 1.4,
+    "carbs100": 70.5,
+    "protein100": 10.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/orzo-perlato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollìni con Miele",
+    "brand": "Crai",
+    "kcal100": 475,
+    "fat100": 17,
+    "carbs100": 72,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frollìni-con-miele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croissant",
+    "brand": "Crai",
+    "kcal100": 419,
+    "fat100": 21,
+    "carbs100": 49,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/croissant",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso Integrale",
+    "brand": "Crai",
+    "kcal100": 377,
+    "fat100": 2,
+    "carbs100": 81.2,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gallette-di-riso-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Cereali e Farina Integrale",
+    "brand": "Crai",
+    "kcal100": 437.5,
+    "fat100": 13.75,
+    "carbs100": 67.5,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frollini-con-cereali-e-farina-integrale/1-frollino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci Gustosi con Mozzarella",
+    "brand": "Crai",
+    "kcal100": 62,
+    "fat100": 3.5,
+    "carbs100": 4.6,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/spinaci-gustosi-con-mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cappelletti alla Carne",
+    "brand": "Crai",
+    "kcal100": 306,
+    "fat100": 12,
+    "carbs100": 37,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cappelletti-alla-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate a Spicchi con Buccia",
+    "brand": "Crai",
+    "kcal100": 101,
+    "fat100": 0.2,
+    "carbs100": 21,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patate-a-spicchi-con-buccia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Granola Proteica Frutta e Semi",
+    "brand": "Crai",
+    "kcal100": 466,
+    "fat100": 22,
+    "carbs100": 33,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/granola-proteica-frutta-e-semi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cipolline in Aceto di Vino",
+    "brand": "Crai",
+    "kcal100": 32,
+    "fat100": 0.5,
+    "carbs100": 5,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cipolline-in-aceto-di-vino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pinsa Romana Fresca",
+    "brand": "Crai",
+    "kcal100": 230,
+    "fat100": 2.4,
+    "carbs100": 41,
+    "protein100": 10.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pinsa-romana-fresca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack Proteico Gusto Paprika",
+    "brand": "Crai",
+    "kcal100": 413,
+    "fat100": 9.6,
+    "carbs100": 54,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/snack-proteico-gusto-paprika",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uva Sultanina",
+    "brand": "Crai",
+    "kcal100": 340,
+    "fat100": 0.5,
+    "carbs100": 79,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/uva-sultanina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli Integrali",
+    "brand": "Crai",
+    "kcal100": 350,
+    "fat100": 2.4,
+    "carbs100": 66,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fusilli-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Integrali",
+    "brand": "Crai",
+    "kcal100": 451,
+    "fat100": 16,
+    "carbs100": 65.4,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frollini-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Bio",
+    "brand": "Crai",
+    "kcal100": 109,
+    "fat100": 1.7,
+    "carbs100": 14.2,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ceci-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato al Latte",
+    "brand": "Crai",
+    "kcal100": 554,
+    "fat100": 33.6,
+    "carbs100": 55,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cioccolato-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farro Perlato",
+    "brand": "Crai",
+    "kcal100": 361,
+    "fat100": 2,
+    "carbs100": 71.1,
+    "protein100": 11.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/farro-perlato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Pomodoro a Cubetti",
+    "brand": "Crai",
+    "kcal100": 33,
+    "fat100": 0.5,
+    "carbs100": 6,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/polpa-di-pomodoro-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Strozzapreti",
+    "brand": "Crai",
+    "kcal100": 273,
+    "fat100": 1.3,
+    "carbs100": 55,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/strozzapreti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte di Riso",
+    "brand": "Crai",
+    "kcal100": 61,
+    "fat100": 0.9,
+    "carbs100": 13.1,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/latte-di-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Farcitura ai Frutti Rossi",
+    "brand": "Crai",
+    "kcal100": 355.6,
+    "fat100": 11.11,
+    "carbs100": 71.11,
+    "protein100": 3.33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/biscotti-con-farcitura-ai-frutti-rossi/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane per Tramezzini",
+    "brand": "Crai",
+    "kcal100": 253,
+    "fat100": 3.6,
+    "carbs100": 45.5,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-per-tramezzini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricco Riso",
+    "brand": "Crai",
+    "kcal100": 62,
+    "fat100": 2,
+    "carbs100": 8.5,
+    "protein100": 1.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ricco-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Margarina Vegetale",
+    "brand": "Crai",
+    "kcal100": 720,
+    "fat100": 80,
+    "carbs100": 0,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/margarina-vegetale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Albicocche Denocciolate",
+    "brand": "Crai",
+    "kcal100": 253,
+    "fat100": 0.6,
+    "carbs100": 55,
+    "protein100": 4.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/albicocche-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Purè di Patate",
+    "brand": "Crai",
+    "kcal100": 71,
+    "fat100": 1.8,
+    "carbs100": 11,
+    "protein100": 2.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/purè-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Trifolati",
+    "brand": "Crai",
+    "kcal100": 67,
+    "fat100": 5.2,
+    "carbs100": 0.7,
+    "protein100": 3.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/funghi-trifolati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Caprino",
+    "brand": "Crai",
+    "kcal100": 243,
+    "fat100": 21,
+    "carbs100": 2.5,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/caprino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Funghi",
+    "brand": "Crai",
+    "kcal100": 19,
+    "fat100": 0.2,
+    "carbs100": 2,
+    "protein100": 1.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/misto-funghi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti",
+    "brand": "Crai",
+    "kcal100": 354,
+    "fat100": 1.3,
+    "carbs100": 71.7,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/spaghetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sfogliette con Cereali",
+    "brand": "Crai",
+    "kcal100": 443,
+    "fat100": 14,
+    "carbs100": 62,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sfogliette-con-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prugne Denocciolate",
+    "brand": "Crai",
+    "kcal100": 243,
+    "fat100": 0.3,
+    "carbs100": 55,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/prugne-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frutti di Bosco Confettura Extra",
+    "brand": "Crai",
+    "kcal100": 185,
+    "fat100": 0.3,
+    "carbs100": 43,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frutti-di-bosco-confettura-extra",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crocchette di Patate",
+    "brand": "Crai",
+    "kcal100": 180,
+    "fat100": 7.5,
+    "carbs100": 24,
+    "protein100": 2.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/crocchette-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli di Ceci",
+    "brand": "Crai",
+    "kcal100": 355,
+    "fat100": 5,
+    "carbs100": 51,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fusilli-di-ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sciroppo di Menta",
+    "brand": "Crai",
+    "kcal100": 260,
+    "fat100": 0,
+    "carbs100": 65,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sciroppo-di-menta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Verdure",
+    "brand": "Crai",
+    "kcal100": 230,
+    "fat100": 10.9,
+    "carbs100": 26.1,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/bastoncini-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Prosciutto Cotto",
+    "brand": "Crai",
+    "kcal100": 191,
+    "fat100": 12.5,
+    "carbs100": 0.7,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/hamburger-di-prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Mela",
+    "brand": "Crai",
+    "kcal100": 421,
+    "fat100": 13,
+    "carbs100": 70.2,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/frollini-mela",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo ai Funghi",
+    "brand": "Crai",
+    "kcal100": 312,
+    "fat100": 31.1,
+    "carbs100": 6,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sugo-ai-funghi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passato di Verdure",
+    "brand": "Crai",
+    "kcal100": 30,
+    "fat100": 1.5,
+    "carbs100": 2.4,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/passato-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliatelle all'uovo",
+    "brand": "Crai",
+    "kcal100": 374,
+    "fat100": 4.3,
+    "carbs100": 68,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tagliatelle-alluovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli Biologico",
+    "brand": "Crai",
+    "kcal100": 355,
+    "fat100": 5,
+    "carbs100": 62,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/muesli-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Bianchi di Spagna",
+    "brand": "Crai",
+    "kcal100": 92,
+    "fat100": 0.2,
+    "carbs100": 13.6,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagioli-bianchi-di-spagna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Ribe Integrale Bio",
+    "brand": "Crai",
+    "kcal100": 360,
+    "fat100": 2.6,
+    "carbs100": 76.3,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-ribe-integrale-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto di Verdure",
+    "brand": "Crai",
+    "kcal100": 40,
+    "fat100": 0.3,
+    "carbs100": 6.7,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/misto-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "The alla Pesca",
+    "brand": "Crai",
+    "kcal100": 37,
+    "fat100": 0,
+    "carbs100": 9.1,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/the-alla-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pappardelle all'uovo",
+    "brand": "Crai",
+    "kcal100": 374,
+    "fat100": 4.3,
+    "carbs100": 68,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pappardelle-alluovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra Prugne",
+    "brand": "Crai",
+    "kcal100": 184,
+    "fat100": 0.1,
+    "carbs100": 44,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/confettura-extra-prugne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sardine In Olio Di Oliva",
+    "brand": "Crai",
+    "kcal100": 193,
+    "fat100": 10.8,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sardine-in-olio-di-oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Platessa Impanati",
+    "brand": "Crai",
+    "kcal100": 213,
+    "fat100": 9.2,
+    "carbs100": 21,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-platessa-impanati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Novellini",
+    "brand": "Crai",
+    "kcal100": 500,
+    "fat100": 18.75,
+    "carbs100": 71.25,
+    "protein100": 8.75,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/novellini/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Soia",
+    "brand": "Crai",
+    "kcal100": 259,
+    "fat100": 15,
+    "carbs100": 16,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cotolette-di-soia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette con Filetti di Pollo",
+    "brand": "Crai",
+    "kcal100": 234,
+    "fat100": 13,
+    "carbs100": 17,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cotolette-con-filetti-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella Bio",
+    "brand": "Crai",
+    "kcal100": 215,
+    "fat100": 16,
+    "carbs100": 0.7,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mozzarella-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Spezzati",
+    "brand": "Crai",
+    "kcal100": 311,
+    "fat100": 2.1,
+    "carbs100": 44,
+    "protein100": 18.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/piselli-spezzati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Fragola e Limone",
+    "brand": "Crai",
+    "kcal100": 150,
+    "fat100": 2.7,
+    "carbs100": 30,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gelato-fragola-e-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso e Quinoa",
+    "brand": "Crai",
+    "kcal100": 353,
+    "fat100": 2.6,
+    "carbs100": 72,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/riso-e-quinoa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Caserecce",
+    "brand": "Crai",
+    "kcal100": 479,
+    "fat100": 23.8,
+    "carbs100": 57,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/patatine-caserecce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carote Pelate a Rondelle",
+    "brand": "Crai",
+    "kcal100": 30,
+    "fat100": 0,
+    "carbs100": 5.1,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/carote-pelate-a-rondelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Secchi",
+    "brand": "Crai",
+    "kcal100": 338,
+    "fat100": 6.1,
+    "carbs100": 41.7,
+    "protein100": 19.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ceci-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger di Soia",
+    "brand": "Crai",
+    "kcal100": 217,
+    "fat100": 7.8,
+    "carbs100": 18.6,
+    "protein100": 16.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/burger-di-soia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane di Segale Integrale",
+    "brand": "Crai",
+    "kcal100": 199,
+    "fat100": 0.4,
+    "carbs100": 37,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pane-di-segale-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Bianco",
+    "brand": "Crai",
+    "kcal100": 568,
+    "fat100": 36.6,
+    "carbs100": 52.3,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cioccolato-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Preparato per Risotto",
+    "brand": "Crai",
+    "kcal100": 52,
+    "fat100": 0.6,
+    "carbs100": 0.9,
+    "protein100": 10.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/preparato-per-risotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine Light",
+    "brand": "Crai",
+    "kcal100": 174,
+    "fat100": 7,
+    "carbs100": 10.2,
+    "protein100": 17.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fettine-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sfogliette Integrali al Farro Bio",
+    "brand": "Crai",
+    "kcal100": 401,
+    "fat100": 7.9,
+    "carbs100": 67,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sfogliette-integrali-al-farro-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente Extra",
+    "brand": "Crai",
+    "kcal100": 534,
+    "fat100": 31,
+    "carbs100": 54,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/cioccolato-fondente-extra",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mousse di Mela e Prugna",
+    "brand": "Crai",
+    "kcal100": 56,
+    "fat100": 0,
+    "carbs100": 13,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mousse-di-mela-e-prugna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Dolce Bio",
+    "brand": "Crai",
+    "kcal100": 80,
+    "fat100": 2,
+    "carbs100": 11.7,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mais-dolce-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra Sottobosco",
+    "brand": "Crai",
+    "kcal100": 229,
+    "fat100": 0.2,
+    "carbs100": 55,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/confettura-extra-sottobosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Camomilla Solubile",
+    "brand": "Crai",
+    "kcal100": 399,
+    "fat100": 0,
+    "carbs100": 100,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/camomilla-solubile",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella a Fette",
+    "brand": "Crai",
+    "kcal100": 321,
+    "fat100": 25,
+    "carbs100": 0.1,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/mozzarella-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina di Manitoba",
+    "brand": "Crai",
+    "kcal100": 338,
+    "fat100": 1,
+    "carbs100": 68,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/farina-di-manitoba",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "gli Hamburger PIEMONTESE",
+    "brand": "Crai",
+    "kcal100": 123,
+    "fat100": 5,
+    "carbs100": 0.9,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gli-hamburger-piemontese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ditalini Rigati",
+    "brand": "Crai",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/ditalini-rigati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Risotto con Funghi Porcini",
+    "brand": "Crai",
+    "kcal100": 366,
+    "fat100": 4.1,
+    "carbs100": 72,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/risotto-con-funghi-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo al Basilico",
+    "brand": "Crai",
+    "kcal100": 69,
+    "fat100": 4.1,
+    "carbs100": 6.3,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sugo-al-basilico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Peperoni Grigliati",
+    "brand": "Crai",
+    "kcal100": 85,
+    "fat100": 6.3,
+    "carbs100": 5.4,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/peperoni-grigliati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto di Legumi e Cereali",
+    "brand": "Crai",
+    "kcal100": 328,
+    "fat100": 1.4,
+    "carbs100": 51.8,
+    "protein100": 21.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/misto-di-legumi-e-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Prataioli in Olio di Semi di Girasole",
+    "brand": "Crai",
+    "kcal100": 54,
+    "fat100": 3.6,
+    "carbs100": 0.7,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/funghi-prataioli-in-olio-di-semi-di-girasole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Mare",
+    "brand": "Crai",
+    "kcal100": 288,
+    "fat100": 19.4,
+    "carbs100": 3.3,
+    "protein100": 10.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/insalata-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Orata al Naturale",
+    "brand": "Crai",
+    "kcal100": 134,
+    "fat100": 6.1,
+    "carbs100": 0,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/filetti-di-orata-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta e Fagioli",
+    "brand": "Crai",
+    "kcal100": 79,
+    "fat100": 1.3,
+    "carbs100": 12,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pasta-e-fagioli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Porcini Secchi",
+    "brand": "Crai",
+    "kcal100": 293,
+    "fat100": 4.9,
+    "carbs100": 14.5,
+    "protein100": 32.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/funghi-porcini-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger di Spinaci e Lupini Bio",
+    "brand": "Crai",
+    "kcal100": 99,
+    "fat100": 2.9,
+    "carbs100": 10,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/burger-di-spinaci-e-lupini-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti Secchi",
+    "brand": "Crai",
+    "kcal100": 292,
+    "fat100": 0.8,
+    "carbs100": 35.1,
+    "protein100": 23.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/fagioli-borlotti-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Besciamella UHT",
+    "brand": "Crai",
+    "kcal100": 159,
+    "fat100": 12,
+    "carbs100": 10,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/besciamella-uht",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Girasoli ai Funghi Champignon e Porcini",
+    "brand": "Crai",
+    "kcal100": 259,
+    "fat100": 11,
+    "carbs100": 30,
+    "protein100": 9.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/girasoli-ai-funghi-champignon-e-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina di Farro",
+    "brand": "Crai",
+    "kcal100": 343,
+    "fat100": 1.5,
+    "carbs100": 69,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/farina-di-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coppa Caffè",
+    "brand": "Crai",
+    "kcal100": 194.3,
+    "fat100": 8.57,
+    "carbs100": 25.71,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/coppa-caffè/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Miscela di Farina e Lievito",
+    "brand": "Crai",
+    "kcal100": 337,
+    "fat100": 1,
+    "carbs100": 70,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/miscela-di-farina-e-lievito",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sfogliette con Pomodoro",
+    "brand": "Crai",
+    "kcal100": 412,
+    "fat100": 9.7,
+    "carbs100": 69,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sfogliette-con-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack Proteico Gusto Sour & Cream",
+    "brand": "Crai",
+    "kcal100": 418,
+    "fat100": 9.9,
+    "carbs100": 56,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/snack-proteico-gusto-sour-cream",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Multiflakes",
+    "brand": "Crai",
+    "kcal100": 385,
+    "fat100": 1.6,
+    "carbs100": 82,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/multiflakes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carpaccio di Bovino",
+    "brand": "Crai",
+    "kcal100": 119,
+    "fat100": 2.1,
+    "carbs100": 0.5,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/carpaccio-di-bovino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesce Spada a Fette",
+    "brand": "Crai",
+    "kcal100": 152,
+    "fat100": 7.3,
+    "carbs100": 0.6,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pesce-spada-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesce Spada Tranci Selezionati",
+    "brand": "Crai",
+    "kcal100": 109,
+    "fat100": 4.2,
+    "carbs100": 1,
+    "protein100": 16.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/pesce-spada-tranci-selezionati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo alle Vongole",
+    "brand": "Crai",
+    "kcal100": 72,
+    "fat100": 3.5,
+    "carbs100": 6.7,
+    "protein100": 3.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/sugo-alle-vongole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi Rigati",
+    "brand": "Crai",
+    "kcal100": 129,
+    "fat100": 0.9,
+    "carbs100": 25,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/gnocchi-rigati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Pesce",
+    "brand": "Crai",
+    "kcal100": 77,
+    "fat100": 4.3,
+    "carbs100": 0.4,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/zuppa-di-pesce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger di Soia in Armonia",
+    "brand": "Crai",
+    "kcal100": 206,
+    "fat100": 12,
+    "carbs100": 5.5,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/burger-di-soia-in-armonia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muffin con Gocce di Cioccolato",
+    "brand": "Crai",
+    "kcal100": 415,
+    "fat100": 20,
+    "carbs100": 52,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/muffin-con-gocce-di-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Protein Bar Mandorla 30%",
+    "brand": "Crai",
+    "kcal100": 500,
+    "fat100": 32.5,
+    "carbs100": 18,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/protein-bar-mandorla-30/1",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tramezzini Prosciutto Cotto",
+    "brand": "Crai",
+    "kcal100": 248,
+    "fat100": 11,
+    "carbs100": 28,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tramezzini-prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tramezzino Tacchino Arrosto, Crema al Tonno e Cetriolini",
+    "brand": "Crai",
+    "kcal100": 243,
+    "fat100": 11,
+    "carbs100": 25,
+    "protein100": 9.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/crai/tramezzino-tacchino-arrosto-crema-al-tonno-e-cetriolini",
+      "license": "proprietary"
+    }
+  }
+]

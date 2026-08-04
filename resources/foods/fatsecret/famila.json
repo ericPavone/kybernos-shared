@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Fesa di Tacchino",
+    "brand": "Famila",
+    "kcal100": 125,
+    "fat100": 2.8,
+    "carbs100": 2.2,
+    "protein100": 21.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/famila/fesa-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carote Julienne",
+    "brand": "Famila",
+    "kcal100": 50,
+    "fat100": 0.2,
+    "carbs100": 9.6,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/famila/carote-julienne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi di Patate",
+    "brand": "Famila",
+    "kcal100": 143,
+    "fat100": 0.5,
+    "carbs100": 32,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/famila/gnocchi-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Fresca per Pizza",
+    "brand": "Famila",
+    "kcal100": 262,
+    "fat100": 3.6,
+    "carbs100": 49,
+    "protein100": 7.32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/famila/pasta-fresca-per-pizza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prugne Secche Snocciolate",
+    "brand": "Famila",
+    "kcal100": 221,
+    "fat100": 0.7,
+    "carbs100": 48.5,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/famila/prugne-secche-snocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Chianina",
+    "brand": "Famila",
+    "kcal100": 132,
+    "fat100": 5.1,
+    "carbs100": 2.2,
+    "protein100": 19.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/famila/hamburger-chianina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Pollo",
+    "brand": "Famila",
+    "kcal100": 133,
+    "fat100": 7.8,
+    "carbs100": 1.8,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/famila/hamburger-di-pollo",
+      "license": "proprietary"
+    }
+  }
+]

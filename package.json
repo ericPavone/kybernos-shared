@@ -1,0 +1,23 @@
+{
+  "name": "@kybernos/shared",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsc -p tsconfig.json --watch",
+    "gen:wiki-seed": "node scripts/build-wiki-seed.mjs",
+    "gen:food-seed": "node scripts/build-food-seed.mjs",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage"
+  },
+  "dependencies": {
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.10",
+    "typescript": "^5.7.3",
+    "vitest": "^4.1.10"
+  }
+}

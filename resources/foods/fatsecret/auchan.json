@@ -1,0 +1,6684 @@
+[
+  {
+    "name": "Olio Extravergine di Oliva",
+    "brand": "Auchan",
+    "kcal100": 820,
+    "fat100": 92,
+    "carbs100": 0,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/olio-extravergine-di-oliva/1-cucchiaio-da-tavola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rape Rosse",
+    "brand": "Auchan",
+    "kcal100": 43,
+    "fat100": 0.1,
+    "carbs100": 7.2,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/rape-rosse",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesca Tabacchiera",
+    "brand": "Auchan",
+    "kcal100": 28,
+    "fat100": 0,
+    "carbs100": 5.8,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pesca-tabacchiera",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Diaframma",
+    "brand": "Auchan",
+    "kcal100": 133,
+    "fat100": 5.7,
+    "carbs100": 0,
+    "protein100": 20.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/diaframma",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Integrale",
+    "brand": "Auchan",
+    "kcal100": 254,
+    "fat100": 5,
+    "carbs100": 42.8,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-integrale/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trita Sceltissima",
+    "brand": "Auchan",
+    "kcal100": 117,
+    "fat100": 3.1,
+    "carbs100": 0,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/trita-sceltissima",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Tostato e Salato",
+    "brand": "Auchan",
+    "kcal100": 430,
+    "fat100": 12.6,
+    "carbs100": 70.2,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mais-tostato-e-salato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate",
+    "brand": "Auchan",
+    "kcal100": 85,
+    "fat100": 1,
+    "carbs100": 17.9,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Emmental",
+    "brand": "Auchan",
+    "kcal100": 371,
+    "fat100": 29,
+    "carbs100": 0.5,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/emmental",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Novella",
+    "brand": "Auchan",
+    "kcal100": 17,
+    "fat100": 0.1,
+    "carbs100": 2.2,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-novella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Gocce di Cioccolato",
+    "brand": "Auchan",
+    "kcal100": 490,
+    "fat100": 21.33,
+    "carbs100": 65.67,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-con-gocce-di-cioccolato/3-biscotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto di Legumi",
+    "brand": "Auchan",
+    "kcal100": 332,
+    "fat100": 4,
+    "carbs100": 49,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/misto-di-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Miele di Castagno",
+    "brand": "Auchan",
+    "kcal100": 320,
+    "fat100": 0,
+    "carbs100": 80,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/miele-di-castagno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tris di Verdure alla Griglia",
+    "brand": "Auchan",
+    "kcal100": 37,
+    "fat100": 0.3,
+    "carbs100": 5.4,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tris-di-verdure-alla-griglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Parmigiano Reggiano",
+    "brand": "Auchan",
+    "kcal100": 402,
+    "fat100": 30,
+    "carbs100": 0,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/parmigiano-reggiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spatzle",
+    "brand": "Auchan",
+    "kcal100": 151,
+    "fat100": 1.4,
+    "carbs100": 28,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/spatzle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Platessa Impanati e Surgelati",
+    "brand": "Auchan",
+    "kcal100": 228,
+    "fat100": 10.1,
+    "carbs100": 20.6,
+    "protein100": 13.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-platessa-impanati-e-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo di Carne",
+    "brand": "Auchan",
+    "kcal100": 102,
+    "fat100": 6.5,
+    "carbs100": 5.9,
+    "protein100": 4.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-di-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Pan di Zucchero",
+    "brand": "Auchan",
+    "kcal100": 17,
+    "fat100": 0.2,
+    "carbs100": 0.7,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-pan-di-zucchero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zucchine Grigliate",
+    "brand": "Auchan",
+    "kcal100": 28,
+    "fat100": 0.4,
+    "carbs100": 2.8,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/zucchine-grigliate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Peperone Grigliato",
+    "brand": "Auchan",
+    "kcal100": 49,
+    "fat100": 0.4,
+    "carbs100": 8.7,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/peperone-grigliato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpo con Patate",
+    "brand": "Auchan",
+    "kcal100": 142,
+    "fat100": 9.1,
+    "carbs100": 5.5,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpo-con-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Vitellone",
+    "brand": "Auchan",
+    "kcal100": 116,
+    "fat100": 2.8,
+    "carbs100": 3.3,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/hamburger-vitellone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno in Olio di Girasole",
+    "brand": "Auchan",
+    "kcal100": 191,
+    "fat100": 10,
+    "carbs100": 0,
+    "protein100": 25.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tonno-in-olio-di-girasole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Rossi",
+    "brand": "Auchan",
+    "kcal100": 92,
+    "fat100": 0.6,
+    "carbs100": 11.7,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-rossi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trita di Vitello",
+    "brand": "Auchan",
+    "kcal100": 153,
+    "fat100": 8.1,
+    "carbs100": 0,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/trita-di-vitello",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno al Naturale",
+    "brand": "Auchan",
+    "kcal100": 122,
+    "fat100": 2,
+    "carbs100": 0,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tonno-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle a Scaglie",
+    "brand": "Auchan",
+    "kcal100": 653,
+    "fat100": 52.5,
+    "carbs100": 18.7,
+    "protein100": 21.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mandorle-a-scaglie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tacchino Macinato",
+    "brand": "Auchan",
+    "kcal100": 151,
+    "fat100": 8.8,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tacchino-macinato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricottina Fresca Light",
+    "brand": "Auchan",
+    "kcal100": 93,
+    "fat100": 5,
+    "carbs100": 4,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ricottina-fresca-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata Bio Frutti di Bosco",
+    "brand": "Auchan",
+    "kcal100": 170,
+    "fat100": 0.3,
+    "carbs100": 40,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/marmellata-bio-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Salmone al Naturale",
+    "brand": "Auchan",
+    "kcal100": 194,
+    "fat100": 12.4,
+    "carbs100": 0,
+    "protein100": 20.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-salmone-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bauletto 8 Cereali e Soia",
+    "brand": "Auchan",
+    "kcal100": 281,
+    "fat100": 5.8,
+    "carbs100": 45,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-bauletto-8-cereali-e-soia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger Bovino Adulto",
+    "brand": "Auchan",
+    "kcal100": 176,
+    "fat100": 10.2,
+    "carbs100": 2.8,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/hamburger-bovino-adulto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Capricciosa",
+    "brand": "Auchan",
+    "kcal100": 180.7,
+    "fat100": 4.9,
+    "carbs100": 24.9,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pizza-capricciosa/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix di Verdure al Vapore",
+    "brand": "Auchan",
+    "kcal100": 40,
+    "fat100": 0.3,
+    "carbs100": 5.4,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mix-di-verdure-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestra di Legumi e Cereali",
+    "brand": "Auchan",
+    "kcal100": 77,
+    "fat100": 1.5,
+    "carbs100": 13,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/minestra-di-legumi-e-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cipolline",
+    "brand": "Auchan",
+    "kcal100": 24,
+    "fat100": 0.1,
+    "carbs100": 4.5,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cipolline",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers Integrali",
+    "brand": "Auchan",
+    "kcal100": 431.4,
+    "fat100": 12.57,
+    "carbs100": 65.71,
+    "protein100": 10.57,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crackers-integrali/1-pacchetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tris di Verdure",
+    "brand": "Auchan",
+    "kcal100": 63,
+    "fat100": 0.4,
+    "carbs100": 9.2,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tris-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers",
+    "brand": "Auchan",
+    "kcal100": 434.3,
+    "fat100": 12,
+    "carbs100": 70,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crackers/1-pacchetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancetta a Cubetti",
+    "brand": "Auchan",
+    "kcal100": 294,
+    "fat100": 23.8,
+    "carbs100": 1.1,
+    "protein100": 18.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pancetta-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Caffè",
+    "brand": "Auchan",
+    "kcal100": 89,
+    "fat100": 0,
+    "carbs100": 14,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-greco-caffè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti senza Latte e Uova",
+    "brand": "Auchan",
+    "kcal100": 446,
+    "fat100": 13,
+    "carbs100": 74,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-senza-latte-e-uova",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Tonno Surgelati",
+    "brand": "Auchan",
+    "kcal100": 102.4,
+    "fat100": 0.88,
+    "carbs100": 0,
+    "protein100": 23.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-tonno-surgelati/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Caffè al Ginseng (Capsule Compatibili Dolce Gusto)",
+    "brand": "Auchan",
+    "kcal100": 418,
+    "fat100": 8.96,
+    "carbs100": 78.8,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/caffè-al-ginseng-(capsule-compatibili-dolce-gusto)",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Verdi Snocciolate",
+    "brand": "Auchan",
+    "kcal100": 146,
+    "fat100": 12,
+    "carbs100": 6.4,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/olive-verdi-snocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Light",
+    "brand": "Auchan",
+    "kcal100": 93,
+    "fat100": 5,
+    "carbs100": 4,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ricotta-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cacao Amaro",
+    "brand": "Auchan",
+    "kcal100": 361,
+    "fat100": 21,
+    "carbs100": 8.9,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cacao-amaro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chorizo Extra",
+    "brand": "Auchan",
+    "kcal100": 298,
+    "fat100": 21,
+    "carbs100": 2.1,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/chorizo-extra",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci Freschi",
+    "brand": "Auchan",
+    "kcal100": 35,
+    "fat100": 0.7,
+    "carbs100": 2.9,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/spinaci-freschi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa al Pomodoro",
+    "brand": "Auchan",
+    "kcal100": 74,
+    "fat100": 0.6,
+    "carbs100": 15,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salsa-al-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesce Spada Affumicato",
+    "brand": "Auchan",
+    "kcal100": 193,
+    "fat100": 10,
+    "carbs100": 0.7,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pesce-spada-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Capricciosa",
+    "brand": "Auchan",
+    "kcal100": 249,
+    "fat100": 24.3,
+    "carbs100": 4.6,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-capricciosa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Variegato al Cioccolato",
+    "brand": "Auchan",
+    "kcal100": 203,
+    "fat100": 8.3,
+    "carbs100": 28.2,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gelato-variegato-al-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Iceberg",
+    "brand": "Auchan",
+    "kcal100": 23,
+    "fat100": 0.4,
+    "carbs100": 2.2,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-iceberg",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Platessa alla Mugnaia",
+    "brand": "Auchan",
+    "kcal100": 197,
+    "fat100": 9.4,
+    "carbs100": 16,
+    "protein100": 11.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-platessa-alla-mugnaia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trita Mista di Suino e Bovino",
+    "brand": "Auchan",
+    "kcal100": 207,
+    "fat100": 14,
+    "carbs100": 0,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/trita-mista-di-suino-e-bovino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Rucola",
+    "brand": "Auchan",
+    "kcal100": 31,
+    "fat100": 0.3,
+    "carbs100": 3.9,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-rucola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scamorza Affumicata a Fette",
+    "brand": "Auchan",
+    "kcal100": 272,
+    "fat100": 19,
+    "carbs100": 0.9,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/scamorza-affumicata-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Cotto al Vapore",
+    "brand": "Auchan",
+    "kcal100": 62,
+    "fat100": 1,
+    "carbs100": 10.2,
+    "protein100": 1.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mais-cotto-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Macedonia",
+    "brand": "Auchan",
+    "kcal100": 46,
+    "fat100": 0,
+    "carbs100": 10,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/macedonia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panini al Latte",
+    "brand": "Auchan",
+    "kcal100": 364,
+    "fat100": 13,
+    "carbs100": 53,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/panini-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Classiche",
+    "brand": "Auchan",
+    "kcal100": 546,
+    "fat100": 33,
+    "carbs100": 54,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/patatine-classiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trita di Bovino",
+    "brand": "Auchan",
+    "kcal100": 182,
+    "fat100": 12,
+    "carbs100": 1.8,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/trita-di-bovino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Scottona",
+    "brand": "Auchan",
+    "kcal100": 136,
+    "fat100": 6.5,
+    "carbs100": 2.7,
+    "protein100": 16.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/hamburger-di-scottona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Fini",
+    "brand": "Auchan",
+    "kcal100": 72,
+    "fat100": 0.9,
+    "carbs100": 7.6,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/piselli-fini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Soffiato al Cacao",
+    "brand": "Auchan",
+    "kcal100": 379,
+    "fat100": 1.5,
+    "carbs100": 85,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-soffiato-al-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Affumicato Scozzese",
+    "brand": "Auchan",
+    "kcal100": 235,
+    "fat100": 15.8,
+    "carbs100": 0.4,
+    "protein100": 22.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salmone-affumicato-scozzese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Prefritte",
+    "brand": "Auchan",
+    "kcal100": 146,
+    "fat100": 5.6,
+    "carbs100": 20.6,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/patatine-prefritte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Tonno Surgelati",
+    "brand": "Auchan",
+    "kcal100": 103,
+    "fat100": 0.9,
+    "carbs100": 0,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-tonno-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema ai Formaggi",
+    "brand": "Auchan",
+    "kcal100": 259,
+    "fat100": 21.5,
+    "carbs100": 7.5,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crema-ai-formaggi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix di Legumi Lessati Biologici",
+    "brand": "Auchan",
+    "kcal100": 95,
+    "fat100": 0.4,
+    "carbs100": 10.2,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mix-di-legumi-lessati-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane da Tramezzini",
+    "brand": "Auchan",
+    "kcal100": 244,
+    "fat100": 2.7,
+    "carbs100": 45.4,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-da-tramezzini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco 0%",
+    "brand": "Auchan",
+    "kcal100": 58,
+    "fat100": 0,
+    "carbs100": 4.5,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-greco-0",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Sgusciate",
+    "brand": "Auchan",
+    "kcal100": 645,
+    "fat100": 49.9,
+    "carbs100": 21.6,
+    "protein100": 21.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mandorle-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane di Grano Duro",
+    "brand": "Auchan",
+    "kcal100": 276,
+    "fat100": 5,
+    "carbs100": 48,
+    "protein100": 9.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-di-grano-duro/2-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Miele di Fiori",
+    "brand": "Auchan",
+    "kcal100": 320,
+    "fat100": 0,
+    "carbs100": 80,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/miele-di-fiori",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Bauletto Grano Duro",
+    "brand": "Auchan",
+    "kcal100": 268,
+    "fat100": 4.2,
+    "carbs100": 47.8,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pan-bauletto-grano-duro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Scozzese Affumicato",
+    "brand": "Auchan",
+    "kcal100": 187,
+    "fat100": 10,
+    "carbs100": 0.3,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salmone-scozzese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Intero Albicocca",
+    "brand": "Auchan",
+    "kcal100": 91,
+    "fat100": 3.7,
+    "carbs100": 11,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-intero-albicocca/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bauletto 5 Cereali",
+    "brand": "Auchan",
+    "kcal100": 279,
+    "fat100": 5.1,
+    "carbs100": 47.2,
+    "protein100": 9.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-bauletto-5-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Songino",
+    "brand": "Auchan",
+    "kcal100": 21,
+    "fat100": 0.4,
+    "carbs100": 1.3,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-songino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Speck Alto Adige",
+    "brand": "Auchan",
+    "kcal100": 266,
+    "fat100": 16,
+    "carbs100": 0.5,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/speck-alto-adige",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella senza Lattosio a Fette",
+    "brand": "Auchan",
+    "kcal100": 299,
+    "fat100": 23,
+    "carbs100": 0.5,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mozzarella-senza-lattosio-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Crudo Stagionato",
+    "brand": "Auchan",
+    "kcal100": 206,
+    "fat100": 10,
+    "carbs100": 0,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/prosciutto-crudo-stagionato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchetti",
+    "brand": "Auchan",
+    "kcal100": 165,
+    "fat100": 0.9,
+    "carbs100": 33.9,
+    "protein100": 1.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gnocchetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trita di Scottona",
+    "brand": "Auchan",
+    "kcal100": 159,
+    "fat100": 8.4,
+    "carbs100": 0,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/trita-di-scottona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bauletto Integrale",
+    "brand": "Auchan",
+    "kcal100": 280,
+    "fat100": 4.9,
+    "carbs100": 47,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-bauletto-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Bianco Magro",
+    "brand": "Auchan",
+    "kcal100": 58,
+    "fat100": 0,
+    "carbs100": 4.5,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-greco-bianco-magro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortillas di Mais",
+    "brand": "Auchan",
+    "kcal100": 310,
+    "fat100": 7.25,
+    "carbs100": 51.25,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortillas-di-mais/1-tortilla",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Peperoni alla Griglia",
+    "brand": "Auchan",
+    "kcal100": 38,
+    "fat100": 0.1,
+    "carbs100": 7.1,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/peperoni-alla-griglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bauletto Bianco",
+    "brand": "Auchan",
+    "kcal100": 284,
+    "fat100": 5.2,
+    "carbs100": 50,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-bauletto-bianco/2-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Farina di Riso",
+    "brand": "Auchan",
+    "kcal100": 450,
+    "fat100": 20,
+    "carbs100": 68,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-con-farina-di-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno Leggero",
+    "brand": "Auchan",
+    "kcal100": 173.3,
+    "fat100": 8.67,
+    "carbs100": 0,
+    "protein100": 23.33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tonno-leggero/1-lattina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberetti",
+    "brand": "Auchan",
+    "kcal100": 66,
+    "fat100": 0.7,
+    "carbs100": 0,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gamberetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Bianchi",
+    "brand": "Auchan",
+    "kcal100": 90,
+    "fat100": 0.7,
+    "carbs100": 12,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-bianchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio a Pasta Filata",
+    "brand": "Auchan",
+    "kcal100": 312,
+    "fat100": 24,
+    "carbs100": 1,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/formaggio-a-pasta-filata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sardine in Olio di Oliva",
+    "brand": "Auchan",
+    "kcal100": 193,
+    "fat100": 10.8,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sardine-in-olio-di-oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti al Nero di Seppia",
+    "brand": "Auchan",
+    "kcal100": 352,
+    "fat100": 1.4,
+    "carbs100": 70,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/spaghetti-al-nero-di-seppia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortillas",
+    "brand": "Auchan",
+    "kcal100": 472,
+    "fat100": 20,
+    "carbs100": 64.4,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortillas",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Fresco Primo Sale",
+    "brand": "Auchan",
+    "kcal100": 244,
+    "fat100": 19,
+    "carbs100": 1.3,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/formaggio-fresco-primo-sale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Cereali con Frutti Rossi",
+    "brand": "Auchan",
+    "kcal100": 356.5,
+    "fat100": 3.04,
+    "carbs100": 76.09,
+    "protein100": 5.22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/barrette-di-cereali-con-frutti-rossi/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Melanzane Grigliate",
+    "brand": "Auchan",
+    "kcal100": 52,
+    "fat100": 1.1,
+    "carbs100": 6.8,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/melanzane-grigliate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trita Scelta di Scottona",
+    "brand": "Auchan",
+    "kcal100": 178,
+    "fat100": 12,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/trita-scelta-di-scottona",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Multi Cereale Cioccolato e Vaniglia",
+    "brand": "Auchan",
+    "kcal100": 397,
+    "fat100": 5.3,
+    "carbs100": 77,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/multi-cereale-cioccolato-e-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Anacardi",
+    "brand": "Auchan",
+    "kcal100": 595,
+    "fat100": 43.9,
+    "carbs100": 30.2,
+    "protein100": 18.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/anacardi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Filata",
+    "brand": "Auchan",
+    "kcal100": 365,
+    "fat100": 29,
+    "carbs100": 1,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pasta-filata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone Leggero",
+    "brand": "Auchan",
+    "kcal100": 24,
+    "fat100": 0.4,
+    "carbs100": 3.1,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/minestrone-leggero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti Petit",
+    "brand": "Auchan",
+    "kcal100": 436.7,
+    "fat100": 10.67,
+    "carbs100": 76.33,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-petit/6-biscotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trita di Suino",
+    "brand": "Auchan",
+    "kcal100": 235,
+    "fat100": 17,
+    "carbs100": 1.1,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/trita-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cozze Cotte Surgelate",
+    "brand": "Auchan",
+    "kcal100": 69,
+    "fat100": 1.6,
+    "carbs100": 0.6,
+    "protein100": 13.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cozze-cotte-surgelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Purè in Fiocchi",
+    "brand": "Auchan",
+    "kcal100": 352,
+    "fat100": 0.6,
+    "carbs100": 76,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/purè-in-fiocchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Granella di Pistacchi",
+    "brand": "Auchan",
+    "kcal100": 620,
+    "fat100": 45.4,
+    "carbs100": 27.5,
+    "protein100": 20.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/granella-di-pistacchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fave",
+    "brand": "Auchan",
+    "kcal100": 85,
+    "fat100": 0.4,
+    "carbs100": 10.2,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fave",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostini",
+    "brand": "Auchan",
+    "kcal100": 441,
+    "fat100": 11,
+    "carbs100": 75.5,
+    "protein100": 10.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crostini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Edamer",
+    "brand": "Auchan",
+    "kcal100": 298,
+    "fat100": 22,
+    "carbs100": 0,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/edamer",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crespelle al Salmone",
+    "brand": "Auchan",
+    "kcal100": 174,
+    "fat100": 6,
+    "carbs100": 20.5,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crespelle-al-salmone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Cacao e Nocciole",
+    "brand": "Auchan",
+    "kcal100": 437.5,
+    "fat100": 17.5,
+    "carbs100": 67.5,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-con-cacao-e-nocciole/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagiolini Fini",
+    "brand": "Auchan",
+    "kcal100": 25,
+    "fat100": 0.1,
+    "carbs100": 2.4,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagiolini-fini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Snocciolate",
+    "brand": "Auchan",
+    "kcal100": 127,
+    "fat100": 12.6,
+    "carbs100": 0,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/olive-snocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Suino",
+    "brand": "Auchan",
+    "kcal100": 223,
+    "fat100": 15,
+    "carbs100": 3.8,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/hamburger-di-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate a Spicchi",
+    "brand": "Auchan",
+    "kcal100": 114,
+    "fat100": 2.4,
+    "carbs100": 20.7,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/patate-a-spicchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bottarga",
+    "brand": "Auchan",
+    "kcal100": 367,
+    "fat100": 28.6,
+    "carbs100": 0.5,
+    "protein100": 26.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bottarga",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Schiacciatina Classica",
+    "brand": "Auchan",
+    "kcal100": 413,
+    "fat100": 9,
+    "carbs100": 72,
+    "protein100": 9.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/schiacciatina-classica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biete Erbette",
+    "brand": "Auchan",
+    "kcal100": 20,
+    "fat100": 0.1,
+    "carbs100": 2.8,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biete-erbette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci alla Crema di Formaggi con Mozzarella",
+    "brand": "Auchan",
+    "kcal100": 76,
+    "fat100": 4.6,
+    "carbs100": 1.7,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/spinaci-alla-crema-di-formaggi-con-mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortillas di Grano",
+    "brand": "Auchan",
+    "kcal100": 332.5,
+    "fat100": 8,
+    "carbs100": 54.25,
+    "protein100": 9.25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortillas-di-grano/1-tortillas",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Grattato",
+    "brand": "Auchan",
+    "kcal100": 376,
+    "fat100": 1.6,
+    "carbs100": 77,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pan-grattato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Ribe Parboiled",
+    "brand": "Auchan",
+    "kcal100": 349,
+    "fat100": 1,
+    "carbs100": 78,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-ribe-parboiled",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Miele Millefiori",
+    "brand": "Auchan",
+    "kcal100": 302,
+    "fat100": 0,
+    "carbs100": 80,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/miele-millefiori",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pennette Salmone e Gamberi",
+    "brand": "Auchan",
+    "kcal100": 146,
+    "fat100": 3,
+    "carbs100": 21.6,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pennette-salmone-e-gamberi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Frutta Mela e Albicocca",
+    "brand": "Auchan",
+    "kcal100": 64,
+    "fat100": 0.3,
+    "carbs100": 14.7,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-frutta-mela-e-albicocca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maionese",
+    "brand": "Auchan",
+    "kcal100": 649,
+    "fat100": 71,
+    "carbs100": 1.5,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/maionese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Dolce Bio",
+    "brand": "Auchan",
+    "kcal100": 80,
+    "fat100": 2,
+    "carbs100": 11.7,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mais-dolce-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wafer al Cacao",
+    "brand": "Auchan",
+    "kcal100": 499,
+    "fat100": 25,
+    "carbs100": 59,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/wafer-al-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Mirtillo",
+    "brand": "Auchan",
+    "kcal100": 140,
+    "fat100": 1.4,
+    "carbs100": 31.1,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gelato-mirtillo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tramezzino di Carne",
+    "brand": "Auchan",
+    "kcal100": 133,
+    "fat100": 6.1,
+    "carbs100": 0,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tramezzino-di-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Würstel Pollo-Tacchino",
+    "brand": "Auchan",
+    "kcal100": 217,
+    "fat100": 14,
+    "carbs100": 4.2,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/würstel-pollo-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lievito per Dolci",
+    "brand": "Auchan",
+    "kcal100": 41,
+    "fat100": 0,
+    "carbs100": 10.3,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/lievito-per-dolci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Orata al Naturale",
+    "brand": "Auchan",
+    "kcal100": 72,
+    "fat100": 1,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetto-di-orata-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Bianchi di Spagna",
+    "brand": "Auchan",
+    "kcal100": 97,
+    "fat100": 0.4,
+    "carbs100": 13.6,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-bianchi-di-spagna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panzerottini Mozzarella e Pomodoro",
+    "brand": "Auchan",
+    "kcal100": 187,
+    "fat100": 5.4,
+    "carbs100": 26.3,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/panzerottini-mozzarella-e-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pagnotta Integrale",
+    "brand": "Auchan",
+    "kcal100": 264,
+    "fat100": 5.2,
+    "carbs100": 42,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pagnotta-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola della Valtellina I.g.P.",
+    "brand": "Auchan",
+    "kcal100": 160,
+    "fat100": 2.5,
+    "carbs100": 0.3,
+    "protein100": 34,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bresaola-della-valtellina-igp",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato alla Soia Variegato Amarena",
+    "brand": "Auchan",
+    "kcal100": 197,
+    "fat100": 8.8,
+    "carbs100": 28.5,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gelato-alla-soia-variegato-amarena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chips Vegetali",
+    "brand": "Auchan",
+    "kcal100": 380,
+    "fat100": 24,
+    "carbs100": 34.1,
+    "protein100": 5.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/chips-vegetali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno all'olio di Oliva",
+    "brand": "Auchan",
+    "kcal100": 213,
+    "fat100": 13,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tonno-allolio-di-oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Fiocchi di Avena senza Zuccheri",
+    "brand": "Auchan",
+    "kcal100": 447,
+    "fat100": 19,
+    "carbs100": 67,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-con-fiocchi-di-avena-senza-zuccheri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti di Mais e Riso",
+    "brand": "Auchan",
+    "kcal100": 355,
+    "fat100": 2.3,
+    "carbs100": 76,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/spaghetti-di-mais-e-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ananas a Fette in Succo Naturale",
+    "brand": "Auchan",
+    "kcal100": 50,
+    "fat100": 0.09,
+    "carbs100": 11.82,
+    "protein100": 0.36,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ananas-a-fette-in-succo-naturale/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prugne Denocciolate",
+    "brand": "Auchan",
+    "kcal100": 244,
+    "fat100": 0.3,
+    "carbs100": 55.3,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/prugne-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pomodori Pelati",
+    "brand": "Auchan",
+    "kcal100": 30,
+    "fat100": 0.1,
+    "carbs100": 5.5,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pomodori-pelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noir Degustation 72% Cacao",
+    "brand": "Auchan",
+    "kcal100": 555,
+    "fat100": 42.1,
+    "carbs100": 29.7,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/noir-degustation-72-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wraps di Grano",
+    "brand": "Auchan",
+    "kcal100": 332.3,
+    "fat100": 8.06,
+    "carbs100": 54.19,
+    "protein100": 9.35,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/wraps-di-grano/1-wrap",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura di Albicocche",
+    "brand": "Auchan",
+    "kcal100": 242,
+    "fat100": 0,
+    "carbs100": 60,
+    "protein100": 0.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/confettura-di-albicocche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maxi Sandwich",
+    "brand": "Auchan",
+    "kcal100": 259,
+    "fat100": 2,
+    "carbs100": 48.5,
+    "protein100": 10.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/maxi-sandwich",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grattugiato Mix",
+    "brand": "Auchan",
+    "kcal100": 375,
+    "fat100": 27,
+    "carbs100": 1,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/grattugiato-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Pollo al Forno (1% di Grassi)",
+    "brand": "Auchan",
+    "kcal100": 91,
+    "fat100": 1,
+    "carbs100": 2.5,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/petto-di-pollo-al-forno-(1-di-grassi)",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente 85%",
+    "brand": "Auchan",
+    "kcal100": 591,
+    "fat100": 51.6,
+    "carbs100": 16.8,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cioccolato-fondente-85",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pollo",
+    "brand": "Auchan",
+    "kcal100": 91,
+    "fat100": 1.9,
+    "carbs100": 2.5,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio di Capra a Fette",
+    "brand": "Auchan",
+    "kcal100": 361,
+    "fat100": 30,
+    "carbs100": 1,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/formaggio-di-capra-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Basmati",
+    "brand": "Auchan",
+    "kcal100": 359,
+    "fat100": 1.3,
+    "carbs100": 78,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-basmati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Mais Bio",
+    "brand": "Auchan",
+    "kcal100": 370,
+    "fat100": 1,
+    "carbs100": 81,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fiocchi-di-mais-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vellutata di Zucca e Carote",
+    "brand": "Auchan",
+    "kcal100": 53,
+    "fat100": 2.8,
+    "carbs100": 5.1,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/vellutata-di-zucca-e-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Tenero Mix",
+    "brand": "Auchan",
+    "kcal100": 22,
+    "fat100": 0.2,
+    "carbs100": 2.6,
+    "protein100": 1.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-tenero-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pere Allo Sciroppo",
+    "brand": "Auchan",
+    "kcal100": 72,
+    "fat100": 0.1,
+    "carbs100": 17.5,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pere-allo-sciroppo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Erbette Delicate",
+    "brand": "Auchan",
+    "kcal100": 20,
+    "fat100": 0.1,
+    "carbs100": 2.8,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/erbette-delicate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Songino e Radicchio Rosso",
+    "brand": "Auchan",
+    "kcal100": 19,
+    "fat100": 0.2,
+    "carbs100": 1.4,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/songino-e-radicchio-rosso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Legumi",
+    "brand": "Auchan",
+    "kcal100": 267,
+    "fat100": 1.7,
+    "carbs100": 37.8,
+    "protein100": 18.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/zuppa-di-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Greco alla Vaniglia",
+    "brand": "Auchan",
+    "kcal100": 85,
+    "fat100": 0,
+    "carbs100": 12,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-magro-greco-alla-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Verdure Microondabili",
+    "brand": "Auchan",
+    "kcal100": 35,
+    "fat100": 0.6,
+    "carbs100": 4.8,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/misto-verdure-microondabili",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coppa",
+    "brand": "Auchan",
+    "kcal100": 301,
+    "fat100": 21,
+    "carbs100": 0.5,
+    "protein100": 27.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/coppa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Gallette di Mais al Rosmarino",
+    "brand": "Auchan",
+    "kcal100": 457,
+    "fat100": 14.9,
+    "carbs100": 73.1,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mini-gallette-di-mais-al-rosmarino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Pronto ai Frutti di Mare",
+    "brand": "Auchan",
+    "kcal100": 117,
+    "fat100": 9.1,
+    "carbs100": 2.5,
+    "protein100": 6.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-pronto-ai-frutti-di-mare",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci in Foglie",
+    "brand": "Auchan",
+    "kcal100": 33,
+    "fat100": 0.4,
+    "carbs100": 3,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/spinaci-in-foglie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato al Latte con Cereali",
+    "brand": "Auchan",
+    "kcal100": 536,
+    "fat100": 30.6,
+    "carbs100": 55.9,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cioccolato-al-latte-con-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Merluzzo in Croccante Panatura",
+    "brand": "Auchan",
+    "kcal100": 183,
+    "fat100": 0,
+    "carbs100": 0,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-merluzzo-in-croccante-panatura/1-confezione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortelli di Zucca",
+    "brand": "Auchan",
+    "kcal100": 224,
+    "fat100": 2.8,
+    "carbs100": 39.8,
+    "protein100": 8.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortelli-di-zucca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Le Pastine all'uovo",
+    "brand": "Auchan",
+    "kcal100": 356,
+    "fat100": 3.4,
+    "carbs100": 68,
+    "protein100": 13.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/le-pastine-alluovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pinguino",
+    "brand": "Auchan",
+    "kcal100": 286,
+    "fat100": 18.8,
+    "carbs100": 25,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pinguino/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Champignons",
+    "brand": "Auchan",
+    "kcal100": 51,
+    "fat100": 3.2,
+    "carbs100": 1.1,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/champignons",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Risini",
+    "brand": "Auchan",
+    "kcal100": 362,
+    "fat100": 3.4,
+    "carbs100": 68.1,
+    "protein100": 13.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/risini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina Integrale Bio",
+    "brand": "Auchan",
+    "kcal100": 318,
+    "fat100": 1.8,
+    "carbs100": 57,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/farina-integrale-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farro Cotto al Vapore",
+    "brand": "Auchan",
+    "kcal100": 144,
+    "fat100": 2,
+    "carbs100": 24,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/farro-cotto-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi D’Avena",
+    "brand": "Auchan",
+    "kcal100": 365,
+    "fat100": 6.6,
+    "carbs100": 59,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fiocchi-d’avena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Superfino Arborio",
+    "brand": "Auchan",
+    "kcal100": 349,
+    "fat100": 1,
+    "carbs100": 78,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-superfino-arborio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Farina di Riso senza Zuccheri",
+    "brand": "Auchan",
+    "kcal100": 450,
+    "fat100": 20,
+    "carbs100": 68,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-con-farina-di-riso-senza-zuccheri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi Agli Spinaci",
+    "brand": "Auchan",
+    "kcal100": 118,
+    "fat100": 0.6,
+    "carbs100": 23,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gnocchi-agli-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panzerottini Prosciutto e Formaggio",
+    "brand": "Auchan",
+    "kcal100": 192,
+    "fat100": 6.2,
+    "carbs100": 24.6,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/panzerottini-prosciutto-e-formaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Legumi e Cereali",
+    "brand": "Auchan",
+    "kcal100": 321,
+    "fat100": 1.4,
+    "carbs100": 53.2,
+    "protein100": 19.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/zuppa-di-legumi-e-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalatina di Verdure Sottaceto",
+    "brand": "Auchan",
+    "kcal100": 17,
+    "fat100": 0,
+    "carbs100": 1.7,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalatina-di-verdure-sottaceto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Carrè",
+    "brand": "Auchan",
+    "kcal100": 270,
+    "fat100": 4,
+    "carbs100": 48,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pan-carrè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Champignon",
+    "brand": "Auchan",
+    "kcal100": 19,
+    "fat100": 0,
+    "carbs100": 1.7,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/funghi-champignon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piada Sfogliata",
+    "brand": "Auchan",
+    "kcal100": 377,
+    "fat100": 16.4,
+    "carbs100": 49.5,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/piada-sfogliata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cavolfiore a Rosette",
+    "brand": "Auchan",
+    "kcal100": 20,
+    "fat100": 0,
+    "carbs100": 2.5,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cavolfiore-a-rosette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maxi Sandwich Integrale",
+    "brand": "Auchan",
+    "kcal100": 247.2,
+    "fat100": 1.94,
+    "carbs100": 44.17,
+    "protein100": 10.28,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/maxi-sandwich-integrale/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Frutti di Bosco",
+    "brand": "Auchan",
+    "kcal100": 192,
+    "fat100": 0.2,
+    "carbs100": 46,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/confettura-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Pagnotta ai Cereali",
+    "brand": "Auchan",
+    "kcal100": 285,
+    "fat100": 6.8,
+    "carbs100": 43.1,
+    "protein100": 10.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-pagnotta-ai-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate ai Cereali",
+    "brand": "Auchan",
+    "kcal100": 412.5,
+    "fat100": 6.25,
+    "carbs100": 75,
+    "protein100": 11.25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fette-biscottate-ai-cereali/1-fetta-biscottata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Affumicato",
+    "brand": "Auchan",
+    "kcal100": 189,
+    "fat100": 6.4,
+    "carbs100": 0.5,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salmone-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Rosse Decorticate",
+    "brand": "Auchan",
+    "kcal100": 278,
+    "fat100": 1.4,
+    "carbs100": 32.1,
+    "protein100": 27.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/lenticchie-rosse-decorticate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix Cereali",
+    "brand": "Auchan",
+    "kcal100": 348,
+    "fat100": 1.2,
+    "carbs100": 74.3,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mix-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Strolghino di Culatello",
+    "brand": "Auchan",
+    "kcal100": 306,
+    "fat100": 23.1,
+    "carbs100": 0.1,
+    "protein100": 24.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/strolghino-di-culatello",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini di Patate",
+    "brand": "Auchan",
+    "kcal100": 168,
+    "fat100": 6.5,
+    "carbs100": 23.5,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bocconcini-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt",
+    "brand": "Auchan",
+    "kcal100": 96,
+    "fat100": 3.2,
+    "carbs100": 13.5,
+    "protein100": 3.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco Intero e Cremoso",
+    "brand": "Auchan",
+    "kcal100": 92,
+    "fat100": 3.7,
+    "carbs100": 11,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-bianco-intero-e-cremoso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cubetti di Prosciutto Cotto",
+    "brand": "Auchan",
+    "kcal100": 130,
+    "fat100": 5.1,
+    "carbs100": 0,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cubetti-di-prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Tacchino",
+    "brand": "Auchan",
+    "kcal100": 100,
+    "fat100": 2,
+    "carbs100": 2.5,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/petto-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Verdi Denocciolate",
+    "brand": "Auchan",
+    "kcal100": 121,
+    "fat100": 11.7,
+    "carbs100": 1,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/olive-verdi-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "The Verde",
+    "brand": "Auchan",
+    "kcal100": 28,
+    "fat100": 0,
+    "carbs100": 6.9,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/the-verde",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Rapido Integrale",
+    "brand": "Auchan",
+    "kcal100": 211,
+    "fat100": 3.5,
+    "carbs100": 39.5,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-rapido-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura di Fragole",
+    "brand": "Auchan",
+    "kcal100": 244,
+    "fat100": 0.1,
+    "carbs100": 60,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/confettura-di-fragole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Paella Surgelata con Pesce e Verdure",
+    "brand": "Auchan",
+    "kcal100": 105,
+    "fat100": 1.7,
+    "carbs100": 17.6,
+    "protein100": 4.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/paella-surgelata-con-pesce-e-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo all'arrabbiata",
+    "brand": "Auchan",
+    "kcal100": 72,
+    "fat100": 4,
+    "carbs100": 6.8,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-allarrabbiata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Foglie di Crackers",
+    "brand": "Auchan",
+    "kcal100": 412,
+    "fat100": 7,
+    "carbs100": 75,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/foglie-di-crackers",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uova Biologiche",
+    "brand": "Auchan",
+    "kcal100": 126,
+    "fat100": 8.7,
+    "carbs100": 0,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/uova-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Finocchi al Vapore",
+    "brand": "Auchan",
+    "kcal100": 22,
+    "fat100": 0.1,
+    "carbs100": 3.5,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/finocchi-al-vapore",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Blanc De Poulet Doré Au Four",
+    "brand": "Auchan",
+    "kcal100": 112,
+    "fat100": 3.2,
+    "carbs100": 0.9,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/blanc-de-poulet-doré-au-four",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Miele",
+    "brand": "Auchan",
+    "kcal100": 449,
+    "fat100": 13,
+    "carbs100": 74,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-con-miele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Bianco",
+    "brand": "Auchan",
+    "kcal100": 38,
+    "fat100": 0.1,
+    "carbs100": 5,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-magro-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vellutata con Verdure Miste",
+    "brand": "Auchan",
+    "kcal100": 41,
+    "fat100": 1.9,
+    "carbs100": 3.7,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/vellutata-con-verdure-miste",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura di Ciliegie",
+    "brand": "Auchan",
+    "kcal100": 243,
+    "fat100": 0.5,
+    "carbs100": 60,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/confettura-di-ciliegie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crescenza",
+    "brand": "Auchan",
+    "kcal100": 261,
+    "fat100": 22.5,
+    "carbs100": 1.9,
+    "protein100": 12.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crescenza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Punte di Asparagi",
+    "brand": "Auchan",
+    "kcal100": 35,
+    "fat100": 1,
+    "carbs100": 2.2,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/punte-di-asparagi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Confettura e Pezzetti di Mela",
+    "brand": "Auchan",
+    "kcal100": 425,
+    "fat100": 13.33,
+    "carbs100": 70,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-con-confettura-e-pezzetti-di-mela/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Integrale di Segale",
+    "brand": "Auchan",
+    "kcal100": 190,
+    "fat100": 1.6,
+    "carbs100": 34,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-integrale-di-segale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Arborio",
+    "brand": "Auchan",
+    "kcal100": 345,
+    "fat100": 0.7,
+    "carbs100": 78,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-arborio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Greco al Caffè",
+    "brand": "Auchan",
+    "kcal100": 89,
+    "fat100": 0,
+    "carbs100": 14,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-magro-greco-al-caffè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Fresca Light",
+    "brand": "Auchan",
+    "kcal100": 99,
+    "fat100": 5.7,
+    "carbs100": 4,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ricotta-fresca-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Emmental Bavarese",
+    "brand": "Auchan",
+    "kcal100": 377,
+    "fat100": 29,
+    "carbs100": 0.1,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/emmental-bavarese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wurstel di Pollo",
+    "brand": "Auchan",
+    "kcal100": 226,
+    "fat100": 18,
+    "carbs100": 3,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/wurstel-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci",
+    "brand": "Auchan",
+    "kcal100": 129,
+    "fat100": 0.9,
+    "carbs100": 23.1,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Biologici Lessati",
+    "brand": "Auchan",
+    "kcal100": 109,
+    "fat100": 1.7,
+    "carbs100": 14.2,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ceci-biologici-lessati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Frolla",
+    "brand": "Auchan",
+    "kcal100": 425,
+    "fat100": 22,
+    "carbs100": 50.9,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pasta-frolla",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato alla Nocciola",
+    "brand": "Auchan",
+    "kcal100": 218,
+    "fat100": 10.7,
+    "carbs100": 25.8,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gelato-alla-nocciola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema ai Funghi con Porcini",
+    "brand": "Auchan",
+    "kcal100": 325,
+    "fat100": 31.8,
+    "carbs100": 6.3,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crema-ai-funghi-con-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ravioli con Ricotta e Spinaci",
+    "brand": "Auchan",
+    "kcal100": 252,
+    "fat100": 5.5,
+    "carbs100": 38.5,
+    "protein100": 10.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ravioli-con-ricotta-e-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Mirtillo",
+    "brand": "Auchan",
+    "kcal100": 70.4,
+    "fat100": 0.08,
+    "carbs100": 13.68,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-magro-mirtillo/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Frutta Mela e Banana",
+    "brand": "Auchan",
+    "kcal100": 70,
+    "fat100": 0.3,
+    "carbs100": 15,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-frutta-mela-e-banana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Mela e Pesca",
+    "brand": "Auchan",
+    "kcal100": 64,
+    "fat100": 0.4,
+    "carbs100": 14,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-mela-e-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tranci Farciti con Crema al Cacao",
+    "brand": "Auchan",
+    "kcal100": 389.3,
+    "fat100": 15.71,
+    "carbs100": 55.36,
+    "protein100": 6.43,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tranci-farciti-con-crema-al-cacao/1-trancio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa Hot",
+    "brand": "Auchan",
+    "kcal100": 45,
+    "fat100": 0.2,
+    "carbs100": 9.5,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salsa-hot",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Filetto di Merluzzo Sudafricano",
+    "brand": "Auchan",
+    "kcal100": 74,
+    "fat100": 0.6,
+    "carbs100": 0,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cuori-di-filetto-di-merluzzo-sudafricano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne senza Glutine",
+    "brand": "Auchan",
+    "kcal100": 355,
+    "fat100": 2.3,
+    "carbs100": 76,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/penne-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Risotto ai Formaggi",
+    "brand": "Auchan",
+    "kcal100": 365,
+    "fat100": 2.3,
+    "carbs100": 75.1,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/risotto-ai-formaggi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Mela e Prugna",
+    "brand": "Auchan",
+    "kcal100": 66,
+    "fat100": 0.4,
+    "carbs100": 14,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-mela-e-prugna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sardine in Olio di Semi di Girasole",
+    "brand": "Auchan",
+    "kcal100": 234,
+    "fat100": 16.2,
+    "carbs100": 0,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sardine-in-olio-di-semi-di-girasole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi con Guscio",
+    "brand": "Auchan",
+    "kcal100": 644,
+    "fat100": 49.7,
+    "carbs100": 21.5,
+    "protein100": 23.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/arachidi-con-guscio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Fragole e Fragoline di Bosco",
+    "brand": "Auchan",
+    "kcal100": 80,
+    "fat100": 0.1,
+    "carbs100": 16.3,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-magro-fragole-e-fragoline-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortelli alla Zucca",
+    "brand": "Auchan",
+    "kcal100": 235,
+    "fat100": 2.5,
+    "carbs100": 43,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortelli-alla-zucca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cetriolini",
+    "brand": "Auchan",
+    "kcal100": 18,
+    "fat100": 0.5,
+    "carbs100": 2,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cetriolini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Extra Fondente in Gocce",
+    "brand": "Auchan",
+    "kcal100": 499,
+    "fat100": 26,
+    "carbs100": 55.8,
+    "protein100": 6.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cioccolato-extra-fondente-in-gocce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Miele di Acacia",
+    "brand": "Auchan",
+    "kcal100": 320,
+    "fat100": 0,
+    "carbs100": 80,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/miele-di-acacia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais",
+    "brand": "Auchan",
+    "kcal100": 118,
+    "fat100": 1.3,
+    "carbs100": 22,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Grigliato Surgelato",
+    "brand": "Auchan",
+    "kcal100": 59,
+    "fat100": 0.2,
+    "carbs100": 11,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/misto-grigliato-surgelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema Spalmabile alle Nocciole",
+    "brand": "Auchan",
+    "kcal100": 514,
+    "fat100": 27,
+    "carbs100": 60,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crema-spalmabile-alle-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carote Tagliate a Rondelle",
+    "brand": "Auchan",
+    "kcal100": 28,
+    "fat100": 0.1,
+    "carbs100": 4.9,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/carote-tagliate-a-rondelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagiolini Verdi Finissimi Surgelati",
+    "brand": "Auchan",
+    "kcal100": 28,
+    "fat100": 0.3,
+    "carbs100": 4.3,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagiolini-verdi-finissimi-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Amaretti",
+    "brand": "Auchan",
+    "kcal100": 432,
+    "fat100": 9.5,
+    "carbs100": 78,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/amaretti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Sfoglia",
+    "brand": "Auchan",
+    "kcal100": 382,
+    "fat100": 23.4,
+    "carbs100": 36.5,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pasta-sfoglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Pera 100%",
+    "brand": "Auchan",
+    "kcal100": 61,
+    "fat100": 0.2,
+    "carbs100": 14.3,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-pera-100",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Arborio Integrale",
+    "brand": "Auchan",
+    "kcal100": 343,
+    "fat100": 2.7,
+    "carbs100": 70.4,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-arborio-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Seitan al Naturale Biologico",
+    "brand": "Auchan",
+    "kcal100": 141,
+    "fat100": 1.8,
+    "carbs100": 5.7,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/seitan-al-naturale-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti Biologici Lessati",
+    "brand": "Auchan",
+    "kcal100": 95,
+    "fat100": 0.7,
+    "carbs100": 12.3,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-borlotti-biologici-lessati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais Biologiche",
+    "brand": "Auchan",
+    "kcal100": 391,
+    "fat100": 1.5,
+    "carbs100": 85.5,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gallette-di-mais-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tofu Al Naturale",
+    "brand": "Auchan",
+    "kcal100": 133,
+    "fat100": 7.8,
+    "carbs100": 0.7,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tofu-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Salmone in Olio d'oliva",
+    "brand": "Auchan",
+    "kcal100": 221,
+    "fat100": 15.7,
+    "carbs100": 0.1,
+    "protein100": 19.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-salmone-in-olio-doliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Cereali con Cioccolato",
+    "brand": "Auchan",
+    "kcal100": 378.3,
+    "fat100": 6.09,
+    "carbs100": 73.91,
+    "protein100": 6.09,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/barrette-di-cereali-con-cioccolato/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo al Basilico",
+    "brand": "Auchan",
+    "kcal100": 50,
+    "fat100": 1.7,
+    "carbs100": 6.9,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-al-basilico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grana Padano",
+    "brand": "Auchan",
+    "kcal100": 398,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/grana-padano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto",
+    "brand": "Auchan",
+    "kcal100": 342,
+    "fat100": 33,
+    "carbs100": 6.4,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pesto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orzo Solubile Bio",
+    "brand": "Auchan",
+    "kcal100": 362,
+    "fat100": 0.2,
+    "carbs100": 78.7,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/orzo-solubile-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato alla Soia Cacao Variegato Cioccolato",
+    "brand": "Auchan",
+    "kcal100": 185,
+    "fat100": 7.8,
+    "carbs100": 25.5,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gelato-alla-soia-cacao-variegato-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Amatriciana",
+    "brand": "Auchan",
+    "kcal100": 125,
+    "fat100": 9.3,
+    "carbs100": 6.8,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-amatriciana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Plumcake",
+    "brand": "Auchan",
+    "kcal100": 436,
+    "fat100": 21.7,
+    "carbs100": 52.3,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/plumcake",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro al Naturale",
+    "brand": "Auchan",
+    "kcal100": 152.9,
+    "fat100": 5.65,
+    "carbs100": 0,
+    "protein100": 25.41,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-sgombro-al-naturale/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto",
+    "brand": "Auchan",
+    "kcal100": 137,
+    "fat100": 7,
+    "carbs100": 0.5,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro all'olio di Oliva",
+    "brand": "Auchan",
+    "kcal100": 203,
+    "fat100": 10.7,
+    "carbs100": 0,
+    "protein100": 26.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-sgombro-allolio-di-oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Subito Pronte",
+    "brand": "Auchan",
+    "kcal100": 92,
+    "fat100": 0.5,
+    "carbs100": 13.9,
+    "protein100": 5.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/lenticchie-subito-pronte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta",
+    "brand": "Auchan",
+    "kcal100": 96,
+    "fat100": 6,
+    "carbs100": 3,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ricotta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli Trafilati al Bronzo",
+    "brand": "Auchan",
+    "kcal100": 343,
+    "fat100": 1.9,
+    "carbs100": 65,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fusilli-trafilati-al-bronzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frastagliate",
+    "brand": "Auchan",
+    "kcal100": 366,
+    "fat100": 4.3,
+    "carbs100": 65.9,
+    "protein100": 14.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/frastagliate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Filetto di Nasello Sudafricano",
+    "brand": "Auchan",
+    "kcal100": 74,
+    "fat100": 0.2,
+    "carbs100": 0,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cuori-di-filetto-di-nasello-sudafricano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scamorza di Latte Vaccino",
+    "brand": "Auchan",
+    "kcal100": 300,
+    "fat100": 23,
+    "carbs100": 1.2,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/scamorza-di-latte-vaccino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso Biologiche",
+    "brand": "Auchan",
+    "kcal100": 379,
+    "fat100": 1.9,
+    "carbs100": 80.3,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gallette-di-riso-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Biologica",
+    "brand": "Auchan",
+    "kcal100": 145,
+    "fat100": 10.3,
+    "carbs100": 3.7,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ricotta-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Spezzati",
+    "brand": "Auchan",
+    "kcal100": 328,
+    "fat100": 2,
+    "carbs100": 48.2,
+    "protein100": 21.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/piselli-spezzati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo al Pomodoro e Basilico",
+    "brand": "Auchan",
+    "kcal100": 68,
+    "fat100": 2.7,
+    "carbs100": 8.5,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-al-pomodoro-e-basilico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maionese Leggera",
+    "brand": "Auchan",
+    "kcal100": 277,
+    "fat100": 26,
+    "carbs100": 9.2,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/maionese-leggera",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Rapido Basmati",
+    "brand": "Auchan",
+    "kcal100": 162,
+    "fat100": 1.1,
+    "carbs100": 34.4,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-rapido-basmati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Succo di Pomodoro",
+    "brand": "Auchan",
+    "kcal100": 17,
+    "fat100": 0,
+    "carbs100": 3,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/succo-di-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Robiolino",
+    "brand": "Auchan",
+    "kcal100": 329,
+    "fat100": 33,
+    "carbs100": 3.1,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/robiolino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Kidney Rossi Biologici",
+    "brand": "Auchan",
+    "kcal100": 286,
+    "fat100": 2.1,
+    "carbs100": 33.8,
+    "protein100": 20.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-kidney-rossi-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Carciofi",
+    "brand": "Auchan",
+    "kcal100": 34,
+    "fat100": 0.2,
+    "carbs100": 2.5,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cuori-di-carciofi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra di Frutti di Bosco",
+    "brand": "Auchan",
+    "kcal100": 224,
+    "fat100": 0.2,
+    "carbs100": 55,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/confettura-extra-di-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polenta",
+    "brand": "Auchan",
+    "kcal100": 348,
+    "fat100": 1,
+    "carbs100": 76,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polenta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Gallette di Mais al Pomodoro e Basilico",
+    "brand": "Auchan",
+    "kcal100": 461,
+    "fat100": 16.3,
+    "carbs100": 71.1,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mini-gallette-di-mais-al-pomodoro-e-basilico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Rucola e Pomodorini",
+    "brand": "Auchan",
+    "kcal100": 229,
+    "fat100": 7.1,
+    "carbs100": 29.9,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pizza-rucola-e-pomodorini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bacche di Goji",
+    "brand": "Auchan",
+    "kcal100": 328,
+    "fat100": 1.8,
+    "carbs100": 57,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bacche-di-goji",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pennette alla Puttanesca",
+    "brand": "Auchan",
+    "kcal100": 132,
+    "fat100": 3,
+    "carbs100": 21.1,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pennette-alla-puttanesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa e Bulgur",
+    "brand": "Auchan",
+    "kcal100": 361,
+    "fat100": 4.7,
+    "carbs100": 65.9,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/quinoa-e-bulgur",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Funghi con Porcini",
+    "brand": "Auchan",
+    "kcal100": 16,
+    "fat100": 0.1,
+    "carbs100": 1.3,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/misto-funghi-con-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro in Olio di Girasole",
+    "brand": "Auchan",
+    "kcal100": 356,
+    "fat100": 30,
+    "carbs100": 0,
+    "protein100": 21.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-sgombro-in-olio-di-girasole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Selvaggio Sockeye",
+    "brand": "Auchan",
+    "kcal100": 131,
+    "fat100": 4.8,
+    "carbs100": 1,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salmone-selvaggio-sockeye",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cavolfiori Biologici",
+    "brand": "Auchan",
+    "kcal100": 21,
+    "fat100": 0.1,
+    "carbs100": 3,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cavolfiori-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Mela e Pera",
+    "brand": "Auchan",
+    "kcal100": 62,
+    "fat100": 0.2,
+    "carbs100": 14,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-mela-e-pera",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Rosse Decorticate Biologiche",
+    "brand": "Auchan",
+    "kcal100": 321,
+    "fat100": 1.6,
+    "carbs100": 44.6,
+    "protein100": 23.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/lenticchie-rosse-decorticate-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa alle Zucchine",
+    "brand": "Auchan",
+    "kcal100": 89,
+    "fat100": 4.2,
+    "carbs100": 9.9,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salsa-alle-zucchine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci Foglia Su Foglia",
+    "brand": "Auchan",
+    "kcal100": 35,
+    "fat100": 0.7,
+    "carbs100": 2.9,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/spinaci-foglia-su-foglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Soffiato Bio",
+    "brand": "Auchan",
+    "kcal100": 381,
+    "fat100": 1.1,
+    "carbs100": 85.3,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-soffiato-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa e Legumi",
+    "brand": "Auchan",
+    "kcal100": 323,
+    "fat100": 3.9,
+    "carbs100": 43.4,
+    "protein100": 20.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/quinoa-e-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Albicocche Denocciolate",
+    "brand": "Auchan",
+    "kcal100": 256,
+    "fat100": 0.6,
+    "carbs100": 56,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/albicocche-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Platessa",
+    "brand": "Auchan",
+    "kcal100": 54,
+    "fat100": 1,
+    "carbs100": 0,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetto-di-platessa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Fresca",
+    "brand": "Auchan",
+    "kcal100": 273,
+    "fat100": 1.3,
+    "carbs100": 55,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pasta-fresca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chicche di Patate e Spinaci",
+    "brand": "Auchan",
+    "kcal100": 143,
+    "fat100": 1,
+    "carbs100": 30,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/chicche-di-patate-e-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa con Cereali e Legumi",
+    "brand": "Auchan",
+    "kcal100": 92,
+    "fat100": 2,
+    "carbs100": 13,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/zuppa-con-cereali-e-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini",
+    "brand": "Auchan",
+    "kcal100": 87,
+    "fat100": 0.4,
+    "carbs100": 12,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-cannellini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pastafilata",
+    "brand": "Auchan",
+    "kcal100": 339,
+    "fat100": 27,
+    "carbs100": 1,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pastafilata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate",
+    "brand": "Auchan",
+    "kcal100": 400,
+    "fat100": 6,
+    "carbs100": 72,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fette-biscottate/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Rigate Trafilate al Bronzo",
+    "brand": "Auchan",
+    "kcal100": 343,
+    "fat100": 1.9,
+    "carbs100": 65,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/penne-rigate-trafilate-al-bronzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Battuta Condita di Piemontese",
+    "brand": "Auchan",
+    "kcal100": 131,
+    "fat100": 5.3,
+    "carbs100": 0.8,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/battuta-condita-di-piemontese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostatine Integrali",
+    "brand": "Auchan",
+    "kcal100": 420,
+    "fat100": 15,
+    "carbs100": 65,
+    "protein100": 4.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crostatine-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Giganti",
+    "brand": "Auchan",
+    "kcal100": 310,
+    "fat100": 1.5,
+    "carbs100": 37.7,
+    "protein100": 24.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/lenticchie-giganti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Merluzzo Atlantico",
+    "brand": "Auchan",
+    "kcal100": 64,
+    "fat100": 1.8,
+    "carbs100": 1,
+    "protein100": 11.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-merluzzo-atlantico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Novelle al Naturale",
+    "brand": "Auchan",
+    "kcal100": 71,
+    "fat100": 0.1,
+    "carbs100": 14.6,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/patate-novelle-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Soia Gialla",
+    "brand": "Auchan",
+    "kcal100": 372,
+    "fat100": 13.5,
+    "carbs100": 16.4,
+    "protein100": 36.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/soia-gialla",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uva Sultanina",
+    "brand": "Auchan",
+    "kcal100": 310,
+    "fat100": 0.7,
+    "carbs100": 70.4,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/uva-sultanina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Soia Nocciola",
+    "brand": "Auchan",
+    "kcal100": 214,
+    "fat100": 13.2,
+    "carbs100": 20.2,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gelato-soia-nocciola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi alla Sorrentina",
+    "brand": "Auchan",
+    "kcal100": 145,
+    "fat100": 2.2,
+    "carbs100": 25.4,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gnocchi-alla-sorrentina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cous Cous Biologico",
+    "brand": "Auchan",
+    "kcal100": 349,
+    "fat100": 1.5,
+    "carbs100": 70,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cous-cous-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini alla Panna",
+    "brand": "Auchan",
+    "kcal100": 475,
+    "fat100": 19,
+    "carbs100": 68,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/frollini-alla-panna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno Affumicato",
+    "brand": "Auchan",
+    "kcal100": 154,
+    "fat100": 2.9,
+    "carbs100": 1.9,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tonno-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Salmone All’Olio di Oliva 19%",
+    "brand": "Auchan",
+    "kcal100": 301,
+    "fat100": 27,
+    "carbs100": 0,
+    "protein100": 14.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-salmone-all’olio-di-oliva-19",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo con Olive",
+    "brand": "Auchan",
+    "kcal100": 63,
+    "fat100": 3.5,
+    "carbs100": 5.4,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-con-olive",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Savoiardi",
+    "brand": "Auchan",
+    "kcal100": 381,
+    "fat100": 3.2,
+    "carbs100": 79,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/savoiardi/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciole Tostate",
+    "brand": "Auchan",
+    "kcal100": 711,
+    "fat100": 62.4,
+    "carbs100": 17.6,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/nocciole-tostate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola Affettata",
+    "brand": "Auchan",
+    "kcal100": 147,
+    "fat100": 3,
+    "carbs100": 0.1,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bresaola-affettata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Integrale Caserecce",
+    "brand": "Auchan",
+    "kcal100": 347,
+    "fat100": 2,
+    "carbs100": 67,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pasta-integrale-caserecce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette Biologiche di Farro",
+    "brand": "Auchan",
+    "kcal100": 381,
+    "fat100": 2.2,
+    "carbs100": 75,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gallette-biologiche-di-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliatelle di Farro all'uovo",
+    "brand": "Auchan",
+    "kcal100": 372,
+    "fat100": 3.8,
+    "carbs100": 70,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tagliatelle-di-farro-alluovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tegole",
+    "brand": "Auchan",
+    "kcal100": 507,
+    "fat100": 23.3,
+    "carbs100": 67.8,
+    "protein100": 12.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tegole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Mela e Frutti di Bosco",
+    "brand": "Auchan",
+    "kcal100": 65,
+    "fat100": 0.4,
+    "carbs100": 14.5,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-mela-e-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti Cereali Croccanti",
+    "brand": "Auchan",
+    "kcal100": 464.3,
+    "fat100": 17.86,
+    "carbs100": 69.29,
+    "protein100": 5.71,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-cereali-croccanti/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Subito Pronti",
+    "brand": "Auchan",
+    "kcal100": 125,
+    "fat100": 2.2,
+    "carbs100": 16.8,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ceci-subito-pronti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Broccoli",
+    "brand": "Auchan",
+    "kcal100": 34,
+    "fat100": 0.4,
+    "carbs100": 3.1,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/broccoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bauletto Kamut",
+    "brand": "Auchan",
+    "kcal100": 256,
+    "fat100": 4.2,
+    "carbs100": 42.9,
+    "protein100": 9.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pane-bauletto-kamut",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Extra Fondente",
+    "brand": "Auchan",
+    "kcal100": 524,
+    "fat100": 30.5,
+    "carbs100": 52.1,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cioccolato-extra-fondente",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Ribe Integrale",
+    "brand": "Auchan",
+    "kcal100": 349,
+    "fat100": 2.1,
+    "carbs100": 73.6,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-ribe-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Integrale",
+    "brand": "Auchan",
+    "kcal100": 343,
+    "fat100": 1.9,
+    "carbs100": 65,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pasta-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Carciofo Surgelati",
+    "brand": "Auchan",
+    "kcal100": 34,
+    "fat100": 0.2,
+    "carbs100": 2.5,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cuori-di-carciofo-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortelli con Carciofi",
+    "brand": "Auchan",
+    "kcal100": 236,
+    "fat100": 5,
+    "carbs100": 37.6,
+    "protein100": 9.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortelli-con-carciofi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato al Limone",
+    "brand": "Auchan",
+    "kcal100": 128,
+    "fat100": 1.1,
+    "carbs100": 28.9,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gelato-al-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo Pronto Allo Scoglio",
+    "brand": "Auchan",
+    "kcal100": 128,
+    "fat100": 10,
+    "carbs100": 1.4,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-pronto-allo-scoglio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grano Saraceno",
+    "brand": "Auchan",
+    "kcal100": 396,
+    "fat100": 3.8,
+    "carbs100": 72.8,
+    "protein100": 14.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/grano-saraceno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix di Verdure Pastellate",
+    "brand": "Auchan",
+    "kcal100": 177,
+    "fat100": 6.2,
+    "carbs100": 26.1,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mix-di-verdure-pastellate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Risotto ai Funghi Porcini",
+    "brand": "Auchan",
+    "kcal100": 354,
+    "fat100": 0.7,
+    "carbs100": 75.8,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/risotto-ai-funghi-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate con Farina Integrale",
+    "brand": "Auchan",
+    "kcal100": 400,
+    "fat100": 6.67,
+    "carbs100": 68.89,
+    "protein100": 11.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fette-biscottate-con-farina-integrale/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Nere Denocciolate",
+    "brand": "Auchan",
+    "kcal100": 187,
+    "fat100": 17,
+    "carbs100": 5.7,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/olive-nere-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Torroncino Nocciola e Zabaione",
+    "brand": "Auchan",
+    "kcal100": 180,
+    "fat100": 6.9,
+    "carbs100": 26.3,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gelato-torroncino-nocciola-e-zabaione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Norvegese Biologico",
+    "brand": "Auchan",
+    "kcal100": 196,
+    "fat100": 12,
+    "carbs100": 0,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salmone-norvegese-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Margherita",
+    "brand": "Auchan",
+    "kcal100": 250,
+    "fat100": 7.3,
+    "carbs100": 36,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pizza-margherita",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa, Lenticchie e Grano Saraceno",
+    "brand": "Auchan",
+    "kcal100": 337,
+    "fat100": 4.4,
+    "carbs100": 53.1,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/quinoa-lenticchie-e-grano-saraceno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Pollo",
+    "brand": "Auchan",
+    "kcal100": 252,
+    "fat100": 13.5,
+    "carbs100": 22.4,
+    "protein100": 10.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cotolette-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Verdi Spezzati",
+    "brand": "Auchan",
+    "kcal100": 314,
+    "fat100": 1.8,
+    "carbs100": 45.7,
+    "protein100": 20.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/piselli-verdi-spezzati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi di Patate",
+    "brand": "Auchan",
+    "kcal100": 128,
+    "fat100": 0.7,
+    "carbs100": 26,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gnocchi-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini Biologici Lessati",
+    "brand": "Auchan",
+    "kcal100": 89,
+    "fat100": 0.6,
+    "carbs100": 11.2,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-cannellini-biologici-lessati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pepite di Cereali al Cacao",
+    "brand": "Auchan",
+    "kcal100": 390,
+    "fat100": 3.7,
+    "carbs100": 79.4,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pepite-di-cereali-al-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli Frutta",
+    "brand": "Auchan",
+    "kcal100": 346,
+    "fat100": 3.5,
+    "carbs100": 65,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/muesli-frutta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tartufo Dessert al Cacao",
+    "brand": "Auchan",
+    "kcal100": 248,
+    "fat100": 11,
+    "carbs100": 28,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tartufo-dessert-al-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mascarpone",
+    "brand": "Auchan",
+    "kcal100": 395,
+    "fat100": 41,
+    "carbs100": 2.5,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mascarpone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pois Chiches",
+    "brand": "Auchan",
+    "kcal100": 118,
+    "fat100": 2.2,
+    "carbs100": 15,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pois-chiches",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Azuchi Verdi Biologici",
+    "brand": "Auchan",
+    "kcal100": 286,
+    "fat100": 2.1,
+    "carbs100": 33.8,
+    "protein100": 20.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-azuchi-verdi-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppe Legumi e Cereali",
+    "brand": "Auchan",
+    "kcal100": 324,
+    "fat100": 0.9,
+    "carbs100": 50.8,
+    "protein100": 20.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/zuppe-legumi-e-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passata di Pomodoro Classica",
+    "brand": "Auchan",
+    "kcal100": 31,
+    "fat100": 0.1,
+    "carbs100": 6,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/passata-di-pomodoro-classica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maxi Stecchi Classici",
+    "brand": "Auchan",
+    "kcal100": 301.1,
+    "fat100": 19.32,
+    "carbs100": 27.5,
+    "protein100": 3.75,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/maxi-stecchi-classici/1-stecco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pistacchi Sgusciati",
+    "brand": "Auchan",
+    "kcal100": 620,
+    "fat100": 45.4,
+    "carbs100": 27.5,
+    "protein100": 20.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pistacchi-sgusciati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli Croccante con Cioccolato",
+    "brand": "Auchan",
+    "kcal100": 467,
+    "fat100": 19,
+    "carbs100": 63,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/muesli-croccante-con-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto senza Aglio",
+    "brand": "Auchan",
+    "kcal100": 593,
+    "fat100": 60,
+    "carbs100": 5.7,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pesto-senza-aglio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rucola",
+    "brand": "Auchan",
+    "kcal100": 31,
+    "fat100": 0.3,
+    "carbs100": 3.9,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/rucola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chicchi di Vitello e Suino",
+    "brand": "Auchan",
+    "kcal100": 185,
+    "fat100": 14,
+    "carbs100": 1,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/chicchi-di-vitello-e-suino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pastina Gemmine Biologica",
+    "brand": "Auchan",
+    "kcal100": 350,
+    "fat100": 1.2,
+    "carbs100": 71,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pastina-gemmine-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi alla Zucca",
+    "brand": "Auchan",
+    "kcal100": 123,
+    "fat100": 0.7,
+    "carbs100": 24.5,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gnocchi-alla-zucca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wafer con Crema al Cocco",
+    "brand": "Auchan",
+    "kcal100": 540,
+    "fat100": 32,
+    "carbs100": 56,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/wafer-con-crema-al-cocco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Alici Marinate",
+    "brand": "Auchan",
+    "kcal100": 263,
+    "fat100": 21,
+    "carbs100": 0.6,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-alici-marinate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Soia Biologica",
+    "brand": "Auchan",
+    "kcal100": 396,
+    "fat100": 18.9,
+    "carbs100": 9.5,
+    "protein100": 36.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/soia-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte di Soia e Vaniglia",
+    "brand": "Auchan",
+    "kcal100": 61,
+    "fat100": 2,
+    "carbs100": 6.8,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/latte-di-soia-e-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orecchiette",
+    "brand": "Auchan",
+    "kcal100": 307,
+    "fat100": 1.3,
+    "carbs100": 63.6,
+    "protein100": 9.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/orecchiette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Gustosa",
+    "brand": "Auchan",
+    "kcal100": 21,
+    "fat100": 0.3,
+    "carbs100": 2.1,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-gustosa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Rosette",
+    "brand": "Auchan",
+    "kcal100": 28,
+    "fat100": 0.5,
+    "carbs100": 2.2,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/misto-rosette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone al Naturale",
+    "brand": "Auchan",
+    "kcal100": 194,
+    "fat100": 12.4,
+    "carbs100": 0,
+    "protein100": 20.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salmone-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Baguette Prestige",
+    "brand": "Auchan",
+    "kcal100": 275,
+    "fat100": 0.9,
+    "carbs100": 55.4,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/baguette-prestige",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostini Integrali",
+    "brand": "Auchan",
+    "kcal100": 411.1,
+    "fat100": 7.78,
+    "carbs100": 68.89,
+    "protein100": 11.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crostini-integrali/1-crostino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noci Sgusciate",
+    "brand": "Auchan",
+    "kcal100": 716,
+    "fat100": 65.2,
+    "carbs100": 13.7,
+    "protein100": 15.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/noci-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa",
+    "brand": "Auchan",
+    "kcal100": 342,
+    "fat100": 4.1,
+    "carbs100": 59.9,
+    "protein100": 11.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/quinoa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pagnotta ai Cereali",
+    "brand": "Auchan",
+    "kcal100": 285,
+    "fat100": 6.8,
+    "carbs100": 43.1,
+    "protein100": 10.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pagnotta-ai-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tè alla Pesca",
+    "brand": "Auchan",
+    "kcal100": 33,
+    "fat100": 0,
+    "carbs100": 8.2,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tè-alla-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo al Tonno",
+    "brand": "Auchan",
+    "kcal100": 62,
+    "fat100": 2.2,
+    "carbs100": 7,
+    "protein100": 3.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/sugo-al-tonno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli Integrali",
+    "brand": "Auchan",
+    "kcal100": 343,
+    "fat100": 1.9,
+    "carbs100": 65,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fusilli-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passata di Pomodoro Bio",
+    "brand": "Auchan",
+    "kcal100": 33,
+    "fat100": 0.1,
+    "carbs100": 6,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/passata-di-pomodoro-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra di Ciliegie",
+    "brand": "Auchan",
+    "kcal100": 187,
+    "fat100": 0.1,
+    "carbs100": 46,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/confettura-extra-di-ciliegie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto Senz'aglio",
+    "brand": "Auchan",
+    "kcal100": 506,
+    "fat100": 50,
+    "carbs100": 7.5,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pesto-senzaglio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Integrali",
+    "brand": "Auchan",
+    "kcal100": 457,
+    "fat100": 18,
+    "carbs100": 63,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/frollini-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cereali",
+    "brand": "Auchan",
+    "kcal100": 416,
+    "fat100": 11,
+    "carbs100": 70,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Mista 4 Gusti",
+    "brand": "Auchan",
+    "kcal100": 19,
+    "fat100": 0.2,
+    "carbs100": 1.6,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/insalata-mista-4-gusti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coppa al Caffè",
+    "brand": "Auchan",
+    "kcal100": 191.4,
+    "fat100": 8.57,
+    "carbs100": 25.29,
+    "protein100": 3.14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/coppa-al-caffè/1-coppa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Bianco in Gocce",
+    "brand": "Auchan",
+    "kcal100": 530,
+    "fat100": 27.9,
+    "carbs100": 64.1,
+    "protein100": 5.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cioccolato-bianco-in-gocce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Croccanti alla Frutta",
+    "brand": "Auchan",
+    "kcal100": 436.4,
+    "fat100": 18.18,
+    "carbs100": 56.36,
+    "protein100": 7.27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/frollini-croccanti-alla-frutta/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Medio",
+    "brand": "Auchan",
+    "kcal100": 355,
+    "fat100": 0.9,
+    "carbs100": 80,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-medio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Dolce in Grani",
+    "brand": "Auchan",
+    "kcal100": 120,
+    "fat100": 1.3,
+    "carbs100": 22.4,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mais-dolce-in-grani",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vellutata di Zucca",
+    "brand": "Auchan",
+    "kcal100": 31,
+    "fat100": 0.8,
+    "carbs100": 4.6,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/vellutata-di-zucca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa con Legumi e Cereali",
+    "brand": "Auchan",
+    "kcal100": 86,
+    "fat100": 2,
+    "carbs100": 13,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/zuppa-con-legumi-e-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Integrali",
+    "brand": "Auchan",
+    "kcal100": 400,
+    "fat100": 7.5,
+    "carbs100": 70,
+    "protein100": 11.25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fette-biscottate-integrali/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bran Sticks",
+    "brand": "Auchan",
+    "kcal100": 340,
+    "fat100": 4.5,
+    "carbs100": 46,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bran-sticks",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Cereali con Yogurt Magro e Mirtilli",
+    "brand": "Auchan",
+    "kcal100": 385.7,
+    "fat100": 5.71,
+    "carbs100": 72.38,
+    "protein100": 7.62,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/barrette-di-cereali-con-yogurt-magro-e-mirtilli/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farfalle Integrali",
+    "brand": "Auchan",
+    "kcal100": 343,
+    "fat100": 1.9,
+    "carbs100": 65,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/farfalle-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa Tartara",
+    "brand": "Auchan",
+    "kcal100": 643,
+    "fat100": 69.5,
+    "carbs100": 2.9,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salsa-tartara",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti Surgelati",
+    "brand": "Auchan",
+    "kcal100": 136,
+    "fat100": 0.7,
+    "carbs100": 19.8,
+    "protein100": 10.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-borlotti-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone di Legumi",
+    "brand": "Auchan",
+    "kcal100": 74,
+    "fat100": 0.7,
+    "carbs100": 10.6,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/minestrone-di-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Conchigliette",
+    "brand": "Auchan",
+    "kcal100": 362,
+    "fat100": 1.5,
+    "carbs100": 73.2,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/conchigliette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini al Miele",
+    "brand": "Auchan",
+    "kcal100": 446,
+    "fat100": 12,
+    "carbs100": 75,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/frollini-al-miele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortellini al Prosciutto Crudo",
+    "brand": "Auchan",
+    "kcal100": 314,
+    "fat100": 8,
+    "carbs100": 44.5,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortellini-al-prosciutto-crudo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Tostati e Salati",
+    "brand": "Auchan",
+    "kcal100": 429,
+    "fat100": 8.3,
+    "carbs100": 62.6,
+    "protein100": 20.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ceci-tostati-e-salati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cannellini All’Uccelletto",
+    "brand": "Auchan",
+    "kcal100": 80,
+    "fat100": 1.5,
+    "carbs100": 9.5,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cannellini-all’uccelletto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Girasoli ai Funghi",
+    "brand": "Auchan",
+    "kcal100": 208,
+    "fat100": 6.1,
+    "carbs100": 30,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/girasoli-ai-funghi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wafer al Latte",
+    "brand": "Auchan",
+    "kcal100": 531,
+    "fat100": 30,
+    "carbs100": 57,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/wafer-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Dadi per Brodo Vegetale Biologico",
+    "brand": "Auchan",
+    "kcal100": 120,
+    "fat100": 1.7,
+    "carbs100": 22,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/dadi-per-brodo-vegetale-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Neri Biologici",
+    "brand": "Auchan",
+    "kcal100": 286,
+    "fat100": 2.1,
+    "carbs100": 33.8,
+    "protein100": 20.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-neri-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Tacchino al Forno",
+    "brand": "Auchan",
+    "kcal100": 103,
+    "fat100": 2,
+    "carbs100": 3.2,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/petto-di-tacchino-al-forno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti",
+    "brand": "Auchan",
+    "kcal100": 286,
+    "fat100": 2.1,
+    "carbs100": 33.8,
+    "protein100": 20.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fagioli-borlotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vongole",
+    "brand": "Auchan",
+    "kcal100": 93,
+    "fat100": 1.6,
+    "carbs100": 2.4,
+    "protein100": 17.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/vongole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte di Riso Bio",
+    "brand": "Auchan",
+    "kcal100": 55,
+    "fat100": 1.1,
+    "carbs100": 10.5,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/latte-di-riso-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panzerottini ai Funghi",
+    "brand": "Auchan",
+    "kcal100": 209,
+    "fat100": 6.9,
+    "carbs100": 29.4,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/panzerottini-ai-funghi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pinoli",
+    "brand": "Auchan",
+    "kcal100": 730,
+    "fat100": 68.4,
+    "carbs100": 13.1,
+    "protein100": 13.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pinoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa Bianca",
+    "brand": "Auchan",
+    "kcal100": 354,
+    "fat100": 6.1,
+    "carbs100": 57.2,
+    "protein100": 14.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/quinoa-bianca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro Grigliati al Naturale",
+    "brand": "Auchan",
+    "kcal100": 157,
+    "fat100": 6.3,
+    "carbs100": 0,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-sgombro-grigliati-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Soia in Grani",
+    "brand": "Auchan",
+    "kcal100": 134,
+    "fat100": 7.3,
+    "carbs100": 3.1,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/soia-in-grani",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noir Degustation 74%",
+    "brand": "Auchan",
+    "kcal100": 569,
+    "fat100": 44.4,
+    "carbs100": 28.6,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/noir-degustation-74",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ryz Brazowy",
+    "brand": "Auchan",
+    "kcal100": 351,
+    "fat100": 2.9,
+    "carbs100": 71,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ryz-brazowy",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Crudo",
+    "brand": "Auchan",
+    "kcal100": 232,
+    "fat100": 10.2,
+    "carbs100": 0.2,
+    "protein100": 35,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/prosciutto-crudo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti al Cacao Bio",
+    "brand": "Auchan",
+    "kcal100": 480,
+    "fat100": 21,
+    "carbs100": 61,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-al-cacao-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie",
+    "brand": "Auchan",
+    "kcal100": 75,
+    "fat100": 0.4,
+    "carbs100": 8.5,
+    "protein100": 6.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/lenticchie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Platessa",
+    "brand": "Auchan",
+    "kcal100": 76,
+    "fat100": 1.3,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/filetti-di-platessa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Roccocò",
+    "brand": "Auchan",
+    "kcal100": 421,
+    "fat100": 13.6,
+    "carbs100": 71.6,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/roccocò",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chicche di Patate",
+    "brand": "Auchan",
+    "kcal100": 155,
+    "fat100": 0.4,
+    "carbs100": 33,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/chicche-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger con Verdure Delicato",
+    "brand": "Auchan",
+    "kcal100": 87.5,
+    "fat100": 0.42,
+    "carbs100": 15,
+    "protein100": 4.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/burger-con-verdure-delicato/1-burger",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno al Naturale Qualità Yellowfin",
+    "brand": "Auchan",
+    "kcal100": 122,
+    "fat100": 2,
+    "carbs100": 0,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tonno-al-naturale-qualità-yellowfin",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa Tonnata",
+    "brand": "Auchan",
+    "kcal100": 660,
+    "fat100": 70.7,
+    "carbs100": 1.6,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salsa-tonnata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Fiocchi di Riso e Grano Integrale con Cioccolato Fondente",
+    "brand": "Auchan",
+    "kcal100": 360.9,
+    "fat100": 6.96,
+    "carbs100": 67.39,
+    "protein100": 5.22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/barrette-di-fiocchi-di-riso-e-grano-integrale-con-cioccolato-fondente/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Ribe",
+    "brand": "Auchan",
+    "kcal100": 346,
+    "fat100": 0.7,
+    "carbs100": 77.5,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-ribe",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte di Cocco",
+    "brand": "Auchan",
+    "kcal100": 168,
+    "fat100": 17,
+    "carbs100": 1.9,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/latte-di-cocco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Preparato di Frutta a Base di Mirtillo Biologico",
+    "brand": "Auchan",
+    "kcal100": 167,
+    "fat100": 0.1,
+    "carbs100": 40,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/preparato-di-frutta-a-base-di-mirtillo-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Greco alla Pesca",
+    "brand": "Auchan",
+    "kcal100": 86,
+    "fat100": 0,
+    "carbs100": 12,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/yogurt-magro-greco-alla-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente Extra senza Zuccheri",
+    "brand": "Auchan",
+    "kcal100": 438,
+    "fat100": 30.1,
+    "carbs100": 43.8,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/cioccolato-fondente-extra-senza-zuccheri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto Alta Qualità",
+    "brand": "Auchan",
+    "kcal100": 156,
+    "fat100": 8,
+    "carbs100": 1,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/prosciutto-cotto-alta-qualità",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Cacao e Nocciole",
+    "brand": "Auchan",
+    "kcal100": 476,
+    "fat100": 19,
+    "carbs100": 66.3,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/frollini-con-cacao-e-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa Bio",
+    "brand": "Auchan",
+    "kcal100": 363,
+    "fat100": 5.3,
+    "carbs100": 62.4,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/quinoa-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella Light",
+    "brand": "Auchan",
+    "kcal100": 180,
+    "fat100": 10,
+    "carbs100": 0.5,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mozzarella-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti Pause Thé",
+    "brand": "Auchan",
+    "kcal100": 454,
+    "fat100": 13,
+    "carbs100": 74,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/biscotti-pause-thé",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Baguette Vitalità",
+    "brand": "Auchan",
+    "kcal100": 299,
+    "fat100": 6.9,
+    "carbs100": 45.6,
+    "protein100": 10.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/baguette-vitalità",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crusca d'avena",
+    "brand": "Auchan",
+    "kcal100": 366,
+    "fat100": 8,
+    "carbs100": 56,
+    "protein100": 11.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/crusca-davena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Grano Saraceno",
+    "brand": "Auchan",
+    "kcal100": 475,
+    "fat100": 18.75,
+    "carbs100": 68.75,
+    "protein100": 6.88,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/frollini-con-grano-saraceno/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Semifino Vialone Nano",
+    "brand": "Auchan",
+    "kcal100": 346,
+    "fat100": 0.7,
+    "carbs100": 77.5,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-semifino-vialone-nano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger con Verdure Gusto Ricco",
+    "brand": "Auchan",
+    "kcal100": 119,
+    "fat100": 1.1,
+    "carbs100": 21.5,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/burger-con-verdure-gusto-ricco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciole Sgusciate",
+    "brand": "Auchan",
+    "kcal100": 693,
+    "fat100": 60.8,
+    "carbs100": 16.7,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/nocciole-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto Bio",
+    "brand": "Auchan",
+    "kcal100": 454,
+    "fat100": 47,
+    "carbs100": 2.3,
+    "protein100": 4.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pesto-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix 5 Cereali Biologico",
+    "brand": "Auchan",
+    "kcal100": 324,
+    "fat100": 2.2,
+    "carbs100": 53.6,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mix-5-cereali-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Mela",
+    "brand": "Auchan",
+    "kcal100": 60,
+    "fat100": 0.2,
+    "carbs100": 13.6,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-mela",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gran Fritto di Mare in Pastella",
+    "brand": "Auchan",
+    "kcal100": 231,
+    "fat100": 14.7,
+    "carbs100": 13.1,
+    "protein100": 10.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gran-fritto-di-mare-in-pastella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Fino Ribe Parboiled",
+    "brand": "Auchan",
+    "kcal100": 358,
+    "fat100": 0.6,
+    "carbs100": 80,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-fino-ribe-parboiled",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortini di Farro al Gusto Limone",
+    "brand": "Auchan",
+    "kcal100": 418,
+    "fat100": 17,
+    "carbs100": 56,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortini-di-farro-al-gusto-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta per Pizza",
+    "brand": "Auchan",
+    "kcal100": 268,
+    "fat100": 5.2,
+    "carbs100": 46.7,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/pasta-per-pizza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Rigate Integrali",
+    "brand": "Auchan",
+    "kcal100": 343,
+    "fat100": 1.9,
+    "carbs100": 65,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/penne-rigate-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Deliform Fiocchi di Riso e Frumento Integrale",
+    "brand": "Auchan",
+    "kcal100": 384,
+    "fat100": 1.5,
+    "carbs100": 82,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/deliform-fiocchi-di-riso-e-frumento-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciokao",
+    "brand": "Auchan",
+    "kcal100": 381,
+    "fat100": 2.8,
+    "carbs100": 79.9,
+    "protein100": 5.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ciokao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini senza Glutine",
+    "brand": "Auchan",
+    "kcal100": 425,
+    "fat100": 11,
+    "carbs100": 76,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bastoncini-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Rigate Biologiche",
+    "brand": "Auchan",
+    "kcal100": 350,
+    "fat100": 1.2,
+    "carbs100": 71,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/penne-rigate-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Conissimo",
+    "brand": "Auchan",
+    "kcal100": 293.3,
+    "fat100": 15.87,
+    "carbs100": 32.67,
+    "protein100": 4.27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/conissimo/1-cono",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette ai Supersemi",
+    "brand": "Auchan",
+    "kcal100": 368,
+    "fat100": 3.3,
+    "carbs100": 67,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/gallette-ai-supersemi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix Due Mondi",
+    "brand": "Auchan",
+    "kcal100": 351,
+    "fat100": 1.4,
+    "carbs100": 74,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/mix-due-mondi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grano Khorasan Biologico",
+    "brand": "Auchan",
+    "kcal100": 107,
+    "fat100": 0.6,
+    "carbs100": 19.8,
+    "protein100": 4.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/grano-khorasan-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Thaibonnet",
+    "brand": "Auchan",
+    "kcal100": 361,
+    "fat100": 0.6,
+    "carbs100": 78,
+    "protein100": 7.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-thaibonnet",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Corn Flakes",
+    "brand": "Auchan",
+    "kcal100": 375,
+    "fat100": 1,
+    "carbs100": 82,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/corn-flakes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Biologiche Lessate",
+    "brand": "Auchan",
+    "kcal100": 91,
+    "fat100": 0.3,
+    "carbs100": 12.7,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/lenticchie-biologiche-lessate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate con Farina Integrale",
+    "brand": "Auchan",
+    "kcal100": 401,
+    "fat100": 7,
+    "carbs100": 70,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/fette-biscottate-con-farina-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Pomodoro",
+    "brand": "Auchan",
+    "kcal100": 15,
+    "fat100": 0.1,
+    "carbs100": 2.7,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/polpa-di-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Deliform",
+    "brand": "Auchan",
+    "kcal100": 380,
+    "fat100": 1.4,
+    "carbs100": 80,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/deliform",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Norvegese Affumicato",
+    "brand": "Auchan",
+    "kcal100": 182,
+    "fat100": 10,
+    "carbs100": 0.8,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/salmone-norvegese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra di Pesche",
+    "brand": "Auchan",
+    "kcal100": 188,
+    "fat100": 0.1,
+    "carbs100": 46,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/confettura-extra-di-pesche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Rigate",
+    "brand": "Auchan",
+    "kcal100": 362,
+    "fat100": 1.5,
+    "carbs100": 73.2,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/penne-rigate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini ai Cereali",
+    "brand": "Auchan",
+    "kcal100": 470,
+    "fat100": 19,
+    "carbs100": 65,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/frollini-ai-cereali/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bumpies",
+    "brand": "Auchan",
+    "kcal100": 388,
+    "fat100": 1.3,
+    "carbs100": 85,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bumpies",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger con Verdure Orientale",
+    "brand": "Auchan",
+    "kcal100": 99.2,
+    "fat100": 0.17,
+    "carbs100": 19.5,
+    "protein100": 4.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/burger-con-verdure-orientale/1-burger",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Amaranto",
+    "brand": "Auchan",
+    "kcal100": 350,
+    "fat100": 5,
+    "carbs100": 61.7,
+    "protein100": 10.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/amaranto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti Integrali",
+    "brand": "Auchan",
+    "kcal100": 343,
+    "fat100": 1.9,
+    "carbs100": 65,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/spaghetti-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Le Vellutate Ceci",
+    "brand": "Auchan",
+    "kcal100": 367,
+    "fat100": 6.3,
+    "carbs100": 50.4,
+    "protein100": 21.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/le-vellutate-ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Granella di Mandorle",
+    "brand": "Auchan",
+    "kcal100": 662,
+    "fat100": 52.5,
+    "carbs100": 21,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/granella-di-mandorle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croissant Integrale",
+    "brand": "Auchan",
+    "kcal100": 425,
+    "fat100": 23,
+    "carbs100": 44.5,
+    "protein100": 8.75,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/croissant-integrale/1-croissant",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Amaranto Bianco",
+    "brand": "Auchan",
+    "kcal100": 365,
+    "fat100": 7,
+    "carbs100": 58.6,
+    "protein100": 13.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/amaranto-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noir Degustation 85% Cacao",
+    "brand": "Auchan",
+    "kcal100": 591,
+    "fat100": 51.6,
+    "carbs100": 16.8,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/noir-degustation-85-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farfalle Integrali di Farro",
+    "brand": "Auchan",
+    "kcal100": 351,
+    "fat100": 3.1,
+    "carbs100": 65,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/farfalle-integrali-di-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra di Prugne",
+    "brand": "Auchan",
+    "kcal100": 223,
+    "fat100": 0.1,
+    "carbs100": 55,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/confettura-extra-di-prugne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa e Cereali",
+    "brand": "Auchan",
+    "kcal100": 360,
+    "fat100": 3.3,
+    "carbs100": 67.3,
+    "protein100": 11.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/quinoa-e-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Fresca",
+    "brand": "Auchan",
+    "kcal100": 136,
+    "fat100": 9.5,
+    "carbs100": 4.3,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ricotta-fresca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Rapido Nerone",
+    "brand": "Auchan",
+    "kcal100": 211,
+    "fat100": 5.1,
+    "carbs100": 34.2,
+    "protein100": 4.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-rapido-nerone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone Saporito con Ortaggi",
+    "brand": "Auchan",
+    "kcal100": 75,
+    "fat100": 4,
+    "carbs100": 4.7,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/minestrone-saporito-con-ortaggi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortiglioni Integrali di Farro",
+    "brand": "Auchan",
+    "kcal100": 351,
+    "fat100": 3.1,
+    "carbs100": 65,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/tortiglioni-integrali-di-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bisco Round",
+    "brand": "Auchan",
+    "kcal100": 368.8,
+    "fat100": 16.04,
+    "carbs100": 50,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/bisco-round/1-gelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Originario",
+    "brand": "Auchan",
+    "kcal100": 344,
+    "fat100": 1.1,
+    "carbs100": 76,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/riso-originario",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ragù alla Bolognese",
+    "brand": "Auchan",
+    "kcal100": 93,
+    "fat100": 4.9,
+    "carbs100": 6.3,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/ragù-alla-bolognese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Würstel Pollo e Tacchino",
+    "brand": "Auchan",
+    "kcal100": 217,
+    "fat100": 17,
+    "carbs100": 4,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/würstel-pollo-e-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farro Decorticato",
+    "brand": "Auchan",
+    "kcal100": 108,
+    "fat100": 0.7,
+    "carbs100": 19.7,
+    "protein100": 4.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/farro-decorticato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Borlotti Sugo e Funghi",
+    "brand": "Auchan",
+    "kcal100": 80,
+    "fat100": 0.7,
+    "carbs100": 9.8,
+    "protein100": 5.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/borlotti-sugo-e-funghi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Legumes Para Cuscuz",
+    "brand": "Auchan",
+    "kcal100": 454,
+    "fat100": 20,
+    "carbs100": 40,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/auchan/legumes-para-cuscuz",
+      "license": "proprietary"
+    }
+  }
+]

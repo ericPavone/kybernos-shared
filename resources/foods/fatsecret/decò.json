@@ -1,0 +1,7854 @@
+[
+  {
+    "name": "Crema di Arachidi",
+    "brand": "Decò",
+    "kcal100": 614,
+    "fat100": 49,
+    "carbs100": 14,
+    "protein100": 25.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crema-di-arachidi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco 0%",
+    "brand": "Decò",
+    "kcal100": 56,
+    "fat100": 0,
+    "carbs100": 5,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-greco-0",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Iceberg",
+    "brand": "Decò",
+    "kcal100": 19,
+    "fat100": 0.5,
+    "carbs100": 3,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/iceberg",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Albume D’Uovo",
+    "brand": "Decò",
+    "kcal100": 43,
+    "fat100": 0,
+    "carbs100": 0.9,
+    "protein100": 9.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/albume-d’uovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Magro",
+    "brand": "Decò",
+    "kcal100": 56,
+    "fat100": 0,
+    "carbs100": 5,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-greco-magro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Girello Bovino",
+    "brand": "Decò",
+    "kcal100": 110,
+    "fat100": 2.8,
+    "carbs100": 0,
+    "protein100": 21.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/girello-bovino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno al Naturale",
+    "brand": "Decò",
+    "kcal100": 100,
+    "fat100": 0.9,
+    "carbs100": 0,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tonno-al-naturale/1-scatola-sgocciolata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Basmati",
+    "brand": "Decò",
+    "kcal100": 352,
+    "fat100": 0.4,
+    "carbs100": 80.4,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-basmati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cacao Amaro",
+    "brand": "Decò",
+    "kcal100": 361,
+    "fat100": 21,
+    "carbs100": 8.9,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cacao-amaro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco",
+    "brand": "Decò",
+    "kcal100": 126,
+    "fat100": 10,
+    "carbs100": 3.5,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-greco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Integrali",
+    "brand": "Decò",
+    "kcal100": 388.9,
+    "fat100": 11.11,
+    "carbs100": 66.67,
+    "protein100": 11.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fette-biscottate-integrali/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Corn Flakes",
+    "brand": "Decò",
+    "kcal100": 371,
+    "fat100": 1,
+    "carbs100": 81,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/corn-flakes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Grattugiato",
+    "brand": "Decò",
+    "kcal100": 390,
+    "fat100": 30,
+    "carbs100": 0,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/formaggio-grattugiato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cous Cous",
+    "brand": "Decò",
+    "kcal100": 347,
+    "fat100": 1.8,
+    "carbs100": 69,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cous-cous",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi di Patate",
+    "brand": "Decò",
+    "kcal100": 152,
+    "fat100": 0.5,
+    "carbs100": 32,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gnocchi-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta High Protein Mandorla",
+    "brand": "Decò",
+    "kcal100": 412.7,
+    "fat100": 16,
+    "carbs100": 43.64,
+    "protein100": 21.82,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barretta-high-protein-mandorla/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gocce di Cioccolato Extra Fondente",
+    "brand": "Decò",
+    "kcal100": 502,
+    "fat100": 25.9,
+    "carbs100": 56.6,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gocce-di-cioccolato-extra-fondente",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso e Mais",
+    "brand": "Decò",
+    "kcal100": 400,
+    "fat100": 2.86,
+    "carbs100": 82.86,
+    "protein100": 7.14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gallette-di-riso-e-mais/1-galletta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Integrale",
+    "brand": "Decò",
+    "kcal100": 260,
+    "fat100": 5.2,
+    "carbs100": 39.2,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-integrale/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso",
+    "brand": "Decò",
+    "kcal100": 386,
+    "fat100": 3.5,
+    "carbs100": 78.8,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gallette-di-riso/1-galletta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Miele Millefiori",
+    "brand": "Decò",
+    "kcal100": 320,
+    "fat100": 0,
+    "carbs100": 80,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/miele-millefiori",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "High Protein 18 Pane a Fette",
+    "brand": "Decò",
+    "kcal100": 275,
+    "fat100": 9.4,
+    "carbs100": 25,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/high-protein-18-pane-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro Occhione al Naturale",
+    "brand": "Decò",
+    "kcal100": 156,
+    "fat100": 6.3,
+    "carbs100": 0,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-sgombro-occhione-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais Biologiche",
+    "brand": "Decò",
+    "kcal100": 342.9,
+    "fat100": 1.43,
+    "carbs100": 75.71,
+    "protein100": 7.14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gallette-di-mais-biologiche/1-galletta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais",
+    "brand": "Decò",
+    "kcal100": 372,
+    "fat100": 0.9,
+    "carbs100": 82.1,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gallette-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancake Proteici",
+    "brand": "Decò",
+    "kcal100": 226,
+    "fat100": 5,
+    "carbs100": 28,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pancake-proteici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco 2% senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 71,
+    "fat100": 2,
+    "carbs100": 4.9,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-greco-2-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Magro Vaniglia",
+    "brand": "Decò",
+    "kcal100": 76,
+    "fat100": 0,
+    "carbs100": 12,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-greco-magro-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli con Cioccolato",
+    "brand": "Decò",
+    "kcal100": 461,
+    "fat100": 19,
+    "carbs100": 61,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/muesli-con-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Merluzzo Sudafricano",
+    "brand": "Decò",
+    "kcal100": 76,
+    "fat100": 0.7,
+    "carbs100": 1,
+    "protein100": 17.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cuori-di-merluzzo-sudafricano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "High Protein 20",
+    "brand": "Decò",
+    "kcal100": 82,
+    "fat100": 1.5,
+    "carbs100": 6.6,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/high-protein-20",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Magro Fragola",
+    "brand": "Decò",
+    "kcal100": 68,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-greco-magro-fragola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta",
+    "brand": "Decò",
+    "kcal100": 150,
+    "fat100": 11,
+    "carbs100": 2.8,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ricotta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricottina senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 150,
+    "fat100": 11,
+    "carbs100": 2.8,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ricottina-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Seitan",
+    "brand": "Decò",
+    "kcal100": 178,
+    "fat100": 2.9,
+    "carbs100": 3.3,
+    "protein100": 34,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/seitan",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Tacchino Arrosto",
+    "brand": "Decò",
+    "kcal100": 104,
+    "fat100": 1.4,
+    "carbs100": 2.9,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/petto-di-tacchino-arrosto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cous Cous Integrale",
+    "brand": "Decò",
+    "kcal100": 347,
+    "fat100": 2.3,
+    "carbs100": 64,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cous-cous-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Stracciatella",
+    "brand": "Decò",
+    "kcal100": 93,
+    "fat100": 1.4,
+    "carbs100": 14.1,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-greco-stracciatella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "72% Cioccolato Fondente Extra",
+    "brand": "Decò",
+    "kcal100": 519,
+    "fat100": 35,
+    "carbs100": 33,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/72-cioccolato-fondente-extra",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Saltimbocca",
+    "brand": "Decò",
+    "kcal100": 260,
+    "fat100": 3.3,
+    "carbs100": 48,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/saltimbocca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Norvegese Affumicato",
+    "brand": "Decò",
+    "kcal100": 182,
+    "fat100": 10,
+    "carbs100": 0.5,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salmone-norvegese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Avena",
+    "brand": "Decò",
+    "kcal100": 372,
+    "fat100": 8,
+    "carbs100": 60,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fiocchi-di-avena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Tonno al Naturale",
+    "brand": "Decò",
+    "kcal100": 128,
+    "fat100": 3,
+    "carbs100": 0.5,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-tonno-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Classica",
+    "brand": "Decò",
+    "kcal100": 314,
+    "fat100": 9.2,
+    "carbs100": 49,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/piadina-classica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Merluzzo al Naturale",
+    "brand": "Decò",
+    "kcal100": 84,
+    "fat100": 0.8,
+    "carbs100": 2.5,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-merluzzo-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno all'olio di Oliva",
+    "brand": "Decò",
+    "kcal100": 226.9,
+    "fat100": 15,
+    "carbs100": 0,
+    "protein100": 23.08,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tonno-allolio-di-oliva/1-scatoletta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Classiche",
+    "brand": "Decò",
+    "kcal100": 410,
+    "fat100": 7,
+    "carbs100": 73,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fette-biscottate-classiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Multicereale",
+    "brand": "Decò",
+    "kcal100": 380,
+    "fat100": 1.8,
+    "carbs100": 78,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/multicereale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers Integrali",
+    "brand": "Decò",
+    "kcal100": 425.8,
+    "fat100": 10.65,
+    "carbs100": 67.74,
+    "protein100": 10.97,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crackers-integrali/1-pacchetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chicche di Patata",
+    "brand": "Decò",
+    "kcal100": 152,
+    "fat100": 0.5,
+    "carbs100": 32,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/chicche-di-patata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bran Stick",
+    "brand": "Decò",
+    "kcal100": 313,
+    "fat100": 3,
+    "carbs100": 40,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bran-stick",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais",
+    "brand": "Decò",
+    "kcal100": 83,
+    "fat100": 1.8,
+    "carbs100": 12.2,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente 70%",
+    "brand": "Decò",
+    "kcal100": 538,
+    "fat100": 38.5,
+    "carbs100": 31,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-fondente-70",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Tacchino",
+    "brand": "Decò",
+    "kcal100": 89,
+    "fat100": 1.8,
+    "carbs100": 3.3,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/arrosto-di-tacchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine di Formaggio Fuso Light",
+    "brand": "Decò",
+    "kcal100": 175,
+    "fat100": 7,
+    "carbs100": 10,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fettine-di-formaggio-fuso-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci",
+    "brand": "Decò",
+    "kcal100": 125,
+    "fat100": 2.2,
+    "carbs100": 16.8,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tofu al Naturale",
+    "brand": "Decò",
+    "kcal100": 149,
+    "fat100": 9,
+    "carbs100": 0.7,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tofu-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Chia",
+    "brand": "Decò",
+    "kcal100": 443,
+    "fat100": 31,
+    "carbs100": 4.5,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/semi-di-chia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Selvaggio Rosa",
+    "brand": "Decò",
+    "kcal100": 98,
+    "fat100": 2.4,
+    "carbs100": 0,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salmone-selvaggio-rosa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Seitan al Naturale",
+    "brand": "Decò",
+    "kcal100": 140,
+    "fat100": 1.8,
+    "carbs100": 5.7,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/seitan-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella",
+    "brand": "Decò",
+    "kcal100": 242,
+    "fat100": 18,
+    "carbs100": 2,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arrosto di Pollo",
+    "brand": "Decò",
+    "kcal100": 91,
+    "fat100": 1.9,
+    "carbs100": 2.5,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/arrosto-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Crudo",
+    "brand": "Decò",
+    "kcal100": 204,
+    "fat100": 10,
+    "carbs100": 0.1,
+    "protein100": 28,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/prosciutto-crudo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misticanza",
+    "brand": "Decò",
+    "kcal100": 27,
+    "fat100": 0.4,
+    "carbs100": 2.7,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/misticanza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Greco Limone",
+    "brand": "Decò",
+    "kcal100": 68,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-magro-greco-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Cereali con Cioccolato",
+    "brand": "Decò",
+    "kcal100": 400,
+    "fat100": 9.05,
+    "carbs100": 70,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barrette-di-cereali-con-cioccolato/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente",
+    "brand": "Decò",
+    "kcal100": 526,
+    "fat100": 31,
+    "carbs100": 51,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-fondente",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scarola Riccia",
+    "brand": "Decò",
+    "kcal100": 20,
+    "fat100": 0.3,
+    "carbs100": 2.7,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/scarola-riccia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola Punta d'anca",
+    "brand": "Decò",
+    "kcal100": 158,
+    "fat100": 1.6,
+    "carbs100": 1,
+    "protein100": 35,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bresaola-punta-danca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rucola",
+    "brand": "Decò",
+    "kcal100": 31,
+    "fat100": 0.3,
+    "carbs100": 3.9,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/rucola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uova",
+    "brand": "Decò",
+    "kcal100": 128,
+    "fat100": 8.7,
+    "carbs100": 0,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/uova",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Bianco 0,1%",
+    "brand": "Decò",
+    "kcal100": 37,
+    "fat100": 0.1,
+    "carbs100": 4.6,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-magro-bianco-01",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Dessert Proteico al Caramello Salato",
+    "brand": "Decò",
+    "kcal100": 80,
+    "fat100": 1.4,
+    "carbs100": 6.6,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/dessert-proteico-al-caramello-salato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata Light Albicocche",
+    "brand": "Decò",
+    "kcal100": 48,
+    "fat100": 0.5,
+    "carbs100": 14,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/marmellata-light-albicocche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bianco",
+    "brand": "Decò",
+    "kcal100": 274,
+    "fat100": 5.4,
+    "carbs100": 47,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta High Protein Cioccolato",
+    "brand": "Decò",
+    "kcal100": 412.7,
+    "fat100": 16,
+    "carbs100": 43.64,
+    "protein100": 21.82,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barretta-high-protein-cioccolato/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno all'olio di Oliva",
+    "brand": "Decò",
+    "kcal100": 231,
+    "fat100": 15,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tonno-all’olio-d’oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci in Cubetti",
+    "brand": "Decò",
+    "kcal100": 28,
+    "fat100": 0.8,
+    "carbs100": 1.3,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/spinaci-in-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancarrè",
+    "brand": "Decò",
+    "kcal100": 258.8,
+    "fat100": 3.53,
+    "carbs100": 46.47,
+    "protein100": 8.24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pancarrè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panbauletto Integrale",
+    "brand": "Decò",
+    "kcal100": 258,
+    "fat100": 5.1,
+    "carbs100": 39,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/panbauletto-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Multicereale con Cioccolato",
+    "brand": "Decò",
+    "kcal100": 404,
+    "fat100": 6.2,
+    "carbs100": 74,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/multicereale-con-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella Light",
+    "brand": "Decò",
+    "kcal100": 173,
+    "fat100": 11,
+    "carbs100": 1.8,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mozzarella-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Sgusciate",
+    "brand": "Decò",
+    "kcal100": 595,
+    "fat100": 50,
+    "carbs100": 9.1,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mandorle-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Cereali e Cioccolato",
+    "brand": "Decò",
+    "kcal100": 446.2,
+    "fat100": 18.46,
+    "carbs100": 59.23,
+    "protein100": 7.69,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/biscotti-con-cereali-e-cioccolato/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Grano Duro",
+    "brand": "Decò",
+    "kcal100": 263,
+    "fat100": 5,
+    "carbs100": 45,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-grano-duro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Sfogliata",
+    "brand": "Decò",
+    "kcal100": 308,
+    "fat100": 7.8,
+    "carbs100": 51,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/piadina-sfogliata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Bianco",
+    "brand": "Decò",
+    "kcal100": 40,
+    "fat100": 0.1,
+    "carbs100": 5.1,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-magro-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioko Rice",
+    "brand": "Decò",
+    "kcal100": 381,
+    "fat100": 3,
+    "carbs100": 80,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioko-rice",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco",
+    "brand": "Decò",
+    "kcal100": 68.8,
+    "fat100": 3.52,
+    "carbs100": 4.8,
+    "protein100": 4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-bianco/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci in Vetro",
+    "brand": "Decò",
+    "kcal100": 125,
+    "fat100": 2.2,
+    "carbs100": 16.8,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ceci-in-vetro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "High Protein 21",
+    "brand": "Decò",
+    "kcal100": 63,
+    "fat100": 0.5,
+    "carbs100": 5.4,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/high-protein-21",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farro Soffiato al Naturale",
+    "brand": "Decò",
+    "kcal100": 359,
+    "fat100": 2.7,
+    "carbs100": 67,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/farro-soffiato-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette Riso e Farro",
+    "brand": "Decò",
+    "kcal100": 375,
+    "fat100": 2.7,
+    "carbs100": 75,
+    "protein100": 9.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gallette-riso-e-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Greco Magro Pesca",
+    "brand": "Decò",
+    "kcal100": 68,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-greco-magro-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pan Bauletto High Protein 18",
+    "brand": "Decò",
+    "kcal100": 275,
+    "fat100": 9.4,
+    "carbs100": 25,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pan-bauletto-high-protein-18",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Cannellini",
+    "brand": "Decò",
+    "kcal100": 87,
+    "fat100": 0.4,
+    "carbs100": 12.1,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagioli-cannellini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini",
+    "brand": "Decò",
+    "kcal100": 462.5,
+    "fat100": 18.13,
+    "carbs100": 68.75,
+    "protein100": 6.88,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto alla Genovese Senz'aglio",
+    "brand": "Decò",
+    "kcal100": 453,
+    "fat100": 45,
+    "carbs100": 7.6,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pesto-alla-genovese-senzaglio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Champignon Tagliati",
+    "brand": "Decò",
+    "kcal100": 24,
+    "fat100": 0.2,
+    "carbs100": 0.8,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/funghi-champignon-tagliati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Magatello",
+    "brand": "Decò",
+    "kcal100": 110,
+    "fat100": 3,
+    "carbs100": 0,
+    "protein100": 21.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/magatello",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burro",
+    "brand": "Decò",
+    "kcal100": 740,
+    "fat100": 82,
+    "carbs100": 0.6,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto Alta Qualità",
+    "brand": "Decò",
+    "kcal100": 158,
+    "fat100": 8.7,
+    "carbs100": 0.6,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/prosciutto-cotto-alta-qualità",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Piccoli",
+    "brand": "Decò",
+    "kcal100": 72,
+    "fat100": 0.9,
+    "carbs100": 7.6,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/piselli-piccoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Kefir Bianco senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 68,
+    "fat100": 4.1,
+    "carbs100": 3.7,
+    "protein100": 4.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/kefir-bianco-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bietole",
+    "brand": "Decò",
+    "kcal100": 16,
+    "fat100": 0.5,
+    "carbs100": 1.8,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bietole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie",
+    "brand": "Decò",
+    "kcal100": 72,
+    "fat100": 0.3,
+    "carbs100": 10.3,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lenticchie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noci Sgusciate",
+    "brand": "Decò",
+    "kcal100": 689,
+    "fat100": 65,
+    "carbs100": 7,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/noci-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tacchino Arrosto",
+    "brand": "Decò",
+    "kcal100": 97,
+    "fat100": 0.7,
+    "carbs100": 4.1,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tacchino-arrosto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina Integrale di Grano Tenero",
+    "brand": "Decò",
+    "kcal100": 336,
+    "fat100": 3,
+    "carbs100": 55.1,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/farina-integrale-di-grano-tenero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers Salati",
+    "brand": "Decò",
+    "kcal100": 438.7,
+    "fat100": 10.65,
+    "carbs100": 74.19,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crackers-salati/1-pacchetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Speck",
+    "brand": "Decò",
+    "kcal100": 230,
+    "fat100": 12,
+    "carbs100": 0.5,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/speck",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Affumicato Norvegese",
+    "brand": "Decò",
+    "kcal100": 172,
+    "fat100": 8.2,
+    "carbs100": 0.5,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salmone-affumicato-norvegese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sottilette senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 225,
+    "fat100": 17,
+    "carbs100": 0.3,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/sottilette-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente Extra Senza Zucchero",
+    "brand": "Decò",
+    "kcal100": 458,
+    "fat100": 32,
+    "carbs100": 44,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-fondente-extra-senza-zucchero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate 5 Cereali",
+    "brand": "Decò",
+    "kcal100": 400,
+    "fat100": 11.11,
+    "carbs100": 66.67,
+    "protein100": 11.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fette-biscottate-5-cereali/1-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Integrali",
+    "brand": "Decò",
+    "kcal100": 405.6,
+    "fat100": 8.33,
+    "carbs100": 69.44,
+    "protein100": 11.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fette-biscottate-integrali/4-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti",
+    "brand": "Decò",
+    "kcal100": 105,
+    "fat100": 0.9,
+    "carbs100": 15.3,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagioli-borlotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pangrattato",
+    "brand": "Decò",
+    "kcal100": 366,
+    "fat100": 1.2,
+    "carbs100": 76,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pangrattato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi Tostate Salate",
+    "brand": "Decò",
+    "kcal100": 614,
+    "fat100": 49,
+    "carbs100": 14,
+    "protein100": 25.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/arachidi-tostate-salate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scamorza Affumicata",
+    "brand": "Decò",
+    "kcal100": 288,
+    "fat100": 22,
+    "carbs100": 0.5,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/scamorza-affumicata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagiolini Finissimi",
+    "brand": "Decò",
+    "kcal100": 32,
+    "fat100": 0.5,
+    "carbs100": 3.2,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagiolini-finissimi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Ribe",
+    "brand": "Decò",
+    "kcal100": 352,
+    "fat100": 0.4,
+    "carbs100": 80.4,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-ribe",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto Max 3% di Grassi",
+    "brand": "Decò",
+    "kcal100": 109,
+    "fat100": 2.5,
+    "carbs100": 0.5,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/prosciutto-cotto-max-3-di-grassi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio a Pasta Filata",
+    "brand": "Decò",
+    "kcal100": 314,
+    "fat100": 24,
+    "carbs100": 0.6,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/formaggio-a-pasta-filata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Girasole",
+    "brand": "Decò",
+    "kcal100": 613,
+    "fat100": 52,
+    "carbs100": 11,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/semi-di-girasole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Lessate",
+    "brand": "Decò",
+    "kcal100": 72,
+    "fat100": 0.3,
+    "carbs100": 10.3,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lenticchie-lessate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Parmigiano Reggiano",
+    "brand": "Decò",
+    "kcal100": 402,
+    "fat100": 30,
+    "carbs100": 0,
+    "protein100": 32,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/parmigiano-reggiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bevanda di Mandorla",
+    "brand": "Decò",
+    "kcal100": 65,
+    "fat100": 3.7,
+    "carbs100": 6.5,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bevanda-di-mandorla",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte UHT Scremato",
+    "brand": "Decò",
+    "kcal100": 34,
+    "fat100": 0.1,
+    "carbs100": 4.9,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/latte-uht-scremato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Steakhouse",
+    "brand": "Decò",
+    "kcal100": 132,
+    "fat100": 3.5,
+    "carbs100": 21.3,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patate-steakhouse",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Fragola",
+    "brand": "Decò",
+    "kcal100": 59,
+    "fat100": 0.1,
+    "carbs100": 10.2,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-magro-fragola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Merluzzo Impanate",
+    "brand": "Decò",
+    "kcal100": 188,
+    "fat100": 8.5,
+    "carbs100": 15.3,
+    "protein100": 12.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cotolette-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte di Avena",
+    "brand": "Decò",
+    "kcal100": 45,
+    "fat100": 1.2,
+    "carbs100": 8,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/latte-di-avena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate Integrali",
+    "brand": "Decò",
+    "kcal100": 405,
+    "fat100": 7,
+    "carbs100": 70,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fette-biscottate-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carote alla Julienne",
+    "brand": "Decò",
+    "kcal100": 43,
+    "fat100": 0.2,
+    "carbs100": 7.6,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/carote-alla-julienne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stick di Pollo",
+    "brand": "Decò",
+    "kcal100": 189,
+    "fat100": 7.2,
+    "carbs100": 17,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/stick-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lattughino",
+    "brand": "Decò",
+    "kcal100": 17,
+    "fat100": 0.1,
+    "carbs100": 2.2,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lattughino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura di Fragole Light",
+    "brand": "Decò",
+    "kcal100": 42,
+    "fat100": 0.5,
+    "carbs100": 12,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/confettura-di-fragole-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Cereali",
+    "brand": "Decò",
+    "kcal100": 400,
+    "fat100": 9.05,
+    "carbs100": 70,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barrette-di-cereali/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Succo e Polpa Albicocca",
+    "brand": "Decò",
+    "kcal100": 62,
+    "fat100": 0,
+    "carbs100": 14.6,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/succo-e-polpa-albicocca/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Schiacciatine Olive",
+    "brand": "Decò",
+    "kcal100": 437.5,
+    "fat100": 13,
+    "carbs100": 67.5,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/schiacciatine-olive/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto alla Genovese",
+    "brand": "Decò",
+    "kcal100": 453,
+    "fat100": 45,
+    "carbs100": 7.6,
+    "protein100": 5.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pesto-alla-genovese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno solo Un Filo D’Olio",
+    "brand": "Decò",
+    "kcal100": 227,
+    "fat100": 15,
+    "carbs100": 0,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tonno-solo-un-filo-d’olio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Stick",
+    "brand": "Decò",
+    "kcal100": 136,
+    "fat100": 4.4,
+    "carbs100": 20,
+    "protein100": 2.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patate-stick",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Variegato Amarena",
+    "brand": "Decò",
+    "kcal100": 197,
+    "fat100": 7.1,
+    "carbs100": 31,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gelato-variegato-amarena",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Mista",
+    "brand": "Decò",
+    "kcal100": 19,
+    "fat100": 0.2,
+    "carbs100": 1.6,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/insalata-mista",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panini Maxi Integrali con Sesamo",
+    "brand": "Decò",
+    "kcal100": 262,
+    "fat100": 4.6,
+    "carbs100": 43,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/panini-maxi-integrali-con-sesamo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane a Fette High Protein 18",
+    "brand": "Decò",
+    "kcal100": 275,
+    "fat100": 9.4,
+    "carbs100": 25,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-a-fette-high-protein-18",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Frutti di Bosco Surgelati",
+    "brand": "Decò",
+    "kcal100": 48,
+    "fat100": 0.4,
+    "carbs100": 11.5,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/misto-frutti-di-bosco-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Greco Caffè",
+    "brand": "Decò",
+    "kcal100": 70,
+    "fat100": 0,
+    "carbs100": 11.5,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-magro-greco-caffè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passata di Pomodoro",
+    "brand": "Decò",
+    "kcal100": 23,
+    "fat100": 0.1,
+    "carbs100": 3.6,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/passata-di-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto Scelto",
+    "brand": "Decò",
+    "kcal100": 123,
+    "fat100": 5,
+    "carbs100": 0.9,
+    "protein100": 18.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/prosciutto-cotto-scelto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Salmone al Naturale",
+    "brand": "Decò",
+    "kcal100": 168,
+    "fat100": 9.8,
+    "carbs100": 0,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetto-di-salmone-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Ribe Parboiled",
+    "brand": "Decò",
+    "kcal100": 346,
+    "fat100": 1.1,
+    "carbs100": 77,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-ribe-parboiled",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Broccoli",
+    "brand": "Decò",
+    "kcal100": 24,
+    "fat100": 0,
+    "carbs100": 2,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/broccoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ghiacciolo Amarena",
+    "brand": "Decò",
+    "kcal100": 81.5,
+    "fat100": 0,
+    "carbs100": 20,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ghiacciolo-amarena/1-ghiacciolo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 90,
+    "fat100": 1.5,
+    "carbs100": 14.5,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panbauletto senza Glutine",
+    "brand": "Decò",
+    "kcal100": 264,
+    "fat100": 7.2,
+    "carbs100": 48,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/panbauletto-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostini Integrali",
+    "brand": "Decò",
+    "kcal100": 442,
+    "fat100": 11,
+    "carbs100": 70,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crostini-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stracchino Light",
+    "brand": "Decò",
+    "kcal100": 171,
+    "fat100": 11,
+    "carbs100": 2,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/stracchino-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers con Riso Soffiato",
+    "brand": "Decò",
+    "kcal100": 421.1,
+    "fat100": 9.47,
+    "carbs100": 73.68,
+    "protein100": 8.95,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crackers-con-riso-soffiato/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti in Vetro",
+    "brand": "Decò",
+    "kcal100": 97,
+    "fat100": 0.5,
+    "carbs100": 13.2,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagioli-borlotti-in-vetro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra di Fragole",
+    "brand": "Decò",
+    "kcal100": 251,
+    "fat100": 0.2,
+    "carbs100": 60.6,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/confettura-extra-di-fragole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 242,
+    "fat100": 18,
+    "carbs100": 2,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mozzarella-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Dessert Proteico al Cioccolato",
+    "brand": "Decò",
+    "kcal100": 82,
+    "fat100": 1.5,
+    "carbs100": 6.6,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/dessert-proteico-al-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sfogliatine Glassate",
+    "brand": "Decò",
+    "kcal100": 500,
+    "fat100": 27,
+    "carbs100": 58,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/sfogliatine-glassate/1-sfogliatina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa di Soia",
+    "brand": "Decò",
+    "kcal100": 63,
+    "fat100": 0.5,
+    "carbs100": 7.6,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salsa-di-soia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Merluzzo",
+    "brand": "Decò",
+    "kcal100": 180,
+    "fat100": 8.1,
+    "carbs100": 13.1,
+    "protein100": 13.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bastoncini-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci",
+    "brand": "Decò",
+    "kcal100": 36,
+    "fat100": 0.7,
+    "carbs100": 3,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente con Nocciole",
+    "brand": "Decò",
+    "kcal100": 552,
+    "fat100": 37,
+    "carbs100": 45,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-fondente-con-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Integrali",
+    "brand": "Decò",
+    "kcal100": 444.4,
+    "fat100": 15.56,
+    "carbs100": 65.56,
+    "protein100": 7.78,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-integrali/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carote Julienne",
+    "brand": "Decò",
+    "kcal100": 43,
+    "fat100": 0.2,
+    "carbs100": 7.6,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/carote-julienne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortellini al Prosciutto Crudo",
+    "brand": "Decò",
+    "kcal100": 274,
+    "fat100": 4.9,
+    "carbs100": 44,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tortellini-al-prosciutto-crudo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine con Cheddar",
+    "brand": "Decò",
+    "kcal100": 245,
+    "fat100": 17,
+    "carbs100": 7.5,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fettine-con-cheddar",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Parboiled Integrale",
+    "brand": "Decò",
+    "kcal100": 343,
+    "fat100": 3.3,
+    "carbs100": 70,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-parboiled-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioko Sphere",
+    "brand": "Decò",
+    "kcal100": 376,
+    "fat100": 3.5,
+    "carbs100": 72,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioko-sphere",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra di Ciliegie",
+    "brand": "Decò",
+    "kcal100": 249,
+    "fat100": 0.1,
+    "carbs100": 60.4,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/confettura-extra-di-ciliegie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Focaccia con Pomodorini e Olio Extravergine di Oliva",
+    "brand": "Decò",
+    "kcal100": 262,
+    "fat100": 8.6,
+    "carbs100": 38,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/focaccia-con-pomodorini-e-olio-extravergine-di-oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Creamy Crema di Arachidi",
+    "brand": "Decò",
+    "kcal100": 644,
+    "fat100": 54,
+    "carbs100": 13,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/creamy-crema-di-arachidi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fettine di Formaggio Fuso",
+    "brand": "Decò",
+    "kcal100": 256,
+    "fat100": 18,
+    "carbs100": 8.5,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fettine-di-formaggio-fuso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Feta DOP",
+    "brand": "Decò",
+    "kcal100": 289,
+    "fat100": 24.5,
+    "carbs100": 0.7,
+    "protein100": 16.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/feta-dop",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Merluzzo",
+    "brand": "Decò",
+    "kcal100": 188,
+    "fat100": 8.4,
+    "carbs100": 14.4,
+    "protein100": 12.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bastoncini-di-merluzzo/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Broccoli Surgelati",
+    "brand": "Decò",
+    "kcal100": 24,
+    "fat100": 0,
+    "carbs100": 2,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/broccoli-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli Croccante Con Uvetta, Banana e Cocco",
+    "brand": "Decò",
+    "kcal100": 427,
+    "fat100": 13,
+    "carbs100": 66,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/muesli-croccante-con-uvetta-banana-e-cocco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Orata al Naturale",
+    "brand": "Decò",
+    "kcal100": 126,
+    "fat100": 5.52,
+    "carbs100": 0,
+    "protein100": 18.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-orata-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bresaola",
+    "brand": "Decò",
+    "kcal100": 158,
+    "fat100": 1.6,
+    "carbs100": 1,
+    "protein100": 35,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bresaola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema alle Nocciole",
+    "brand": "Decò",
+    "kcal100": 522,
+    "fat100": 28.1,
+    "carbs100": 60.1,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crema-alle-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pomodori Pelati",
+    "brand": "Decò",
+    "kcal100": 26,
+    "fat100": 0.36,
+    "carbs100": 4.1,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pomodori-pelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Cacao e Nocciole",
+    "brand": "Decò",
+    "kcal100": 467,
+    "fat100": 19,
+    "carbs100": 63,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-con-cacao-e-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostata All’Albicocca",
+    "brand": "Decò",
+    "kcal100": 412,
+    "fat100": 13,
+    "carbs100": 68,
+    "protein100": 5.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crostata-all’albicocca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Quinoa Bianca",
+    "brand": "Decò",
+    "kcal100": 353,
+    "fat100": 6.1,
+    "carbs100": 57,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/quinoa-bianca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 448,
+    "fat100": 13.2,
+    "carbs100": 72,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-senza-lattosio/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Vegetali con Zucchine e Formaggio Edam",
+    "brand": "Decò",
+    "kcal100": 191,
+    "fat100": 7.3,
+    "carbs100": 25,
+    "protein100": 5.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-vegetali-con-zucchine-e-formaggio-edam",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farro Perlato",
+    "brand": "Decò",
+    "kcal100": 336,
+    "fat100": 2.5,
+    "carbs100": 60,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/farro-perlato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto Alta Qualità 3% di Grassi",
+    "brand": "Decò",
+    "kcal100": 109,
+    "fat100": 2.5,
+    "carbs100": 0.5,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/prosciutto-cotto-alta-qualità-3-di-grassi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Integrale Soffiato Biologico",
+    "brand": "Decò",
+    "kcal100": 376,
+    "fat100": 3.1,
+    "carbs100": 77,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-integrale-soffiato-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cacao Zuccherato In Polvere",
+    "brand": "Decò",
+    "kcal100": 386,
+    "fat100": 7.6,
+    "carbs100": 67,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cacao-zuccherato-in-polvere",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiori di Merluzzo",
+    "brand": "Decò",
+    "kcal100": 71,
+    "fat100": 0.3,
+    "carbs100": 0,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fiori-di-merluzzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petit per Latte",
+    "brand": "Decò",
+    "kcal100": 433.3,
+    "fat100": 10,
+    "carbs100": 76.67,
+    "protein100": 8.33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/petit-per-latte/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso al Latte",
+    "brand": "Decò",
+    "kcal100": 129,
+    "fat100": 3.2,
+    "carbs100": 21.7,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagiolini Fini",
+    "brand": "Decò",
+    "kcal100": 23,
+    "fat100": 0.2,
+    "carbs100": 2.7,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagiolini-fini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Latte Intero Uht",
+    "brand": "Decò",
+    "kcal100": 65,
+    "fat100": 3.6,
+    "carbs100": 4.9,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/latte-intero-uht",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Maionese",
+    "brand": "Decò",
+    "kcal100": 723,
+    "fat100": 79.5,
+    "carbs100": 0.6,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/maionese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Grigliate BBQ",
+    "brand": "Decò",
+    "kcal100": 501,
+    "fat100": 26.5,
+    "carbs100": 56.5,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patatine-grigliate-bbq",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Cereali",
+    "brand": "Decò",
+    "kcal100": 438.5,
+    "fat100": 15.38,
+    "carbs100": 64.62,
+    "protein100": 7.69,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/biscotti-con-cereali/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Paprika",
+    "brand": "Decò",
+    "kcal100": 519,
+    "fat100": 31,
+    "carbs100": 51,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patatine-paprika",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle",
+    "brand": "Decò",
+    "kcal100": 630,
+    "fat100": 55.3,
+    "carbs100": 4.6,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mandorle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bevanda di Riso Bio",
+    "brand": "Decò",
+    "kcal100": 55,
+    "fat100": 1,
+    "carbs100": 11,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bevanda-di-riso-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pinsa",
+    "brand": "Decò",
+    "kcal100": 245,
+    "fat100": 2.2,
+    "carbs100": 46,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pinsa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Gocce di Cioccolato",
+    "brand": "Decò",
+    "kcal100": 475,
+    "fat100": 20,
+    "carbs100": 65.83,
+    "protein100": 6.67,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-con-gocce-di-cioccolato/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Mista",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pasta-mista",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Fini",
+    "brand": "Decò",
+    "kcal100": 55,
+    "fat100": 0.5,
+    "carbs100": 5.2,
+    "protein100": 4.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/piselli-fini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Honey Rings",
+    "brand": "Decò",
+    "kcal100": 389,
+    "fat100": 3.8,
+    "carbs100": 80,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/honey-rings",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Zucca",
+    "brand": "Decò",
+    "kcal100": 592,
+    "fat100": 49,
+    "carbs100": 4.7,
+    "protein100": 30,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/semi-di-zucca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco Dolce con Anelli di Cioccolato al Latte",
+    "brand": "Decò",
+    "kcal100": 131,
+    "fat100": 5.7,
+    "carbs100": 16,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-bianco-dolce-con-anelli-di-cioccolato-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricottine",
+    "brand": "Decò",
+    "kcal100": 134,
+    "fat100": 10,
+    "carbs100": 3,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ricottine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina 00",
+    "brand": "Decò",
+    "kcal100": 345,
+    "fat100": 1,
+    "carbs100": 73,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/farina-00",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalatina all'aceto di Vino",
+    "brand": "Decò",
+    "kcal100": 27,
+    "fat100": 0.2,
+    "carbs100": 5.2,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/insalatina-allaceto-di-vino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli",
+    "brand": "Decò",
+    "kcal100": 354,
+    "fat100": 1.4,
+    "carbs100": 72.8,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fusilli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Contorno Colorato Italiano",
+    "brand": "Decò",
+    "kcal100": 31,
+    "fat100": 0,
+    "carbs100": 4.3,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/contorno-colorato-italiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Merluzzo Sudafricano al Naturale",
+    "brand": "Decò",
+    "kcal100": 84,
+    "fat100": 0.8,
+    "carbs100": 2.5,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-merluzzo-sudafricano-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Pesca e Albicocca",
+    "brand": "Decò",
+    "kcal100": 59.2,
+    "fat100": 0.08,
+    "carbs100": 10.24,
+    "protein100": 3.28,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-magro-pesca-e-albicocca/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pucce Salentine",
+    "brand": "Decò",
+    "kcal100": 270,
+    "fat100": 3.9,
+    "carbs100": 50,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pucce-salentine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Chips di Mela Disidratata",
+    "brand": "Decò",
+    "kcal100": 358,
+    "fat100": 0,
+    "carbs100": 80,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/chips-di-mela-disidratata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix di Semi Bio",
+    "brand": "Decò",
+    "kcal100": 585,
+    "fat100": 49,
+    "carbs100": 8.1,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mix-di-semi-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo All Arrabiata",
+    "brand": "Decò",
+    "kcal100": 56,
+    "fat100": 2.5,
+    "carbs100": 5.8,
+    "protein100": 1.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/sugo-all-arrabiata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Classiche",
+    "brand": "Decò",
+    "kcal100": 528,
+    "fat100": 31,
+    "carbs100": 54,
+    "protein100": 6.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patatine-classiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette con Spinaci",
+    "brand": "Decò",
+    "kcal100": 216,
+    "fat100": 11,
+    "carbs100": 17,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cotolette-con-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Grigliate al Rosmarino",
+    "brand": "Decò",
+    "kcal100": 151,
+    "fat100": 6.3,
+    "carbs100": 20,
+    "protein100": 2.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patate-grigliate-al-rosmarino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostini Classici",
+    "brand": "Decò",
+    "kcal100": 428,
+    "fat100": 9.2,
+    "carbs100": 74,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crostini-classici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cotolette di Pollo",
+    "brand": "Decò",
+    "kcal100": 242,
+    "fat100": 13,
+    "carbs100": 19,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cotolette-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Carnaroli",
+    "brand": "Decò",
+    "kcal100": 352,
+    "fat100": 0.4,
+    "carbs100": 80.4,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-carnaroli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Tondini",
+    "brand": "Decò",
+    "kcal100": 103,
+    "fat100": 0.6,
+    "carbs100": 14.5,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagioli-tondini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli con Uvetta e Nocciole",
+    "brand": "Decò",
+    "kcal100": 464,
+    "fat100": 20,
+    "carbs100": 60,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/muesli-con-uvetta-e-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fishburger di Merluzzo D’Alaska",
+    "brand": "Decò",
+    "kcal100": 187,
+    "fat100": 7.3,
+    "carbs100": 18.4,
+    "protein100": 11.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fishburger-di-merluzzo-d’alaska",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone di Verdure",
+    "brand": "Decò",
+    "kcal100": 42,
+    "fat100": 0,
+    "carbs100": 6.9,
+    "protein100": 2.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/minestrone-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grana Padano Scaglie",
+    "brand": "Decò",
+    "kcal100": 398,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 33,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/grana-padano-scaglie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Finissimi Italiani Surgelati",
+    "brand": "Decò",
+    "kcal100": 59,
+    "fat100": 0.5,
+    "carbs100": 7,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/piselli-finissimi-italiani-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pure' di Patate Fresche",
+    "brand": "Decò",
+    "kcal100": 71,
+    "fat100": 1.8,
+    "carbs100": 11,
+    "protein100": 2.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pure-di-patate-fresche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa Pronta di Pomodorino Ciliegino",
+    "brand": "Decò",
+    "kcal100": 47,
+    "fat100": 0.82,
+    "carbs100": 7.5,
+    "protein100": 1.48,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salsa-pronta-di-pomodorino-ciliegino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Focaccia con Pomodorini",
+    "brand": "Decò",
+    "kcal100": 262,
+    "fat100": 8.6,
+    "carbs100": 38,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/focaccia-con-pomodorini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli al Ferretto",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 0.3,
+    "carbs100": 59.3,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fusilli-al-ferretto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Sgombro all'olio di Semi di Girasole",
+    "brand": "Decò",
+    "kcal100": 222,
+    "fat100": 14,
+    "carbs100": 0,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-sgombro-allolio-di-semi-di-girasole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto a Cubetti",
+    "brand": "Decò",
+    "kcal100": 122,
+    "fat100": 4.2,
+    "carbs100": 0,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/prosciutto-cotto-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panini per Maxi Hamburger",
+    "brand": "Decò",
+    "kcal100": 286,
+    "fat100": 5.5,
+    "carbs100": 49,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/panini-per-maxi-hamburger",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Bianco con Olio d'oliva",
+    "brand": "Decò",
+    "kcal100": 272,
+    "fat100": 4.4,
+    "carbs100": 48,
+    "protein100": 8.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-bianco-con-olio-doliva/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tramezzini Tonno e Maionese",
+    "brand": "Decò",
+    "kcal100": 291,
+    "fat100": 17,
+    "carbs100": 22,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tramezzini-tonno-e-maionese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Pop Corn",
+    "brand": "Decò",
+    "kcal100": 363,
+    "fat100": 4.7,
+    "carbs100": 67,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mais-pop-corn",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lievito per Dolci",
+    "brand": "Decò",
+    "kcal100": 41,
+    "fat100": 0,
+    "carbs100": 10.3,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lievito-per-dolci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti Vaniglia Gelato",
+    "brand": "Decò",
+    "kcal100": 282,
+    "fat100": 11,
+    "carbs100": 41,
+    "protein100": 4.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/biscotti-vaniglia-gelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zucchero Bianco",
+    "brand": "Decò",
+    "kcal100": 400,
+    "fat100": 0,
+    "carbs100": 100,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/zucchero-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bevanda Biologica al Cocco",
+    "brand": "Decò",
+    "kcal100": 45,
+    "fat100": 3,
+    "carbs100": 4,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bevanda-biologica-al-cocco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mais Dolce Sottovuoto",
+    "brand": "Decò",
+    "kcal100": 83,
+    "fat100": 1.8,
+    "carbs100": 12.2,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mais-dolce-sottovuoto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Fresco Spalmabile senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 256,
+    "fat100": 24,
+    "carbs100": 2.8,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/formaggio-fresco-spalmabile-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cavolfiore Italiano",
+    "brand": "Decò",
+    "kcal100": 18,
+    "fat100": 0,
+    "carbs100": 2.2,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cavolfiore-italiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta 100% Latte Italiano",
+    "brand": "Decò",
+    "kcal100": 134,
+    "fat100": 10,
+    "carbs100": 3,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ricotta-100-latte-italiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bruschette",
+    "brand": "Decò",
+    "kcal100": 450,
+    "fat100": 15.1,
+    "carbs100": 69.4,
+    "protein100": 8.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bruschette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso al Salto",
+    "brand": "Decò",
+    "kcal100": 152,
+    "fat100": 4.3,
+    "carbs100": 26,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-al-salto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco Dolce con Granella di Nocciola e Cioccolato al Latte",
+    "brand": "Decò",
+    "kcal100": 134,
+    "fat100": 5.3,
+    "carbs100": 18,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-bianco-dolce-con-granella-di-nocciola-e-cioccolato-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Probiotico Fragola",
+    "brand": "Decò",
+    "kcal100": 76,
+    "fat100": 1.5,
+    "carbs100": 12.1,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/probiotico-fragola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Margherita",
+    "brand": "Decò",
+    "kcal100": 229,
+    "fat100": 5.6,
+    "carbs100": 34,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pizza-margherita",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Cereali alla Melagrana",
+    "brand": "Decò",
+    "kcal100": 372,
+    "fat100": 4.8,
+    "carbs100": 73.2,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barrette-di-cereali-alla-melagrana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stracchino",
+    "brand": "Decò",
+    "kcal100": 266,
+    "fat100": 22,
+    "carbs100": 2,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/stracchino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Bio",
+    "brand": "Decò",
+    "kcal100": 109,
+    "fat100": 1.7,
+    "carbs100": 14.2,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ceci-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Novelle",
+    "brand": "Decò",
+    "kcal100": 120,
+    "fat100": 2.5,
+    "carbs100": 21,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patate-novelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Extra Albicocche",
+    "brand": "Decò",
+    "kcal100": 257,
+    "fat100": 0.1,
+    "carbs100": 62.1,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/confettura-extra-albicocche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ragù alla Bolognese",
+    "brand": "Decò",
+    "kcal100": 106,
+    "fat100": 6.8,
+    "carbs100": 5.6,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ragù-alla-bolognese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato al Latte senza Zuccheri Aggiunti",
+    "brand": "Decò",
+    "kcal100": 461,
+    "fat100": 31,
+    "carbs100": 49,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-al-latte-senza-zuccheri-aggiunti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata Arance",
+    "brand": "Decò",
+    "kcal100": 246,
+    "fat100": 0,
+    "carbs100": 61,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/marmellata-arance",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Uva Sultanina",
+    "brand": "Decò",
+    "kcal100": 288,
+    "fat100": 0.6,
+    "carbs100": 72,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/uva-sultanina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cetriolini all'aceto di Vino",
+    "brand": "Decò",
+    "kcal100": 18,
+    "fat100": 0.5,
+    "carbs100": 2,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cetriolini-allaceto-di-vino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bocconcini di Pollo Speziati",
+    "brand": "Decò",
+    "kcal100": 192,
+    "fat100": 7.5,
+    "carbs100": 14,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bocconcini-di-pollo-speziati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lasagne",
+    "brand": "Decò",
+    "kcal100": 354,
+    "fat100": 1.3,
+    "carbs100": 73.2,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lasagne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orzo Perlato Secco",
+    "brand": "Decò",
+    "kcal100": 335,
+    "fat100": 1.2,
+    "carbs100": 66,
+    "protein100": 9.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/orzo-perlato-secco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/spaghetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Pelate",
+    "brand": "Decò",
+    "kcal100": 592,
+    "fat100": 49,
+    "carbs100": 6.2,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mandorle-pelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema con Aceto Balsamico di Modena IGP",
+    "brand": "Decò",
+    "kcal100": 189,
+    "fat100": 0,
+    "carbs100": 44,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crema-con-aceto-balsamico-di-modena-igp",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti per Latte",
+    "brand": "Decò",
+    "kcal100": 428,
+    "fat100": 9.2,
+    "carbs100": 76,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/biscotti-per-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura di Pesche Light",
+    "brand": "Decò",
+    "kcal100": 41,
+    "fat100": 0.5,
+    "carbs100": 13,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/confettura-di-pesche-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancetta Dolce a Cubetti",
+    "brand": "Decò",
+    "kcal100": 276,
+    "fat100": 22,
+    "carbs100": 1.5,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pancetta-dolce-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Integrale",
+    "brand": "Decò",
+    "kcal100": 258,
+    "fat100": 5.1,
+    "carbs100": 39,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farfalle",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/farfalle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cous Cous di Grano Duro",
+    "brand": "Decò",
+    "kcal100": 349,
+    "fat100": 1.8,
+    "carbs100": 69,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cous-cous-di-grano-duro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Polpa di Pomodoro",
+    "brand": "Decò",
+    "kcal100": 26,
+    "fat100": 0.1,
+    "carbs100": 4.8,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/polpa-di-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tre Cereali",
+    "brand": "Decò",
+    "kcal100": 359,
+    "fat100": 1,
+    "carbs100": 76.3,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tre-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Trofie",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 0.3,
+    "carbs100": 59.3,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/trofie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cordon Bleu",
+    "brand": "Decò",
+    "kcal100": 206,
+    "fat100": 11,
+    "carbs100": 13,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cordon-bleu",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Robiola",
+    "brand": "Decò",
+    "kcal100": 309,
+    "fat100": 30,
+    "carbs100": 2.3,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/robiola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Kefir senza Lattosio Mirtilli",
+    "brand": "Decò",
+    "kcal100": 108,
+    "fat100": 3.9,
+    "carbs100": 14,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/kefir-senza-lattosio-mirtilli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Porcini",
+    "brand": "Decò",
+    "kcal100": 26,
+    "fat100": 0.7,
+    "carbs100": 1,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/funghi-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cookies Chocolate",
+    "brand": "Decò",
+    "kcal100": 521.1,
+    "fat100": 25.79,
+    "carbs100": 63.16,
+    "protein100": 6.84,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cookies-chocolate/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto Funghi con Porcini",
+    "brand": "Decò",
+    "kcal100": 37,
+    "fat100": 0.6,
+    "carbs100": 3.9,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/misto-funghi-con-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Finissimo al Latte",
+    "brand": "Decò",
+    "kcal100": 540,
+    "fat100": 31,
+    "carbs100": 58,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-finissimo-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Verdi Denocciolate",
+    "brand": "Decò",
+    "kcal100": 124,
+    "fat100": 12,
+    "carbs100": 1,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/olive-verdi-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Punte di Asparagi",
+    "brand": "Decò",
+    "kcal100": 20,
+    "fat100": 0,
+    "carbs100": 2,
+    "protein100": 2.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/punte-di-asparagi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciole",
+    "brand": "Decò",
+    "kcal100": 673,
+    "fat100": 62,
+    "carbs100": 8.2,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lonzino Stagionato",
+    "brand": "Decò",
+    "kcal100": 239,
+    "fat100": 10,
+    "carbs100": 2,
+    "protein100": 35,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lonzino-stagionato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine Limone e Pepe Nero",
+    "brand": "Decò",
+    "kcal100": 528,
+    "fat100": 31,
+    "carbs100": 54,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patatine-limone-e-pepe-nero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortellini alla Carne",
+    "brand": "Decò",
+    "kcal100": 311,
+    "fat100": 9.2,
+    "carbs100": 44,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tortellini-alla-carne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Rosse",
+    "brand": "Decò",
+    "kcal100": 344,
+    "fat100": 1.1,
+    "carbs100": 53,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lenticchie-rosse",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt al Cocco con Palline di Cioccolato Fondente",
+    "brand": "Decò",
+    "kcal100": 144,
+    "fat100": 5.8,
+    "carbs100": 19,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-al-cocco-con-palline-di-cioccolato-fondente",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers Integrali",
+    "brand": "Decò",
+    "kcal100": 411,
+    "fat100": 11,
+    "carbs100": 60,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crackers-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Plumcake",
+    "brand": "Decò",
+    "kcal100": 404,
+    "fat100": 19,
+    "carbs100": 52,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/plumcake",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tarallini Classici",
+    "brand": "Decò",
+    "kcal100": 445,
+    "fat100": 12,
+    "carbs100": 68.5,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tarallini-classici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crocchette di Patate",
+    "brand": "Decò",
+    "kcal100": 104,
+    "fat100": 0.1,
+    "carbs100": 21.8,
+    "protein100": 2.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crocchette-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Magro Ananas",
+    "brand": "Decò",
+    "kcal100": 59.2,
+    "fat100": 0.1,
+    "carbs100": 10.24,
+    "protein100": 3.28,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-magro-ananas/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Purè",
+    "brand": "Decò",
+    "kcal100": 71,
+    "fat100": 1.8,
+    "carbs100": 11,
+    "protein100": 2.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/purè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passato di Zucca e Carote",
+    "brand": "Decò",
+    "kcal100": 29,
+    "fat100": 1.7,
+    "carbs100": 2.3,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/passato-di-zucca-e-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostini Tostati Gusto Prosciutto",
+    "brand": "Decò",
+    "kcal100": 551,
+    "fat100": 35,
+    "carbs100": 50,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crostini-tostati-gusto-prosciutto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "American Sandwich",
+    "brand": "Decò",
+    "kcal100": 250,
+    "fat100": 3.1,
+    "carbs100": 47,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/american-sandwich",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli Integrali",
+    "brand": "Decò",
+    "kcal100": 348,
+    "fat100": 2.5,
+    "carbs100": 66,
+    "protein100": 11.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fusilli-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Glassa con Aceto Balsamico di Modena I.g.P.",
+    "brand": "Decò",
+    "kcal100": 189,
+    "fat100": 0,
+    "carbs100": 44,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/glassa-con-aceto-balsamico-di-modena-igp",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salatini Misti",
+    "brand": "Decò",
+    "kcal100": 269,
+    "fat100": 15,
+    "carbs100": 26,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salatini-misti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tarallini",
+    "brand": "Decò",
+    "kcal100": 445,
+    "fat100": 12,
+    "carbs100": 68.5,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tarallini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt senza Lattosio Pesca e Albicocca",
+    "brand": "Decò",
+    "kcal100": 81,
+    "fat100": 1.5,
+    "carbs100": 13,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-senza-lattosio-pesca-e-albicocca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rigatoni",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/rigatoni",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Emmental",
+    "brand": "Decò",
+    "kcal100": 369,
+    "fat100": 29,
+    "carbs100": 0,
+    "protein100": 28,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/emmental",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ketchup",
+    "brand": "Decò",
+    "kcal100": 92,
+    "fat100": 0.3,
+    "carbs100": 20.5,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ketchup",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Medie",
+    "brand": "Decò",
+    "kcal100": 344,
+    "fat100": 1.1,
+    "carbs100": 53,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lenticchie-medie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mousse Mela Bio",
+    "brand": "Decò",
+    "kcal100": 46,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mousse-mela-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Spinaci",
+    "brand": "Decò",
+    "kcal100": 162,
+    "fat100": 6.4,
+    "carbs100": 18,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Stecchi Assortiti",
+    "brand": "Decò",
+    "kcal100": 343,
+    "fat100": 23,
+    "carbs100": 29,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mini-stecchi-assortiti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiammiferi di Speck",
+    "brand": "Decò",
+    "kcal100": 673,
+    "fat100": 12,
+    "carbs100": 1,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fiammiferi-di-speck",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panino Hamburger Integrale",
+    "brand": "Decò",
+    "kcal100": 262,
+    "fat100": 4.6,
+    "carbs100": 43,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/panino-hamburger-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Triplo Cioccolato",
+    "brand": "Decò",
+    "kcal100": 197,
+    "fat100": 8.1,
+    "carbs100": 27,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gelato-triplo-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Peperoni Arrostiti",
+    "brand": "Decò",
+    "kcal100": 16,
+    "fat100": 0.5,
+    "carbs100": 1.6,
+    "protein100": 0.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/peperoni-arrostiti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carotine Intere Surgelate",
+    "brand": "Decò",
+    "kcal100": 28,
+    "fat100": 0,
+    "carbs100": 5,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/carotine-intere-surgelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane senza Crosta",
+    "brand": "Decò",
+    "kcal100": 255,
+    "fat100": 3.6,
+    "carbs100": 47,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-senza-crosta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Merluzzo al Gratin",
+    "brand": "Decò",
+    "kcal100": 157,
+    "fat100": 8,
+    "carbs100": 9.6,
+    "protein100": 11.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/merluzzo-al-gratin",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Ripieni Cacao",
+    "brand": "Decò",
+    "kcal100": 479,
+    "fat100": 22,
+    "carbs100": 62,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-ripieni-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Amido di Mais",
+    "brand": "Decò",
+    "kcal100": 351,
+    "fat100": 0.1,
+    "carbs100": 87,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/amido-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Spigola al Naturale",
+    "brand": "Decò",
+    "kcal100": 127,
+    "fat100": 3.74,
+    "carbs100": 0,
+    "protein100": 22.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-spigola-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stracchino senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 285,
+    "fat100": 25,
+    "carbs100": 2,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/stracchino-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Zucchine",
+    "brand": "Decò",
+    "kcal100": 157,
+    "fat100": 6.3,
+    "carbs100": 18,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-zucchine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Platessa",
+    "brand": "Decò",
+    "kcal100": 76,
+    "fat100": 1.3,
+    "carbs100": 0,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-platessa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olio di Semi di Girasole",
+    "brand": "Decò",
+    "kcal100": 828,
+    "fat100": 92,
+    "carbs100": 0,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/olio-di-semi-di-girasole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cozze Cotte e Sgusciate Surgelate",
+    "brand": "Decò",
+    "kcal100": 69,
+    "fat100": 1.6,
+    "carbs100": 0.4,
+    "protein100": 13.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cozze-cotte-e-sgusciate-surgelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cono Panna",
+    "brand": "Decò",
+    "kcal100": 284,
+    "fat100": 14,
+    "carbs100": 35,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cono-panna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Romagnola",
+    "brand": "Decò",
+    "kcal100": 339,
+    "fat100": 12.8,
+    "carbs100": 48.3,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/piadina-romagnola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wafer con Crema alla Nocciola",
+    "brand": "Decò",
+    "kcal100": 500,
+    "fat100": 25,
+    "carbs100": 63,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/wafer-con-crema-alla-nocciola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane 8 Cereali",
+    "brand": "Decò",
+    "kcal100": 272,
+    "fat100": 5,
+    "carbs100": 46,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-8-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Succo Frutta Esotica",
+    "brand": "Decò",
+    "kcal100": 45,
+    "fat100": 0,
+    "carbs100": 9.8,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/succo-frutta-esotica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Roma",
+    "brand": "Decò",
+    "kcal100": 352,
+    "fat100": 0.4,
+    "carbs100": 80.4,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-roma",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate e Funghi",
+    "brand": "Decò",
+    "kcal100": 67,
+    "fat100": 2.3,
+    "carbs100": 8.2,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patate-e-funghi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Integrali",
+    "brand": "Decò",
+    "kcal100": 435,
+    "fat100": 14,
+    "carbs100": 66,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bifidus Kiwi e Cereali",
+    "brand": "Decò",
+    "kcal100": 115.2,
+    "fat100": 2.72,
+    "carbs100": 18.64,
+    "protein100": 2.64,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-bifidus-kiwi-e-cereali/1-vasetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Probiotico Bianco",
+    "brand": "Decò",
+    "kcal100": 72,
+    "fat100": 1.8,
+    "carbs100": 10.3,
+    "protein100": 2.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/probiotico-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Integrale",
+    "brand": "Decò",
+    "kcal100": 348,
+    "fat100": 2.5,
+    "carbs100": 66,
+    "protein100": 11.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pasta-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Orecchiette",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 0.3,
+    "carbs100": 59.3,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/orecchiette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate a Spicchi",
+    "brand": "Decò",
+    "kcal100": 115,
+    "fat100": 2.4,
+    "carbs100": 21,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patate-a-spicchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Arborio",
+    "brand": "Decò",
+    "kcal100": 352,
+    "fat100": 0.4,
+    "carbs100": 80.4,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-arborio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Arachidi in Guscio Tostate",
+    "brand": "Decò",
+    "kcal100": 622,
+    "fat100": 50,
+    "carbs100": 8.5,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/arachidi-in-guscio-tostate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema Spalmabile al Pistacchio",
+    "brand": "Decò",
+    "kcal100": 603,
+    "fat100": 43.4,
+    "carbs100": 43.3,
+    "protein100": 8.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crema-spalmabile-al-pistacchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizzette Margherita",
+    "brand": "Decò",
+    "kcal100": 240,
+    "fat100": 6.6,
+    "carbs100": 35,
+    "protein100": 8.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pizzette-margherita",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Würstel di Pollo",
+    "brand": "Decò",
+    "kcal100": 259,
+    "fat100": 23,
+    "carbs100": 1,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/würstel-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Grano Saraceno",
+    "brand": "Decò",
+    "kcal100": 464,
+    "fat100": 17,
+    "carbs100": 68,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-con-grano-saraceno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Falafel Ceci e Spinaci",
+    "brand": "Decò",
+    "kcal100": 194,
+    "fat100": 9.5,
+    "carbs100": 14,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/falafel-ceci-e-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette Gelato al Caramello",
+    "brand": "Decò",
+    "kcal100": 319,
+    "fat100": 18.81,
+    "carbs100": 33.33,
+    "protein100": 3.81,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barrette-gelato-al-caramello/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ravioli al Brasato",
+    "brand": "Decò",
+    "kcal100": 268,
+    "fat100": 6.8,
+    "carbs100": 41,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ravioli-al-brasato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Merendina Decorata al Cacao Magro",
+    "brand": "Decò",
+    "kcal100": 371.4,
+    "fat100": 13.57,
+    "carbs100": 57.14,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/merendina-decorata-al-cacao-magro/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix Frutta Secca",
+    "brand": "Decò",
+    "kcal100": 462,
+    "fat100": 19.5,
+    "carbs100": 61.6,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mix-frutta-secca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panna da Cucina UHT",
+    "brand": "Decò",
+    "kcal100": 212,
+    "fat100": 20.7,
+    "carbs100": 3.9,
+    "protein100": 2.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/panna-da-cucina-uht",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate 5 Cereali",
+    "brand": "Decò",
+    "kcal100": 408.3,
+    "fat100": 8.06,
+    "carbs100": 72.22,
+    "protein100": 11.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fette-biscottate-5-cereali/4-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Probiotico Frutta Mix",
+    "brand": "Decò",
+    "kcal100": 64,
+    "fat100": 0.5,
+    "carbs100": 13,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/probiotico-frutta-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frullato Bio Mela Mirtillo e Fragola",
+    "brand": "Decò",
+    "kcal100": 46,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frullato-bio-mela-mirtillo-e-fragola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Crusca di Frumento",
+    "brand": "Decò",
+    "kcal100": 313,
+    "fat100": 3,
+    "carbs100": 40,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bastoncini-di-crusca-di-frumento",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Composta di Mirtillo Nero Bio",
+    "brand": "Decò",
+    "kcal100": 152,
+    "fat100": 0.4,
+    "carbs100": 35,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/composta-di-mirtillo-nero-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostata con Crema al Cacao",
+    "brand": "Decò",
+    "kcal100": 481,
+    "fat100": 23,
+    "carbs100": 61,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crostata-con-crema-al-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane di Segale",
+    "brand": "Decò",
+    "kcal100": 249,
+    "fat100": 1,
+    "carbs100": 50.5,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-di-segale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ditalini",
+    "brand": "Decò",
+    "kcal100": 354,
+    "fat100": 1.4,
+    "carbs100": 72.8,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ditalini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza con Passata e Polpa di Pomodoro",
+    "brand": "Decò",
+    "kcal100": 286,
+    "fat100": 8.3,
+    "carbs100": 44,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pizza-con-passata-e-polpa-di-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Ripieni ai Frutti Rossi",
+    "brand": "Decò",
+    "kcal100": 450,
+    "fat100": 15,
+    "carbs100": 72,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-ripieni-ai-frutti-rossi/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Cereali con Mirtilli Rossi",
+    "brand": "Decò",
+    "kcal100": 378,
+    "fat100": 5,
+    "carbs100": 73.4,
+    "protein100": 7.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barrette-di-cereali-con-mirtilli-rossi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mortadella",
+    "brand": "Decò",
+    "kcal100": 259,
+    "fat100": 22,
+    "carbs100": 0.3,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mortadella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa Pronta solo Datterino Italiano",
+    "brand": "Decò",
+    "kcal100": 36,
+    "fat100": 0.4,
+    "carbs100": 5.5,
+    "protein100": 1.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salsa-pronta-solo-datterino-italiano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate e Carciofi",
+    "brand": "Decò",
+    "kcal100": 79,
+    "fat100": 2.1,
+    "carbs100": 10,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patate-e-carciofi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patatine le Grigliate",
+    "brand": "Decò",
+    "kcal100": 477,
+    "fat100": 23,
+    "carbs100": 59,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/patatine-le-grigliate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Candela",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/penne-candela",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passato Invernale di Verdure",
+    "brand": "Decò",
+    "kcal100": 38,
+    "fat100": 0.8,
+    "carbs100": 5.7,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/passato-invernale-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Soia Bianco Dolce",
+    "brand": "Decò",
+    "kcal100": 90,
+    "fat100": 2.2,
+    "carbs100": 13.5,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-soia-bianco-dolce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Friarielli",
+    "brand": "Decò",
+    "kcal100": 18,
+    "fat100": 0,
+    "carbs100": 1,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/friarielli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panuozzo",
+    "brand": "Decò",
+    "kcal100": 260,
+    "fat100": 3.3,
+    "carbs100": 48,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/panuozzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso e Mais",
+    "brand": "Decò",
+    "kcal100": 383,
+    "fat100": 2.9,
+    "carbs100": 80.1,
+    "protein100": 7.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gallette-di-riso-e-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette di Cioccolato al Latte",
+    "brand": "Decò",
+    "kcal100": 530.8,
+    "fat100": 33.08,
+    "carbs100": 52.31,
+    "protein100": 7.69,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barrette-di-cioccolato-al-latte/1-barretta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostatina Cacao",
+    "brand": "Decò",
+    "kcal100": 467.5,
+    "fat100": 21,
+    "carbs100": 60,
+    "protein100": 7.25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crostatina-cacao/1-crostatina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cono Panna e Cioccolato",
+    "brand": "Decò",
+    "kcal100": 283,
+    "fat100": 14,
+    "carbs100": 35,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cono-panna-e-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Intero Vaniglia",
+    "brand": "Decò",
+    "kcal100": 100,
+    "fat100": 3.2,
+    "carbs100": 14,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-intero-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mousse Mela E Pesca",
+    "brand": "Decò",
+    "kcal100": 45,
+    "fat100": 0,
+    "carbs100": 9.8,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mousse-mela-e-pesca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger di Carote",
+    "brand": "Decò",
+    "kcal100": 166,
+    "fat100": 6.3,
+    "carbs100": 20,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-di-carote",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Wafer Vaniglia",
+    "brand": "Decò",
+    "kcal100": 507,
+    "fat100": 26,
+    "carbs100": 63,
+    "protein100": 5.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/wafer-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo al Basilico",
+    "brand": "Decò",
+    "kcal100": 55,
+    "fat100": 2.6,
+    "carbs100": 5.4,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/sugo-al-basilico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fave Sgusciate",
+    "brand": "Decò",
+    "kcal100": 369,
+    "fat100": 3,
+    "carbs100": 54.8,
+    "protein100": 27.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fave-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Panna Fresca",
+    "brand": "Decò",
+    "kcal100": 482,
+    "fat100": 20,
+    "carbs100": 68,
+    "protein100": 6.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-con-panna-fresca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Base per Pizza",
+    "brand": "Decò",
+    "kcal100": 265,
+    "fat100": 2.4,
+    "carbs100": 48,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/base-per-pizza",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchetti",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gnocchetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Broccoli",
+    "brand": "Decò",
+    "kcal100": 161,
+    "fat100": 6.3,
+    "carbs100": 18,
+    "protein100": 5.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-broccoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Lessati",
+    "brand": "Decò",
+    "kcal100": 125,
+    "fat100": 2.2,
+    "carbs100": 16.8,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ceci-lessati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Verdure",
+    "brand": "Decò",
+    "kcal100": 228,
+    "fat100": 11,
+    "carbs100": 24,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bastoncini-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina di Riso",
+    "brand": "Decò",
+    "kcal100": 346,
+    "fat100": 0.6,
+    "carbs100": 78.1,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/farina-di-riso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina Integrale",
+    "brand": "Decò",
+    "kcal100": 309,
+    "fat100": 9.5,
+    "carbs100": 46,
+    "protein100": 8.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/piadina-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Nere Denocciolate",
+    "brand": "Decò",
+    "kcal100": 187,
+    "fat100": 17,
+    "carbs100": 5.7,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/olive-nere-denocciolate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scarola Italiana a Cubetti",
+    "brand": "Decò",
+    "kcal100": 16,
+    "fat100": 0,
+    "carbs100": 1.8,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/scarola-italiana-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane ai 5 Cereali",
+    "brand": "Decò",
+    "kcal100": 270,
+    "fat100": 5.1,
+    "carbs100": 45.9,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-ai-5-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane 8 Cereali",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 6,
+    "carbs100": 44,
+    "protein100": 9.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-8-cereali/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Scialatielli",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 0.3,
+    "carbs100": 59.3,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/scialatielli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Pan di Zucchero",
+    "brand": "Decò",
+    "kcal100": 17,
+    "fat100": 0.2,
+    "carbs100": 0.7,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/insalata-pan-di-zucchero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passata di Pomodoro Rustica",
+    "brand": "Decò",
+    "kcal100": 27,
+    "fat100": 0.2,
+    "carbs100": 4,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/passata-di-pomodoro-rustica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croissant ai Cereali",
+    "brand": "Decò",
+    "kcal100": 442.5,
+    "fat100": 24,
+    "carbs100": 48.75,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/croissant-ai-cereali/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tramezzini Gamberetti e Salsa Rosa",
+    "brand": "Decò",
+    "kcal100": 292,
+    "fat100": 16,
+    "carbs100": 28,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tramezzini-gamberetti-e-salsa-rosa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ditalini Rigati",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ditalini-rigati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Variegato Tiramisù",
+    "brand": "Decò",
+    "kcal100": 207,
+    "fat100": 7.8,
+    "carbs100": 30,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/variegato-tiramisù",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone",
+    "brand": "Decò",
+    "kcal100": 48,
+    "fat100": 0,
+    "carbs100": 6.3,
+    "protein100": 2.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/minestrone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers Salati",
+    "brand": "Decò",
+    "kcal100": 429,
+    "fat100": 11,
+    "carbs100": 72,
+    "protein100": 9.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crackers-salati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Taralli Caserecci",
+    "brand": "Decò",
+    "kcal100": 429,
+    "fat100": 9,
+    "carbs100": 76.3,
+    "protein100": 10.25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/taralli-caserecci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi di Patate senza Glutine",
+    "brand": "Decò",
+    "kcal100": 130,
+    "fat100": 0.3,
+    "carbs100": 29,
+    "protein100": 2.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gnocchi-di-patate-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salame Napoli",
+    "brand": "Decò",
+    "kcal100": 258,
+    "fat100": 17,
+    "carbs100": 1,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salame-napoli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Tonno all'olio di Oliva",
+    "brand": "Decò",
+    "kcal100": 180,
+    "fat100": 7.5,
+    "carbs100": 0,
+    "protein100": 28,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-tonno-allolio-di-oliva",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette Biscottate al Malto d'orzo",
+    "brand": "Decò",
+    "kcal100": 410,
+    "fat100": 7,
+    "carbs100": 73,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fette-biscottate-al-malto-dorzo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cavatelli",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 0.3,
+    "carbs100": 59.3,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cavatelli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pomodori Secchi",
+    "brand": "Decò",
+    "kcal100": 157,
+    "fat100": 9.6,
+    "carbs100": 10.6,
+    "protein100": 2.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pomodori-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata di Tonno alla Messicana",
+    "brand": "Decò",
+    "kcal100": 159,
+    "fat100": 8,
+    "carbs100": 8.9,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/insalata-di-tonno-alla-messicana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Fresco Spalmabile",
+    "brand": "Decò",
+    "kcal100": 256,
+    "fat100": 24,
+    "carbs100": 2.8,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/formaggio-fresco-spalmabile",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con Cereali e Frutta",
+    "brand": "Decò",
+    "kcal100": 438.5,
+    "fat100": 16.15,
+    "carbs100": 63.08,
+    "protein100": 7.69,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/biscotti-con-cereali-e-frutta/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Composta di Albicocca Bio",
+    "brand": "Decò",
+    "kcal100": 155,
+    "fat100": 0.1,
+    "carbs100": 37,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/composta-di-albicocca-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crispy Pillows",
+    "brand": "Decò",
+    "kcal100": 450,
+    "fat100": 15,
+    "carbs100": 70,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crispy-pillows",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack al Latte con Miele",
+    "brand": "Decò",
+    "kcal100": 422,
+    "fat100": 24,
+    "carbs100": 44,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/snack-al-latte-con-miele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Elicoidali",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/elicoidali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt alla Vaniglia con Palline di Cioccolato al Latte",
+    "brand": "Decò",
+    "kcal100": 134,
+    "fat100": 5.6,
+    "carbs100": 17,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-alla-vaniglia-con-palline-di-cioccolato-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Occhi di Lupo",
+    "brand": "Decò",
+    "kcal100": 354,
+    "fat100": 1.4,
+    "carbs100": 72.8,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pasta-occhi-di-lupo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Vongole Sgusciate",
+    "brand": "Decò",
+    "kcal100": 64,
+    "fat100": 0.8,
+    "carbs100": 3.1,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/vongole-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Bianco",
+    "brand": "Decò",
+    "kcal100": 540,
+    "fat100": 30,
+    "carbs100": 63.3,
+    "protein100": 4.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Preparato per Risotto Surgelato",
+    "brand": "Decò",
+    "kcal100": 63,
+    "fat100": 1.3,
+    "carbs100": 0.5,
+    "protein100": 12.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/preparato-per-risotto-surgelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato alla Nocciola",
+    "brand": "Decò",
+    "kcal100": 209,
+    "fat100": 9.9,
+    "carbs100": 26,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gelato-alla-nocciola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Snack",
+    "brand": "Decò",
+    "kcal100": 300,
+    "fat100": 16,
+    "carbs100": 34,
+    "protein100": 4.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mini-snack",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Lino",
+    "brand": "Decò",
+    "kcal100": 510,
+    "fat100": 42,
+    "carbs100": 1.6,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/semi-di-lino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pancetta al Pepe Nero",
+    "brand": "Decò",
+    "kcal100": 532,
+    "fat100": 52,
+    "carbs100": 1,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pancetta-al-pepe-nero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crackers senza Glutine",
+    "brand": "Decò",
+    "kcal100": 439.4,
+    "fat100": 11.21,
+    "carbs100": 81.82,
+    "protein100": 2.12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crackers-senza-glutine/1-pacchetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Fiordilatte",
+    "brand": "Decò",
+    "kcal100": 187,
+    "fat100": 8.6,
+    "carbs100": 24.1,
+    "protein100": 3.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gelato-fiordilatte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ortoriso al Naturale",
+    "brand": "Decò",
+    "kcal100": 30,
+    "fat100": 1.8,
+    "carbs100": 1.5,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ortoriso-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Fragola e Limone",
+    "brand": "Decò",
+    "kcal100": 149,
+    "fat100": 2.6,
+    "carbs100": 30.5,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gelato-fragola-e-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mix Salato",
+    "brand": "Decò",
+    "kcal100": 630,
+    "fat100": 52.3,
+    "carbs100": 18.4,
+    "protein100": 16.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mix-salato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Prosciutto Cotto",
+    "brand": "Decò",
+    "kcal100": 173.3,
+    "fat100": 11.07,
+    "carbs100": 1.73,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/hamburger-di-prosciutto-cotto/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco Cremoso",
+    "brand": "Decò",
+    "kcal100": 101,
+    "fat100": 3.1,
+    "carbs100": 14,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-bianco-cremoso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti Secchi",
+    "brand": "Decò",
+    "kcal100": 293,
+    "fat100": 0.8,
+    "carbs100": 35,
+    "protein100": 24,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagioli-borlotti-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Intero alla Nocciola",
+    "brand": "Decò",
+    "kcal100": 103.2,
+    "fat100": 3.6,
+    "carbs100": 14,
+    "protein100": 3.68,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-intero-alla-nocciola/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carpaccio Affumicato 3%",
+    "brand": "Decò",
+    "kcal100": 120,
+    "fat100": 2.1,
+    "carbs100": 0.5,
+    "protein100": 25,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/carpaccio-affumicato-3",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croccantini di Mais al Formaggio",
+    "brand": "Decò",
+    "kcal100": 487,
+    "fat100": 22,
+    "carbs100": 64,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/croccantini-di-mais-al-formaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Salmone Selvaggio",
+    "brand": "Decò",
+    "kcal100": 83,
+    "fat100": 1.4,
+    "carbs100": 0,
+    "protein100": 18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-salmone-selvaggio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Provolone Semipiccante",
+    "brand": "Decò",
+    "kcal100": 389,
+    "fat100": 31,
+    "carbs100": 0.5,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/provolone-semipiccante",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Savoiardi",
+    "brand": "Decò",
+    "kcal100": 379,
+    "fat100": 3.8,
+    "carbs100": 77.5,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/savoiardi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa ai Funghi con Porcini",
+    "brand": "Decò",
+    "kcal100": 330,
+    "fat100": 31,
+    "carbs100": 8.7,
+    "protein100": 3.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salsa-ai-funghi-con-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mini Tondi Vaniglia",
+    "brand": "Decò",
+    "kcal100": 319,
+    "fat100": 11,
+    "carbs100": 48,
+    "protein100": 5.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mini-tondi-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mista Gran Gusto",
+    "brand": "Decò",
+    "kcal100": 26,
+    "fat100": 0.2,
+    "carbs100": 3.3,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mista-gran-gusto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack Croccante Gusto Bacon",
+    "brand": "Decò",
+    "kcal100": 423,
+    "fat100": 12,
+    "carbs100": 66,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/snack-croccante-gusto-bacon",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ditali",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 1.4,
+    "carbs100": 72,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ditali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Misto di Legumi Secchi",
+    "brand": "Decò",
+    "kcal100": 325,
+    "fat100": 1.7,
+    "carbs100": 46,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/misto-di-legumi-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack al Latte Ricoperto di Cioccolato",
+    "brand": "Decò",
+    "kcal100": 461,
+    "fat100": 27,
+    "carbs100": 48,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/snack-al-latte-ricoperto-di-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortelloni ai Funghi",
+    "brand": "Decò",
+    "kcal100": 296,
+    "fat100": 8.2,
+    "carbs100": 45,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tortelloni-ai-funghi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliatelle",
+    "brand": "Decò",
+    "kcal100": 290,
+    "fat100": 2.7,
+    "carbs100": 53,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tagliatelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Panbauletto Rustico senza Glutine",
+    "brand": "Decò",
+    "kcal100": 272,
+    "fat100": 7.9,
+    "carbs100": 46,
+    "protein100": 2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/panbauletto-rustico-senza-glutine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coppa Dolce Stagionata",
+    "brand": "Decò",
+    "kcal100": 374,
+    "fat100": 28.3,
+    "carbs100": 1.9,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/coppa-dolce-stagionata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Vegetale con Spinaci Piselli e Mozzarella",
+    "brand": "Decò",
+    "kcal100": 222,
+    "fat100": 13,
+    "carbs100": 18,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-vegetale-con-spinaci-piselli-e-mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Bufala e Pomodorini",
+    "brand": "Decò",
+    "kcal100": 173,
+    "fat100": 5.8,
+    "carbs100": 22.5,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pizza-bufala-e-pomodorini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passato Estivo di Verdure",
+    "brand": "Decò",
+    "kcal100": 34,
+    "fat100": 0.9,
+    "carbs100": 4.9,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/passato-estivo-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema alle Nocciole Bigusto",
+    "brand": "Decò",
+    "kcal100": 528,
+    "fat100": 28,
+    "carbs100": 64,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crema-alle-nocciole-bigusto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Risotto Agli Asparagi",
+    "brand": "Decò",
+    "kcal100": 340,
+    "fat100": 1.2,
+    "carbs100": 73.4,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/risotto-agli-asparagi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema Caffè Variegato Torroncino",
+    "brand": "Decò",
+    "kcal100": 202,
+    "fat100": 8.1,
+    "carbs100": 28.5,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crema-caffè-variegato-torroncino",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Bianco Dolce con Fiocchi di Cioccolato al Latte",
+    "brand": "Decò",
+    "kcal100": 130,
+    "fat100": 5.6,
+    "carbs100": 16,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-bianco-dolce-con-fiocchi-di-cioccolato-al-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa ai Cereali con Orzo e Farro",
+    "brand": "Decò",
+    "kcal100": 50,
+    "fat100": 0.9,
+    "carbs100": 7.7,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/zuppa-ai-cereali-con-orzo-e-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Paella",
+    "brand": "Decò",
+    "kcal100": 110,
+    "fat100": 1,
+    "carbs100": 20,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/paella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Ripieni con Confettura di Mele",
+    "brand": "Decò",
+    "kcal100": 428,
+    "fat100": 12,
+    "carbs100": 73,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-ripieni-con-confettura-di-mele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Sfoglia Rotonda",
+    "brand": "Decò",
+    "kcal100": 398,
+    "fat100": 22,
+    "carbs100": 39,
+    "protein100": 5.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pasta-sfoglia-rotonda",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliatelle all'uovo",
+    "brand": "Decò",
+    "kcal100": 364,
+    "fat100": 3.4,
+    "carbs100": 69.3,
+    "protein100": 12.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tagliatelle-alluovo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo all'amatriciana",
+    "brand": "Decò",
+    "kcal100": 133,
+    "fat100": 10.2,
+    "carbs100": 5.9,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/sugo-allamatriciana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Novellini con Latte e Miele",
+    "brand": "Decò",
+    "kcal100": 463,
+    "fat100": 16,
+    "carbs100": 72,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/novellini-con-latte-e-miele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cono al Croccante",
+    "brand": "Decò",
+    "kcal100": 293.3,
+    "fat100": 13.33,
+    "carbs100": 37.33,
+    "protein100": 4.27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cono-al-croccante/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fishburger di Merluzzo D’Alaska Impanati",
+    "brand": "Decò",
+    "kcal100": 192,
+    "fat100": 6.9,
+    "carbs100": 20,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fishburger-di-merluzzo-d’alaska-impanati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato con Cereali",
+    "brand": "Decò",
+    "kcal100": 533.3,
+    "fat100": 30,
+    "carbs100": 53.33,
+    "protein100": 6.67,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-con-cereali/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato",
+    "brand": "Decò",
+    "kcal100": 127,
+    "fat100": 1.3,
+    "carbs100": 28,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Linguine",
+    "brand": "Decò",
+    "kcal100": 372,
+    "fat100": 1.5,
+    "carbs100": 76,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/linguine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pomodorini",
+    "brand": "Decò",
+    "kcal100": 30,
+    "fat100": 0.2,
+    "carbs100": 4.7,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pomodorini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Olive Verdi Giganti",
+    "brand": "Decò",
+    "kcal100": 146,
+    "fat100": 14.5,
+    "carbs100": 0.3,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/olive-verdi-giganti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mousse Mela E Albicocca",
+    "brand": "Decò",
+    "kcal100": 48,
+    "fat100": 0,
+    "carbs100": 11,
+    "protein100": 0,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mousse-mela-e-albicocca",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Farina Integrale",
+    "brand": "Decò",
+    "kcal100": 447,
+    "fat100": 16,
+    "carbs100": 64,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-con-farina-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fritto Misto di Pesce",
+    "brand": "Decò",
+    "kcal100": 196,
+    "fat100": 9.2,
+    "carbs100": 18,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fritto-misto-di-pesce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagottini al Cioccolato",
+    "brand": "Decò",
+    "kcal100": 389,
+    "fat100": 15.7,
+    "carbs100": 53.1,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagottini-al-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Variegato Caffè",
+    "brand": "Decò",
+    "kcal100": 213,
+    "fat100": 9.1,
+    "carbs100": 30,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/variegato-caffè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetto di Platessa Impanati",
+    "brand": "Decò",
+    "kcal100": 237,
+    "fat100": 10.1,
+    "carbs100": 23.8,
+    "protein100": 12.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetto-di-platessa-impanati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortelloni Ricotta e Spinaci",
+    "brand": "Decò",
+    "kcal100": 289,
+    "fat100": 8.1,
+    "carbs100": 43,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tortelloni-ricotta-e-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi Ripieni alla Mediterranea",
+    "brand": "Decò",
+    "kcal100": 144,
+    "fat100": 3,
+    "carbs100": 25,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gnocchi-ripieni-alla-mediterranea",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passata di Pomodoro con Basilico",
+    "brand": "Decò",
+    "kcal100": 29,
+    "fat100": 0.1,
+    "carbs100": 4.6,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/passata-di-pomodoro-con-basilico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Nerone Integrale Parboiled",
+    "brand": "Decò",
+    "kcal100": 326,
+    "fat100": 3.4,
+    "carbs100": 64,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-nerone-integrale-parboiled",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Melanzane a Filetti",
+    "brand": "Decò",
+    "kcal100": 83,
+    "fat100": 6.3,
+    "carbs100": 2.9,
+    "protein100": 0.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/melanzane-a-filetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Intero Pistacchio",
+    "brand": "Decò",
+    "kcal100": 106,
+    "fat100": 3.1,
+    "carbs100": 16,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-intero-pistacchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggini",
+    "brand": "Decò",
+    "kcal100": 190,
+    "fat100": 13.2,
+    "carbs100": 5.3,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/formaggini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Schiacciate Gusto Pizza Cotte al Forno",
+    "brand": "Decò",
+    "kcal100": 446,
+    "fat100": 15,
+    "carbs100": 66,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/schiacciate-gusto-pizza-cotte-al-forno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prugne Denocciolate Secche",
+    "brand": "Decò",
+    "kcal100": 283,
+    "fat100": 0.4,
+    "carbs100": 64,
+    "protein100": 2.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/prugne-denocciolate-secche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina Manitoba di Grano Tenero Tipo 0",
+    "brand": "Decò",
+    "kcal100": 343,
+    "fat100": 1.5,
+    "carbs100": 67,
+    "protein100": 13.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/farina-manitoba-di-grano-tenero-tipo-0",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semola di Grano Duro Rimacinata",
+    "brand": "Decò",
+    "kcal100": 360,
+    "fat100": 1.5,
+    "carbs100": 69,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/semola-di-grano-duro-rimacinata",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Composta di Frutti di Bosco",
+    "brand": "Decò",
+    "kcal100": 164,
+    "fat100": 0.3,
+    "carbs100": 38,
+    "protein100": 0.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/composta-di-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bruschette Gusto Mediterraneo",
+    "brand": "Decò",
+    "kcal100": 455,
+    "fat100": 16.5,
+    "carbs100": 66.8,
+    "protein100": 9.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bruschette-gusto-mediterraneo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostini di Mais",
+    "brand": "Decò",
+    "kcal100": 371,
+    "fat100": 3.3,
+    "carbs100": 75,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/crostini-di-mais",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Plumcake con Crema di Cioccolato",
+    "brand": "Decò",
+    "kcal100": 395,
+    "fat100": 18,
+    "carbs100": 52,
+    "protein100": 5.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/plumcake-con-crema-di-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa al Farro",
+    "brand": "Decò",
+    "kcal100": 41,
+    "fat100": 0.8,
+    "carbs100": 6.3,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/zuppa-al-farro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Contorno Grigliato",
+    "brand": "Decò",
+    "kcal100": 65,
+    "fat100": 1,
+    "carbs100": 11,
+    "protein100": 1.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/contorno-grigliato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cortecce",
+    "brand": "Decò",
+    "kcal100": 359,
+    "fat100": 0.6,
+    "carbs100": 77.7,
+    "protein100": 11.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cortecce",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Alici",
+    "brand": "Decò",
+    "kcal100": 210,
+    "fat100": 10,
+    "carbs100": 0,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-alici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Risotto ai Funghi Porcini",
+    "brand": "Decò",
+    "kcal100": 339,
+    "fat100": 1.1,
+    "carbs100": 73,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/risotto-ai-funghi-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passata Classica di Pomodoro",
+    "brand": "Decò",
+    "kcal100": 27,
+    "fat100": 0.2,
+    "carbs100": 4.3,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/passata-classica-di-pomodoro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Riso e Frumento Integrale",
+    "brand": "Decò",
+    "kcal100": 380,
+    "fat100": 1.8,
+    "carbs100": 78,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fiocchi-di-riso-e-frumento-integrale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane ai 5 Cereali (25g)",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 5.2,
+    "carbs100": 48,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pane-ai-5-cereali-(25g)/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Skyr Bianco",
+    "brand": "Decò",
+    "kcal100": 58,
+    "fat100": 0.3,
+    "carbs100": 4.5,
+    "protein100": 9.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/skyr-bianco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura Frutti di Bosco",
+    "brand": "Decò",
+    "kcal100": 251,
+    "fat100": 0.2,
+    "carbs100": 60.3,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/confettura-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Surini",
+    "brand": "Decò",
+    "kcal100": 126,
+    "fat100": 3.4,
+    "carbs100": 16.9,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bastoncini-di-surini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Granelli di Zucchero",
+    "brand": "Decò",
+    "kcal100": 474,
+    "fat100": 19,
+    "carbs100": 68,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-con-granelli-di-zucchero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger di Salmone",
+    "brand": "Decò",
+    "kcal100": 254,
+    "fat100": 16,
+    "carbs100": 11,
+    "protein100": 16,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-di-salmone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ghiottoselli",
+    "brand": "Decò",
+    "kcal100": 251,
+    "fat100": 12,
+    "carbs100": 28,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ghiottoselli/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lemon Stecco",
+    "brand": "Decò",
+    "kcal100": 137,
+    "fat100": 0.9,
+    "carbs100": 31,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/lemon-stecco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato Pistacchio e Gianduia",
+    "brand": "Decò",
+    "kcal100": 208,
+    "fat100": 9.4,
+    "carbs100": 27,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gelato-pistacchio-e-gianduia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Yogurt Parzialmente Scremato Vaniglia Bourbon",
+    "brand": "Decò",
+    "kcal100": 90.4,
+    "fat100": 1.52,
+    "carbs100": 14.48,
+    "protein100": 3.92,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/yogurt-parzialmente-scremato-vaniglia-bourbon/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Paccheri",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 0.3,
+    "carbs100": 59.3,
+    "protein100": 9.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/paccheri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente Extra 85%",
+    "brand": "Decò",
+    "kcal100": 625,
+    "fat100": 53,
+    "carbs100": 23,
+    "protein100": 9.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-fondente-extra-85",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gelato al Limone",
+    "brand": "Decò",
+    "kcal100": 127,
+    "fat100": 1.3,
+    "carbs100": 28,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gelato-al-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti Bio",
+    "brand": "Decò",
+    "kcal100": 77,
+    "fat100": 0.3,
+    "carbs100": 10.8,
+    "protein100": 4.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/fagioli-borlotti-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petit per Latte",
+    "brand": "Decò",
+    "kcal100": 427,
+    "fat100": 9.7,
+    "carbs100": 76,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/petit-per-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sfogliatine di Patate",
+    "brand": "Decò",
+    "kcal100": 468,
+    "fat100": 20,
+    "carbs100": 67,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/sfogliatine-di-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti Integrali",
+    "brand": "Decò",
+    "kcal100": 348,
+    "fat100": 2.5,
+    "carbs100": 66,
+    "protein100": 11.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/spaghetti-integrali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ghiottoselli Pomodoro e Mozzarella",
+    "brand": "Decò",
+    "kcal100": 249.2,
+    "fat100": 11.9,
+    "carbs100": 28.57,
+    "protein100": 6.98,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ghiottoselli-pomodoro-e-mozzarella/1-crêpe",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi Ripieni con Cacio e Pepe",
+    "brand": "Decò",
+    "kcal100": 151,
+    "fat100": 3.9,
+    "carbs100": 24,
+    "protein100": 4.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gnocchi-ripieni-con-cacio-e-pepe",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi al Naturale",
+    "brand": "Decò",
+    "kcal100": 21,
+    "fat100": 0.1,
+    "carbs100": 0.8,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/funghi-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Cacao e Panna",
+    "brand": "Decò",
+    "kcal100": 482,
+    "fat100": 21,
+    "carbs100": 65,
+    "protein100": 6.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-con-cacao-e-panna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pappardelle",
+    "brand": "Decò",
+    "kcal100": 354,
+    "fat100": 1.3,
+    "carbs100": 70.7,
+    "protein100": 13.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pappardelle",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi Ripieni con Funghi Porcini",
+    "brand": "Decò",
+    "kcal100": 141,
+    "fat100": 2.6,
+    "carbs100": 25,
+    "protein100": 3.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gnocchi-ripieni-con-funghi-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarelline Panate e Surgelate",
+    "brand": "Decò",
+    "kcal100": 292,
+    "fat100": 15.9,
+    "carbs100": 23.6,
+    "protein100": 12.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mozzarelline-panate-e-surgelate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croissant con Crema Bigusto",
+    "brand": "Decò",
+    "kcal100": 413,
+    "fat100": 20,
+    "carbs100": 51,
+    "protein100": 6.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/croissant-con-crema-bigusto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Tagliati",
+    "brand": "Decò",
+    "kcal100": 21,
+    "fat100": 0.1,
+    "carbs100": 0.8,
+    "protein100": 2.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/funghi-tagliati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mascarpone",
+    "brand": "Decò",
+    "kcal100": 411,
+    "fat100": 42,
+    "carbs100": 4.6,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/mascarpone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini al Farro con Gocce di Cioccolato",
+    "brand": "Decò",
+    "kcal100": 457,
+    "fat100": 17,
+    "carbs100": 67,
+    "protein100": 8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-al-farro-con-gocce-di-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Porchetta Arrosto",
+    "brand": "Decò",
+    "kcal100": 188,
+    "fat100": 12,
+    "carbs100": 1,
+    "protein100": 19,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/porchetta-arrosto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Carciofi Italiani Surgelati",
+    "brand": "Decò",
+    "kcal100": 28,
+    "fat100": 0,
+    "carbs100": 3.8,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cuori-di-carciofi-italiani-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Penne Integrali Bio",
+    "brand": "Decò",
+    "kcal100": 348,
+    "fat100": 2.5,
+    "carbs100": 66,
+    "protein100": 11.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/penne-integrali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Integrale e Quinoa Rossa",
+    "brand": "Decò",
+    "kcal100": 353,
+    "fat100": 2.6,
+    "carbs100": 72,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-integrale-e-quinoa-rossa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone Estivo di Verdure",
+    "brand": "Decò",
+    "kcal100": 33,
+    "fat100": 0.9,
+    "carbs100": 3.9,
+    "protein100": 1.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/minestrone-estivo-di-verdure",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack Croccante Gusto Ketchup",
+    "brand": "Decò",
+    "kcal100": 414,
+    "fat100": 11,
+    "carbs100": 67,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/snack-croccante-gusto-ketchup",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Composta di Fragola",
+    "brand": "Decò",
+    "kcal100": 152,
+    "fat100": 0.2,
+    "carbs100": 36,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/composta-di-fragola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ananas in Fette al Naturale",
+    "brand": "Decò",
+    "kcal100": 56,
+    "fat100": 0,
+    "carbs100": 13.1,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ananas-in-fette-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bulgur Integrale Miglio e Riso Rosso",
+    "brand": "Decò",
+    "kcal100": 354,
+    "fat100": 3,
+    "carbs100": 64,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bulgur-integrale-miglio-e-riso-rosso",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piadina senza Glutine",
+    "brand": "Decò",
+    "kcal100": 333.6,
+    "fat100": 9.55,
+    "carbs100": 59.64,
+    "protein100": 2.27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/piadina-senza-glutine/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Porcini a Cubetti",
+    "brand": "Decò",
+    "kcal100": 31,
+    "fat100": 0.7,
+    "carbs100": 1,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/funghi-porcini-a-cubetti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciambella Allo Yogurt",
+    "brand": "Decò",
+    "kcal100": 425,
+    "fat100": 21.1,
+    "carbs100": 51,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ciambella-allo-yogurt",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pinoli Sgusciati",
+    "brand": "Decò",
+    "kcal100": 676,
+    "fat100": 64,
+    "carbs100": 7.7,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pinoli-sgusciati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone Rustico",
+    "brand": "Decò",
+    "kcal100": 326,
+    "fat100": 1.7,
+    "carbs100": 46,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/minestrone-rustico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bastoncini di Salmone",
+    "brand": "Decò",
+    "kcal100": 205,
+    "fat100": 9.8,
+    "carbs100": 13.1,
+    "protein100": 15.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/bastoncini-di-salmone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti alla Chitarra",
+    "brand": "Decò",
+    "kcal100": 290,
+    "fat100": 2.7,
+    "carbs100": 53,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/spaghetti-alla-chitarra",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Dessert Crema e Caffè",
+    "brand": "Decò",
+    "kcal100": 237,
+    "fat100": 13.4,
+    "carbs100": 25.1,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/dessert-crema-e-caffè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Filetti di Platessa al Naturale",
+    "brand": "Decò",
+    "kcal100": 68,
+    "fat100": 0.5,
+    "carbs100": 0.5,
+    "protein100": 15.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/filetti-di-platessa-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioco Cuky",
+    "brand": "Decò",
+    "kcal100": 334,
+    "fat100": 13,
+    "carbs100": 48,
+    "protein100": 5.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioco-cuky",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa alle Noci",
+    "brand": "Decò",
+    "kcal100": 434,
+    "fat100": 41,
+    "carbs100": 10,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salsa-alle-noci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pizza Tonno e Cipolla",
+    "brand": "Decò",
+    "kcal100": 226,
+    "fat100": 7,
+    "carbs100": 29,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pizza-tonno-e-cipolla",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cookies Ripieni",
+    "brand": "Decò",
+    "kcal100": 517,
+    "fat100": 28,
+    "carbs100": 60,
+    "protein100": 5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cookies-ripieni",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Scozzese Affumicato",
+    "brand": "Decò",
+    "kcal100": 174,
+    "fat100": 6.42,
+    "carbs100": 3.1,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salmone-scozzese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Variegato Yogurt Ai Frutti Di Bosco",
+    "brand": "Decò",
+    "kcal100": 186,
+    "fat100": 7,
+    "carbs100": 27,
+    "protein100": 2.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/variegato-yogurt-ai-frutti-di-bosco",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone Leggero",
+    "brand": "Decò",
+    "kcal100": 22,
+    "fat100": 0.2,
+    "carbs100": 3,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/minestrone-leggero",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "4  Ghiottoselli",
+    "brand": "Decò",
+    "kcal100": 199,
+    "fat100": 6.5,
+    "carbs100": 27,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/4-ghiottoselli",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Croissant con Farina Integrale",
+    "brand": "Decò",
+    "kcal100": 410,
+    "fat100": 22,
+    "carbs100": 42.5,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/croissant-con-farina-integrale/1-croissant",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Multicereale con Frutti Rossi",
+    "brand": "Decò",
+    "kcal100": 380,
+    "fat100": 2,
+    "carbs100": 78,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/multicereale-con-frutti-rossi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini senza Lattosio",
+    "brand": "Decò",
+    "kcal100": 446,
+    "fat100": 13,
+    "carbs100": 74,
+    "protein100": 7.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/frollini-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gnocchi Ripieni con Speck e Brie",
+    "brand": "Decò",
+    "kcal100": 151,
+    "fat100": 4.1,
+    "carbs100": 24,
+    "protein100": 4.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gnocchi-ripieni-con-speck-e-brie",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Integrale e Legumi",
+    "brand": "Decò",
+    "kcal100": 340,
+    "fat100": 2.9,
+    "carbs100": 58,
+    "protein100": 15,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/riso-integrale-e-legumi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesce Spada Affumicato",
+    "brand": "Decò",
+    "kcal100": 170,
+    "fat100": 9.4,
+    "carbs100": 0.7,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pesce-spada-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carciofi Grigliati",
+    "brand": "Decò",
+    "kcal100": 101,
+    "fat100": 7.8,
+    "carbs100": 3.9,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/carciofi-grigliati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato Fondente Extra Caffè Arabica",
+    "brand": "Decò",
+    "kcal100": 547,
+    "fat100": 33,
+    "carbs100": 52,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-fondente-extra-caffè-arabica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Funghi Interi in Olio di Semi di Girasole",
+    "brand": "Decò",
+    "kcal100": 51,
+    "fat100": 3.2,
+    "carbs100": 1.1,
+    "protein100": 3.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/funghi-interi-in-olio-di-semi-di-girasole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tonno a Pinne Gialle Affumicato",
+    "brand": "Decò",
+    "kcal100": 107,
+    "fat100": 0,
+    "carbs100": 0.7,
+    "protein100": 26,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tonno-a-pinne-gialle-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto di Pistacchio",
+    "brand": "Decò",
+    "kcal100": 711,
+    "fat100": 69,
+    "carbs100": 5.7,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/pesto-di-pistacchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Treccione Vesuviano",
+    "brand": "Decò",
+    "kcal100": 359,
+    "fat100": 1,
+    "carbs100": 74,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/treccione-vesuviano",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Torrone Tenero con Mandorle e Crema al Gusto di Pistacchio",
+    "brand": "Decò",
+    "kcal100": 479,
+    "fat100": 27,
+    "carbs100": 54,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/torrone-tenero-con-mandorle-e-crema-al-gusto-di-pistacchio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cioccolato al Latte con Cereali",
+    "brand": "Decò",
+    "kcal100": 536,
+    "fat100": 30,
+    "carbs100": 59,
+    "protein100": 6.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cioccolato-al-latte-con-cereali",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tagliatelle ai Funghi Porcini",
+    "brand": "Decò",
+    "kcal100": 130,
+    "fat100": 4,
+    "carbs100": 18,
+    "protein100": 4.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tagliatelle-ai-funghi-porcini",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Variegato Triplo Cioccolato",
+    "brand": "Decò",
+    "kcal100": 207,
+    "fat100": 7.8,
+    "carbs100": 30,
+    "protein100": 3.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/variegato-triplo-cioccolato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Confettura di Ciliegie Light",
+    "brand": "Decò",
+    "kcal100": 51,
+    "fat100": 0.5,
+    "carbs100": 15,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/confettura-di-ciliegie-light",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Rigatoni Napoletani",
+    "brand": "Decò",
+    "kcal100": 351,
+    "fat100": 1,
+    "carbs100": 70,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/rigatoni-napoletani",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coppa",
+    "brand": "Decò",
+    "kcal100": 280,
+    "fat100": 18,
+    "carbs100": 0.4,
+    "protein100": 29,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/coppa",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Seitan e Spinaci",
+    "brand": "Decò",
+    "kcal100": 176,
+    "fat100": 7,
+    "carbs100": 15,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-seitan-e-spinaci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burger Tofu e Zucchine",
+    "brand": "Decò",
+    "kcal100": 213,
+    "fat100": 14,
+    "carbs100": 10,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/burger-tofu-e-zucchine",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Skyr Vaniglia",
+    "brand": "Decò",
+    "kcal100": 82,
+    "fat100": 0.3,
+    "carbs100": 12,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/skyr-vaniglia",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Treccina Allo Yogurt",
+    "brand": "Decò",
+    "kcal100": 392.5,
+    "fat100": 15,
+    "carbs100": 56.25,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/treccina-allo-yogurt/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Friarielli al Naturale",
+    "brand": "Decò",
+    "kcal100": 32,
+    "fat100": 0.4,
+    "carbs100": 3.1,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/friarielli-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salsa ai 4 Formaggi",
+    "brand": "Decò",
+    "kcal100": 358,
+    "fat100": 32,
+    "carbs100": 11,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/salsa-ai-4-formaggi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci Secchi",
+    "brand": "Decò",
+    "kcal100": 357,
+    "fat100": 6.3,
+    "carbs100": 47,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/ceci-secchi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "6 Biscotti Tre Gusti",
+    "brand": "Decò",
+    "kcal100": 291.3,
+    "fat100": 8,
+    "carbs100": 48.75,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/6-biscotti-tre-gusti/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carciofi alla Romana",
+    "brand": "Decò",
+    "kcal100": 91,
+    "fat100": 6.8,
+    "carbs100": 3.9,
+    "protein100": 1.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/carciofi-alla-romana",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Torta al Limone",
+    "brand": "Decò",
+    "kcal100": 379,
+    "fat100": 17,
+    "carbs100": 52,
+    "protein100": 4.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/torta-al-limone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cacao & Cream",
+    "brand": "Decò",
+    "kcal100": 458,
+    "fat100": 21,
+    "carbs100": 59,
+    "protein100": 5.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/cacao-cream",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barrette Gelato al Caramello",
+    "brand": "Decò",
+    "kcal100": 324,
+    "fat100": 19,
+    "carbs100": 34,
+    "protein100": 3.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/barrette-gelato-al-caramello",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gamberi Indopacifici Sgusciati",
+    "brand": "Decò",
+    "kcal100": 86,
+    "fat100": 0.9,
+    "carbs100": 2.9,
+    "protein100": 16.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/gamberi-indopacifici-sgusciati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortiglioni",
+    "brand": "Decò",
+    "kcal100": 351,
+    "fat100": 1,
+    "carbs100": 70,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/tortiglioni",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Skyr Lampone",
+    "brand": "Decò",
+    "kcal100": 82,
+    "fat100": 0.3,
+    "carbs100": 12,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/skyr-lampone",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Plumcake con Yogurt alla Greca",
+    "brand": "Decò",
+    "kcal100": 400,
+    "fat100": 19.06,
+    "carbs100": 50,
+    "protein100": 5.31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/plumcake-con-yogurt-alla-greca/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Stecchi Maxi",
+    "brand": "Decò",
+    "kcal100": 297,
+    "fat100": 18,
+    "carbs100": 30,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/stecchi-maxi",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coni al Caffè",
+    "brand": "Decò",
+    "kcal100": 285,
+    "fat100": 13,
+    "carbs100": 39,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/coni-al-caffè",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Kefir Multifrutti",
+    "brand": "Decò",
+    "kcal100": 65,
+    "fat100": 0.1,
+    "carbs100": 12,
+    "protein100": 4.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/kefir-multifrutti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti Ripieni con Crema alla Nocciola",
+    "brand": "Decò",
+    "kcal100": 539,
+    "fat100": 32,
+    "carbs100": 57,
+    "protein100": 5.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/biscotti-ripieni-con-crema-alla-nocciola",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Serrano",
+    "brand": "Decò",
+    "kcal100": 232,
+    "fat100": 12,
+    "carbs100": 0,
+    "protein100": 31,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/decò/prosciutto-serrano",
+      "license": "proprietary"
+    }
+  }
+]

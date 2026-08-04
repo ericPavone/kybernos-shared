@@ -1,0 +1,1276 @@
+[
+  {
+    "name": "Cracker di Riso e Mais Bio",
+    "brand": "In's",
+    "kcal100": 350,
+    "fat100": 1.36,
+    "carbs100": 75,
+    "protein100": 7.73,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/cracker-di-riso-e-mais-bio/1-pacchetto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Latte",
+    "brand": "In's",
+    "kcal100": 97,
+    "fat100": 4.5,
+    "carbs100": 3,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/fiocchi-di-latte",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Riso Biologiche",
+    "brand": "In's",
+    "kcal100": 352,
+    "fat100": 1.2,
+    "carbs100": 77,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/gallette-di-riso-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fiocchi di Avena Integrali Biologici",
+    "brand": "In's",
+    "kcal100": 357,
+    "fat100": 5.9,
+    "carbs100": 58,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/fiocchi-di-avena-integrali-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciabatta di Grano Duro",
+    "brand": "In's",
+    "kcal100": 259,
+    "fat100": 1,
+    "carbs100": 52,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/ciabatta-di-grano-duro",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette con Farina di Segale Integrale e Sesamo",
+    "brand": "In's",
+    "kcal100": 373,
+    "fat100": 6.5,
+    "carbs100": 61,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/fette-con-farina-di-segale-integrale-e-sesamo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta Biologica",
+    "brand": "In's",
+    "kcal100": 150,
+    "fat100": 11.3,
+    "carbs100": 3.7,
+    "protein100": 8.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/ricotta-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Cristallo",
+    "brand": "In's",
+    "kcal100": 261,
+    "fat100": 1.8,
+    "carbs100": 52,
+    "protein100": 8.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/pane-cristallo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Kaiser",
+    "brand": "In's",
+    "kcal100": 242,
+    "fat100": 1,
+    "carbs100": 50,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/pane-kaiser",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi Mix",
+    "brand": "In's",
+    "kcal100": 576,
+    "fat100": 47.9,
+    "carbs100": 6,
+    "protein100": 24.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/semi-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Miele Millefiori Biologico",
+    "brand": "In's",
+    "kcal100": 321,
+    "fat100": 0,
+    "carbs100": 80,
+    "protein100": 0.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/miele-millefiori-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle Sgusciate",
+    "brand": "In's",
+    "kcal100": 630,
+    "fat100": 55.3,
+    "carbs100": 4.6,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/mandorle-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Integrale di Segale",
+    "brand": "In's",
+    "kcal100": 208,
+    "fat100": 1.1,
+    "carbs100": 39,
+    "protein100": 6.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/pane-integrale-di-segale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Chia Bio",
+    "brand": "In's",
+    "kcal100": 454,
+    "fat100": 31,
+    "carbs100": 7.7,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/semi-di-chia-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasta Integrale Bio",
+    "brand": "In's",
+    "kcal100": 383,
+    "fat100": 1.7,
+    "carbs100": 75,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/pasta-integrale-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coscia di Tacchino Arrosto",
+    "brand": "In's",
+    "kcal100": 117,
+    "fat100": 4.6,
+    "carbs100": 3.7,
+    "protein100": 15.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/coscia-di-tacchino-arrosto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pane Pugliese",
+    "brand": "In's",
+    "kcal100": 251,
+    "fat100": 0.8,
+    "carbs100": 52.4,
+    "protein100": 8.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/pane-pugliese",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fette con Farina di Segale Integrale e Sesamo Biologiche",
+    "brand": "In's",
+    "kcal100": 377.8,
+    "fat100": 6.67,
+    "carbs100": 62.22,
+    "protein100": 11.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/fette-con-farina-di-segale-integrale-e-sesamo-biologiche/1-fetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Mais Biologiche",
+    "brand": "In's",
+    "kcal100": 394,
+    "fat100": 0.8,
+    "carbs100": 88,
+    "protein100": 6.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/gallette-di-mais-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Formaggio Maasdam",
+    "brand": "In's",
+    "kcal100": 351,
+    "fat100": 27,
+    "carbs100": 0,
+    "protein100": 27,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/formaggio-maasdam",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalatina Novella",
+    "brand": "In's",
+    "kcal100": 13,
+    "fat100": 0.1,
+    "carbs100": 0.7,
+    "protein100": 1.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/insalatina-novella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone al Naturale",
+    "brand": "In's",
+    "kcal100": 233,
+    "fat100": 17,
+    "carbs100": 0,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/salmone-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ciabatta Rustica alle Patate",
+    "brand": "In's",
+    "kcal100": 254,
+    "fat100": 0.8,
+    "carbs100": 52,
+    "protein100": 8.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/ciabatta-rustica-alle-patate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Patate Sfiziose",
+    "brand": "In's",
+    "kcal100": 114,
+    "fat100": 3.1,
+    "carbs100": 18,
+    "protein100": 2.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/patate-sfiziose",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Girasole Decorticati Bio",
+    "brand": "In's",
+    "kcal100": 593,
+    "fat100": 49,
+    "carbs100": 12,
+    "protein100": 23,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/semi-di-girasole-decorticati-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mela e Pera Frullata Biologica",
+    "brand": "In's",
+    "kcal100": 62,
+    "fat100": 0.2,
+    "carbs100": 13.5,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/mela-e-pera-frullata-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pesto alla Genovese Biologico",
+    "brand": "In's",
+    "kcal100": 592,
+    "fat100": 63,
+    "carbs100": 0.7,
+    "protein100": 3.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/pesto-alla-genovese-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sport & Energia Mix",
+    "brand": "In's",
+    "kcal100": 524,
+    "fat100": 35,
+    "carbs100": 36,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/sport-energia-mix",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Grissini Rustici Biologici",
+    "brand": "In's",
+    "kcal100": 481,
+    "fat100": 23.5,
+    "carbs100": 52,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/grissini-rustici-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Mista",
+    "brand": "In's",
+    "kcal100": 16,
+    "fat100": 0.1,
+    "carbs100": 1.7,
+    "protein100": 0.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/insalata-mista",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crema alle Nocciole Biologica",
+    "brand": "In's",
+    "kcal100": 542,
+    "fat100": 31.4,
+    "carbs100": 54.4,
+    "protein100": 8.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/crema-alle-nocciole-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti con 5 Cereali Biologici",
+    "brand": "In's",
+    "kcal100": 457.1,
+    "fat100": 15.71,
+    "carbs100": 67.14,
+    "protein100": 8.57,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/biscotti-con-5-cereali-biologici/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Petto di Tacchino al Forno",
+    "brand": "In's",
+    "kcal100": 94,
+    "fat100": 1.5,
+    "carbs100": 3,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/petto-di-tacchino-al-forno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Zucca Sgusciati Biologici",
+    "brand": "In's",
+    "kcal100": 565,
+    "fat100": 47.2,
+    "carbs100": 2.7,
+    "protein100": 30.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/semi-di-zucca-sgusciati-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Piselli Finissimi Biologici Surgelati",
+    "brand": "In's",
+    "kcal100": 56,
+    "fat100": 0.8,
+    "carbs100": 7.4,
+    "protein100": 4.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/piselli-finissimi-biologici-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Focaccina",
+    "brand": "In's",
+    "kcal100": 324,
+    "fat100": 5.8,
+    "carbs100": 52,
+    "protein100": 7.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/focaccina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crescenza Bio",
+    "brand": "In's",
+    "kcal100": 262,
+    "fat100": 21.5,
+    "carbs100": 2.5,
+    "protein100": 14.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/crescenza-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Cuori di Merluzzo Surgelati",
+    "brand": "In's",
+    "kcal100": 75,
+    "fat100": 0.6,
+    "carbs100": 0,
+    "protein100": 17.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/cuori-di-merluzzo-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spaghetti Integrali Bio",
+    "brand": "In's",
+    "kcal100": 383,
+    "fat100": 1.7,
+    "carbs100": 75,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/spaghetti-integrali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fusilli Integrali Bio",
+    "brand": "In's",
+    "kcal100": 383,
+    "fat100": 1.7,
+    "carbs100": 75,
+    "protein100": 12.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/fusilli-integrali-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Spinaci Biologici Surgelati",
+    "brand": "In's",
+    "kcal100": 38,
+    "fat100": 0.6,
+    "carbs100": 3.5,
+    "protein100": 3.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/spinaci-biologici-surgelati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Hamburger di Pollo",
+    "brand": "In's",
+    "kcal100": 132,
+    "fat100": 7.1,
+    "carbs100": 0,
+    "protein100": 17,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/hamburger-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Snack di Mais e Legumi Biologici",
+    "brand": "In's",
+    "kcal100": 417,
+    "fat100": 10,
+    "carbs100": 70,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/snack-di-mais-e-legumi-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ceci",
+    "brand": "In's",
+    "kcal100": 125,
+    "fat100": 2.2,
+    "carbs100": 16.8,
+    "protein100": 6.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/ceci",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Ricotta",
+    "brand": "In's",
+    "kcal100": 127,
+    "fat100": 9,
+    "carbs100": 3.9,
+    "protein100": 7.7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/ricotta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Banana Chips",
+    "brand": "In's",
+    "kcal100": 504,
+    "fat100": 27.4,
+    "carbs100": 60.1,
+    "protein100": 1.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/banana-chips",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bio Corn Flakes",
+    "brand": "In's",
+    "kcal100": 372,
+    "fat100": 0.1,
+    "carbs100": 81.7,
+    "protein100": 7.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/bio-corn-flakes",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mozzarella",
+    "brand": "In's",
+    "kcal100": 231,
+    "fat100": 17.6,
+    "carbs100": 1.5,
+    "protein100": 16.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/mozzarella",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Salmone Norvegese Affumicato",
+    "brand": "In's",
+    "kcal100": 168,
+    "fat100": 9.3,
+    "carbs100": 0,
+    "protein100": 21,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/salmone-norvegese-affumicato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortini al Farro al Limone Biologici",
+    "brand": "In's",
+    "kcal100": 408.9,
+    "fat100": 16,
+    "carbs100": 55.11,
+    "protein100": 8.89,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/tortini-al-farro-al-limone-biologici/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Minestrone di Verdure Bio",
+    "brand": "In's",
+    "kcal100": 53,
+    "fat100": 0,
+    "carbs100": 8.7,
+    "protein100": 3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/minestrone-di-verdure-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti alla Nocciola Integrali Biologici",
+    "brand": "In's",
+    "kcal100": 442,
+    "fat100": 17,
+    "carbs100": 60,
+    "protein100": 9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/biscotti-alla-nocciola-integrali-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tostarelli di Farro Biologici",
+    "brand": "In's",
+    "kcal100": 446,
+    "fat100": 14,
+    "carbs100": 66,
+    "protein100": 11.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/tostarelli-di-farro-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Quinoa Biologici",
+    "brand": "In's",
+    "kcal100": 376,
+    "fat100": 6,
+    "carbs100": 64,
+    "protein100": 14,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/semi-di-quinoa-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli Bio",
+    "brand": "In's",
+    "kcal100": 371,
+    "fat100": 7,
+    "carbs100": 59.1,
+    "protein100": 12.9,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/muesli-bio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Gocce di Cioccolato Biologici",
+    "brand": "In's",
+    "kcal100": 463.6,
+    "fat100": 18.18,
+    "carbs100": 65.45,
+    "protein100": 8.18,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/frollini-con-gocce-di-cioccolato-biologici/1-biscotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Bacche di Goji Biologiche",
+    "brand": "In's",
+    "kcal100": 360,
+    "fat100": 7.1,
+    "carbs100": 58,
+    "protein100": 12.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/bacche-di-goji-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sgombro al Naturale",
+    "brand": "In's",
+    "kcal100": 114,
+    "fat100": 2.4,
+    "carbs100": 0.7,
+    "protein100": 22.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/sgombro-al-naturale",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Composta di Arancia Biologica",
+    "brand": "In's",
+    "kcal100": 202,
+    "fat100": 0.1,
+    "carbs100": 49,
+    "protein100": 0.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/composta-di-arancia-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mandorle a Fette",
+    "brand": "In's",
+    "kcal100": 630,
+    "fat100": 55.3,
+    "carbs100": 4.6,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/mandorle-a-fette",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Muesli alla Frutta Biologico",
+    "brand": "In's",
+    "kcal100": 388,
+    "fat100": 9.8,
+    "carbs100": 59.8,
+    "protein100": 10.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/muesli-alla-frutta-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farina di Grano Tenero Biologica",
+    "brand": "In's",
+    "kcal100": 342,
+    "fat100": 1,
+    "carbs100": 71.5,
+    "protein100": 10.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/farina-di-grano-tenero-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Marmellata Mirtilli Neri",
+    "brand": "In's",
+    "kcal100": 130,
+    "fat100": 0.5,
+    "carbs100": 29,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/marmellata-mirtilli-neri",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Burro senza Lattosio",
+    "brand": "In's",
+    "kcal100": 741,
+    "fat100": 82,
+    "carbs100": 0,
+    "protein100": 0.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/burro-senza-lattosio",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Biscotti al Farro Integrale Biologici",
+    "brand": "In's",
+    "kcal100": 439,
+    "fat100": 15,
+    "carbs100": 65,
+    "protein100": 9.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/biscotti-al-farro-integrale-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Prosciutto Cotto",
+    "brand": "In's",
+    "kcal100": 141,
+    "fat100": 6.5,
+    "carbs100": 0.6,
+    "protein100": 20,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/prosciutto-cotto",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Anacardi Tostati Salati",
+    "brand": "In's",
+    "kcal100": 609,
+    "fat100": 47.4,
+    "carbs100": 26,
+    "protein100": 18.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/anacardi-tostati-salati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Passata di Pomodoro Biologico",
+    "brand": "In's",
+    "kcal100": 31,
+    "fat100": 0.1,
+    "carbs100": 5.1,
+    "protein100": 1.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/passata-di-pomodoro-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini con Farina Integrale e Zucchero di Canna Biologici",
+    "brand": "In's",
+    "kcal100": 447,
+    "fat100": 16.2,
+    "carbs100": 64.2,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/frollini-con-farina-integrale-e-zucchero-di-canna-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Borlotti",
+    "brand": "In's",
+    "kcal100": 97,
+    "fat100": 0.5,
+    "carbs100": 13.2,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/fagioli-borlotti",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carpaccio di Polpo Marinato",
+    "brand": "In's",
+    "kcal100": 128,
+    "fat100": 8.1,
+    "carbs100": 1.6,
+    "protein100": 12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/carpaccio-di-polpo-marinato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Mousse di Mele",
+    "brand": "In's",
+    "kcal100": 75,
+    "fat100": 0.5,
+    "carbs100": 17,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/mousse-di-mele",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Crostatine ai Mirtilli Biologiche",
+    "brand": "In's",
+    "kcal100": 411.1,
+    "fat100": 14,
+    "carbs100": 64.44,
+    "protein100": 6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/crostatine-ai-mirtilli-biologiche/1-crostatina",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Pasticceria Mista al Cacao",
+    "brand": "In's",
+    "kcal100": 446,
+    "fat100": 23,
+    "carbs100": 53,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/pasticceria-mista-al-cacao",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Zucca Decorticati",
+    "brand": "In's",
+    "kcal100": 565,
+    "fat100": 47.2,
+    "carbs100": 2.7,
+    "protein100": 30.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/semi-di-zucca-decorticati",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Fagioli Bianchi di Spagna",
+    "brand": "In's",
+    "kcal100": 92,
+    "fat100": 0.2,
+    "carbs100": 13.6,
+    "protein100": 5.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/fagioli-bianchi-di-spagna",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Riso Originario Integrale Biologico",
+    "brand": "In's",
+    "kcal100": 350,
+    "fat100": 2.2,
+    "carbs100": 74,
+    "protein100": 7.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/riso-originario-integrale-biologico",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalatonno",
+    "brand": "In's",
+    "kcal100": 200,
+    "fat100": 15,
+    "carbs100": 6.8,
+    "protein100": 9.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/insalatonno",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nuggets di Pollo",
+    "brand": "In's",
+    "kcal100": 290,
+    "fat100": 18,
+    "carbs100": 21,
+    "protein100": 11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/nuggets-di-pollo",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Barretta con Grano Saraceno e Mirtilli Biologica",
+    "brand": "In's",
+    "kcal100": 387,
+    "fat100": 11,
+    "carbs100": 67,
+    "protein100": 3.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/barretta-con-grano-saraceno-e-mirtilli-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Noci Sgusciate",
+    "brand": "In's",
+    "kcal100": 703,
+    "fat100": 68.1,
+    "carbs100": 5.1,
+    "protein100": 14.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/noci-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Kornspitz",
+    "brand": "In's",
+    "kcal100": 247,
+    "fat100": 4.2,
+    "carbs100": 44,
+    "protein100": 7.6,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/kornspitz",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa Casereccia Biologica",
+    "brand": "In's",
+    "kcal100": 330,
+    "fat100": 1.5,
+    "carbs100": 52.9,
+    "protein100": 20.3,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/zuppa-casereccia-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Carote Julienne",
+    "brand": "In's",
+    "kcal100": 41,
+    "fat100": 0,
+    "carbs100": 7.6,
+    "protein100": 1.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/carote-julienne",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Nocciole Sgusciate",
+    "brand": "In's",
+    "kcal100": 673,
+    "fat100": 64.1,
+    "carbs100": 6.1,
+    "protein100": 13.8,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/nocciole-sgusciate",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Granella di Nocciole",
+    "brand": "In's",
+    "kcal100": 675,
+    "fat100": 60,
+    "carbs100": 16,
+    "protein100": 13,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/granella-di-nocciole",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Lenticchie Biologiche",
+    "brand": "In's",
+    "kcal100": 87,
+    "fat100": 0.3,
+    "carbs100": 13.2,
+    "protein100": 5.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/lenticchie-biologiche",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Composta di Ciliegia Biologica",
+    "brand": "In's",
+    "kcal100": 172,
+    "fat100": 0.2,
+    "carbs100": 41,
+    "protein100": 0.5,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/composta-di-ciliegia-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Zuppa di Legumi e Orzo Biologica",
+    "brand": "In's",
+    "kcal100": 336,
+    "fat100": 1.4,
+    "carbs100": 58.2,
+    "protein100": 17.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/zuppa-di-legumi-e-orzo-biologica",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Gallette di Grano Khorasan Kamut",
+    "brand": "In's",
+    "kcal100": 417,
+    "fat100": 11.4,
+    "carbs100": 64.8,
+    "protein100": 12.4,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/gallette-di-grano-khorasan-kamut",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Saporita",
+    "brand": "In's",
+    "kcal100": 129,
+    "fat100": 7.6,
+    "carbs100": 7.9,
+    "protein100": 6.1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/insalata-saporita",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Tortini Integrali al Cioccolato Biologici",
+    "brand": "In's",
+    "kcal100": 395.6,
+    "fat100": 17.11,
+    "carbs100": 51.11,
+    "protein100": 7.11,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/tortini-integrali-al-cioccolato-biologici/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Sugo al Basilico Bio",
+    "brand": "In's",
+    "kcal100": 41,
+    "fat100": 1.1,
+    "carbs100": 6,
+    "protein100": 1,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/sugo-al-basilico-bio/1-porzione",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Insalata Saporita",
+    "brand": "In's",
+    "kcal100": 129.1,
+    "fat100": 7.58,
+    "carbs100": 7.88,
+    "protein100": 6.12,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/insalata-saporita/1-vaschetta",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Coffee Shake",
+    "brand": "In's",
+    "kcal100": 132,
+    "fat100": 4.6,
+    "carbs100": 19.2,
+    "protein100": 1.2,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/coffee-shake/1-gelato",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Frollini Con Gocce Di Cioccolato Biologici",
+    "brand": "In's",
+    "kcal100": 447,
+    "fat100": 16.2,
+    "carbs100": 64.2,
+    "protein100": 7,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/frollini-con-gocce-di-cioccolato-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Semi di Lino Biologici",
+    "brand": "In's",
+    "kcal100": 488,
+    "fat100": 37,
+    "carbs100": 7.7,
+    "protein100": 22,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/semi-di-lino-biologici",
+      "license": "proprietary"
+    }
+  },
+  {
+    "name": "Farro Soffiato al Miele Biologico",
+    "brand": "In's",
+    "kcal100": 386,
+    "fat100": 1.7,
+    "carbs100": 80,
+    "protein100": 10,
+    "provenance": {
+      "source": "fatsecret",
+      "sourceId": "/calorie-nutrizione/ins/farro-soffiato-al-miele-biologico",
+      "license": "proprietary"
+    }
+  }
+]
