@@ -11,22 +11,12 @@ export const TurnInputSchema = z.object({
   conversationId: z.string().uuid().nullish(),
 })
 
-export const TurnQuestionOptionSchema = z.object({
-  label: z.string(),
-  value: z.string(),
-})
-
 // polymorphic result: the client renders the shape, it never decides (§6.3)
 export const TurnResultSchema = z.discriminatedUnion('kind', [
   z.object({
     kind: z.literal('logged'),
     entries: z.array(MealLogResponseSchema),
     balance: DailyBalanceResponseSchema.nullish(),
-  }),
-  z.object({
-    kind: z.literal('question'),
-    prompt: z.string(),
-    options: z.array(TurnQuestionOptionSchema),
   }),
   z.object({
     kind: z.literal('answer'),
@@ -40,5 +30,4 @@ export const TurnResultSchema = z.discriminatedUnion('kind', [
 ])
 
 export type TurnInput = z.infer<typeof TurnInputSchema>
-export type TurnQuestionOption = z.infer<typeof TurnQuestionOptionSchema>
 export type TurnResult = z.infer<typeof TurnResultSchema>

@@ -58,14 +58,14 @@ describe('TurnResultSchema', () => {
     ).toBe(true)
   })
 
-  it('accetta il ramo question con le opzioni', () => {
+  it('rifiuta il ramo question, rimosso dal contratto', () => {
     expect(
       TurnResultSchema.safeParse({
         kind: 'question',
         prompt: 'Quale slot?',
         options: [{ label: 'Pranzo', value: 'lunch' }],
       }).success,
-    ).toBe(true)
+    ).toBe(false)
   })
 
   it('accetta il ramo answer con le citations', () => {
@@ -85,9 +85,9 @@ describe('TurnResultSchema', () => {
     expect(TurnResultSchema.safeParse({ kind: 'unknown' }).success).toBe(false)
   })
 
-  it('rifiuta il ramo logged con la forma del ramo question', () => {
+  it('rifiuta il ramo logged con la forma del ramo answer', () => {
     expect(
-      TurnResultSchema.safeParse({ kind: 'logged', prompt: 'Quale slot?', options: [] }).success,
+      TurnResultSchema.safeParse({ kind: 'logged', text: 'Circa 350 kcal', citations: [] }).success,
     ).toBe(false)
   })
 })
