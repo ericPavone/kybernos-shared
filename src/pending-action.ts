@@ -1,4 +1,5 @@
 import { z } from 'zod'
+import { ComputeMealResponseSchema } from './compute-meal'
 import { UserFoodInputSchema } from './food'
 import { MealLogInputSchema } from './meal-log'
 import { PlanInputSchema } from './plan'
@@ -20,7 +21,9 @@ export const PendingActionPayloadSchemas = {
   rule: RuleInputSchema,
   preference: z.object({ text: z.string().min(1).max(1000) }),
   constraint: z.object({ text: z.string().min(1).max(1000) }),
-  meal: MealLogInputSchema,
+  // computed: fotografia di computeMeal al momento della proposta (RF-41);
+  // il decision service la ignora, il log usa solo i campi MealLogInput
+  meal: MealLogInputSchema.extend({ computed: ComputeMealResponseSchema.nullish() }),
   food: UserFoodInputSchema,
   plan_change: PlanInputSchema,
 } as const satisfies Record<z.infer<typeof PendingActionKindSchema>, z.ZodTypeAny>

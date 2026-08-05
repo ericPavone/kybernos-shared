@@ -2,7 +2,7 @@ import { z } from 'zod'
 import { DateRangeSchema } from './date-range'
 import { PageRequestSchema } from './pagination'
 
-export const MeasurementKindSchema = z.enum(['weight', 'ffm', 'body_fat', 'waist', 'thigh', 'arm'])
+export const MeasurementKindSchema = z.enum(['weight', 'ffm', 'body_fat', 'chest', 'waist', 'thigh', 'arm'])
 
 export const MeasurementInputSchema = z.object({
   kind: MeasurementKindSchema,

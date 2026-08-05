@@ -1,4 +1,5 @@
 export * from './balance'
+export * from './compute-meal'
 export * from './date-range'
 export * from './food'
 export * from './guardrail'

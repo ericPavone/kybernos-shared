@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import {
   DailyBalanceResponseSchema,
+  DailyMealItemSchema,
   UncertainValueSchema,
   WeeklyBalanceResponseSchema,
   WeeklyDaySchema,
@@ -16,6 +17,7 @@ const dailyFixture = {
   planId: uuid,
   dayTypeCode: 'rest',
   kcal: { consumed: uv, target: 2000, residual: 500 },
+  floorKcal: 1500,
   macros: { protein: macro, carbs: macro, fat: macro, fiber: macro },
   estimatedCount: 1,
   slots: [
@@ -84,6 +86,29 @@ describe('DailyBalanceResponseSchema', () => {
     expect(
       DailyBalanceResponseSchema.safeParse({ ...dailyFixture, planId: 'non-uuid' }).success,
     ).toBe(false)
+  })
+})
+
+describe('DailyMealItemSchema', () => {
+  const mealItem = {
+    mealSlotLabel: 'Pranzo',
+    foodName: 'Riso',
+    gramsFood: 80,
+    kcal: 288,
+    proteinG: 5.6,
+    carbsG: 62.4,
+    fatG: 0.7,
+    estimation: 'weighed',
+  }
+
+  it('accetta una voce valida', () => {
+    expect(DailyMealItemSchema.safeParse(mealItem).success).toBe(true)
+  })
+
+  it('rifiuta una estimation fuori enum', () => {
+    expect(DailyMealItemSchema.safeParse({ ...mealItem, estimation: 'guessed' }).success).toBe(
+      false,
+    )
   })
 })
 

@@ -1,4 +1,5 @@
 import { z } from 'zod'
+import { EstimationSchema } from './meal-log'
 
 // balances never expose a bare number: every total carries its interval
 export const UncertainValueSchema = z.object({
@@ -40,6 +41,7 @@ export const DailyBalanceResponseSchema = z.object({
     target: z.number(),
     residual: z.number(),
   }),
+  floorKcal: z.number().int(),
   // macro grams: day totals never use food weight (§4.1)
   macros: z.object({
     protein: MacroBalanceSchema,
@@ -77,6 +79,22 @@ export const WeeklyBalanceResponseSchema = z.object({
   observations: z.array(GuardrailObservationSchema),
 })
 
+export const DailyMealItemSchema = z.object({
+  mealSlotLabel: z.string(),
+  foodName: z.string(),
+  gramsFood: z.number(),
+  kcal: z.number(),
+  proteinG: z.number(),
+  carbsG: z.number(),
+  fatG: z.number(),
+  estimation: EstimationSchema,
+})
+
+export const DailyMealsResponseSchema = z.object({
+  date: z.string().date(),
+  meals: z.array(DailyMealItemSchema),
+})
+
 export const DailyBalanceQuerySchema = z.object({ date: z.string().date() })
 export const WeeklyBalanceQuerySchema = z.object({ endDate: z.string().date() })
 
@@ -85,5 +103,7 @@ export type GuardrailObservation = z.infer<typeof GuardrailObservationSchema>
 export type MacroBalance = z.infer<typeof MacroBalanceSchema>
 export type SlotStatus = z.infer<typeof SlotStatusSchema>
 export type WeeklyDay = z.infer<typeof WeeklyDaySchema>
+export type DailyMealItem = z.infer<typeof DailyMealItemSchema>
+export type DailyMealsResponse = z.infer<typeof DailyMealsResponseSchema>
 export type DailyBalanceResponse = z.infer<typeof DailyBalanceResponseSchema>
 export type WeeklyBalanceResponse = z.infer<typeof WeeklyBalanceResponseSchema>

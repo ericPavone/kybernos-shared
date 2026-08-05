@@ -39,6 +39,38 @@ describe('PendingActionPayloadSchemas', () => {
     ).toBe(true)
   })
 
+  it('valida un payload meal arricchito con computed', () => {
+    expect(
+      PendingActionPayloadSchemas.meal.safeParse({
+        foodId: uuid,
+        gramsFood: 100,
+        mealSlotId: uuid,
+        eatenAt: '2026-08-04T12:30:00+02:00',
+        localTz: 'Europe/Rome',
+        computed: {
+          date: '2026-08-04',
+          items: [
+            {
+              foodId: uuid,
+              foodName: 'Pane',
+              gramsFood: 100,
+              kcal: 265,
+              proteinG: 9,
+              carbsG: 49,
+              fatG: 3.2,
+            },
+          ],
+          meal: { kcal: 265, proteinG: 9, carbsG: 49, fatG: 3.2, fiberG: 2.7 },
+          slot: null,
+          slotError: null,
+          projectedDay: null,
+          projectedDayError: 'no_plan_for_date',
+          observations: [],
+        },
+      }).success,
+    ).toBe(true)
+  })
+
   it('rifiuta un payload food senza nutrienti obbligatori', () => {
     expect(PendingActionPayloadSchemas.food.safeParse({ name: 'Riso' }).success).toBe(false)
   })
