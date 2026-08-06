@@ -21,7 +21,16 @@ const dailyFixture = {
   macros: { protein: macro, carbs: macro, fat: macro, fiber: macro },
   estimatedCount: 1,
   slots: [
-    { mealSlotId: uuid, code: 'lunch', label: 'Pranzo', allocationFoodG: 120, logged: true },
+    {
+      mealSlotId: uuid,
+      code: 'lunch',
+      label: 'Pranzo',
+      prescriptions: [
+        { kind: 'carbs', amount: 120, unit: 'food_g' },
+        { kind: 'vegetables', unit: 'free', note: 'a volontà' },
+      ],
+      logged: true,
+    },
   ],
   observations: [
     { guardrailCode: 'kcal_day', zone: 'soft', direction: 'above', certain: false, message: null },

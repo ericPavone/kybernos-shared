@@ -5,6 +5,8 @@ import {
   MealSlotInputSchema,
   MealSlotPatchSchema,
   PlanInputSchema,
+  SlotPrescriptionInputSchema,
+  SlotPrescriptionsPutSchema,
 } from './plan'
 
 
@@ -27,7 +29,9 @@ const basePlan = {
     { code: 'rest', label: 'Riposo' },
     { code: 'workout', label: 'Allenamento' },
   ],
-  carbAllocations: [{ dayTypeCode: 'rest', mealSlotCode: 'lunch', amountFoodG: 100 }],
+  slotPrescriptions: [
+    { dayTypeCode: 'rest', mealSlotCode: 'lunch', kind: 'carbs', amount: 100, unit: 'food_g' },
+  ],
   dayTypeRules: [{ dayTypeCode: 'workout', position: 0, condition: 'workout_present' }],
 }
 
@@ -41,20 +45,47 @@ describe('PlanInputSchema', () => {
     expect(PlanInputSchema.safeParse(basePlan).success).toBe(true)
   })
 
-  it('rifiuta allocation con dayTypeCode ignoto con messaggio specifico', () => {
+  it('rifiuta prescription con dayTypeCode ignoto con messaggio specifico', () => {
     const plan = {
       ...basePlan,
-      carbAllocations: [{ dayTypeCode: 'boh', mealSlotCode: 'lunch', amountFoodG: 100 }],
+      slotPrescriptions: [
+        { dayTypeCode: 'boh', mealSlotCode: 'lunch', kind: 'carbs', amount: 100, unit: 'food_g' },
+      ],
     }
-    expect(messagesOf(plan)).toContain('Allocation references unknown codes: boh/lunch')
+    expect(messagesOf(plan)).toContain('Prescription references unknown codes: boh/lunch')
   })
 
-  it('rifiuta allocation con mealSlotCode ignoto', () => {
+  it('rifiuta prescription con mealSlotCode ignoto', () => {
     const plan = {
       ...basePlan,
-      carbAllocations: [{ dayTypeCode: 'rest', mealSlotCode: 'boh', amountFoodG: 100 }],
+      slotPrescriptions: [
+        { dayTypeCode: 'rest', mealSlotCode: 'boh', kind: 'carbs', amount: 100, unit: 'food_g' },
+      ],
     }
-    expect(messagesOf(plan)).toContain('Allocation references unknown codes: rest/boh')
+    expect(messagesOf(plan)).toContain('Prescription references unknown codes: rest/boh')
+  })
+
+  it('rifiuta due prescrizioni con la stessa chiave (dayType, slot, kind)', () => {
+    const plan = {
+      ...basePlan,
+      slotPrescriptions: [
+        { dayTypeCode: 'rest', mealSlotCode: 'lunch', kind: 'carbs', amount: 100, unit: 'food_g' },
+        { dayTypeCode: 'rest', mealSlotCode: 'lunch', kind: 'carbs', amount: 80, unit: 'food_g' },
+      ],
+    }
+    expect(messagesOf(plan)).toContain('Duplicate prescription: rest/lunch/carbs')
+  })
+
+  it('accetta piu kind sullo stesso slot × giornata', () => {
+    const plan = {
+      ...basePlan,
+      slotPrescriptions: [
+        { dayTypeCode: 'rest', mealSlotCode: 'lunch', kind: 'carbs', amount: 100, unit: 'food_g' },
+        { dayTypeCode: 'rest', mealSlotCode: 'lunch', kind: 'protein', amount: 30, unit: 'macro_g' },
+        { dayTypeCode: 'rest', mealSlotCode: 'lunch', kind: 'vegetables', unit: 'free', note: 'a volontà' },
+      ],
+    }
+    expect(PlanInputSchema.safeParse(plan).success).toBe(true)
   })
 
   it('rifiuta rule con dayTypeCode ignoto con messaggio specifico', () => {
@@ -63,14 +94,6 @@ describe('PlanInputSchema', () => {
       dayTypeRules: [{ dayTypeCode: 'boh', position: 0, condition: 'always' }],
     }
     expect(messagesOf(plan)).toContain('Rule references unknown day type: boh')
-  })
-
-  it('rifiuta modulation con dayTypeCode ignoto con messaggio specifico', () => {
-    const plan = {
-      ...basePlan,
-      workoutModulations: [{ moment: 'pre_workout', dayTypeCode: 'boh' }],
-    }
-    expect(messagesOf(plan)).toContain('Modulation references unknown day type: boh')
   })
 
   it('rifiuta day type duplicati', () => {
@@ -102,7 +125,9 @@ describe('PlanInputSchema', () => {
         { code: 'rest', label: 'Riposo' },
         { code: 'rest', label: 'Riposo 2' },
       ],
-      carbAllocations: [{ dayTypeCode: 'boh', mealSlotCode: 'lunch', amountFoodG: 100 }],
+      slotPrescriptions: [
+        { dayTypeCode: 'boh', mealSlotCode: 'lunch', kind: 'carbs', amount: 100, unit: 'food_g' },
+      ],
       dayTypeRules: [{ dayTypeCode: 'mah', position: 0, condition: 'always' }],
     }
     const messages = messagesOf(plan)
@@ -110,7 +135,7 @@ describe('PlanInputSchema', () => {
     expect(messages).toEqual(
       expect.arrayContaining([
         'Duplicate day type codes',
-        'Allocation references unknown codes: boh/lunch',
+        'Prescription references unknown codes: boh/lunch',
         'Rule references unknown day type: mah',
       ]),
     )
@@ -119,9 +144,40 @@ describe('PlanInputSchema', () => {
   it('rifiuta mealSlots vuoto', () => {
     expect(PlanInputSchema.safeParse({ ...basePlan, mealSlots: [] }).success).toBe(false)
   })
+})
 
-  it('accetta workoutModulations null perché nullish', () => {
-    expect(PlanInputSchema.safeParse({ ...basePlan, workoutModulations: null }).success).toBe(true)
+describe('SlotPrescriptionInputSchema', () => {
+  const base = { dayTypeCode: 'rest', mealSlotCode: 'lunch', kind: 'carbs' }
+
+  it('accetta una quantità con unità', () => {
+    expect(SlotPrescriptionInputSchema.safeParse({ ...base, amount: 100, unit: 'food_g' }).success).toBe(true)
+  })
+
+  it('rifiuta amount con unit free', () => {
+    expect(
+      SlotPrescriptionInputSchema.safeParse({ ...base, amount: 100, unit: 'free' }).success,
+    ).toBe(false)
+  })
+
+  it('rifiuta amount assente con unità diversa da free', () => {
+    expect(SlotPrescriptionInputSchema.safeParse({ ...base, unit: 'macro_g' }).success).toBe(false)
+  })
+
+  it('accetta free senza amount, con nota', () => {
+    expect(
+      SlotPrescriptionInputSchema.safeParse({
+        ...base,
+        kind: 'vegetables',
+        unit: 'free',
+        note: 'a volontà',
+      }).success,
+    ).toBe(true)
+  })
+
+  it('rifiuta un kind fuori enum', () => {
+    expect(
+      SlotPrescriptionInputSchema.safeParse({ ...base, kind: 'boh', amount: 1, unit: 'food_g' }).success,
+    ).toBe(false)
   })
 })
 
@@ -206,5 +262,54 @@ describe('DayTypeOverridePutSchema', () => {
 
   it('rifiuta code oltre 100 caratteri', () => {
     expect(DayTypeOverridePutSchema.safeParse({ code: 'x'.repeat(101) }).success).toBe(false)
+  })
+})
+
+describe('SlotPrescriptionsPutSchema', () => {
+  const cell = { dayTypeCode: 'rest', mealSlotCode: 'lunch' }
+
+  it('accetta la cella intera, righe eterogenee comprese', () => {
+    expect(
+      SlotPrescriptionsPutSchema.safeParse({
+        ...cell,
+        prescriptions: [
+          { kind: 'carbs', amount: 100, unit: 'food_g' },
+          { kind: 'protein', amount: 30, unit: 'macro_g', note: 'magro' },
+          { kind: 'vegetables', unit: 'free', note: 'a volontà' },
+        ],
+      }).success,
+    ).toBe(true)
+  })
+
+  it('la cella vuota è valida: è il modo di svuotarla', () => {
+    expect(SlotPrescriptionsPutSchema.safeParse({ ...cell, prescriptions: [] }).success).toBe(true)
+  })
+
+  it('rifiuta due righe dello stesso kind', () => {
+    const parsed = SlotPrescriptionsPutSchema.safeParse({
+      ...cell,
+      prescriptions: [
+        { kind: 'carbs', amount: 100, unit: 'food_g' },
+        { kind: 'carbs', amount: 80, unit: 'food_g' },
+      ],
+    })
+    expect(parsed.success).toBe(false)
+    expect(parsed.success ? [] : parsed.error.issues.map((i) => i.message)).toContain(
+      'Duplicate prescription kind: carbs',
+    )
+  })
+
+  it("rifiuta piu righe dei kind esistenti", () => {
+    const prescriptions = Array.from({ length: 9 }, () => ({ kind: 'other', amount: 1, unit: 'macro_g' }))
+    expect(SlotPrescriptionsPutSchema.safeParse({ ...cell, prescriptions }).success).toBe(false)
+  })
+
+  it("propaga l'invariante di free alle righe", () => {
+    expect(
+      SlotPrescriptionsPutSchema.safeParse({
+        ...cell,
+        prescriptions: [{ kind: 'carbs', amount: 100, unit: 'free' }],
+      }).success,
+    ).toBe(false)
   })
 })

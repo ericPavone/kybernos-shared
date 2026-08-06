@@ -1,5 +1,6 @@
 import { z } from 'zod'
 import { EstimationSchema } from './meal-log'
+import { SlotPrescriptionSchema } from './plan'
 
 // balances never expose a bare number: every total carries its interval
 export const UncertainValueSchema = z.object({
@@ -27,8 +28,8 @@ export const SlotStatusSchema = z.object({
   mealSlotId: z.string().uuid(),
   code: z.string(),
   label: z.string(),
-  // prescribed carb allocation, food weight — a quotation from the plan
-  allocationFoodG: z.number().nullish(),
+  // what the plan prescribes here for the day type in force — a quotation
+  prescriptions: z.array(SlotPrescriptionSchema),
   logged: z.boolean(),
 })
 

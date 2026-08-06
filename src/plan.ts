@@ -9,7 +9,19 @@ export const DayTypeRuleConditionSchema = z.enum([
   'weekday',
   'always',
 ])
-export const ModulationMomentSchema = z.enum(['pre_workout', 'post_workout'])
+export const SlotPrescriptionKindSchema = z.enum([
+  'carbs',
+  'protein',
+  'fruit',
+  'vegetables',
+  'added_fat',
+  'cheese',
+  'cold_cuts',
+  'other',
+])
+// food_g = peso alimento (citazione dal piano), macro_g = grammi di macro,
+// free = prescrizione senza quantità («verdura a volontà»)
+export const SlotPrescriptionUnitSchema = z.enum(['food_g', 'macro_g', 'free'])
 
 export const MealSlotInputSchema = z.object({
   code: z.string().min(1).max(100),
@@ -24,11 +36,59 @@ export const DayTypeInputSchema = z.object({
   label: z.string().min(1).max(200),
 })
 
-export const CarbAllocationInputSchema = z.object({
+const prescriptionKey = {
   dayTypeCode: z.string().min(1).max(100),
   mealSlotCode: z.string().min(1).max(100),
-  amountFoodG: z.number().nonnegative(),
-})
+}
+
+const prescriptionCore = {
+  kind: SlotPrescriptionKindSchema,
+  amount: z.number().nonnegative().nullish(),
+  unit: SlotPrescriptionUnitSchema,
+  note: z.string().max(200).nullish(),
+}
+
+// amount è valorizzato se e solo se l'unità non è `free` (stesso invariante del
+// CHECK a DB): senza il discriminante peso alimento e grammi di macro sarebbero
+// ambigui nella stessa riga (§4.1)
+const refineFreeAmount = (
+  p: { amount?: number | null; unit: z.infer<typeof SlotPrescriptionUnitSchema> },
+  ctx: z.RefinementCtx,
+) => {
+  if ((p.unit === 'free') !== (p.amount == null)) {
+    ctx.addIssue({
+      code: z.ZodIssueCode.custom,
+      path: ['amount'],
+      message: 'amount is required unless unit is «free», and forbidden when it is',
+    })
+  }
+}
+
+export const SlotPrescriptionSchema = z.object(prescriptionCore).superRefine(refineFreeAmount)
+
+export const SlotPrescriptionInputSchema = z
+  .object({ ...prescriptionKey, ...prescriptionCore })
+  .superRefine(refineFreeAmount)
+
+// La cella (slot × giornata) è l'unità di scrittura: si sostituisce intera, in
+// una sola richiesta, come la settimana tipo con DayTypeRulesPutSchema. Scriverla
+// riga per riga la lascerebbe a metà se una delle scritture fallisse.
+export const SlotPrescriptionsPutSchema = z
+  .object({
+    ...prescriptionKey,
+    prescriptions: z
+      .array(SlotPrescriptionSchema)
+      .max(SlotPrescriptionKindSchema.options.length),
+  })
+  .superRefine((cell, ctx) => {
+    const seen = new Set<string>()
+    for (const p of cell.prescriptions) {
+      if (seen.has(p.kind)) {
+        ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Duplicate prescription kind: ${p.kind}` })
+      }
+      seen.add(p.kind)
+    }
+  })
 
 export const DayTypeRuleInputSchema = z.object({
   dayTypeCode: z.string().min(1).max(100),
@@ -50,15 +110,6 @@ export const DayTypePatchSchema = z.object({
   label: z.string().min(1).max(200),
 })
 
-export const WorkoutModulationInputSchema = z.object({
-  moment: ModulationMomentSchema,
-  dayTypeCode: z.string().min(1).max(100),
-  excludedWorkoutKinds: z.array(z.string().max(100)).max(50).nullish(),
-  carbAmountFoodG: z.number().nonnegative().nullish(),
-  proteinG: z.number().nonnegative().nullish(),
-  windowMin: z.number().int().positive().nullish(),
-})
-
 const planParams = {
   name: z.string().min(1).max(200),
   validFrom: z.string().date(),
@@ -77,9 +128,8 @@ export const PlanInputSchema = z
     ...planParams,
     mealSlots: z.array(MealSlotInputSchema).min(1),
     dayTypes: z.array(DayTypeInputSchema).min(1),
-    carbAllocations: z.array(CarbAllocationInputSchema),
+    slotPrescriptions: z.array(SlotPrescriptionInputSchema),
     dayTypeRules: z.array(DayTypeRuleInputSchema),
-    workoutModulations: z.array(WorkoutModulationInputSchema).nullish(),
   })
   .superRefine((plan, ctx) => {
     const slotCodes = new Set(plan.mealSlots.map((s) => s.code))
@@ -90,13 +140,19 @@ export const PlanInputSchema = z
     if (dayTypeCodes.size !== plan.dayTypes.length) {
       ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'Duplicate day type codes' })
     }
-    for (const a of plan.carbAllocations) {
-      if (!dayTypeCodes.has(a.dayTypeCode) || !slotCodes.has(a.mealSlotCode)) {
+    const seen = new Set<string>()
+    for (const p of plan.slotPrescriptions) {
+      if (!dayTypeCodes.has(p.dayTypeCode) || !slotCodes.has(p.mealSlotCode)) {
         ctx.addIssue({
           code: z.ZodIssueCode.custom,
-          message: `Allocation references unknown codes: ${a.dayTypeCode}/${a.mealSlotCode}`,
+          message: `Prescription references unknown codes: ${p.dayTypeCode}/${p.mealSlotCode}`,
         })
       }
+      const key = `${p.dayTypeCode}/${p.mealSlotCode}/${p.kind}`
+      if (seen.has(key)) {
+        ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Duplicate prescription: ${key}` })
+      }
+      seen.add(key)
     }
     for (const r of plan.dayTypeRules) {
       if (!dayTypeCodes.has(r.dayTypeCode)) {
@@ -106,25 +162,14 @@ export const PlanInputSchema = z
         })
       }
     }
-    for (const m of plan.workoutModulations ?? []) {
-      if (!dayTypeCodes.has(m.dayTypeCode)) {
-        ctx.addIssue({
-          code: z.ZodIssueCode.custom,
-          message: `Modulation references unknown day type: ${m.dayTypeCode}`,
-        })
-      }
-    }
   })
 
 export const MealSlotResponseSchema = MealSlotInputSchema.extend({ id: z.string().uuid() })
 export const DayTypeResponseSchema = DayTypeInputSchema.extend({ id: z.string().uuid() })
-export const CarbAllocationResponseSchema = CarbAllocationInputSchema.extend({
-  id: z.string().uuid(),
-})
+export const SlotPrescriptionResponseSchema = z
+  .object({ id: z.string().uuid(), ...prescriptionKey, ...prescriptionCore })
+  .superRefine(refineFreeAmount)
 export const DayTypeRuleResponseSchema = DayTypeRuleInputSchema.extend({ id: z.string().uuid() })
-export const WorkoutModulationResponseSchema = WorkoutModulationInputSchema.extend({
-  id: z.string().uuid(),
-})
 
 export const PlanSummaryResponseSchema = z.object({
   id: z.string().uuid(),
@@ -146,9 +191,8 @@ export const PlanResponseSchema = PlanSummaryResponseSchema.extend({
   priority: PlanPrioritySchema,
   mealSlots: z.array(MealSlotResponseSchema),
   dayTypes: z.array(DayTypeResponseSchema),
-  carbAllocations: z.array(CarbAllocationResponseSchema),
+  slotPrescriptions: z.array(SlotPrescriptionResponseSchema),
   dayTypeRules: z.array(DayTypeRuleResponseSchema),
-  workoutModulations: z.array(WorkoutModulationResponseSchema),
 })
 
 export const DayTypeRulesPutSchema = z.array(DayTypeRuleInputSchema).max(50)
@@ -164,7 +208,12 @@ export type MealSlotInput = z.infer<typeof MealSlotInputSchema>
 export type MealSlotPatch = z.infer<typeof MealSlotPatchSchema>
 export type DayTypeInput = z.infer<typeof DayTypeInputSchema>
 export type DayTypePatch = z.infer<typeof DayTypePatchSchema>
-export type CarbAllocationInput = z.infer<typeof CarbAllocationInputSchema>
+export type SlotPrescriptionKind = z.infer<typeof SlotPrescriptionKindSchema>
+export type SlotPrescriptionUnit = z.infer<typeof SlotPrescriptionUnitSchema>
+export type SlotPrescription = z.infer<typeof SlotPrescriptionSchema>
+export type SlotPrescriptionInput = z.infer<typeof SlotPrescriptionInputSchema>
+export type SlotPrescriptionsPut = z.infer<typeof SlotPrescriptionsPutSchema>
+export type SlotPrescriptionResponse = z.infer<typeof SlotPrescriptionResponseSchema>
 export type DayTypeRuleInput = z.infer<typeof DayTypeRuleInputSchema>
 export type PlanInput = z.infer<typeof PlanInputSchema>
 export type DayTypeOverrideResponse = z.infer<typeof DayTypeOverrideResponseSchema>

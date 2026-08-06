@@ -89,7 +89,12 @@ describe('ComputeMealResponseSchema', () => {
   })
 
   it('accetta uno slot senza logged', () => {
-    const slot = { mealSlotId: uuid, code: 'dinner', label: 'Cena', allocationFoodG: 120 }
+    const slot = {
+      mealSlotId: uuid,
+      code: 'dinner',
+      label: 'Cena',
+      prescriptions: [{ kind: 'carbs', amount: 120, unit: 'food_g' }],
+    }
     expect(ComputeMealResponseSchema.safeParse({ ...responseFixture, slot }).success).toBe(true)
   })
 
