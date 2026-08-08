@@ -66,6 +66,7 @@ describe('PendingActionPayloadSchemas', () => {
           projectedDay: null,
           projectedDayError: 'no_plan_for_date',
           observations: [],
+          allowed: true,
         },
       }).success,
     ).toBe(true)

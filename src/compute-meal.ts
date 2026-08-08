@@ -45,6 +45,11 @@ export const ComputeMealResponseSchema = z.object({
   projectedDay: ProjectedDaySchema.nullable(),
   projectedDayError: z.string().nullable(),
   observations: z.array(GuardrailObservationSchema),
+  // ⚠️ Riguarda il **proporre**, non il registrare: false = il pasto porta il giorno
+  // sopra un limite rigido, quindi non va suggerito. Ciò che l'utente ha già mangiato
+  // si registra comunque. Esiste perché senza, l'agente dovrebbe dedurlo dalle
+  // osservazioni — e un secondo tool con questa stessa firma sarebbe un doppione.
+  allowed: z.boolean(),
 })
 
 export type ComputeMealInput = z.infer<typeof ComputeMealInputSchema>

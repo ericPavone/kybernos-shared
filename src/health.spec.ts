@@ -30,6 +30,12 @@ describe('HealthMeasurementSampleSchema', () => {
     const { externalId: _e, ...senza } = measurementSample
     expect(HealthMeasurementSampleSchema.safeParse(senza).success).toBe(false)
   })
+
+  // un peso implausibile non deve far fallire un import da 10.000 campioni:
+  // lo scarta HealthService, campione per campione
+  it('accetta un valore fuori range plausibile', () => {
+    expect(HealthMeasurementSampleSchema.safeParse({ ...measurementSample, value: 900 }).success).toBe(true)
+  })
 })
 
 describe('HealthWorkoutSampleSchema', () => {

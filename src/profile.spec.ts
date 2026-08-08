@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { HrZoneSchema, ProfileInputSchema } from './profile'
+import { HEIGHT_CM_RANGE, HrZoneSchema, ProfileInputSchema } from './profile'
 
 const baseProfile = {
   sex: 'male',
@@ -35,12 +35,32 @@ describe('ProfileInputSchema', () => {
     ).toBe(true)
   })
 
+  // additivo: i client che non lo mandano restano validi e restano metrici
+  it('mette unitSystem a metric quando manca', () => {
+    expect(ProfileInputSchema.parse(baseProfile).unitSystem).toBe('metric')
+  })
+
+  it('accetta imperial e rifiuta un sistema inventato', () => {
+    expect(ProfileInputSchema.parse({ ...baseProfile, unitSystem: 'imperial' }).unitSystem).toBe('imperial')
+    expect(ProfileInputSchema.safeParse({ ...baseProfile, unitSystem: 'us' }).success).toBe(false)
+  })
+
   it('rifiuta sex fuori enum', () => {
     expect(ProfileInputSchema.safeParse({ ...baseProfile, sex: 'other' }).success).toBe(false)
   })
 
   it('rifiuta heightCm non positiva', () => {
     expect(ProfileInputSchema.safeParse({ ...baseProfile, heightCm: 0 }).success).toBe(false)
+  })
+
+  it('rifiuta heightCm fuori dai limiti di plausibilità', () => {
+    expect(ProfileInputSchema.safeParse({ ...baseProfile, heightCm: 119 }).success).toBe(false)
+    expect(ProfileInputSchema.safeParse({ ...baseProfile, heightCm: 231 }).success).toBe(false)
+  })
+
+  it('accetta i bordi, inclusi', () => {
+    expect(ProfileInputSchema.safeParse({ ...baseProfile, heightCm: HEIGHT_CM_RANGE.min }).success).toBe(true)
+    expect(ProfileInputSchema.safeParse({ ...baseProfile, heightCm: HEIGHT_CM_RANGE.max }).success).toBe(true)
   })
 
   it('rifiuta piu di 50 limitations', () => {

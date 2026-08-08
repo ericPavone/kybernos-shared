@@ -1,8 +1,10 @@
 import { z } from 'zod'
-import { MeasurementInputSchema } from './measurement'
+import { MeasurementSampleSchema } from './measurement'
 import { WorkoutLogInputSchema } from './workout-log'
 
-export const HealthMeasurementSampleSchema = MeasurementInputSchema.extend({
+// ⚠️ `MeasurementSampleSchema`, non `MeasurementInputSchema`: un campione fuori
+// range non deve far fallire un import da 10.000 campioni. Lo scarta il service.
+export const HealthMeasurementSampleSchema = MeasurementSampleSchema.extend({
   externalId: z.string().min(1).max(200),
 })
 

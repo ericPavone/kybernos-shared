@@ -1,8 +1,12 @@
 import { describe, expect, it } from 'vitest'
 import {
+  isPlausibleMeasurement,
+  MEASUREMENT_RANGES,
   MeasurementFilterSchema,
   MeasurementInputSchema,
   MeasurementListQuerySchema,
+  MeasurementResponseSchema,
+  MeasurementSampleSchema,
 } from './measurement'
 
 const baseInput = {
@@ -49,5 +53,65 @@ describe('MeasurementInputSchema', () => {
     expect(
       MeasurementInputSchema.safeParse({ ...baseInput, measuredOn: '04/08/2026' }).success,
     ).toBe(false)
+  })
+
+  it('accetta i bordi del range, inclusi', () => {
+    for (const [kind, range] of Object.entries(MEASUREMENT_RANGES)) {
+      expect(MeasurementInputSchema.safeParse({ ...baseInput, kind, value: range.min }).success).toBe(true)
+      expect(MeasurementInputSchema.safeParse({ ...baseInput, kind, value: range.max }).success).toBe(true)
+    }
+  })
+
+  it('rifiuta un valore fuori range per ogni kind', () => {
+    for (const [kind, range] of Object.entries(MEASUREMENT_RANGES)) {
+      expect(MeasurementInputSchema.safeParse({ ...baseInput, kind, value: range.min - 0.1 }).success).toBe(false)
+      expect(MeasurementInputSchema.safeParse({ ...baseInput, kind, value: range.max + 0.1 }).success).toBe(false)
+    }
+  })
+
+  it('porta il messaggio sul campo value, col range del kind', () => {
+    const parsed = MeasurementInputSchema.safeParse({ ...baseInput, value: 900 })
+    expect(parsed.success).toBe(false)
+    if (parsed.success) return
+    expect(parsed.error.issues[0].path).toEqual(['value'])
+    expect(parsed.error.issues[0].message).toContain('30-250 kg')
+  })
+
+  it('applica il range del kind, non uno solo per tutti', () => {
+    expect(MeasurementInputSchema.safeParse({ ...baseInput, kind: 'body_fat', value: 18 }).success).toBe(true)
+    expect(MeasurementInputSchema.safeParse({ ...baseInput, kind: 'body_fat', value: 90 }).success).toBe(false)
+  })
+})
+
+describe('MeasurementSampleSchema', () => {
+  it('valida la struttura senza applicare il range: lo scarto per campione sta nel service', () => {
+    expect(MeasurementSampleSchema.safeParse({ ...baseInput, value: 900 }).success).toBe(true)
+  })
+
+  it('rifiuta comunque un valore non positivo', () => {
+    expect(MeasurementSampleSchema.safeParse({ ...baseInput, value: -1 }).success).toBe(false)
+  })
+})
+
+describe('MeasurementResponseSchema', () => {
+  // il mapper REST fa un parse su ogni riga letta: le misure fuori range già a
+  // DB devono restare leggibili
+  it('accetta una riga storica fuori range', () => {
+    expect(
+      MeasurementResponseSchema.safeParse({
+        ...baseInput,
+        value: 221,
+        id: '11111111-1111-4111-8111-111111111111',
+      }).success,
+    ).toBe(true)
+  })
+})
+
+describe('isPlausibleMeasurement', () => {
+  it('è inclusivo sui bordi', () => {
+    expect(isPlausibleMeasurement('weight', 30)).toBe(true)
+    expect(isPlausibleMeasurement('weight', 250)).toBe(true)
+    expect(isPlausibleMeasurement('weight', 29.9)).toBe(false)
+    expect(isPlausibleMeasurement('weight', 250.1)).toBe(false)
   })
 })

@@ -39,6 +39,7 @@ const responseFixture = {
   projectedDay,
   projectedDayError: null,
   observations: [],
+  allowed: true,
 }
 
 describe('ComputeMealInputSchema', () => {
@@ -105,5 +106,12 @@ describe('ComputeMealResponseSchema', () => {
         meal: { ...responseFixture.meal, kcal: uv },
       }).success,
     ).toBe(false)
+  })
+
+  // riguarda il proporre, non il registrare: senza il campo l'agente dovrebbe
+  // dedurlo dalle osservazioni, ed è ciò che un secondo tool avrebbe duplicato
+  it('pretende allowed: senza, la risposta non è valida', () => {
+    const { allowed: _a, ...senza } = responseFixture
+    expect(ComputeMealResponseSchema.safeParse(senza).success).toBe(false)
   })
 })
