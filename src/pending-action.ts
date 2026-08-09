@@ -1,7 +1,7 @@
 import { z } from 'zod'
 import { ComputeMealResponseSchema } from './compute-meal'
 import { UserFoodInputSchema } from './food'
-import { MealLogInputSchema } from './meal-log'
+import { EstimationSchema, MealLogInputSchema } from './meal-log'
 import { PlanInputSchema } from './plan'
 import { RuleInputSchema } from './rule'
 
@@ -12,7 +12,20 @@ export const PendingActionKindSchema = z.enum([
   'meal',
   'food',
   'plan_change',
+  'unresolved_food',
 ])
+
+// D-022: voce di pasto non risolta dal batch — porta grammi, slot e orario
+// originali, così la risoluzione registra retroattivamente sul momento vero
+export const UnresolvedFoodPayloadSchema = z.object({
+  food: z.string().min(1).max(200),
+  gramsFood: z.number().positive().nullish(),
+  mealSlotId: z.string().uuid(),
+  slotLabel: z.string().min(1).max(100),
+  eatenAt: z.string().datetime({ offset: true }),
+  localTz: z.string().min(1).max(64),
+  estimation: EstimationSchema.nullish(),
+})
 
 // H3.5: il payload di una pending_action deve superare questi schemi prima di
 // diventare una scrittura — un payload malformato si rifiuta, mai si scrive.
@@ -26,6 +39,7 @@ export const PendingActionPayloadSchemas = {
   meal: MealLogInputSchema.extend({ computed: ComputeMealResponseSchema.nullish() }),
   food: UserFoodInputSchema,
   plan_change: PlanInputSchema,
+  unresolved_food: UnresolvedFoodPayloadSchema,
 } as const satisfies Record<z.infer<typeof PendingActionKindSchema>, z.ZodTypeAny>
 
 export const PendingActionStatusSchema = z.enum(['pending', 'accepted', 'rejected', 'expired'])
@@ -41,5 +55,6 @@ export const PendingActionResponseSchema = z.object({
 })
 
 export type PendingActionKind = z.infer<typeof PendingActionKindSchema>
+export type UnresolvedFoodPayload = z.infer<typeof UnresolvedFoodPayloadSchema>
 export type PendingActionStatus = z.infer<typeof PendingActionStatusSchema>
 export type PendingActionResponse = z.infer<typeof PendingActionResponseSchema>
