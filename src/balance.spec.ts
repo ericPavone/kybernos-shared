@@ -56,7 +56,9 @@ const dailyFixture = {
 
 const weeklyFixture = {
   endDate: '2026-08-04',
-  days: [{ date: '2026-08-03', kcal: uv, estimatedCount: 0, unresolvedCount: 0 }],
+  days: [
+    { date: '2026-08-03', kcal: uv, targetKcal: 2200, dayTypeCode: 'training', estimatedCount: 0, unresolvedCount: 0 },
+  ],
   avgKcal: uv,
   deltaVsTarget: uv,
   avgProteinG: uv,
@@ -77,18 +79,30 @@ describe('UncertainValueSchema', () => {
 })
 
 describe('WeeklyDaySchema', () => {
+  const unlogged = { date: '2026-08-01', kcal: null, targetKcal: null, dayTypeCode: null, estimatedCount: 0, unresolvedCount: 0 }
+
   it('accetta kcal null per un giorno non loggato', () => {
-    expect(
-      WeeklyDaySchema.safeParse({ date: '2026-08-01', kcal: null, estimatedCount: 0, unresolvedCount: 0 }).success,
-    ).toBe(true)
+    expect(WeeklyDaySchema.safeParse(unlogged).success).toBe(true)
   })
 
   it('accetta kcal omesso perché nullish', () => {
-    expect(WeeklyDaySchema.safeParse({ date: '2026-08-01', estimatedCount: 0, unresolvedCount: 0 }).success).toBe(true)
+    const { kcal: _kcal, ...senzaKcal } = unlogged
+    expect(WeeklyDaySchema.safeParse(senzaKcal).success).toBe(true)
+  })
+
+  it('accetta target e day type valorizzati sul giorno con piano', () => {
+    expect(
+      WeeklyDaySchema.safeParse({ ...unlogged, targetKcal: 2200, dayTypeCode: 'rest' }).success,
+    ).toBe(true)
+  })
+
+  it('rifiuta il giorno senza targetKcal: nullable, non opzionale', () => {
+    const { targetKcal: _target, ...senzaTarget } = unlogged
+    expect(WeeklyDaySchema.safeParse(senzaTarget).success).toBe(false)
   })
 
   it('rifiuta una data non valida', () => {
-    expect(WeeklyDaySchema.safeParse({ date: 'ieri', estimatedCount: 0 }).success).toBe(false)
+    expect(WeeklyDaySchema.safeParse({ ...unlogged, date: 'ieri' }).success).toBe(false)
   })
 })
 
@@ -152,6 +166,26 @@ describe('WeeklyBalanceResponseSchema', () => {
   it('rifiuta avgKcal come numero nudo invece di UncertainValue', () => {
     expect(
       WeeklyBalanceResponseSchema.safeParse({ ...weeklyFixture, avgKcal: 2000 }).success,
+    ).toBe(false)
+  })
+
+  it('D-019: accetta reason globale con deltaVsTarget null e avgKcal vero', () => {
+    expect(
+      WeeklyBalanceResponseSchema.safeParse({
+        ...weeklyFixture,
+        reason: 'weight_missing',
+        deltaVsTarget: null,
+      }).success,
+    ).toBe(true)
+  })
+
+  it('accetta reason omesso perché nullish (settimana completa)', () => {
+    expect(WeeklyBalanceResponseSchema.safeParse(weeklyFixture).success).toBe(true)
+  })
+
+  it('rifiuta un reason fuori enum', () => {
+    expect(
+      WeeklyBalanceResponseSchema.safeParse({ ...weeklyFixture, reason: 'no_scale' }).success,
     ).toBe(false)
   })
 })

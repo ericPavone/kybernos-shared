@@ -111,6 +111,10 @@ export const WeightTrendSchema = z.object({
 export const WeeklyDaySchema = z.object({
   date: z.string().date(),
   kcal: UncertainValueSchema.nullish(),
+  // R-03: lo zero della scala è il target di quel giorno — con le giornate
+  // tipo non è una costante della settimana; null = nessun piano sulla data
+  targetKcal: z.number().int().nullable(),
+  dayTypeCode: z.string().nullable(),
   estimatedCount: z.number().int(),
   // R-33: un giorno con voci sospese non è un giorno basso
   unresolvedCount: z.number().int(),
@@ -119,11 +123,16 @@ export const WeeklyDaySchema = z.object({
 export const WeeklyBalanceResponseSchema = z.object({
   endDate: z.string().date(),
   days: z.array(WeeklyDaySchema),
+  // il consumato resta vero anche a settimana incompleta (D-019)
   avgKcal: UncertainValueSchema,
-  deltaVsTarget: UncertainValueSchema,
+  // null quando nessun giorno registrato ha un target: non si inventa
+  deltaVsTarget: UncertainValueSchema.nullable(),
   avgProteinG: UncertainValueSchema,
   daysLogged: z.number().int(),
   estimatedCount: z.number().int(),
+  // D-019 sul weekly — globale solo quando la misura non esiste affatto; la
+  // misura che c'è ma non copre un giorno toglie il target a quel giorno solo
+  reason: BalanceReasonSchema.nullish(),
   weightTrend: WeightTrendSchema.nullish(),
   observations: z.array(GuardrailObservationSchema),
 })
