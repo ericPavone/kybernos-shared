@@ -18,8 +18,23 @@ const dailyFixture = {
   dayTypeCode: 'rest',
   kcal: { consumed: uv, target: 2000, residual: 500 },
   floorKcal: 1500,
+  reason: null,
+  derivation: {
+    basal: 1700,
+    bmrFormula: 'mifflin',
+    weightKgUsed: 80,
+    weightMeasuredAt: '2026-08-02',
+    weightMeasurementId: uuid,
+    ffmKgUsed: null,
+    ffmMeasuredAt: null,
+    ffmMeasurementId: null,
+    activityFactor: 1.55,
+    activeKcal: 300,
+    deficitKcal: 400,
+  },
   macros: { protein: macro, carbs: macro, fat: macro, fiber: macro },
   estimatedCount: 1,
+  unresolvedCount: 0,
   slots: [
     {
       mealSlotId: uuid,
@@ -29,7 +44,9 @@ const dailyFixture = {
         { kind: 'carbs', amount: 120, unit: 'food_g' },
         { kind: 'vegetables', unit: 'free', note: 'a volontà' },
       ],
+      unprescribed: false,
       logged: true,
+      unresolvedCount: 0,
     },
   ],
   observations: [
@@ -39,7 +56,7 @@ const dailyFixture = {
 
 const weeklyFixture = {
   endDate: '2026-08-04',
-  days: [{ date: '2026-08-03', kcal: uv, estimatedCount: 0 }],
+  days: [{ date: '2026-08-03', kcal: uv, estimatedCount: 0, unresolvedCount: 0 }],
   avgKcal: uv,
   deltaVsTarget: uv,
   avgProteinG: uv,
@@ -62,12 +79,12 @@ describe('UncertainValueSchema', () => {
 describe('WeeklyDaySchema', () => {
   it('accetta kcal null per un giorno non loggato', () => {
     expect(
-      WeeklyDaySchema.safeParse({ date: '2026-08-01', kcal: null, estimatedCount: 0 }).success,
+      WeeklyDaySchema.safeParse({ date: '2026-08-01', kcal: null, estimatedCount: 0, unresolvedCount: 0 }).success,
     ).toBe(true)
   })
 
   it('accetta kcal omesso perché nullish', () => {
-    expect(WeeklyDaySchema.safeParse({ date: '2026-08-01', estimatedCount: 0 }).success).toBe(true)
+    expect(WeeklyDaySchema.safeParse({ date: '2026-08-01', estimatedCount: 0, unresolvedCount: 0 }).success).toBe(true)
   })
 
   it('rifiuta una data non valida', () => {

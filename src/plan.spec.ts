@@ -285,6 +285,23 @@ describe('SlotPrescriptionsPutSchema', () => {
     expect(SlotPrescriptionsPutSchema.safeParse({ ...cell, prescriptions: [] }).success).toBe(true)
   })
 
+  // R-08: il marcatore «non previsto» pretende la cella vuota
+  it('accetta unprescribed sulla cella vuota', () => {
+    expect(
+      SlotPrescriptionsPutSchema.safeParse({ ...cell, prescriptions: [], unprescribed: true }).success,
+    ).toBe(true)
+  })
+
+  it('rifiuta unprescribed con prescrizioni nella cella', () => {
+    expect(
+      SlotPrescriptionsPutSchema.safeParse({
+        ...cell,
+        prescriptions: [{ kind: 'carbs', amount: 100, unit: 'food_g' }],
+        unprescribed: true,
+      }).success,
+    ).toBe(false)
+  })
+
   it('rifiuta due righe dello stesso kind', () => {
     const parsed = SlotPrescriptionsPutSchema.safeParse({
       ...cell,

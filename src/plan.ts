@@ -73,12 +73,16 @@ export const SlotPrescriptionInputSchema = z
 // La cella (slot × giornata) è l'unità di scrittura: si sostituisce intera, in
 // una sola richiesta, come la settimana tipo con DayTypeRulesPutSchema. Scriverla
 // riga per riga la lascerebbe a metà se una delle scritture fallisse.
+// R-08: il body descrive lo stato finale della cella — `unprescribed: true`
+// marca «pasto non previsto in questa giornata» (scelta, non buco) e pretende
+// la cella vuota; scrivere prescrizioni toglie il marcatore.
 export const SlotPrescriptionsPutSchema = z
   .object({
     ...prescriptionKey,
     prescriptions: z
       .array(SlotPrescriptionSchema)
       .max(SlotPrescriptionKindSchema.options.length),
+    unprescribed: z.boolean().optional(),
   })
   .superRefine((cell, ctx) => {
     const seen = new Set<string>()
@@ -87,6 +91,13 @@ export const SlotPrescriptionsPutSchema = z
         ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Duplicate prescription kind: ${p.kind}` })
       }
       seen.add(p.kind)
+    }
+    if (cell.unprescribed === true && cell.prescriptions.length > 0) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        path: ['unprescribed'],
+        message: 'an unprescribed cell cannot carry prescriptions',
+      })
     }
   })
 
@@ -171,6 +182,10 @@ export const SlotPrescriptionResponseSchema = z
   .superRefine(refineFreeAmount)
 export const DayTypeRuleResponseSchema = DayTypeRuleInputSchema.extend({ id: z.string().uuid() })
 
+// R-08: cella marcata «non previsto» — l'assenza di prescrizioni da sola non
+// distingue la scelta del nutrizionista dal lavoro che manca
+export const UnprescribedCellSchema = z.object(prescriptionKey)
+
 export const PlanSummaryResponseSchema = z.object({
   id: z.string().uuid(),
   name: z.string(),
@@ -192,6 +207,7 @@ export const PlanResponseSchema = PlanSummaryResponseSchema.extend({
   mealSlots: z.array(MealSlotResponseSchema),
   dayTypes: z.array(DayTypeResponseSchema),
   slotPrescriptions: z.array(SlotPrescriptionResponseSchema),
+  unprescribedCells: z.array(UnprescribedCellSchema),
   dayTypeRules: z.array(DayTypeRuleResponseSchema),
 })
 
@@ -214,6 +230,7 @@ export type SlotPrescription = z.infer<typeof SlotPrescriptionSchema>
 export type SlotPrescriptionInput = z.infer<typeof SlotPrescriptionInputSchema>
 export type SlotPrescriptionsPut = z.infer<typeof SlotPrescriptionsPutSchema>
 export type SlotPrescriptionResponse = z.infer<typeof SlotPrescriptionResponseSchema>
+export type UnprescribedCell = z.infer<typeof UnprescribedCellSchema>
 export type DayTypeRuleInput = z.infer<typeof DayTypeRuleInputSchema>
 export type PlanInput = z.infer<typeof PlanInputSchema>
 export type DayTypeOverrideResponse = z.infer<typeof DayTypeOverrideResponseSchema>

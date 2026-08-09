@@ -25,8 +25,11 @@ const projectedDay = {
   dayTypeCode: 'rest',
   kcal: { consumed: uv, target: 2000, residual: 500 },
   floorKcal: 1500,
+  reason: null,
+  derivation: null,
   macros: { protein: macro, carbs: macro, fat: macro, fiber: macro },
   estimatedCount: 0,
+  unresolvedCount: 0,
   observations: [],
 }
 
@@ -95,6 +98,7 @@ describe('ComputeMealResponseSchema', () => {
       code: 'dinner',
       label: 'Cena',
       prescriptions: [{ kind: 'carbs', amount: 120, unit: 'food_g' }],
+      unprescribed: false,
     }
     expect(ComputeMealResponseSchema.safeParse({ ...responseFixture, slot }).success).toBe(true)
   })

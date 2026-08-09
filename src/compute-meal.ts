@@ -40,7 +40,9 @@ export const ComputeMealResponseSchema = z.object({
     fatG: z.number(),
     fiberG: z.number(),
   }),
-  slot: SlotStatusSchema.omit({ logged: true }).nullable(),
+  // niente logged né unresolvedCount: qui lo slot è una citazione del piano
+  // per la proposta, non lo stato del giorno
+  slot: SlotStatusSchema.omit({ logged: true, unresolvedCount: true }).nullable(),
   slotError: z.string().nullable(),
   projectedDay: ProjectedDaySchema.nullable(),
   projectedDayError: z.string().nullable(),
