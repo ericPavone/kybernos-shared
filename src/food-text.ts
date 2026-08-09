@@ -36,9 +36,10 @@ export const searchVariants = (q: string): string[] => {
 
 // forma canonica per il confronto esatto fra query e nome/alias: minuscole,
 // apostrofi normalizzati, elisione estesa, stopword via (le stesse del parser
-// deterministico FE, RF-69c)
+// deterministico FE, RF-69c); l'underscore vale come spazio (P1-ter: il
+// modello scrive i nomi in snake_case)
 export const normalizeForMatch = (s: string): string =>
   expandElision(normalizeApostrophes(s.toLowerCase()))
-    .split(/\s+/)
+    .split(/[\s_]+/)
     .filter((t) => t.length > 0 && !STOPWORDS.has(t))
     .join(' ')

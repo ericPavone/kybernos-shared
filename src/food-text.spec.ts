@@ -43,4 +43,9 @@ describe('normalizeForMatch', () => {
   it('le stopword non pesano nel confronto', () => {
     expect(normalizeForMatch('petto di pollo')).toBe('petto pollo')
   })
+
+  it('l\'underscore vale come spazio (t06: nomi in snake_case dal modello)', () => {
+    expect(normalizeForMatch('banana_media')).toBe(normalizeForMatch('Banana media'))
+    expect(normalizeForMatch('pane_100g')).toBe('pane 100g')
+  })
 })
