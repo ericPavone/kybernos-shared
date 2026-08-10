@@ -81,6 +81,30 @@ describe('TurnResultSchema', () => {
     ).toBe(true)
   })
 
+  it('porta le voci da chiarire sia sul ramo logged sia su answer (D-024)', () => {
+    const unresolved = [
+      {
+        ...pendingActionResponse,
+        kind: 'unresolved_food',
+        payload: {
+          food: 'mozzarella',
+          mealSlotId: uuid,
+          slotLabel: 'Pranzo',
+          eatenAt: '2026-08-04T12:30:00+02:00',
+          localTz: 'Europe/Rome',
+          candidates: [{ foodId: uuid, name: 'Mozzarella light', detail: '160 kcal/100 g', personal: false }],
+        },
+      },
+    ]
+    expect(
+      TurnResultSchema.safeParse({ kind: 'logged', entries: [mealLogResponse], unresolved }).success,
+    ).toBe(true)
+    expect(
+      TurnResultSchema.safeParse({ kind: 'answer', text: 'da chiarire', citations: [], unresolved })
+        .success,
+    ).toBe(true)
+  })
+
   it('rifiuta un kind non previsto dalla union', () => {
     expect(TurnResultSchema.safeParse({ kind: 'unknown' }).success).toBe(false)
   })

@@ -1,5 +1,10 @@
 import { describe, expect, it } from 'vitest'
-import { MealListQuerySchema, MealLogInputSchema } from './meal-log'
+import {
+  MealBatchInputSchema,
+  MealBatchResponseSchema,
+  MealListQuerySchema,
+  MealLogInputSchema,
+} from './meal-log'
 
 const uuid = '11111111-1111-4111-8111-111111111111'
 
@@ -48,5 +53,35 @@ describe('MealLogInputSchema', () => {
     expect(
       MealLogInputSchema.safeParse({ ...baseInput, localTz: 'x'.repeat(65) }).success,
     ).toBe(false)
+  })
+})
+
+describe('MealBatchInputSchema', () => {
+  it('accetta da 1 a 30 voci, ciascuna un MealLogInput valido', () => {
+    expect(MealBatchInputSchema.safeParse({ entries: [baseInput] }).success).toBe(true)
+    expect(MealBatchInputSchema.safeParse({ entries: [] }).success).toBe(false)
+    expect(
+      MealBatchInputSchema.safeParse({ entries: Array.from({ length: 31 }, () => baseInput) })
+        .success,
+    ).toBe(false)
+  })
+
+  it('una voce malformata invalida il batch: la forma si controlla tutta prima', () => {
+    expect(
+      MealBatchInputSchema.safeParse({ entries: [baseInput, { ...baseInput, gramsFood: 0 }] })
+        .success,
+    ).toBe(false)
+  })
+})
+
+describe('MealBatchResponseSchema', () => {
+  it('porta l\'esito per voce: logged col pasto, error coi messaggi', () => {
+    expect(
+      MealBatchResponseSchema.safeParse({
+        results: [
+          { index: 0, status: 'error', meal: null, errors: [{ code: 'x', message: 'y' }], warnings: [] },
+        ],
+      }).success,
+    ).toBe(true)
   })
 })

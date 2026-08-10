@@ -45,8 +45,12 @@ export const MeasurementInputSchema = MeasurementSampleSchema.superRefine((m, ct
 
 // ⚠️ Senza plausibilità: le righe già a DB fuori range devono restare leggibili
 // (il mapper REST fa un parse su ogni riga letta).
+// R-29/R-35: stessa forma dei pasti — supersededBy sulla riga vecchia,
+// corrected derivato sulla riga attiva
 export const MeasurementResponseSchema = MeasurementSampleSchema.extend({
   id: z.string().uuid(),
+  supersededBy: z.string().uuid().nullish(),
+  corrected: z.boolean().default(false),
 })
 
 export const MeasurementFilterSchema = DateRangeSchema.extend({

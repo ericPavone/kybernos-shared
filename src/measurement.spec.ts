@@ -105,6 +105,17 @@ describe('MeasurementResponseSchema', () => {
       }).success,
     ).toBe(true)
   })
+
+  // R-29/R-35: la traccia di correzione a contratto; corrected default false
+  it('espone supersededBy e corrected, con corrected a false se assente', () => {
+    const parsed = MeasurementResponseSchema.parse({
+      ...baseInput,
+      id: '11111111-1111-4111-8111-111111111111',
+      supersededBy: '22222222-2222-4222-8222-222222222222',
+    })
+    expect(parsed.supersededBy).toBe('22222222-2222-4222-8222-222222222222')
+    expect(parsed.corrected).toBe(false)
+  })
 })
 
 describe('isPlausibleMeasurement', () => {

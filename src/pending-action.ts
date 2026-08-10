@@ -15,8 +15,20 @@ export const PendingActionKindSchema = z.enum([
   'unresolved_food',
 ])
 
+// D-024: i candidati di una voce ambigua, come li rende il client — nome e
+// dettaglio per distinguerli, `foodId` per risolverla. È un'istantanea del
+// momento in cui la voce è nata: l'alimento può non esistere più alla scelta.
+export const FoodCandidateSchema = z.object({
+  foodId: z.string().uuid(),
+  name: z.string().min(1).max(200),
+  detail: z.string().max(200),
+  // la dispensa personale sempre prima (RF-21): l'ordine è quello dell'array
+  personal: z.boolean(),
+})
+
 // D-022: voce di pasto non risolta dal batch — porta grammi, slot e orario
-// originali, così la risoluzione registra retroattivamente sul momento vero
+// originali, così la risoluzione registra retroattivamente sul momento vero.
+// D-024: se l'irrisolto è un'ambiguità, porta anche i candidati.
 export const UnresolvedFoodPayloadSchema = z.object({
   food: z.string().min(1).max(200),
   gramsFood: z.number().positive().nullish(),
@@ -25,6 +37,7 @@ export const UnresolvedFoodPayloadSchema = z.object({
   eatenAt: z.string().datetime({ offset: true }),
   localTz: z.string().min(1).max(64),
   estimation: EstimationSchema.nullish(),
+  candidates: z.array(FoodCandidateSchema).max(4).nullish(),
 })
 
 // H3.5: il payload di una pending_action deve superare questi schemi prima di
@@ -42,6 +55,18 @@ export const PendingActionPayloadSchemas = {
   unresolved_food: UnresolvedFoodPayloadSchema,
 } as const satisfies Record<z.infer<typeof PendingActionKindSchema>, z.ZodTypeAny>
 
+// D-022/R-31: la risoluzione indica l'alimento; gli altri campi, se assenti,
+// restano quelli del payload originale. `localTz` non è sovrascrivibile.
+// ⚠️ `foodId` non è vincolato ai `candidates` del payload: D-022 lascia aperto
+// anche «cerca in dispensa» e «crea», i candidati sono una scorciatoia.
+export const UnresolvedFoodResolutionSchema = z.object({
+  foodId: z.string().uuid(),
+  gramsFood: z.number().positive().optional(),
+  mealSlotId: z.string().uuid().optional(),
+  eatenAt: z.string().datetime({ offset: true }).optional(),
+  estimation: EstimationSchema.optional(),
+})
+
 export const PendingActionStatusSchema = z.enum(['pending', 'accepted', 'rejected', 'expired'])
 
 export const PendingActionResponseSchema = z.object({
@@ -55,6 +80,8 @@ export const PendingActionResponseSchema = z.object({
 })
 
 export type PendingActionKind = z.infer<typeof PendingActionKindSchema>
+export type FoodCandidate = z.infer<typeof FoodCandidateSchema>
 export type UnresolvedFoodPayload = z.infer<typeof UnresolvedFoodPayloadSchema>
+export type UnresolvedFoodResolution = z.infer<typeof UnresolvedFoodResolutionSchema>
 export type PendingActionStatus = z.infer<typeof PendingActionStatusSchema>
 export type PendingActionResponse = z.infer<typeof PendingActionResponseSchema>

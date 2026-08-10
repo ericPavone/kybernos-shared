@@ -11,17 +11,26 @@ export const TurnInputSchema = z.object({
   conversationId: z.string().uuid().nullish(),
 })
 
+// D-024: le voci da chiarire accodate dal turno viaggiano con l'esito, così il
+// client può renderne la scelta come dato strutturato (i candidati stanno nel
+// payload). Sta su `logged` e su `answer` perché un batch di sole voci ambigue
+// non scrive niente e cade su `answer`; su `proposal` non serve, il batch non
+// produce proposte.
+const unresolved = { unresolved: z.array(PendingActionResponseSchema).nullish() }
+
 // polymorphic result: the client renders the shape, it never decides (§6.3)
 export const TurnResultSchema = z.discriminatedUnion('kind', [
   z.object({
     kind: z.literal('logged'),
     entries: z.array(MealLogResponseSchema),
     balance: DailyBalanceResponseSchema.nullish(),
+    ...unresolved,
   }),
   z.object({
     kind: z.literal('answer'),
     text: z.string(),
     citations: z.array(z.string()),
+    ...unresolved,
   }),
   z.object({
     kind: z.literal('proposal'),

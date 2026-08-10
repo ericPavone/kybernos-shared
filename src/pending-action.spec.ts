@@ -1,5 +1,9 @@
 import { describe, expect, it } from 'vitest'
-import { PendingActionPayloadSchemas, PendingActionResponseSchema } from './pending-action'
+import {
+  PendingActionPayloadSchemas,
+  PendingActionResponseSchema,
+  UnresolvedFoodResolutionSchema,
+} from './pending-action'
 
 const uuid = '11111111-1111-4111-8111-111111111111'
 
@@ -107,6 +111,74 @@ describe('PendingActionResponseSchema', () => {
         expiresAt: '2026-08-05T12:00:00+02:00',
         createdAt: '2026-08-04T12:00:00+02:00',
       }).success,
+    ).toBe(false)
+  })
+})
+
+describe('UnresolvedFoodPayloadSchema', () => {
+  const base = {
+    food: 'mozzarella',
+    gramsFood: 200,
+    mealSlotId: uuid,
+    slotLabel: 'Pranzo',
+    eatenAt: '2026-08-10T13:00:00+02:00',
+    localTz: 'Europe/Rome',
+  }
+  const candidate = { foodId: uuid, name: 'Mozzarella light', detail: '160 kcal/100 g', personal: false }
+
+  it('i candidati sono facoltativi: la voce unknown non ne ha (D-022)', () => {
+    expect(PendingActionPayloadSchemas.unresolved_food.safeParse(base).success).toBe(true)
+  })
+
+  it('accetta i candidati di una voce ambigua (D-024)', () => {
+    expect(
+      PendingActionPayloadSchemas.unresolved_food.safeParse({ ...base, candidates: [candidate] })
+        .success,
+    ).toBe(true)
+  })
+
+  it('rifiuta più di quattro candidati: la lista lunga affoga chi sceglie', () => {
+    expect(
+      PendingActionPayloadSchemas.unresolved_food.safeParse({
+        ...base,
+        candidates: Array.from({ length: 5 }, () => candidate),
+      }).success,
+    ).toBe(false)
+  })
+
+  it('rifiuta un candidato senza foodId: senza id la scelta non si risolve', () => {
+    const { foodId: _id, ...senzaId } = candidate
+    expect(
+      PendingActionPayloadSchemas.unresolved_food.safeParse({ ...base, candidates: [senzaId] })
+        .success,
+    ).toBe(false)
+  })
+})
+
+describe('UnresolvedFoodResolutionSchema', () => {
+  it('basta il foodId: il resto arriva dal payload originale', () => {
+    expect(UnresolvedFoodResolutionSchema.safeParse({ foodId: uuid }).success).toBe(true)
+  })
+
+  it('accetta le sovrascritture di grammi, slot, ora ed estimation', () => {
+    expect(
+      UnresolvedFoodResolutionSchema.safeParse({
+        foodId: uuid,
+        gramsFood: 80,
+        mealSlotId: uuid,
+        eatenAt: '2026-08-10T07:40:00+02:00',
+        estimation: 'estimated_declared',
+      }).success,
+    ).toBe(true)
+  })
+
+  it('rifiuta grammi non positivi e localTz: il fuso non si sovrascrive', () => {
+    expect(UnresolvedFoodResolutionSchema.safeParse({ foodId: uuid, gramsFood: 0 }).success).toBe(
+      false,
+    )
+    expect(
+      UnresolvedFoodResolutionSchema.strict().safeParse({ foodId: uuid, localTz: 'Europe/Rome' })
+        .success,
     ).toBe(false)
   })
 })

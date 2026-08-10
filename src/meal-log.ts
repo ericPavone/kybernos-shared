@@ -35,8 +35,37 @@ export const MealLogResponseSchema = z.object({
   proteinG: z.number(),
   carbsG: z.number(),
   fatG: z.number(),
+  // R-35: la riga vecchia punta a chi la sostituisce (le liste la escludono)
+  supersededBy: z.string().uuid().nullish(),
+  // ...e la riga attiva dice di essere il frutto di una correzione — derivato,
+  // non a colonna: esiste una riga superseded che punta a questa
+  corrected: z.boolean().default(false),
+})
+
+// R-34: multi-voce in una chiamata, esito per voce — una voce cattiva non
+// affonda le altre. 201 sempre: l'esito, anche tutto-errori, vive in results[]
+export const MealBatchInputSchema = z.object({
+  entries: z.array(MealLogInputSchema).min(1).max(30),
+})
+
+const BatchMessageSchema = z.object({ code: z.string(), message: z.string() })
+
+export const MealBatchEntryResultSchema = z.object({
+  index: z.number().int().nonnegative(),
+  status: z.enum(['logged', 'error']),
+  meal: MealLogResponseSchema.nullish(),
+  errors: z.array(BatchMessageSchema),
+  // guardrail per voce: avvisa, mai blocca
+  warnings: z.array(BatchMessageSchema),
+})
+
+export const MealBatchResponseSchema = z.object({
+  results: z.array(MealBatchEntryResultSchema),
 })
 
 export type MealLogInput = z.infer<typeof MealLogInputSchema>
 export type MealListQuery = z.infer<typeof MealListQuerySchema>
 export type MealLogResponse = z.infer<typeof MealLogResponseSchema>
+export type MealBatchInput = z.infer<typeof MealBatchInputSchema>
+export type MealBatchEntryResult = z.infer<typeof MealBatchEntryResultSchema>
+export type MealBatchResponse = z.infer<typeof MealBatchResponseSchema>
