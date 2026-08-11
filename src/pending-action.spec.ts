@@ -153,6 +153,29 @@ describe('UnresolvedFoodPayloadSchema', () => {
         .success,
     ).toBe(false)
   })
+
+  // R-44: le due letture in conflitto viaggiano con la voce, e con loro
+  // `gramsFood` è null — la quantità non è nota, e sceglierla sarebbe indovinare
+  it('accetta le due letture della quantità, con i grammi a null', () => {
+    expect(
+      PendingActionPayloadSchemas.unresolved_food.safeParse({
+        ...base,
+        gramsFood: null,
+        gramsReadings: { fromName: 50, fromField: 500 },
+      }).success,
+    ).toBe(true)
+  })
+
+  it('sono facoltative: le voci accodate prima restano valide', () => {
+    expect(PendingActionPayloadSchemas.unresolved_food.safeParse(base).success).toBe(true)
+  })
+
+  it('rifiuta una lettura sola: il conflitto è fra due', () => {
+    expect(
+      PendingActionPayloadSchemas.unresolved_food.safeParse({ ...base, gramsReadings: { fromName: 50 } })
+        .success,
+    ).toBe(false)
+  })
 })
 
 describe('UnresolvedFoodResolutionSchema', () => {

@@ -26,6 +26,15 @@ export const FoodCandidateSchema = z.object({
   personal: z.boolean(),
 })
 
+// R-44: il numero dentro il nome («farina d'avena 50 g») contro il campo
+// `grams` (500) — due letture della stessa quantità prodotte dallo stesso
+// turno. Nessuno può sapere quale valga, e la differenza è un fattore 10: la
+// voce non si scrive, si chiede, e la domanda ha bisogno di entrambe.
+export const GramsReadingsSchema = z.object({
+  fromName: z.number().positive(),
+  fromField: z.number().positive(),
+})
+
 // D-022: voce di pasto non risolta dal batch — porta grammi, slot e orario
 // originali, così la risoluzione registra retroattivamente sul momento vero.
 // D-024: se l'irrisolto è un'ambiguità, porta anche i candidati.
@@ -38,6 +47,13 @@ export const UnresolvedFoodPayloadSchema = z.object({
   localTz: z.string().min(1).max(64),
   estimation: EstimationSchema.nullish(),
   candidates: z.array(FoodCandidateSchema).max(4).nullish(),
+  // D-028: la frase è dell'utente o del modello? Si sa solo qui, col testo del
+  // turno sotto mano, e serve dopo — alla scelta, per decidere se aliasarla in
+  // dispensa. Opzionale: le voci accodate prima restano valide
+  saidByUser: z.boolean().nullish(),
+  // R-44: presenti = `gramsFood` è null perché le due letture divergono, e la
+  // scelta è dell'utente. Opzionale: le voci accodate prima restano valide
+  gramsReadings: GramsReadingsSchema.nullish(),
 })
 
 // H3.5: il payload di una pending_action deve superare questi schemi prima di
@@ -79,9 +95,18 @@ export const PendingActionResponseSchema = z.object({
   createdAt: z.string().datetime({ offset: true }),
 })
 
+// D-024 punto 2: alla scelta si offre «lo tieni in dispensa?». Additivo sulla
+// risposta della risoluzione — l'offerta è una pending_action `food` come le
+// altre, si accetta e si rifiuta dalle rotte che esistono già
+export const ResolvedUnresolvedFoodSchema = PendingActionResponseSchema.extend({
+  offer: PendingActionResponseSchema.nullish(),
+})
+
 export type PendingActionKind = z.infer<typeof PendingActionKindSchema>
 export type FoodCandidate = z.infer<typeof FoodCandidateSchema>
+export type GramsReadings = z.infer<typeof GramsReadingsSchema>
 export type UnresolvedFoodPayload = z.infer<typeof UnresolvedFoodPayloadSchema>
 export type UnresolvedFoodResolution = z.infer<typeof UnresolvedFoodResolutionSchema>
 export type PendingActionStatus = z.infer<typeof PendingActionStatusSchema>
 export type PendingActionResponse = z.infer<typeof PendingActionResponseSchema>
+export type ResolvedUnresolvedFood = z.infer<typeof ResolvedUnresolvedFoodSchema>
