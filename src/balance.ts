@@ -34,10 +34,29 @@ export const SlotStatusSchema = z.object({
   // dichiarata); prescriptions vuote senza flag = cella da compilare
   unprescribed: z.boolean(),
   logged: z.boolean(),
+  // D-031: dichiarato dall'utente, per questo giorno e questo slot. «Saltato» e
+  // «dimenticato» non sono lo stesso fatto: se hai saltato di proposito il
+  // deficit della giornata è vero, se hai dimenticato di registrare è un
+  // artefatto. ⚠️ Non si deduce mai — né dall'ora né dal vuoto a fine giornata:
+  // uno slot vuoto e mai saltato resta *non registrato*, che è un terzo fatto
+  skipped: z.boolean(),
   // R-33: voci in coda `unresolved_food` per questo slot — «registrato ma
   // incompleto» = logged && unresolvedCount > 0; il binario da solo mentiva
   unresolvedCount: z.number().int(),
 })
+
+// D-031: dichiarare o revocare «saltato» su (giorno, slot). Un solo verbo con
+// il booleano invece di due rotte: è idempotente per costruzione, e «l'ho
+// saltato» detto due volte è la stessa affermazione, non un errore.
+export const SlotSkipInputSchema = z
+  .object({
+    date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+    mealSlotId: z.string().uuid(),
+    skipped: z.boolean(),
+  })
+  .strict()
+
+export type SlotSkipInput = z.infer<typeof SlotSkipInputSchema>
 
 // D-019: uno stato incompleto è una risposta valida — il motivo dichiarato con
 // cui il giorno risponde 200 senza target. Un valore solo, il primo mancante

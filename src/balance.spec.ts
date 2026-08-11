@@ -46,6 +46,7 @@ const dailyFixture = {
       ],
       unprescribed: false,
       logged: true,
+      skipped: false,
       unresolvedCount: 0,
     },
   ],

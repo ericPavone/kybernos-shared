@@ -36,6 +36,17 @@ export const TurnResultSchema = z.discriminatedUnion('kind', [
     kind: z.literal('proposal'),
     actions: z.array(PendingActionResponseSchema),
   }),
+  // D-031: lo slot dichiarato saltato su richiesta esplicita dell'utente. È un
+  // esito **strutturato** e non una frase del modello: senza, il client
+  // saprebbe cosa è successo solo leggendo il testo — che è ciò che D-021 ha
+  // già pagato in C3, quando il modello taceva la coda
+  z.object({
+    kind: z.literal('skipped'),
+    mealSlotId: z.string().uuid(),
+    slotLabel: z.string(),
+    date: z.string(),
+    balance: DailyBalanceResponseSchema.nullish(),
+  }),
 ])
 
 export type TurnInput = z.infer<typeof TurnInputSchema>

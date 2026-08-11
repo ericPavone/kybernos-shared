@@ -1,5 +1,11 @@
 import { describe, expect, it } from 'vitest'
-import { resolveFoodByName, sameNutrition, type Per100 } from './food-resolution'
+import {
+  equivalenceClasses,
+  representativeOf,
+  resolveFoodByName,
+  sameNutrition,
+  type Per100,
+} from './food-resolution'
 
 const PER100: Per100 = { kcal: 100, p: 10, c: 10, f: 10 }
 
@@ -54,7 +60,7 @@ describe('resolveFoodByName', () => {
 
     const result = resolveFoodByName('tonno al naturale', [light, olio])
 
-    expect(result).toEqual({ kind: 'ambiguous', candidates: [light, olio] })
+    expect(result).toEqual({ kind: 'ambiguous', candidates: [light, olio], representative: light })
   })
 
   // senza questa, «lo tieni in dispensa?» non toglierebbe l'attrito: i quattro
@@ -88,7 +94,7 @@ describe('resolveFoodByName', () => {
 
     const result = resolveFoodByName('peanut butter', [bar], { trustSingleCandidate: false })
 
-    expect(result).toEqual({ kind: 'ambiguous', candidates: [bar] })
+    expect(result).toEqual({ kind: 'ambiguous', candidates: [bar], representative: bar })
   })
 
   it('dal fallback per token il nome esatto resta una certezza', () => {
@@ -107,10 +113,12 @@ describe('resolveFoodByName', () => {
 
     const result = resolveFoodByName('shake proteico', [uno, due], { trustSingleCandidate: false })
 
-    expect(result).toEqual({ kind: 'ambiguous', candidates: [uno, due] })
+    // stessi numeri, quindi un profilo solo: la lista collassa e la domanda non
+    // c'è più — ma il veto della provenienza resta, e la voce non si scrive
+    expect(result).toEqual({ kind: 'ambiguous', candidates: [uno], representative: uno })
   })
 
-  it('più corrispondenze → ambiguous con al massimo 4 candidati', () => {
+  it('più corrispondenze → ambiguous con al massimo 4 profili', () => {
     const candidates = Array.from({ length: 8 }, (_, i) =>
       food(`Mozzarella ${i}`, false, [], { ...PER100, kcal: 100 + i }),
     )
@@ -121,6 +129,61 @@ describe('resolveFoodByName', () => {
     if (result.kind === 'ambiguous') {
       expect(result.candidates).toEqual(candidates.slice(0, 4))
     }
+  })
+
+  // D-032: il tetto conta i profili, non le righe — otto righe da tre profili
+  // sono tre domande possibili, non otto
+  it('le righe equivalenti collassano dentro la lista, e il tetto vale sui profili', () => {
+    const candidates = Array.from({ length: 8 }, (_, i) =>
+      food(`Yogurt ${i}`, false, [], { ...PER100, kcal: 100 + (i % 3) }),
+    )
+
+    const result = resolveFoodByName('yogurt', candidates)
+
+    expect(result.kind).toBe('ambiguous')
+    if (result.kind === 'ambiguous') {
+      expect(result.candidates).toEqual([candidates[0], candidates[1], candidates[2]])
+    }
+  })
+
+  it('«uno vale l\'altro» è la prima riga della classe più numerosa', () => {
+    const deco = food('Yogurt Decò', false, [], { kcal: 56, p: 9, c: 5, f: 0 })
+    const despar = food('Yogurt Despar', false, [], { kcal: 55, p: 9, c: 5, f: 0 })
+    const crai = food('Yogurt Crai', false, [], { kcal: 56, p: 9, c: 5, f: 0 })
+
+    const result = resolveFoodByName('yogurt', [despar, deco, crai], { grams: 200 })
+
+    expect(result.kind).toBe('ambiguous')
+    if (result.kind === 'ambiguous') {
+      // Decò e Crai sono la stessa classe: due contro uno, e la prima è Decò
+      expect(result.candidates).toEqual([despar, deco])
+      expect(result.representative).toBe(deco)
+    }
+  })
+
+  it('il personale è il rappresentante anche se la sua classe è la meno numerosa (RF-21)', () => {
+    // nome non esatto: col nome esatto vincerebbe già prima (RF-21), e questo
+    // test parla del rappresentante, non di quel ramo
+    const mio = food('Yogurt Greco della Nonna', true, [], { kcal: 60, p: 10, c: 4, f: 0 })
+    const uno = food('Yogurt Greco Decò', false, [], { kcal: 56, p: 9, c: 5, f: 0 })
+    const due = food('Yogurt Greco Crai', false, [], { kcal: 56, p: 9, c: 5, f: 0 })
+
+    const result = resolveFoodByName('yogurt greco', [mio, uno, due], { grams: 200 })
+
+    expect(result.kind).toBe('ambiguous')
+    if (result.kind === 'ambiguous') {
+      expect(result.representative).toBe(mio)
+    }
+  })
+
+  // D-032: l'equivalenza si valuta sulla porzione, e la porzione cambia la
+  // risposta — a 30 g la scelta non muove nessuna cifra che l'utente vedrà
+  it('la stessa coppia si chiede a 200 g e si tace a 30 g', () => {
+    const a = food('Yogurt Auchan', false, [], { kcal: 58, p: 9, c: 5, f: 0 })
+    const b = food('Yogurt Despar', false, [], { kcal: 55, p: 9, c: 5, f: 0 })
+
+    expect(resolveFoodByName('yogurt', [a, b], { grams: 200 }).kind).toBe('ambiguous')
+    expect(resolveFoodByName('yogurt', [a, b], { grams: 30 })).toEqual({ kind: 'resolved', food: a })
   })
 
   it('nessun candidato → unknown', () => {
@@ -143,8 +206,54 @@ describe('sameNutrition', () => {
     ).toBe(true)
   })
 
+  // D-033: e restano equivalenti **a ogni porzione**. Prima della fetta questa
+  // coppia si separava a 200 g (38,9 contro 38,8) per un decimo di grammo nato
+  // dall'arrotondamento della fonte, e la domanda che R-37 cita come «senza
+  // informazione» tornava a essere una domanda
+  it.each([30, 100, 200, 250])('gli stessi due restano equivalenti a %i g', (grams) => {
+    expect(
+      sameNutrition({ kcal: 92, p: 19.44, c: 0, f: 0.8 }, { kcal: 92, p: 19.4, c: 0, f: 0.8 }, grams),
+    ).toBe(true)
+  })
+
   it('difformi appena una cifra visibile cambia', () => {
     expect(sameNutrition({ kcal: 92, p: 19.4, c: 0, f: 0.8 }, { kcal: 93, p: 19.4, c: 0, f: 0.8 })).toBe(false)
     expect(sameNutrition({ kcal: 92, p: 19.4, c: 0, f: 0.8 }, { kcal: 92, p: 19.5, c: 0, f: 0.8 })).toBe(false)
+  })
+
+  // D-032: le cifre si rendono sulla porzione. 55 e 58 kcal/100 g sono 17 e 17
+  // su 30 g, 110 e 116 su 200 g: la seconda è una differenza che l'utente vede
+  it('la porzione decide: equivalenti su 30 g, difformi su 200 g', () => {
+    const a = { kcal: 55, p: 9, c: 5, f: 0 }
+    const b = { kcal: 58, p: 9, c: 5, f: 0 }
+
+    expect(sameNutrition(a, b, 30)).toBe(true)
+    expect(sameNutrition(a, b, 200)).toBe(false)
+    expect(sameNutrition(a, b)).toBe(false)
+  })
+})
+
+describe('representativeOf', () => {
+  it('a parità di dimensione vince la classe che viene prima', () => {
+    const primo = food('Primo', false, [], { ...PER100, kcal: 100 })
+    const secondo = food('Secondo', false, [], { ...PER100, kcal: 200 })
+
+    expect(
+      representativeOf([
+        { food: primo, size: 1 },
+        { food: secondo, size: 1 },
+      ]),
+    ).toBe(primo)
+  })
+})
+
+describe('equivalenceClasses', () => {
+  it('dentro la classe la riga personale prende il posto della prima (RF-21)', () => {
+    const canonico = food('Yogurt', false, [], PER100)
+    const mio = food('Yogurt mio', true, [], PER100)
+
+    const classes = equivalenceClasses([canonico, mio])
+
+    expect(classes).toEqual([{ food: mio, size: 2 }])
   })
 })

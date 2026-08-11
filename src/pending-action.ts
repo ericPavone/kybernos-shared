@@ -54,6 +54,13 @@ export const UnresolvedFoodPayloadSchema = z.object({
   // R-44: presenti = `gramsFood` è null perché le due letture divergono, e la
   // scelta è dell'utente. Opzionale: le voci accodate prima restano valide
   gramsReadings: GramsReadingsSchema.nullish(),
+  // D-032: la riga che risponde a «non so quale, uno vale l'altro» — prima
+  // della classe di equivalenza più numerosa, personale prima (RF-21). Si
+  // calcola qui perché i numeri stanno qui: i candidati non li portano, e
+  // metterceli darebbe al client una seconda fonte di verità sulla regola.
+  // Opzionale: le voci accodate prima restano valide, e per loro la risposta
+  // non si offre
+  representativeFoodId: z.string().uuid().nullish(),
 })
 
 // H3.5: il payload di una pending_action deve superare questi schemi prima di
@@ -75,13 +82,35 @@ export const PendingActionPayloadSchemas = {
 // restano quelli del payload originale. `localTz` non è sovrascrivibile.
 // ⚠️ `foodId` non è vincolato ai `candidates` del payload: D-022 lascia aperto
 // anche «cerca in dispensa» e «crea», i candidati sono una scorciatoia.
-export const UnresolvedFoodResolutionSchema = z.object({
-  foodId: z.string().uuid(),
-  gramsFood: z.number().positive().optional(),
-  mealSlotId: z.string().uuid().optional(),
-  eatenAt: z.string().datetime({ offset: true }).optional(),
-  estimation: EstimationSchema.optional(),
-})
+//
+// D-032: `anyOfThem` è l'**intento** — «non so quale, uno vale l'altro» —, e
+// non è ridondante col `representativeFoodId` del payload, che è il **dato**.
+// Senza, il server riceverebbe un `foodId` e non potrebbe distinguere «ho
+// scelto X» da «non lo so, X l'avete scelto voi»: due fatti diversi, con
+// conseguenze diverse sulla correzione e sulla voce dell'assistente, persi al
+// confine del contratto. È anche il motivo per cui il marcatore di certezza lo
+// mette il server e non il chiamante: un client distratto registrerebbe come
+// `weighed` una voce che nessuno ha scelto.
+export const UnresolvedFoodResolutionSchema = z
+  .object({
+    foodId: z.string().uuid().optional(),
+    anyOfThem: z.literal(true).optional(),
+    gramsFood: z.number().positive().optional(),
+    mealSlotId: z.string().uuid().optional(),
+    eatenAt: z.string().datetime({ offset: true }).optional(),
+    estimation: EstimationSchema.optional(),
+  })
+  .superRefine((val, ctx) => {
+    // o si nomina l'alimento o si dichiara di non saperlo: insieme sarebbero
+    // due risposte alla stessa domanda, e il server dovrebbe sceglierne una
+    if ((val.foodId != null) === (val.anyOfThem === true)) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        path: ['foodId'],
+        message: 'indica l\'alimento oppure `anyOfThem`, non entrambi',
+      })
+    }
+  })
 
 export const PendingActionStatusSchema = z.enum(['pending', 'accepted', 'rejected', 'expired'])
 

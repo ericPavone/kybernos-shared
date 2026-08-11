@@ -199,9 +199,18 @@ describe('UnresolvedFoodResolutionSchema', () => {
     expect(UnresolvedFoodResolutionSchema.safeParse({ foodId: uuid, gramsFood: 0 }).success).toBe(
       false,
     )
-    expect(
-      UnresolvedFoodResolutionSchema.strict().safeParse({ foodId: uuid, localTz: 'Europe/Rome' })
-        .success,
-    ).toBe(false)
+    // il fuso non è nello schema: chi lo manda se lo vede scartare, mai applicare
+    const parsed = UnresolvedFoodResolutionSchema.safeParse({ foodId: uuid, localTz: 'Europe/Rome' })
+    expect(parsed.success && 'localTz' in parsed.data).toBe(false)
+  })
+
+  // D-032: due risposte alla stessa domanda non si mandano insieme, e una
+  // risposta ci vuole
+  it('«uno vale l\'altro» sta al posto del foodId, non accanto', () => {
+    expect(UnresolvedFoodResolutionSchema.safeParse({ anyOfThem: true }).success).toBe(true)
+    expect(UnresolvedFoodResolutionSchema.safeParse({ anyOfThem: true, foodId: uuid }).success).toBe(
+      false,
+    )
+    expect(UnresolvedFoodResolutionSchema.safeParse({ gramsFood: 80 }).success).toBe(false)
   })
 })
