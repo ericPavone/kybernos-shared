@@ -3,6 +3,7 @@ import {
   DayTypeOverridePutSchema,
   DayTypeRulesPutSchema,
   MealSlotInputSchema,
+  MealSlotOrderPutSchema,
   MealSlotPatchSchema,
   PlanInputSchema,
   SlotPrescriptionInputSchema,
@@ -229,6 +230,47 @@ describe('MealSlotPatchSchema', () => {
 
   it('accetta referenceFoodId null perché nullish', () => {
     expect(MealSlotPatchSchema.safeParse({ referenceFoodId: null }).success).toBe(true)
+  })
+})
+
+describe('MealSlotOrderPutSchema', () => {
+  const id = (n: number) => `0000000${n}-0000-4000-8000-000000000000`
+
+  it('accetta un ordine completo con position distinte', () => {
+    expect(
+      MealSlotOrderPutSchema.safeParse([
+        { id: id(1), position: 0 },
+        { id: id(2), position: 1 },
+      ]).success,
+    ).toBe(true)
+  })
+
+  // è lo stato che la rotta esiste per rendere impossibile: due PATCH in
+  // sequenza potevano lasciarlo se la seconda falliva
+  it('rifiuta due slot sulla stessa position', () => {
+    expect(
+      MealSlotOrderPutSchema.safeParse([
+        { id: id(1), position: 0 },
+        { id: id(2), position: 0 },
+      ]).success,
+    ).toBe(false)
+  })
+
+  it('rifiuta lo stesso slot due volte', () => {
+    expect(
+      MealSlotOrderPutSchema.safeParse([
+        { id: id(1), position: 0 },
+        { id: id(1), position: 1 },
+      ]).success,
+    ).toBe(false)
+  })
+
+  it('rifiuta una lista vuota: l’ordine finale di zero slot non è un ordine', () => {
+    expect(MealSlotOrderPutSchema.safeParse([]).success).toBe(false)
+  })
+
+  it('rifiuta position negative', () => {
+    expect(MealSlotOrderPutSchema.safeParse([{ id: id(1), position: -1 }]).success).toBe(false)
   })
 })
 

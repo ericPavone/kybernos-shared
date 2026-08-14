@@ -213,6 +213,23 @@ export const PlanResponseSchema = PlanSummaryResponseSchema.extend({
 
 export const DayTypeRulesPutSchema = z.array(DayTypeRuleInputSchema).max(50)
 
+// U10: lo spostamento è da indice a indice, e lo scambio a coppie non lo esprime
+// — due PATCH in sequenza sanno solo scambiare vicini, e se la seconda falliva
+// restavano due slot sulla stessa posizione. Il corpo descrive l'ordine finale,
+// come DayTypeRulesPutSchema.
+export const MealSlotOrderPutSchema = z
+  .array(z.object({ id: z.string().uuid(), position: z.number().int().nonnegative() }))
+  .min(1)
+  .max(50)
+  // le position sono l'ordine, quindi devono essere distinte: due righe sullo
+  // stesso numero sono lo stato che questa rotta esiste per rendere impossibile
+  .refine((rows) => new Set(rows.map((r) => r.position)).size === rows.length, {
+    message: 'positions must be distinct',
+  })
+  .refine((rows) => new Set(rows.map((r) => r.id)).size === rows.length, {
+    message: 'ids must be distinct',
+  })
+
 // manual override of the derived day type for a single date
 export const DayTypeOverridePutSchema = z.object({ code: z.string().min(1).max(100) })
 export const DayTypeOverrideResponseSchema = z.object({
@@ -222,6 +239,7 @@ export const DayTypeOverrideResponseSchema = z.object({
 
 export type MealSlotInput = z.infer<typeof MealSlotInputSchema>
 export type MealSlotPatch = z.infer<typeof MealSlotPatchSchema>
+export type MealSlotOrderPut = z.infer<typeof MealSlotOrderPutSchema>
 export type DayTypeInput = z.infer<typeof DayTypeInputSchema>
 export type DayTypePatch = z.infer<typeof DayTypePatchSchema>
 export type SlotPrescriptionKind = z.infer<typeof SlotPrescriptionKindSchema>
