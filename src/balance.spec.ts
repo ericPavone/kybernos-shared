@@ -30,6 +30,9 @@ const dailyFixture = {
     ffmMeasurementId: null,
     activityFactor: 1.55,
     activeKcal: 300,
+    activeKcalSource: 'declared',
+    expectedActiveKcal: 400,
+    workoutCount: 1,
     deficitKcal: 400,
   },
   macros: { protein: macro, carbs: macro, fat: macro, fiber: macro },
@@ -40,6 +43,7 @@ const dailyFixture = {
       mealSlotId: uuid,
       code: 'lunch',
       label: 'Pranzo',
+      startsAt: '12:30',
       prescriptions: [
         { kind: 'carbs', amount: 120, unit: 'food_g' },
         { kind: 'vegetables', unit: 'free', note: 'a volontà' },
@@ -116,6 +120,28 @@ describe('DailyBalanceResponseSchema', () => {
     expect(
       DailyBalanceResponseSchema.safeParse({ ...dailyFixture, dayTypeCode: null }).success,
     ).toBe(true)
+  })
+
+  // R-48: è la distinzione per cui il campo esiste — «il tipo di giornata
+  // prevede zero» e «il tipo di giornata non dice niente» non sono la stessa
+  // affermazione, e collassate a 0 diventavano indistinguibili
+  it('expectedActiveKcal distingue lo zero previsto dalla previsione assente', () => {
+    const zero = { ...dailyFixture.derivation, expectedActiveKcal: 0 }
+    const assente = { ...dailyFixture.derivation, expectedActiveKcal: null }
+
+    expect(DailyBalanceResponseSchema.safeParse({ ...dailyFixture, derivation: zero }).success).toBe(true)
+    expect(DailyBalanceResponseSchema.safeParse({ ...dailyFixture, derivation: assente }).success).toBe(true)
+    expect(zero.expectedActiveKcal).not.toBe(assente.expectedActiveKcal)
+  })
+
+  // R-49: il conteggio non è opzionale — senza, lo stato «allenamento senza
+  // kcal» non è rappresentabile e la didascalia resta falsa
+  it('workoutCount è obbligatorio nella derivazione', () => {
+    const { workoutCount: _workoutCount, ...senzaConteggio } = dailyFixture.derivation
+
+    expect(
+      DailyBalanceResponseSchema.safeParse({ ...dailyFixture, derivation: senzaConteggio }).success,
+    ).toBe(false)
   })
 
   it('rifiuta una fixture senza il blocco macros', () => {

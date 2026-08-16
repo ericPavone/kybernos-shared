@@ -28,6 +28,9 @@ export const SlotStatusSchema = z.object({
   mealSlotId: z.string().uuid(),
   code: z.string(),
   label: z.string(),
+  // D-013/U3: l'inizio dichiarato dello slot (HH:MM), `null` se non dichiarato.
+  // La fine non è un campo: è l'inizio del successivo — vedi `slotStartsAt`
+  startsAt: z.string().nullable(),
   // what the plan prescribes here for the day type in force — a quotation
   prescriptions: z.array(SlotPrescriptionSchema),
   // R-08: true = il piano non prevede questo pasto in questa giornata (scelta
@@ -68,6 +71,10 @@ export const BalanceReasonSchema = z.enum([
   'no_plan_for_date',
 ])
 
+// D-034: precedenza misurata > dichiarata > attesa. Mai una media: una media
+// produce un numero che nessuna fonte ha prodotto (D-002)
+export const ActiveKcalSourceSchema = z.enum(['expected', 'declared', 'measured'])
+
 // R-01 + R-07: la derivazione del target, quattro termini come sul motore —
 // basal → tdee(basal, activityFactor, activeKcal) → target − deficit. Il peso
 // (e la massa magra con Cunningham) è la misura IN VIGORE alla data del
@@ -86,6 +93,19 @@ export const DerivationSchema = z.object({
   ffmMeasurementId: z.string().uuid().nullable(),
   activityFactor: z.number(),
   activeKcal: z.number(),
+  // D-034: quale delle tre sorgenti è in vigore. Il numero cambia di
+  // **significato**, non solo di valore — «400 attese dall'allenamento» non è
+  // la stessa affermazione di «520 dichiarate» — e D-009 vuole che si veda
+  activeKcalSource: ActiveKcalSourceSchema,
+  // R-48: la previsione del tipo di giornata **prima** che il calcolo la
+  // collassi a 0. `null` = la giornata non promette nessun lavoro, e senza
+  // questo campo «previsto a zero» e «nessuna previsione» sono indistinguibili
+  // dal client. ⛔ Non è una quarta sorgente: la distinzione è un campo
+  expectedActiveKcal: z.number().int().nonnegative().nullable(),
+  // R-49: quanti allenamenti sono registrati nel giorno, **indipendentemente**
+  // da `activeKcal` — un'ora di pesi senza kcal conta qui e non altrove, ed è
+  // l'unico modo di non dire «nessun allenamento registrato» a chi ne ha uno
+  workoutCount: z.number().int().nonnegative(),
   deficitKcal: z.number().int(),
 })
 
@@ -176,6 +196,7 @@ export const DailyBalanceQuerySchema = z.object({ date: z.string().date() })
 export const WeeklyBalanceQuerySchema = z.object({ endDate: z.string().date() })
 
 export type BalanceReason = z.infer<typeof BalanceReasonSchema>
+export type ActiveKcalSource = z.infer<typeof ActiveKcalSourceSchema>
 export type Derivation = z.infer<typeof DerivationSchema>
 export type UncertainValue = z.infer<typeof UncertainValueSchema>
 export type GuardrailObservation = z.infer<typeof GuardrailObservationSchema>
@@ -186,3 +207,20 @@ export type DailyMealItem = z.infer<typeof DailyMealItemSchema>
 export type DailyMealsResponse = z.infer<typeof DailyMealsResponseSchema>
 export type DailyBalanceResponse = z.infer<typeof DailyBalanceResponseSchema>
 export type WeeklyBalanceResponse = z.infer<typeof WeeklyBalanceResponseSchema>
+
+// R-39/D-023 — **una sola fonte di verità su una regola di sicurezza.** Viveva
+// nel backend (`domain/service/plan/proposal-guard.ts`) e il client la
+// riscriveva a mano in `chat.ts`: chi cambiava la soglia doveva cambiarla in due
+// posti, e uno dei due sarebbe stato dimenticato. Il debito era appeso alla
+// prima fetta che apre BE e shared insieme, ed è U2.
+//
+// ⚠️ Solo `above`, e non è un dettaglio. Le osservazioni si calcolano sui **totali
+// del giorno**: un `hard_min` sulle kcal (il floor) produce `hard`+`below`+`certain`
+// a metà mattina, perché la giornata non è finita. Quella non è una violazione
+// causata dalla proposta, è una proprietà del giorno — e trattarla come tale
+// impediva di proporre la registrazione di un pasto fino a floor superato.
+// Aggiungere cibo può portare sopra un massimo, mai sotto un minimo.
+export const hardOverage = (
+  observations: readonly GuardrailObservation[],
+): GuardrailObservation | null =>
+  observations.find((o) => o.zone === 'hard' && o.certain && o.direction === 'above') ?? null

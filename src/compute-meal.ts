@@ -42,8 +42,15 @@ export const ComputeMealResponseSchema = z.object({
   }),
   // niente logged né unresolvedCount: qui lo slot è una citazione del piano
   // per la proposta, non lo stato del giorno — e per la stessa ragione niente
-  // `skipped` (D-031), che è un **atto dell'utente**, non una citazione
-  slot: SlotStatusSchema.omit({ logged: true, unresolvedCount: true, skipped: true }).nullable(),
+  // `skipped` (D-031), che è un **atto dell'utente**, non una citazione. Fuori
+  // anche `startsAt` (U3): la proposta riguarda cosa prevede il piano lì, non
+  // a che ora
+  slot: SlotStatusSchema.omit({
+    logged: true,
+    unresolvedCount: true,
+    skipped: true,
+    startsAt: true,
+  }).nullable(),
   slotError: z.string().nullable(),
   projectedDay: ProjectedDaySchema.nullable(),
   projectedDayError: z.string().nullable(),

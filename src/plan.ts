@@ -23,17 +23,33 @@ export const SlotPrescriptionKindSchema = z.enum([
 // free = prescrizione senza quantità («verdura a volontà»)
 export const SlotPrescriptionUnitSchema = z.enum(['food_g', 'macro_g', 'free'])
 
+// D-013/U3: l'orario dello slot è **solo l'inizio**. La fine è l'inizio del
+// successivo, quindi buchi e sovrapposizioni non sono rappresentabili: con due
+// campi «pranzo finisce alle 15, spuntino comincia alle 16» chiederebbe una
+// regola per decidere dove cade un pasto delle 15:30, cioè l'indovinello che
+// U3 toglie. `null` = orario non dichiarato, che è un fatto e non un default
+export const slotStartsAt = z
+  .string()
+  .regex(/^([01]\d|2[0-3]):[0-5]\d$/, 'orario nella forma HH:MM')
+
 export const MealSlotInputSchema = z.object({
   code: z.string().min(1).max(100),
   label: z.string().min(1).max(200),
   position: z.number().int().nonnegative(),
+  startsAt: slotStartsAt.nullish(),
   allowedCategories: z.array(z.string().max(100)).max(50).nullish(),
   referenceFoodId: z.string().uuid().nullish(),
 })
 
+// D-034: la kcal attiva **attesa** del tipo di giornata — la sorgente 1, quella
+// che fa variare il bersaglio per giorno senza registrare niente. `null` = il
+// tipo di giornata non promette nessun lavoro (riposo)
+export const expectedActiveKcal = z.number().int().nonnegative().max(5000)
+
 export const DayTypeInputSchema = z.object({
   code: z.string().min(1).max(100),
   label: z.string().min(1).max(200),
+  expectedActiveKcal: expectedActiveKcal.nullish(),
 })
 
 const prescriptionKey = {
@@ -113,12 +129,15 @@ export const DayTypeRuleInputSchema = z.object({
 export const MealSlotPatchSchema = z.object({
   label: z.string().min(1).max(200).nullish(),
   position: z.number().int().nonnegative().nullish(),
+  startsAt: slotStartsAt.nullish(),
   allowedCategories: z.array(z.string().max(100)).max(50).nullish(),
   referenceFoodId: z.string().uuid().nullish(),
 })
 
 export const DayTypePatchSchema = z.object({
   label: z.string().min(1).max(200),
+  // D-034: `null` esplicito = questa giornata non promette nessun lavoro
+  expectedActiveKcal: expectedActiveKcal.nullish(),
 })
 
 const planParams = {
@@ -237,6 +256,38 @@ export const DayTypeOverrideResponseSchema = z.object({
   code: z.string(),
 })
 
+// R-27/U2: la **fase** è la versione di piano — «a phase change creates a new
+// version» sta scritto nel modello dal primo giorno, e il dato era già
+// derivabile: nome, validità, settimana in corso. Quello che mancava era
+// esporlo e far avvenire la transizione.
+export const PhaseStateResponseSchema = z.object({
+  planId: z.string().uuid(),
+  name: z.string(),
+  version: z.number().int(),
+  validFrom: z.string().date(),
+  // null = fase aperta, senza una fine dichiarata
+  validTo: z.string().date().nullable(),
+  // settimana in corso, 1-based, e quante ne dura in tutto se la fine c'è
+  week: z.number().int().positive(),
+  weeks: z.number().int().positive().nullable(),
+})
+
+// ⚠️ Il passaggio di fase **non cambia i parametri**: chiude la versione in
+// corso e ne apre una identica col nome nuovo. Cambiare fase e cambiare deficit
+// sono due decisioni, e infilarle nella stessa azione vorrebbe dire un form di
+// piano dentro la transizione più un modo nuovo di fallire a metà.
+// ⚠️ I giorni già registrati restano appesi alla versione vecchia
+// (`meal_log.plan_id`): è precisamente per questo che la fase è una versione.
+export const PhaseChangeInputSchema = z
+  .object({
+    name: z.string().min(1).max(200),
+    // da quando vale la fase nuova; assente = oggi, deciso dal server
+    validFrom: z.string().date().nullish(),
+  })
+  .strict()
+
+export type PhaseStateResponse = z.infer<typeof PhaseStateResponseSchema>
+export type PhaseChangeInput = z.infer<typeof PhaseChangeInputSchema>
 export type MealSlotInput = z.infer<typeof MealSlotInputSchema>
 export type MealSlotPatch = z.infer<typeof MealSlotPatchSchema>
 export type MealSlotOrderPut = z.infer<typeof MealSlotOrderPutSchema>
