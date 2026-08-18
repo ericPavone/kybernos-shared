@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import {
+  ManualUnresolvedFoodInputSchema,
   PendingActionPayloadSchemas,
   PendingActionResponseSchema,
   UnresolvedFoodResolutionSchema,
@@ -212,5 +213,30 @@ describe('UnresolvedFoodResolutionSchema', () => {
       false,
     )
     expect(UnresolvedFoodResolutionSchema.safeParse({ gramsFood: 80 }).success).toBe(false)
+  })
+})
+
+// AB9-ter: un campo che il server sa calcolare non entra dal client. Lo schema
+// non lo valida più severamente: non lo riceve — ciò che arriva si scarta qui,
+// prima di poter contraddire il piano.
+describe('ManualUnresolvedFoodInputSchema', () => {
+  const entry = {
+    food: 'porridge',
+    gramsFood: 80,
+    mealSlotId: uuid,
+    eatenAt: '2026-08-10T07:40:00+02:00',
+    localTz: 'Europe/Rome',
+  }
+
+  it('accetta una voce senza etichetta di slot', () => {
+    expect(ManualUnresolvedFoodInputSchema.safeParse({ entries: [entry] }).success).toBe(true)
+  })
+
+  it("scarta l'etichetta mandata dal client: la deriva il server", () => {
+    const parsed = ManualUnresolvedFoodInputSchema.parse({
+      entries: [{ ...entry, slotLabel: 'Cena' }],
+    })
+
+    expect(parsed.entries[0]).not.toHaveProperty('slotLabel')
   })
 })

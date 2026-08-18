@@ -68,6 +68,34 @@ export const UnresolvedFoodPayloadSchema = z.object({
   representativeFoodId: z.string().uuid().nullish(),
 })
 
+// AB9/D-022: le voci irrisolte del **percorso deterministico** — il campo
+// digitato di Oggi e di SlotDettaglio. Prima esistevano solo sul percorso
+// dell'assistente: `commit` mappava le sole `resolved`, e ciò che «restava
+// fuori» non veniva mandato da nessuna parte. Il server non ne sentiva mai
+// parlare, quindi non poteva neanche tenerne traccia.
+//
+// ⛔ `saidByUser` è omesso di proposito, e non per brevità: su questa strada è
+// vero **per costruzione** — il nome l'ha scritto l'utente, non un modello — e
+// lo dichiara il server. È la stessa ragione per cui il marcatore di certezza
+// non lo mette il chiamante: un client distratto non deve poterlo smentire.
+//
+// ⛔ AB9-ter: e `slotLabel` nemmeno, per la stessa ragione applicata a un campo
+// che il server sa **calcolare**. È ciò che l'utente leggerà in coda per
+// trenta giorni: riceverlo dal client significava accettare un'etichetta
+// stantia — o di uno slot che non è suo — e scoprirlo solo alla risoluzione.
+// Il server verifica `mealSlotId` e deriva il nome, come fa il percorso dei
+// tool. Validare l'etichetta non sarebbe bastato: il rimedio è non riceverla.
+//
+// ⛔ E `expiresAt` non è d'ingresso: lo calcola il server da `eatenAt`, con la
+// formula delle voci da chiarire (TTL), non con quella delle proposte.
+export const ManualUnresolvedFoodInputSchema = z.object({
+  // stesso tetto del batch dei pasti: le voci arrivano dallo stesso invio
+  entries: z
+    .array(UnresolvedFoodPayloadSchema.omit({ saidByUser: true, slotLabel: true }))
+    .min(1)
+    .max(30),
+})
+
 // H3.5: il payload di una pending_action deve superare questi schemi prima di
 // diventare una scrittura — un payload malformato si rifiuta, mai si scrive.
 // preference/constraint: forma provvisoria fino a RF-43
@@ -144,3 +172,4 @@ export type UnresolvedFoodResolution = z.infer<typeof UnresolvedFoodResolutionSc
 export type PendingActionStatus = z.infer<typeof PendingActionStatusSchema>
 export type PendingActionResponse = z.infer<typeof PendingActionResponseSchema>
 export type ResolvedUnresolvedFood = z.infer<typeof ResolvedUnresolvedFoodSchema>
+export type ManualUnresolvedFoodInput = z.infer<typeof ManualUnresolvedFoodInputSchema>

@@ -76,8 +76,14 @@ const DISPLAY_UNITS: Record<PhysicalQuantity, Record<UnitSystem, string>> = {
 export const displayUnit = (quantity: PhysicalQuantity, system: UnitSystem): string =>
   DISPLAY_UNITS[quantity][system]
 
-// ⚠️ Gli switch qui sotto sono esaustivi **senza `default`**: una grandezza nuova
-// deve rompere la compilazione, non ricadere in silenzio sulle once.
+// AB7/D-049: l'esaustività è un'asserzione **sul tipo** — l'argomento deve
+// essere `never` — e non l'assenza di un `default` sotto `strictNullChecks`.
+// Una grandezza nuova rompe la compilazione qui, e se ci arriva a runtime da un
+// confine non tipizzato non ricade in silenzio sulle once.
+function assertNever(quantity: never): never {
+  throw new Error(`Grandezza fisica non prevista: ${String(quantity)}`)
+}
+
 //
 // canonico (kg/cm/g) → numero da mostrare, non arrotondato: arrotonda chi formatta
 export function toDisplay(value: number, quantity: PhysicalQuantity, system: UnitSystem): number {
@@ -92,6 +98,8 @@ export function toDisplay(value: number, quantity: PhysicalQuantity, system: Uni
       return gToOz(value)
     case 'volume':
       return value
+    default:
+      assertNever(quantity)
   }
 }
 
@@ -108,5 +116,7 @@ export function toCanonical(value: number, quantity: PhysicalQuantity, system: U
       return ozToG(value)
     case 'volume':
       return value
+    default:
+      assertNever(quantity)
   }
 }

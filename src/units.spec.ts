@@ -8,6 +8,7 @@ import {
   toCanonical,
   toDisplay,
   UnitSystemSchema,
+  type PhysicalQuantity,
 } from './units'
 
 describe('UnitSystemSchema', () => {
@@ -36,6 +37,10 @@ describe('toDisplay / toCanonical', () => {
     expect(toDisplay(180, 'length', 'imperial')).toBeCloseTo(70.87, 2)
     expect(toDisplay(100, 'food_weight', 'imperial')).toBeCloseTo(3.527, 3)
     expect(toDisplay(30, 'macro_weight', 'imperial')).toBeCloseTo(1.058, 3)
+    // D-045: il volume resta in ml anche in imperiale — è l'unità che l'utente
+    // ha dichiarato, e l'unità dichiarata non si riscrive
+    expect(toDisplay(250, 'volume', 'imperial')).toBe(250)
+    expect(toCanonical(250, 'volume', 'imperial')).toBe(250)
   })
 
   // il giro completo non deve spostare il dato: è la garanzia che serve, perché
@@ -116,5 +121,23 @@ describe('readVolumeMl', () => {
 
   it('senza volume non tocca niente', () => {
     expect(readVolumeMl('pane 120 g')).toEqual({ ml: null, rest: 'pane 120 g' })
+  })
+})
+
+// AB7/D-049: i due switch reggevano sull'assenza di `default` più
+// `strictNullChecks` — una grandezza nuova non compilava, ma solo finché
+// quella configurazione resta. L'asserzione è sul TIPO (l'argomento deve
+// essere `never`), e non dipende da come è acceso il compilatore.
+describe('le grandezze non previste', () => {
+  it('toDisplay non ricade in silenzio sulle once', () => {
+    expect(() => toDisplay(100, 'temperature' as PhysicalQuantity, 'imperial')).toThrow(
+      'temperature',
+    )
+  })
+
+  it('toCanonical nemmeno', () => {
+    expect(() => toCanonical(100, 'temperature' as PhysicalQuantity, 'imperial')).toThrow(
+      'temperature',
+    )
   })
 })
