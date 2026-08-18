@@ -12,6 +12,7 @@ const KG_PER_LB = 0.45359237
 const CM_PER_IN = 2.54
 const G_PER_OZ = 28.349523125
 const IN_PER_FT = 12
+const ML_PER_L = 1000
 
 // Il sistema sceglie anche come si scrivono i numeri e le date: un'interfaccia
 // che dice «79.4 lb» e sotto «1.850 kcal» non l'ha scelta nessuno.
@@ -33,20 +34,51 @@ export function cmToFeetInches(cm: number): { feet: number; inches: number } {
 export const feetInchesToCm = (feet: number, inches: number): number =>
   inToCm(feet * IN_PER_FT + inches)
 
-export type PhysicalQuantity = 'body_weight' | 'length' | 'food_weight' | 'macro_weight'
+export type PhysicalQuantity = 'body_weight' | 'length' | 'food_weight' | 'macro_weight' | 'volume'
+
+// D-045: il volume dichiarato dall'utente («250 ml di latte»). Sta qui e non nei
+// due parser perché i chiamanti sono due — `extractGrams` nel FE e
+// `readGramsInName` nel BE — e la stessa regola scritta due volte diverge.
+// Il litro si normalizza in ml: è la stessa grandezza in due scale.
+// Il numero non può iniziare a metà di un decimale («1.5 l» ≠ «5 l»); niente
+// lookbehind, che Hermes non garantisce.
+// ⛔ AB6: la chiusura è `(?![\w-])` e non `\b`, perché `\b` accetta la lettera
+// seguita da trattino — «100 L-carnitina» diventava 100 000 ml e lasciava
+// «-carnitina» nella query. Un errore ×1000 in silenzio dentro un bilancio.
+const VOLUME_IN_TEXT = /(?:^|[^\d.,])((\d+(?:[.,]\d+)?)\s*(ml|millilitri|litri|l)(?![\w-]))/gi
+
+// ⚠️ Due letture **diverse** non sono una lettura: `ml` resta null e il testo si
+// ripulisce lo stesso, come fa `readGramsInName` con i grammi (R-44).
+export function readVolumeMl(raw: string): { rest: string; ml: number | null } {
+  const found = new Set<number>()
+  let rest = raw
+  for (const m of raw.matchAll(VOLUME_IN_TEXT)) {
+    const n = Number(m[2].replace(',', '.'))
+    found.add(m[3].toLowerCase().startsWith('m') ? n : n * ML_PER_L)
+    rest = rest.replace(m[1], ' ')
+  }
+  const [only] = [...found]
+  return { rest, ml: found.size === 1 ? only : null }
+}
 
 // L'unità in cui la quantità si **mostra**, per sistema. I macro seguono il peso
 // alimento in once: decisione dell'utente del 7 ago, coerenza sopra convenzione.
+// D-045: il volume resta in ml in entrambi i sistemi — è ciò che l'utente ha
+// dichiarato, e l'unità dichiarata non si riscrive.
 const DISPLAY_UNITS: Record<PhysicalQuantity, Record<UnitSystem, string>> = {
   body_weight: { metric: 'kg', imperial: 'lb' },
   length: { metric: 'cm', imperial: 'in' },
   food_weight: { metric: 'g', imperial: 'oz' },
   macro_weight: { metric: 'g', imperial: 'oz' },
+  volume: { metric: 'ml', imperial: 'ml' },
 }
 
 export const displayUnit = (quantity: PhysicalQuantity, system: UnitSystem): string =>
   DISPLAY_UNITS[quantity][system]
 
+// ⚠️ Gli switch qui sotto sono esaustivi **senza `default`**: una grandezza nuova
+// deve rompere la compilazione, non ricadere in silenzio sulle once.
+//
 // canonico (kg/cm/g) → numero da mostrare, non arrotondato: arrotonda chi formatta
 export function toDisplay(value: number, quantity: PhysicalQuantity, system: UnitSystem): number {
   if (system === 'metric') return value
@@ -55,8 +87,11 @@ export function toDisplay(value: number, quantity: PhysicalQuantity, system: Uni
       return kgToLb(value)
     case 'length':
       return cmToIn(value)
-    default:
+    case 'food_weight':
+    case 'macro_weight':
       return gToOz(value)
+    case 'volume':
+      return value
   }
 }
 
@@ -68,7 +103,10 @@ export function toCanonical(value: number, quantity: PhysicalQuantity, system: U
       return lbToKg(value)
     case 'length':
       return inToCm(value)
-    default:
+    case 'food_weight':
+    case 'macro_weight':
       return ozToG(value)
+    case 'volume':
+      return value
   }
 }

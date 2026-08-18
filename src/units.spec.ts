@@ -4,6 +4,7 @@ import {
   displayUnit,
   feetInchesToCm,
   localeOf,
+  readVolumeMl,
   toCanonical,
   toDisplay,
   UnitSystemSchema,
@@ -71,5 +72,49 @@ describe('altezza in piedi e pollici', () => {
   it('torna indietro entro il mezzo pollice', () => {
     const { feet, inches } = cmToFeetInches(180)
     expect(feetInchesToCm(feet, inches)).toBeCloseTo(180.34, 2)
+  })
+})
+
+// D-045: il volume dichiarato dall'utente. La regola sta qui perché i parser
+// sono due — FE e BE — e la stessa regola scritta due volte diverge in silenzio.
+describe('readVolumeMl', () => {
+  it('riconosce ml e millilitri, e li toglie dal testo', () => {
+    // lo spazio residuo non è un fatto: i chiamanti normalizzano
+    expect(readVolumeMl('250 ml di latte')).toMatchObject({ ml: 250 })
+    expect(readVolumeMl('250 ml di latte').rest.trim()).toBe('di latte')
+    expect(readVolumeMl('250 millilitri di latte').ml).toBe(250)
+  })
+
+  it('normalizza i litri in ml: è la stessa grandezza in due scale', () => {
+    expect(readVolumeMl('1 l di latte').ml).toBe(1000)
+    expect(readVolumeMl('1,5 litri di acqua').ml).toBe(1500)
+  })
+
+  it('il numero non inizia a metà di un decimale ("1.5 l" non è "5 l")', () => {
+    expect(readVolumeMl('1.5 l').ml).toBe(1500)
+  })
+
+  it('due letture diverse non sono una lettura, ma il testo si ripulisce lo stesso', () => {
+    const { ml, rest } = readVolumeMl('250 ml latte e 500 ml acqua')
+    expect(ml).toBeNull()
+    expect(rest).not.toContain('ml')
+  })
+
+  it('due scritture della stessa quantità restano una lettura sola', () => {
+    expect(readVolumeMl('1 l ossia 1000 ml').ml).toBe(1000)
+  })
+
+  // AB6: il `\b` accetta la `l` seguita da trattino, quindi «100 L-carnitina»
+  // diventava 100 000 ml e lasciava «-carnitina» nella query. ⛔ Un errore ×1000
+  // silenzio dentro un bilancio: è la classe che D-045 esiste per chiudere.
+  // Non è nel catalogo (zero nomi «L-» su 22 944 righe), ma gli alimenti
+  // personali li scrive l'utente
+  it('una lettera attaccata a un trattino non è un litro', () => {
+    expect(readVolumeMl('100 L-carnitina')).toEqual({ ml: null, rest: '100 L-carnitina' })
+    expect(readVolumeMl('5 l-teanina').ml).toBeNull()
+  })
+
+  it('senza volume non tocca niente', () => {
+    expect(readVolumeMl('pane 120 g')).toEqual({ ml: null, rest: 'pane 120 g' })
   })
 })

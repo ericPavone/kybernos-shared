@@ -11,6 +11,11 @@ export const MealLogInputSchema = z.object({
   foodId: z.string().uuid(),
   // food weight as weighed — never macro grams
   gramsFood: z.number().positive(),
+  // D-045: il volume che l'utente ha dichiarato, quando l'ha dichiarato in ml.
+  // `gramsFood` resta obbligatorio — si registra sempre in grammi — ma «250 ml»
+  // non si riscrive «250 g»: si converte con la densità e si mostra ciò che
+  // l'utente ha detto. `null`/assente = ha dichiarato grammi
+  declaredMl: z.number().positive().nullish(),
   mealSlotId: z.string().uuid(),
   eatenAt: z.string().datetime({ offset: true }),
   localTz: z.string().min(1).max(64),
@@ -26,6 +31,8 @@ export const MealLogResponseSchema = z.object({
   foodId: z.string().uuid(),
   foodName: z.string(),
   gramsFood: z.number(),
+  // D-045: presente = la quantità era stata dichiarata in ml e convertita
+  declaredMl: z.number().nullish(),
   eatenAt: z.string().datetime({ offset: true }),
   localTz: z.string(),
   estimation: EstimationSchema,

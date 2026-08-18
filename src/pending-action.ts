@@ -54,6 +54,11 @@ export const UnresolvedFoodPayloadSchema = z.object({
   // R-44: presenti = `gramsFood` è null perché le due letture divergono, e la
   // scelta è dell'utente. Opzionale: le voci accodate prima restano valide
   gramsReadings: GramsReadingsSchema.nullish(),
+  // D-045: il volume dichiarato dall'utente. Presente = `gramsFood` è null
+  // perché l'alimento non porta una densità, e la domanda è «quanti grammi
+  // sono?». L'unità dichiarata si conserva: non si riscrive in grammi qui.
+  // Opzionale: le voci accodate prima restano valide
+  declaredMl: z.number().positive().nullish(),
   // D-032: la riga che risponde a «non so quale, uno vale l'altro» — prima
   // della classe di equivalenza più numerosa, personale prima (RF-21). Si
   // calcola qui perché i numeri stanno qui: i candidati non li portano, e

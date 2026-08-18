@@ -17,6 +17,11 @@ const nutrients100 = {
   salt100: z.number().nonnegative().nullish(),
 }
 
+// D-045: g/ml. `null` = densità mai dichiarata, e senza non si converte un
+// volume: la voce resta in coda e chiede i grammi. Non si indovina mai da un
+// nome — sarebbe l'errore della 0034, un calcolo scritto e chiamato dato.
+const densityGMl = { densityGMl: z.number().positive().nullish() }
+
 export const UserFoodInputSchema = z.object({
   name: z.string().min(1).max(200),
   brand: z.string().max(200).nullish(),
@@ -24,6 +29,7 @@ export const UserFoodInputSchema = z.object({
   aliases: z.array(FoodAliasSchema).max(50).nullish(),
   packageWeightG: z.number().positive().nullish(),
   canonicalFoodId: z.string().uuid().nullish(),
+  ...densityGMl,
   ...nutrients100,
 })
 
@@ -36,6 +42,7 @@ export const FoodResponseSchema = z.object({
   aliases: z.array(FoodAliasSchema).nullish(),
   packageWeightG: z.number().nullish(),
   isFavorite: z.boolean().optional(),
+  ...densityGMl,
   ...nutrients100,
 })
 
