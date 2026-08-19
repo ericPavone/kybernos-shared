@@ -20,8 +20,12 @@ export const SlotPrescriptionKindSchema = z.enum([
   'other',
 ])
 // food_g = peso alimento (citazione dal piano), macro_g = grammi di macro,
-// free = prescrizione senza quantità («verdura a volontà»)
-export const SlotPrescriptionUnitSchema = z.enum(['food_g', 'macro_g', 'free'])
+// free = prescrizione senza quantità («verdura a volontà»),
+// volume_ml = volume dichiarato in millilitri.
+// ⚠️ L'enum distingue GRANDEZZE, non SCALE (D-050): `cl` e `l` sono lo stesso
+// volume in altre scale e non entrano qui — la scala dichiarata è dato di
+// presentazione e vuole una colonna sua, come `declared_ml` nella registrazione.
+export const SlotPrescriptionUnitSchema = z.enum(['food_g', 'macro_g', 'free', 'volume_ml'])
 
 // D-013/U3: l'orario dello slot è **solo l'inizio**. La fine è l'inizio del
 // successivo, quindi buchi e sovrapposizioni non sono rappresentabili: con due
@@ -153,46 +157,61 @@ const planParams = {
   priority: PlanPrioritySchema,
 }
 
+// la struttura del piano senza i parametri di calcolo: è ciò che un documento
+// dice, ed è la forma che la bozza trascrive (D-050). I parametri restano solo
+// in `PlanInputSchema` — vedi `plan-draft.ts`
+export const planShape = {
+  mealSlots: z.array(MealSlotInputSchema).min(1),
+  dayTypes: z.array(DayTypeInputSchema).min(1),
+  slotPrescriptions: z.array(SlotPrescriptionInputSchema),
+  dayTypeRules: z.array(DayTypeRuleInputSchema),
+}
+
+export type PlanShape = {
+  mealSlots: z.infer<typeof MealSlotInputSchema>[]
+  dayTypes: z.infer<typeof DayTypeInputSchema>[]
+  slotPrescriptions: z.infer<typeof SlotPrescriptionInputSchema>[]
+  dayTypeRules: z.infer<typeof DayTypeRuleInputSchema>[]
+}
+
+// codici distinti, riferimenti che esistono, nessuna prescrizione doppia: vale
+// per un piano e per una trascrizione, che hanno la stessa struttura
+export const refinePlanShape = (plan: PlanShape, ctx: z.RefinementCtx): void => {
+  const slotCodes = new Set(plan.mealSlots.map((s) => s.code))
+  const dayTypeCodes = new Set(plan.dayTypes.map((d) => d.code))
+  if (slotCodes.size !== plan.mealSlots.length) {
+    ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'Duplicate meal slot codes' })
+  }
+  if (dayTypeCodes.size !== plan.dayTypes.length) {
+    ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'Duplicate day type codes' })
+  }
+  const seen = new Set<string>()
+  for (const p of plan.slotPrescriptions) {
+    if (!dayTypeCodes.has(p.dayTypeCode) || !slotCodes.has(p.mealSlotCode)) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: `Prescription references unknown codes: ${p.dayTypeCode}/${p.mealSlotCode}`,
+      })
+    }
+    const key = `${p.dayTypeCode}/${p.mealSlotCode}/${p.kind}`
+    if (seen.has(key)) {
+      ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Duplicate prescription: ${key}` })
+    }
+    seen.add(key)
+  }
+  for (const r of plan.dayTypeRules) {
+    if (!dayTypeCodes.has(r.dayTypeCode)) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: `Rule references unknown day type: ${r.dayTypeCode}`,
+      })
+    }
+  }
+}
+
 export const PlanInputSchema = z
-  .object({
-    ...planParams,
-    mealSlots: z.array(MealSlotInputSchema).min(1),
-    dayTypes: z.array(DayTypeInputSchema).min(1),
-    slotPrescriptions: z.array(SlotPrescriptionInputSchema),
-    dayTypeRules: z.array(DayTypeRuleInputSchema),
-  })
-  .superRefine((plan, ctx) => {
-    const slotCodes = new Set(plan.mealSlots.map((s) => s.code))
-    const dayTypeCodes = new Set(plan.dayTypes.map((d) => d.code))
-    if (slotCodes.size !== plan.mealSlots.length) {
-      ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'Duplicate meal slot codes' })
-    }
-    if (dayTypeCodes.size !== plan.dayTypes.length) {
-      ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'Duplicate day type codes' })
-    }
-    const seen = new Set<string>()
-    for (const p of plan.slotPrescriptions) {
-      if (!dayTypeCodes.has(p.dayTypeCode) || !slotCodes.has(p.mealSlotCode)) {
-        ctx.addIssue({
-          code: z.ZodIssueCode.custom,
-          message: `Prescription references unknown codes: ${p.dayTypeCode}/${p.mealSlotCode}`,
-        })
-      }
-      const key = `${p.dayTypeCode}/${p.mealSlotCode}/${p.kind}`
-      if (seen.has(key)) {
-        ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Duplicate prescription: ${key}` })
-      }
-      seen.add(key)
-    }
-    for (const r of plan.dayTypeRules) {
-      if (!dayTypeCodes.has(r.dayTypeCode)) {
-        ctx.addIssue({
-          code: z.ZodIssueCode.custom,
-          message: `Rule references unknown day type: ${r.dayTypeCode}`,
-        })
-      }
-    }
-  })
+  .object({ ...planParams, ...planShape })
+  .superRefine(refinePlanShape)
 
 export const MealSlotResponseSchema = MealSlotInputSchema.extend({ id: z.string().uuid() })
 export const DayTypeResponseSchema = DayTypeInputSchema.extend({ id: z.string().uuid() })
