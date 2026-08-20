@@ -47,13 +47,25 @@ export type PhysicalQuantity = 'body_weight' | 'length' | 'food_weight' | 'macro
 // «-carnitina» nella query. Un errore ×1000 in silenzio dentro un bilancio.
 const VOLUME_IN_TEXT = /(?:^|[^\d.,])((\d+(?:[.,]\d+)?)\s*(ml|millilitri|litri|l)(?![\w-]))/gi
 
+// ⛔ «1.250 ml» sono milleduecentocinquanta, non uno e un quarto: `.replace(',','.')`
+// leggeva il separatore delle migliaia come decimale, un errore ×1000 al ribasso
+// dentro un bilancio e plausibile a schermo. Migliaia = separatore preceduto da
+// 1-3 cifre senza zero iniziale e seguito da esattamente 3; con 1-2 cifre resta
+// un decimale, e «0,750 l» resta tre quarti di litro.
+const THOUSANDS_GROUP = /^[1-9]\d{0,2}[.,]\d{3}$/
+
+// esportata: la stessa regola vale per i grammi ricopiati nel nome dal modello
+// (`readGramsInName` nel BE), e riscritta là era già divergente
+export const readNumber = (raw: string): number =>
+  THOUSANDS_GROUP.test(raw) ? Number(raw.replace(/[.,]/, '')) : Number(raw.replace(',', '.'))
+
 // ⚠️ Due letture **diverse** non sono una lettura: `ml` resta null e il testo si
 // ripulisce lo stesso, come fa `readGramsInName` con i grammi (R-44).
 export function readVolumeMl(raw: string): { rest: string; ml: number | null } {
   const found = new Set<number>()
   let rest = raw
   for (const m of raw.matchAll(VOLUME_IN_TEXT)) {
-    const n = Number(m[2].replace(',', '.'))
+    const n = readNumber(m[2])
     found.add(m[3].toLowerCase().startsWith('m') ? n : n * ML_PER_L)
     rest = rest.replace(m[1], ' ')
   }

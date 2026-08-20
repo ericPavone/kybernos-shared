@@ -35,14 +35,14 @@ export const GuardrailResponseSchema = z.object({
 export const GuardrailPatchSchema = z
   .object({
     isActive: z.boolean().optional(),
-    target: z.number().nullable().optional(),
-    softMin: z.number().nullable().optional(),
-    softMax: z.number().nullable().optional(),
-    hardMin: z.number().nullable().optional(),
-    hardMax: z.number().nullable().optional(),
-    softSeverity: SoftSeveritySchema.nullable().optional(),
-    softMessage: z.string().nullable().optional(),
-    hardMessage: z.string().nullable().optional(),
+    target: z.number().nullish(),
+    softMin: z.number().nullish(),
+    softMax: z.number().nullish(),
+    hardMin: z.number().nullish(),
+    hardMax: z.number().nullish(),
+    softSeverity: SoftSeveritySchema.nullish(),
+    softMessage: z.string().nullish(),
+    hardMessage: z.string().nullish(),
   })
   .refine((patch) => Object.keys(patch).length > 0, { message: 'Empty patch' })
 

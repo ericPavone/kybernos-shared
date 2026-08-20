@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest'
 import {
   DailyBalanceResponseSchema,
   DailyMealItemSchema,
+  SlotSkipInputSchema,
   UncertainValueSchema,
   WeeklyBalanceResponseSchema,
   WeeklyDaySchema,
@@ -222,5 +223,19 @@ describe('WeeklyBalanceResponseSchema', () => {
     expect(
       WeeklyBalanceResponseSchema.safeParse({ ...weeklyFixture, reason: 'no_scale' }).success,
     ).toBe(false)
+  })
+})
+
+describe('SlotSkipInputSchema', () => {
+  const base = { mealSlotId: uuid, skipped: true }
+
+  it('accetta una data che esiste', () => {
+    expect(SlotSkipInputSchema.safeParse({ ...base, date: '2026-02-28' }).success).toBe(true)
+  })
+
+  // la forma non è la validità: una regex conta le cifre, non i giorni di febbraio
+  it('rifiuta una data ben formata che non esiste', () => {
+    expect(SlotSkipInputSchema.safeParse({ ...base, date: '2026-02-31' }).success).toBe(false)
+    expect(SlotSkipInputSchema.safeParse({ ...base, date: '2026-13-45' }).success).toBe(false)
   })
 })

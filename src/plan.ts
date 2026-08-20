@@ -1,4 +1,5 @@
 import { z } from 'zod'
+import type { PhysicalQuantity } from './units'
 
 export const BmrFormulaSchema = z.enum(['cunningham', 'harris_benedict', 'mifflin'])
 export const CarbUnitSchema = z.enum(['food_weight', 'macro_grams'])
@@ -26,6 +27,24 @@ export const SlotPrescriptionKindSchema = z.enum([
 // volume in altre scale e non entrano qui — la scala dichiarata è dato di
 // presentazione e vuole una colonna sua, come `declared_ml` nella registrazione.
 export const SlotPrescriptionUnitSchema = z.enum(['food_g', 'macro_g', 'free', 'volume_ml'])
+
+// L'unità di una prescrizione dice in che **grandezza** è scritto il numero, e
+// da quella dipende la conversione a schermo. Era un ternario binario
+// (`food_g ? food_weight : macro_weight`) ripetuto in cinque punti del FE:
+// `volume_ml` finiva nel ramo dei macro, 200 ml si mostravano come 7,1 e chi
+// ricorreggeva scrivendo «200» salvava 5670. Qui è una tabella totale: una
+// quinta unità nell'enum non compila finché non le si dà una grandezza.
+// `free` è `null` e non un ripiego: una prescrizione senza quantità non ha un
+// numero da convertire, e dire «peso alimento» sarebbe inventarlo.
+export const PRESCRIPTION_QUANTITY: Record<
+  z.infer<typeof SlotPrescriptionUnitSchema>,
+  PhysicalQuantity | null
+> = {
+  food_g: 'food_weight',
+  macro_g: 'macro_weight',
+  volume_ml: 'volume',
+  free: null,
+}
 
 // D-013/U3: l'orario dello slot è **solo l'inizio**. La fine è l'inizio del
 // successivo, quindi buchi e sovrapposizioni non sono rappresentabili: con due
@@ -121,18 +140,39 @@ export const SlotPrescriptionsPutSchema = z
     }
   })
 
+// ⛔ `params` arriva dall'LLM (`PlanDraftTranscriptionSchema`) e nessun DTO lo
+// guarda: con `z.record(z.unknown())` `weekdays: 3` faceva esplodere
+// `w.includes` nel resolver, e `kinds: 'weights_upper'` dava un match per
+// sottostringa — cioè il tipo di giornata sbagliato **in silenzio**, che è
+// peggio del throw. La forma qui è esattamente quella che il resolver consuma;
+// `strict` perché una chiave che nessuno legge è una regola che non si applica.
+// Le due chiavi restano opzionali: `always` e `workout_present` non ne usano, e
+// una regola `weekday` senza giorni non seleziona niente — un fatto, non un
+// errore di contratto.
+export const DayTypeRuleParamsSchema = z
+  .object({
+    weekdays: z.array(z.number().int().min(1).max(7)).max(7).optional(),
+    kinds: z.array(z.string().min(1).max(100)).max(50).optional(),
+  })
+  .strict()
+
 export const DayTypeRuleInputSchema = z.object({
   dayTypeCode: z.string().min(1).max(100),
   position: z.number().int().nonnegative(),
   condition: DayTypeRuleConditionSchema,
-  params: z.record(z.unknown()).nullish(),
+  params: DayTypeRuleParamsSchema.nullish(),
 })
 
 // CR 4 ago 2026: slot, giornate e settimana tipo sono configurazione del piano
 // attivo, sempre modificabile — il piano versionato resta la linea guida
+// ⛔ `label` e `position` sono `optional` e non `nullish`: le colonne sono
+// `notNull` e il DAO scarta solo `undefined`, quindi un `null` esplicito
+// arrivava a destinazione come `SET label = NULL` — un 500 dove la risposta
+// giusta è 422. Gli altri campi restano nullable perché lo sono a DB, e lì
+// `null` è la cancellazione del valore.
 export const MealSlotPatchSchema = z.object({
-  label: z.string().min(1).max(200).nullish(),
-  position: z.number().int().nonnegative().nullish(),
+  label: z.string().min(1).max(200).optional(),
+  position: z.number().int().nonnegative().optional(),
   startsAt: slotStartsAt.nullish(),
   allowedCategories: z.array(z.string().max(100)).max(50).nullish(),
   referenceFoodId: z.string().uuid().nullish(),
@@ -319,6 +359,7 @@ export type SlotPrescriptionInput = z.infer<typeof SlotPrescriptionInputSchema>
 export type SlotPrescriptionsPut = z.infer<typeof SlotPrescriptionsPutSchema>
 export type SlotPrescriptionResponse = z.infer<typeof SlotPrescriptionResponseSchema>
 export type UnprescribedCell = z.infer<typeof UnprescribedCellSchema>
+export type DayTypeRuleParams = z.infer<typeof DayTypeRuleParamsSchema>
 export type DayTypeRuleInput = z.infer<typeof DayTypeRuleInputSchema>
 export type PlanInput = z.infer<typeof PlanInputSchema>
 export type DayTypeOverrideResponse = z.infer<typeof DayTypeOverrideResponseSchema>

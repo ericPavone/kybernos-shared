@@ -5,6 +5,7 @@ import {
   PendingActionResponseSchema,
   UnresolvedFoodResolutionSchema,
 } from './pending-action'
+import { MAX_AMBIGUOUS_CANDIDATES } from './food-resolution'
 
 const uuid = '11111111-1111-4111-8111-111111111111'
 
@@ -238,5 +239,39 @@ describe('ManualUnresolvedFoodInputSchema', () => {
     })
 
     expect(parsed.entries[0]).not.toHaveProperty('slotLabel')
+  })
+})
+
+// Il tetto dei candidati è uno solo: `MAX_AMBIGUOUS_CANDIDATES`. Scritto due
+// volte, alzare la costante farebbe cadere in validazione proprio le voci che
+// l'aumento serviva a mostrare — e sparirebbero dalla coda, non a schermo.
+describe('candidati ambigui · tetto unico', () => {
+  const candidate = (i: number) => ({
+    foodId: uuid,
+    name: `alimento ${i}`,
+    detail: '',
+    personal: false,
+  })
+  const payload = (n: number) => ({
+    food: 'riso',
+    mealSlotId: uuid,
+    slotLabel: 'Pranzo',
+    eatenAt: '2026-08-20T12:00:00+02:00',
+    localTz: 'Europe/Rome',
+    candidates: Array.from({ length: n }, (_, i) => candidate(i)),
+  })
+
+  it('accetta esattamente il numero di candidati che la risoluzione produce', () => {
+    const parsed = PendingActionPayloadSchemas.unresolved_food.safeParse(
+      payload(MAX_AMBIGUOUS_CANDIDATES),
+    )
+    expect(parsed.success).toBe(true)
+  })
+
+  it('rifiuta oltre il tetto', () => {
+    expect(
+      PendingActionPayloadSchemas.unresolved_food.safeParse(payload(MAX_AMBIGUOUS_CANDIDATES + 1))
+        .success,
+    ).toBe(false)
   })
 })

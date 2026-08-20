@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { forPortion, roundedPer100 } from './nutrition-precision'
+import { dec1, forPortion, roundedPer100 } from './nutrition-precision'
 
 // i due Merluzzo Carbonaro del catalogo vero (Conad e Esselunga): stesso
 // prodotto, due supermercati, e un decimo di grammo di differenza che nessuno
@@ -57,5 +57,15 @@ describe('forPortion', () => {
       c: 0,
       f: 0.4,
     })
+  })
+})
+
+// D-033: la grana del decimale è una sola e sta qui — il backend la riscriveva
+// in due file (`balance.service`, `guardrail-defaults`)
+describe('dec1', () => {
+  it('è un decimale, con arrotondamento a metà verso l alto', () => {
+    expect(dec1(1.24)).toBe(1.2)
+    expect(dec1(1.25)).toBe(1.3)
+    expect(dec1(160)).toBe(160)
   })
 })

@@ -141,3 +141,26 @@ describe('le grandezze non previste', () => {
     )
   })
 })
+
+// Il separatore delle migliaia letto come decimale è un errore ×1000 al ribasso
+// dentro un bilancio, ed è silenzioso: 1,25 ml è un numero plausibile.
+describe('readVolumeMl e il separatore delle migliaia', () => {
+  it('legge il punto delle migliaia come migliaia, non come decimale', () => {
+    expect(readVolumeMl('1.250 ml').ml).toBe(1250)
+    expect(readVolumeMl('2.000 ml').ml).toBe(2000)
+  })
+
+  it('tiene il decimale a una e due cifre', () => {
+    expect(readVolumeMl('1,5 l').ml).toBe(1500)
+    expect(readVolumeMl('0,5 l').ml).toBe(500)
+    expect(readVolumeMl('1.75 l').ml).toBe(1750)
+  })
+
+  it('lo zero iniziale non è mai una migliaia', () => {
+    expect(readVolumeMl('0,750 l').ml).toBe(750)
+  })
+
+  it('senza separatore non cambia niente', () => {
+    expect(readVolumeMl('250 ml').ml).toBe(250)
+  })
+})

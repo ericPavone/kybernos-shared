@@ -1,5 +1,6 @@
 import { z } from 'zod'
 import { ComputeMealResponseSchema } from './compute-meal'
+import { MAX_AMBIGUOUS_CANDIDATES } from './food-resolution'
 import { UserFoodInputSchema } from './food'
 import { EstimationSchema, MealLogInputSchema } from './meal-log'
 import { PlanInputSchema } from './plan'
@@ -46,7 +47,7 @@ export const UnresolvedFoodPayloadSchema = z.object({
   eatenAt: z.string().datetime({ offset: true }),
   localTz: z.string().min(1).max(64),
   estimation: EstimationSchema.nullish(),
-  candidates: z.array(FoodCandidateSchema).max(4).nullish(),
+  candidates: z.array(FoodCandidateSchema).max(MAX_AMBIGUOUS_CANDIDATES).nullish(),
   // D-028: la frase è dell'utente o del modello? Si sa solo qui, col testo del
   // turno sotto mano, e serve dopo — alla scelta, per decidere se aliasarla in
   // dispensa. Opzionale: le voci accodate prima restano valide

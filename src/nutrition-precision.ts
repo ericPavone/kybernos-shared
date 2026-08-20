@@ -20,7 +20,9 @@
 export type Per100 = { kcal: number; p: number; c: number; f: number }
 
 const int = (x: number): number => Math.round(x)
-const dec1 = (x: number): number => Math.round(x * 10) / 10
+// esportata: è la stessa grana dei target e delle soglie del backend (D-033,
+// «macro a un decimale»), dove era riscritta due volte
+export const dec1 = (x: number): number => Math.round(x * 10) / 10
 
 // ⚠️ Questa è una **politica**, non la correzione di un dato sbagliato.
 // `19,44` potrebbe essere genuino: non abbiamo alcun modo di distinguere due

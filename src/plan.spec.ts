@@ -6,8 +6,10 @@ import {
   MealSlotOrderPutSchema,
   MealSlotPatchSchema,
   PlanInputSchema,
+  PRESCRIPTION_QUANTITY,
   SlotPrescriptionInputSchema,
   SlotPrescriptionsPutSchema,
+  SlotPrescriptionUnitSchema,
 } from './plan'
 
 
@@ -370,5 +372,72 @@ describe('SlotPrescriptionsPutSchema', () => {
         prescriptions: [{ kind: 'carbs', amount: 100, unit: 'free' }],
       }).success,
     ).toBe(false)
+  })
+})
+
+// `params` arriva dall'LLM e nessun DTO lo valida: il day-type-resolver ci fa
+// `weekdays.includes(...)` e `kinds.includes(k)`. Uno scalare al posto di un
+// array è un throw; una stringa al posto di un array è un match per
+// sottostringa, cioè un tipo di giornata sbagliato in silenzio.
+describe('DayTypeRuleInputSchema · params', () => {
+  const rule = { dayTypeCode: 'riposo', position: 0, condition: 'weekday' as const }
+
+  it('accetta la forma consumata dal resolver', () => {
+    expect(DayTypeRulesPutSchema.safeParse([{ ...rule, params: { weekdays: [1, 7] } }]).success).toBe(
+      true,
+    )
+    expect(
+      DayTypeRulesPutSchema.safeParse([
+        { ...rule, condition: 'workout_kind_in', params: { kinds: ['weights_upper'] } },
+      ]).success,
+    ).toBe(true)
+    expect(
+      DayTypeRulesPutSchema.safeParse([{ ...rule, condition: 'always', params: null }]).success,
+    ).toBe(true)
+  })
+
+  it('rifiuta uno scalare dove il resolver chiama includes', () => {
+    expect(DayTypeRulesPutSchema.safeParse([{ ...rule, params: { weekdays: 3 } }]).success).toBe(false)
+    expect(
+      DayTypeRulesPutSchema.safeParse([
+        { ...rule, condition: 'workout_kind_in', params: { kinds: 'weights_upper' } },
+      ]).success,
+    ).toBe(false)
+  })
+
+  it('rifiuta un giorno fuori dalla settimana e una chiave sconosciuta', () => {
+    expect(DayTypeRulesPutSchema.safeParse([{ ...rule, params: { weekdays: [0] } }]).success).toBe(false)
+    expect(DayTypeRulesPutSchema.safeParse([{ ...rule, params: { weekdays: [8] } }]).success).toBe(false)
+    expect(DayTypeRulesPutSchema.safeParse([{ ...rule, params: { giorni: [1] } }]).success).toBe(false)
+  })
+})
+
+// `label` e `position` stanno su colonne notNull e il DAO filtra solo
+// `undefined`: un `null` esplicito diventerebbe `SET label = NULL`, cioè un 500
+// dove la risposta giusta è 422.
+describe('MealSlotPatchSchema · null esplicito', () => {
+  it('rifiuta null su label e position', () => {
+    expect(MealSlotPatchSchema.safeParse({ label: null }).success).toBe(false)
+    expect(MealSlotPatchSchema.safeParse({ position: null }).success).toBe(false)
+  })
+
+  it('assente resta assente, e i campi nullable a DB restano nullable', () => {
+    expect(MealSlotPatchSchema.safeParse({}).success).toBe(true)
+    expect(MealSlotPatchSchema.safeParse({ label: 'Pranzo', position: 2 }).success).toBe(true)
+    expect(MealSlotPatchSchema.safeParse({ startsAt: null, referenceFoodId: null }).success).toBe(true)
+  })
+})
+
+// La grandezza fisica di un'unità è una tabella, non un ternario: col ternario
+// `volume_ml` cade nel ramo dei macro e 200 ml si mostrano come 7,1.
+describe('PRESCRIPTION_QUANTITY', () => {
+  it('copre ogni unità dell enum, volume compreso', () => {
+    for (const unit of SlotPrescriptionUnitSchema.options) {
+      expect(PRESCRIPTION_QUANTITY).toHaveProperty(unit)
+    }
+    expect(PRESCRIPTION_QUANTITY.food_g).toBe('food_weight')
+    expect(PRESCRIPTION_QUANTITY.macro_g).toBe('macro_weight')
+    expect(PRESCRIPTION_QUANTITY.volume_ml).toBe('volume')
+    expect(PRESCRIPTION_QUANTITY.free).toBeNull()
   })
 })

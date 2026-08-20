@@ -53,7 +53,8 @@ export const SlotStatusSchema = z.object({
 // saltato» detto due volte è la stessa affermazione, non un errore.
 export const SlotSkipInputSchema = z
   .object({
-    date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+    // la regex contava le cifre, non i giorni: accettava 2026-02-31 e 2026-13-45
+    date: z.string().date(),
     mealSlotId: z.string().uuid(),
     skipped: z.boolean(),
   })
