@@ -9,6 +9,13 @@ export const TurnInputSchema = z.object({
   text: z.string().min(1).max(2000),
   imageId: z.string().uuid().nullish(),
   conversationId: z.string().uuid().nullish(),
+  // W5: lo slot che l'utente ha SCELTO toccando la riga-bersaglio, `null` se non
+  // ne ha scelto nessuno. ⛔ Non è «lo slot della schermata»: quello è
+  // `chosenSlot ?? proposedSlot`, e la seconda metà è una DEDUZIONE (D-035) che
+  // il server rifà da sé dagli stessi dati. Mandarla sarebbe una terza sede
+  // della stessa regola invece di una sola — per questo il campo si chiama
+  // `chosenSlotId` e non `slotId`.
+  chosenSlotId: z.string().uuid().nullish(),
 })
 
 // D-024: le voci da chiarire accodate dal turno viaggiano con l'esito, così il

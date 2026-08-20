@@ -1,15 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import {
-  cmToFeetInches,
-  displayUnit,
-  feetInchesToCm,
-  localeOf,
-  readVolumeMl,
-  toCanonical,
-  toDisplay,
-  UnitSystemSchema,
-  type PhysicalQuantity,
-} from './units'
+import { UnitSystemSchema, cmToFeetInches, displayUnit, feetInchesToCm, localeOf, readCount, readVolumeMl, toCanonical, toDisplay, type PhysicalQuantity } from './units'
 
 describe('UnitSystemSchema', () => {
   it('ammette i due sistemi e rifiuta il resto', () => {
@@ -162,5 +152,44 @@ describe('readVolumeMl e il separatore delle migliaia', () => {
 
   it('senza separatore non cambia niente', () => {
     expect(readVolumeMl('250 ml').ml).toBe(250)
+  })
+})
+
+describe('readCount', () => {
+  it('«2 pesche» è un conteggio, e il nome resta cercabile', () => {
+    expect(readCount('2 pesche')).toEqual({ rest: 'pesche', count: 2 })
+  })
+
+  it('«1 banana» — il ramo del numero nudo lo escludeva, qui no', () => {
+    expect(readCount('1 banana').count).toBe(1)
+  })
+
+  // ⛔ i due insiemi sono disgiunti: due cifre sono del ramo dei grammi nudi
+  it('«12 mandorle» non è un conteggio', () => {
+    expect(readCount('12 mandorle').count).toBeNull()
+  })
+
+  it.each([['2 g pane'], ['2 ml latte'], ['2 l acqua'], ['2 oz pollo']])(
+    '%s: il numero con unità non è un conteggio',
+    (raw) => {
+      expect(readCount(raw).count).toBeNull()
+    },
+  )
+
+  it('«100 g pane» resta grammi', () => {
+    expect(readCount('100 g pane').count).toBeNull()
+  })
+
+  // R-44: due letture diverse non sono una lettura
+  it('due conteggi diversi → nessun conteggio', () => {
+    expect(readCount('2 pesche 3 banane').count).toBeNull()
+  })
+
+  it('lo stesso conteggio due volte resta una lettura', () => {
+    expect(readCount('2 pesche 2 banane').count).toBe(2)
+  })
+
+  it('senza conteggio il testo torna intatto', () => {
+    expect(readCount('petto di pollo')).toEqual({ rest: 'petto di pollo', count: null })
   })
 })

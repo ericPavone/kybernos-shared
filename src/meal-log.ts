@@ -16,6 +16,13 @@ export const MealLogInputSchema = z.object({
   // non si riscrive «250 g»: si converte con la densità e si mostra ciò che
   // l'utente ha detto. `null`/assente = ha dichiarato grammi
   declaredMl: z.number().positive().nullish(),
+  // W4: il CONTEGGIO che l'utente ha dichiarato — «2 pesche» sono due pesche.
+  // Stessa dottrina di `declaredMl` (D-045): l'unità dichiarata si conserva e
+  // viaggia col dato. ⛔ Ma con una differenza che va detta: senza densità un
+  // volume NON si converte e la voce va in coda, mentre qui i grammi restano la
+  // stima del modello — è la scelta del 20 agosto, «la stima resta, ma si vede e
+  // si corregge». Per questo un conteggio implica sempre `estimated_declared`.
+  declaredCount: z.number().int().positive().nullish(),
   mealSlotId: z.string().uuid(),
   eatenAt: z.string().datetime({ offset: true }),
   localTz: z.string().min(1).max(64),
@@ -38,6 +45,8 @@ export const MealLogResponseSchema = z.object({
   gramsFood: z.number(),
   // D-045: presente = la quantità era stata dichiarata in ml e convertita
   declaredMl: z.number().nullish(),
+  // W4: presente = la quantità era un conteggio di pezzi, e i grammi sono stimati
+  declaredCount: z.number().int().nullish(),
   eatenAt: z.string().datetime({ offset: true }),
   localTz: z.string(),
   estimation: EstimationSchema,

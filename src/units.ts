@@ -73,6 +73,38 @@ export function readVolumeMl(raw: string): { rest: string; ml: number | null } {
   return { rest, ml: found.size === 1 ? only : null }
 }
 
+// Il CONTEGGIO dichiarato: «2 pesche» sono due pesche, non due grammi.
+//
+// ⛔ Il confine è UNA CIFRA, ed è scelto perché non possa collidere col ramo del
+// numero nudo, che nel parser del frontend è `\d{2,4}` e legge grammi. Con due
+// confini che si toccano la stessa stringa avrebbe due letture, e quale vince
+// dipenderebbe dall'ordine delle chiamate — cioè il difetto di R-44 costruito
+// apposta. Così i due insiemi sono disgiunti per costruzione.
+//
+// ⚠️ Costo dichiarato: «12 mandorle» non è un conteggio, è un numero nudo. Per
+// allargarlo bisogna toccare `\d{2,4}`, che è scritto per tenere fuori le
+// percentuali e i numeri dentro i nomi — altra fetta, e con la sua misura.
+//
+// ⚠️ Il numero seguito da un'unità NON è un conteggio: «2 g», «2 ml», «2 l»
+// restano quantità, e la loro lettura è quella di sempre.
+const COUNT_IN_TEXT = /(?:^|[^\d.,])((\d)\s+(?![\d.,])(?!g\b|gr\b|grammi\b|ml\b|l\b|litri\b|millilitri\b|oz\b|once\b)(\p{L}))/giu
+
+// ⚠️ Due letture **diverse** non sono una lettura: come `readVolumeMl` e
+// `readGramsInName`, un conteggio ambiguo vale `null` e il testo si ripulisce
+// lo stesso (R-44).
+export function readCount(raw: string): { rest: string; count: number | null } {
+  const found = new Set<number>()
+  let rest = raw
+  for (const m of raw.matchAll(COUNT_IN_TEXT)) {
+    found.add(Number(m[2]))
+    // si toglie SOLO la cifra: la parola che segue è il nome dell'alimento, ed
+    // è quella su cui la ricerca deve poter lavorare
+    rest = rest.replace(m[1], ` ${m[3]}`)
+  }
+  const [only] = [...found]
+  return { rest: rest.replace(/\s+/g, ' ').trim(), count: found.size === 1 ? only : null }
+}
+
 // L'unità in cui la quantità si **mostra**, per sistema. I macro seguono il peso
 // alimento in once: decisione dell'utente del 7 ago, coerenza sopra convenzione.
 // D-045: il volume resta in ml in entrambi i sistemi — è ciò che l'utente ha

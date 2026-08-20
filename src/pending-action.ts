@@ -60,6 +60,11 @@ export const UnresolvedFoodPayloadSchema = z.object({
   // sono?». L'unità dichiarata si conserva: non si riscrive in grammi qui.
   // Opzionale: le voci accodate prima restano valide
   declaredMl: z.number().positive().nullish(),
+  // W4: il conteggio dichiarato, se la quantità era in pezzi. Viaggia con la
+  // voce accodata o si perde nel passaggio dalla coda al diario — ed è proprio
+  // ciò che l'utente ha detto, quindi è quello che il foglio deve rimostrargli.
+  // Opzionale: le voci accodate prima restano valide
+  declaredCount: z.number().int().positive().nullish(),
   // D-032: la riga che risponde a «non so quale, uno vale l'altro» — prima
   // della classe di equivalenza più numerosa, personale prima (RF-21). Si
   // calcola qui perché i numeri stanno qui: i candidati non li portano, e
