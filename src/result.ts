@@ -28,3 +28,7 @@ export const mapResult = <T, U>(result: Result<T>, fn: (data: T) => U): Result<U
   ...result,
   data: result.data === null ? null : fn(result.data),
 })
+
+// un Result<null> ha `data: null` anche quando è andato bene: l'esito sta
+// negli errori, mai nel payload
+export const isFail = (result: Result<unknown>): boolean => result.errors.length > 0

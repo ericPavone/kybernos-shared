@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { fail, mapResult, ok } from './result'
+import { fail, isFail, mapResult, ok } from './result'
 
 describe('ok', () => {
   it('crea un result con status 200 di default', () => {
@@ -34,5 +34,15 @@ describe('mapResult', () => {
   it('non invoca la fn quando data è null', () => {
     const result = fail<number>(500, [{ code: 'E', message: 'e' }])
     expect(mapResult(result, (n) => n * 10).data).toBeNull()
+  })
+})
+
+describe('isFail', () => {
+  it('è falso su un successo con payload null', () => {
+    expect(isFail(ok(null))).toBe(false)
+  })
+
+  it('è vero su un fallimento', () => {
+    expect(isFail(fail(500, [{ code: 'E', message: 'e' }]))).toBe(true)
   })
 })
