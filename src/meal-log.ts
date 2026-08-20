@@ -21,6 +21,11 @@ export const MealLogInputSchema = z.object({
   localTz: z.string().min(1).max(64),
   estimation: EstimationSchema.default('weighed'),
   confidence: ConfidenceSchema.nullish(),
+  // W0.1: la seconda affermazione di chi scrive, dopo un `duplicate_meal_entry`.
+  // ⛔ Onorato solo con `origin: 'user'`: l'assistente riceve il rifiuto e lo
+  // riferisce, non ritenta. E resta fuori da `ModelMealToolInputSchema`, così
+  // il modello non può nemmeno esprimerlo — è uno schema, non una disciplina
+  confirmDuplicate: z.boolean().optional(),
 })
 
 export const MealLogResponseSchema = z.object({

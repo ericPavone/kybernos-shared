@@ -178,6 +178,10 @@ export const WeeklyBalanceResponseSchema = z.object({
 
 export const DailyMealItemSchema = z.object({
   mealSlotLabel: z.string(),
+  // W0.1: l'ora della voce. Senza, il contesto del turno sa che lo slot è
+  // pieno e non sa che cosa c'è dentro né da quando — e una correzione
+  // dell'utente diventava una registrazione nuova
+  eatenAt: z.string().datetime({ offset: true }),
   foodName: z.string(),
   gramsFood: z.number(),
   kcal: z.number(),

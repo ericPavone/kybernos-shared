@@ -159,6 +159,7 @@ describe('DailyBalanceResponseSchema', () => {
 describe('DailyMealItemSchema', () => {
   const mealItem = {
     mealSlotLabel: 'Pranzo',
+    eatenAt: '2026-08-20T13:10:00+02:00',
     foodName: 'Riso',
     gramsFood: 80,
     kcal: 288,
@@ -176,6 +177,13 @@ describe('DailyMealItemSchema', () => {
     expect(DailyMealItemSchema.safeParse({ ...mealItem, estimation: 'guessed' }).success).toBe(
       false,
     )
+  })
+
+  // W0.1: l'ora non è facoltativa — è ciò che distingue una correzione da una
+  // registrazione nuova
+  it('rifiuta una voce senza ora', () => {
+    const { eatenAt: _eatenAt, ...senzaOra } = mealItem
+    expect(DailyMealItemSchema.safeParse(senzaOra).success).toBe(false)
   })
 })
 
