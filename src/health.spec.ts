@@ -52,7 +52,14 @@ describe('HealthWorkoutSampleSchema', () => {
 
 describe('HealthSamplesInputSchema', () => {
   it('applica array vuoti di default', () => {
-    expect(HealthSamplesInputSchema.parse({})).toEqual({ measurements: [], workouts: [] })
+    expect(HealthSamplesInputSchema.parse({})).toEqual({
+      measurements: [],
+      workouts: [],
+      // gli aggregati giornalieri sono la terza specie della stessa
+      // sincronizzazione: un client che manda solo pesi resta valido
+      days: [],
+      source: 'healthkit',
+    })
   })
 
   it('rifiuta piu di 10000 measurements', () => {
@@ -67,6 +74,9 @@ describe('HealthImportResponseSchema', () => {
       HealthImportResponseSchema.safeParse({
         measurements: { imported: 2, skipped: 0 },
         workouts: { imported: 0, skipped: 1 },
+        // ⚠️ `skipped` sui giorni vale zero per costruzione: una giornata si
+        // sovrascrive, quindi non c'è niente da saltare
+        days: { imported: 3, skipped: 0 },
       }).success,
     ).toBe(true)
   })

@@ -7,7 +7,19 @@ import { PendingActionResponseSchema } from './pending-action'
 export const TurnInputSchema = z.object({
   turnId: z.string().uuid(),
   text: z.string().min(1).max(2000),
+  // ⛔ MAI IMPLEMENTATO, e non lo sarà: presupponeva un archivio di immagini
+  // lato server, che RNF-07 vieta. Resta nello schema perché toglierlo è un
+  // cambio di contratto, ma nessuno lo legge — la foto viaggia in `image`.
   imageId: z.string().uuid().nullish(),
+  // RNF-07 «Le immagini non si conservano»: la foto viaggia COL TURNO, in
+  // base64, va al modello e muore lì. Non c'è un id perché non c'è un posto da
+  // cui rileggerla; l'unica traccia che resta è `message.had_image`, un booleano.
+  //
+  // ⚠️ Il tetto è qui e non solo nel body limit di Fastify: sforare il limite
+  // del server dà un 413 senza envelope, cioè un errore che il client non sa
+  // leggere. 700 000 caratteri ≈ 525 KB di JPEG, e il client ridimensiona
+  // molto sotto — questo è la rete, non la misura.
+  image: z.string().min(1).max(700_000).nullish(),
   conversationId: z.string().uuid().nullish(),
   // W5: lo slot che l'utente ha SCELTO toccando la riga-bersaglio, `null` se non
   // ne ha scelto nessuno. ⛔ Non è «lo slot della schermata»: quello è
