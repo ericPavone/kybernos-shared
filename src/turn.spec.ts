@@ -115,3 +115,20 @@ describe('TurnResultSchema', () => {
     ).toBe(false)
   })
 })
+
+// ⛔ Dal 21 agosto la foto NON viaggia più col turno: si carica prima e al turno
+// arriva il suo id. Il campo `image` è stato tolto dal contratto, e questo test
+// esiste perché toglierlo non è una svista che qualcuno «ripristina».
+describe('la foto arriva per riferimento, non per valore', () => {
+  const base = { turnId: '3f2504e0-4f89-11d3-9a0c-0305e82c3301', text: 'cos’è questo?' }
+
+  it('accetta `imageId`', () => {
+    const parsed = TurnInputSchema.parse({ ...base, imageId: base.turnId })
+    expect(parsed.imageId).toBe(base.turnId)
+  })
+
+  it('`image` non fa più parte del contratto: quello che arriva viene scartato', () => {
+    const parsed = TurnInputSchema.parse({ ...base, image: 'AAAA' }) as Record<string, unknown>
+    expect(parsed.image).toBeUndefined()
+  })
+})
